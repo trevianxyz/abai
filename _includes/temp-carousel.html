@@ -1,0 +1,53 @@
+{% assign data = site.data.media-carousel-include %}
+
+{% assign num_slides = data.pages.size %}
+
+<!--<div class="container index-section">
+<h1 class="fancy">
+  <span class="index-section ml-5">Initiatives</span>
+</h1>
+</div>-->
+
+<div id="myCarousel" class="usa-hero carousel slide" data-ride="carousel">
+    {% if num_slides > 1 %}
+    <ol class="carousel-indicators">
+        {% assign counter_indicators = 0 %}
+        {% for carousel_slide in data.pages %}
+        <li data-target="#myCarousel" data-slide-to="{{ counter_indicators }}" class="jackCarousel"></li>
+        {% assign counter_indicators = counter_indicators | plus: 1 %}
+        {% endfor %}
+    </ol>
+    {% endif %}
+    <div class="carousel-inner">
+        {% assign counter_slide = 0 %}
+        {% for carousel_slide in data.pages %}
+        <div class="carousel-item{% if counter_slide == 0 %} active{% endif %}" style="background-image: url({% include util/url.html url=carousel_slide.image %});">
+
+            <div class="usa-grid" style="margin-left: auto;">
+                <div class="card text-white bg-dark my-5" style="width: 30rem; background-color: rgba(0, 0, 0, 0.6) !important;">
+                    <div class="card-body">
+                        <h2 class="card-title mt-2">{{ carousel_slide.title }}</h2>
+                        <p class="card-text">{{ carousel_slide.desc }}</p>
+                        {% if carousel_slide.action %}
+                        <a href="{% include util/url.html url=carousel_slide.action.url %}" type="button" class="btn btn-primary btn-sm go-to-visa">{{ carousel_slide.action.title }}</a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        {% assign counter_slide = counter_slide | plus: 1 %}
+        {% endfor %}
+    </div>
+
+    {% if num_slides > 1 %}
+    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+    {% endif %}
+</div>

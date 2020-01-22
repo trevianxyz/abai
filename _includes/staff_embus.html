@@ -1,0 +1,35 @@
+<link rel="stylesheet" href="{{ '/assets/css/staff_embus.css' | prepend: site.baseurl }}" />
+
+<div class="container-fluid staff">
+  <div class="col">
+
+        <h3>Main phone number: <a href="tel:1-202-232-5488">(202)-232-5488</a></h3>
+        <table class="staff_page">
+        <!--Table head-->
+          <thead>
+            <tr>
+              <th></th>
+              <th>Name</th>
+              <th>Position</th>
+              <th>Email</th>
+              <th>EXT</th>
+            </tr>
+          </thead>
+        <!--Table head-->
+        <!--Table body-->
+          <tbody>
+        {% for names in site.data.staff10jan20 %}
+            <tr>
+              <th scope="row"></th>
+                <td class="name">{{ names.Name }}</td>
+                <td>{{ names.Position }}</td>
+                <td><a href="mailto:{{ names.Email }}">{{ names.Email }}</a></td>
+                <td>{{ names.EXT }}</td>
+            </tr>
+          {% endfor %}
+          </tbody>
+        <!--Table body-->
+        </table>
+    </div>
+
+  </div>

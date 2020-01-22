@@ -1,0 +1,134 @@
+---
+layout: topic
+---
+
+<link rel="stylesheet" type="text/css" media="screen" href="/assets/css/kzcharts/shared.css">
+
+<style>
+    html, body {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: Helvetica, Calibri, Roboto, Open Sans, sans-serif;
+	-webkit-backface-visibility: hidden;
+}
+* {
+	box-sizing: inherit;
+}
+
+.container {
+        width: 60%;
+	position: relative;
+    }
+
+    .centered {
+        margin: 0 auto;
+    }
+
+    .charttitle {
+      top: 10px;
+      left: 20%;
+
+    }
+
+h1 {
+	text-align: center;
+  display: block;
+}
+svg {
+	margin:auto;
+	display:block;
+}
+    .bubble {
+        stroke: #666666;
+        stroke-width: 1px;
+    }
+.circle-overlay {
+	font-size: 15px;
+	border-radius: 50%;
+	position: absolute;
+	overflow: hidden;
+}
+.circle-overlay__inner {
+	text-align: center;
+	width: 100%;
+	height: 100%;
+        padding: 15px;
+        color: #666666
+}
+
+.hidden {
+	display: none;
+}
+.node-icon--faded {
+	opacity: 0;
+}
+.legend-size circle {
+	fill: rgb(31, 119, 180);
+}
+
+.tech-stack-container {
+	padding: 1rem 2rem;
+	position: relative;
+}
+
+@media screen and (min-width: 992px) {
+	.tech-stack-container {
+		padding: 1rem 5rem;
+	}
+}
+
+.tech-stack-title {
+	margin: 0;
+}
+
+.hover-instruction {
+	color: #2a2a2a;
+	padding-left: 15px;
+	padding-right: 15px;
+	text-align: end;
+	position: absolute;
+	right: 0px;
+}
+
+.hover-instruction:before {
+	margin-right: 10px;
+	content: "\f0a6";
+	font-family: FontAwesome;
+	font-size: 16px;
+}
+
+#bubble {
+	padding: 15px;
+}
+</style>
+
+
+<div class="container charttitle">
+<h1>U.S. Companies Doing Business in Kazakhstan</h1>
+</div>
+
+{{ content }}
+
+<script src="/assets/js/d3.v5.min.js"></script>
+<script src="/assets/js/tooltip.js"></script>
+<script src="/assets/js/bubbleChart.js"></script>
+<script src="/assets/js/tabletop.min.js"></script>
+<script src="/assets/js/loader.js"></script>
+<script>
+    var width = document.getElementById('bubble').getBoundingClientRect().width;
+
+    let url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRqcOR0zB3lBM7BPEi3S_LbDfHRFwaOho55M-qnK1O1c0mPQHD4dUWNmCsWMV9qGJHZthgCuo_2m1Sr/pubhtml';
+
+    load(url).then(raw_data => {
+
+        var chart = renderBubbleChart()
+                .svgHeight(window.innerHeight - 28)
+                .svgWidth(width)
+                .container('#bubble')
+                .data(raw_data.bubble.elements)
+                .debug(true)
+                .run()
+
+    })
+</script>

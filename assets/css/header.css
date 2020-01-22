@@ -1,0 +1,70 @@
+.usa-navbar {
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  border: 0;
+}
+
+.usa-logo {
+  float: none;
+  line-height: 4rem;
+  margin-left: 0;
+}
+
+.usa-logo a {
+  color: #212121;
+  text-decoration: none;
+  padding: 9px;
+	display: flex;
+  align-items: center;
+}
+
+.usa-logo a img {
+  height: 40px;
+  margin-right: 6px;
+}
+
+.usa-logo a span {
+  color: #192a56;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-left: 0.2rem;
+  margin-right: 0.5rem;
+}
+
+.usa-logo a div {
+  line-height: 22px;
+}
+
+.usa-logo a div:last-child {
+  color: #718093;
+}
+
+.usa-menu-btn {
+  height: auto;
+  width: 6.8rem;
+}
+
+/* Large Screens */
+@media (min-width: 951px) {
+  .usa-header-extended .usa-logo {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .usa-logo a img {
+    height: 170px;
+  }
+
+  .usa-logo a span {
+    font-size: 4rem;
+  }
+
+  .usa-logo a span:last-child {
+    font-size: 3rem;
+  }
+
+  .usa-logo a div {
+    line-height: initial;
+  }
+}

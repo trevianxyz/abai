@@ -1,0 +1,28 @@
+<main id="main-content">
+{% for sitepage in site.data.contentful.spaces.Emb.page %}
+{% if sitepage.title == page.title %}
+
+<!-- sections -->
+{% if sitepage.sections %}
+{% for section in sitepage.sections %}
+
+{% if section.sys.content_type_id == "carousel" %}
+
+  {% include page-engine/carousel.html %}
+{% endif %}
+
+{% if section.sys.content_type_id == "titleBody" %}
+<section class="py-3">
+  <div class="container">
+    {% include page-engine/title-body.html %}
+  </div>
+</section>
+{% endif %}
+
+{% endfor %}
+{% endif %}
+
+{% endif %}
+{% endfor %}
+<!-- /sections -->
+</main>

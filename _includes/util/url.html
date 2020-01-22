@@ -1,0 +1,21 @@
+{% capture url %}{% comment %}
+
+This file should be used as a "wrapper" for various URLs
+in the site. If a given URL is relative to the site directory,
+then it should have the baseurl prepended to it. However, this
+will break URLs that link to another website or domain. Since
+the content is mixed, simply assuming that all URLs are in one
+format or another could cause issues.
+
+To use this file, simply include it when declaring an anchor or
+img element, as follows:
+
+<a href="{% include util/url.html url='https://example.com/' %}">Go Somewhere</a>
+
+{% endcomment %}
+{% if include.url contains '//' %}
+{{ include.url }}
+{% else %}
+{{ include.url | prepend: site.baseurl }}
+{% endif %}
+{% endcapture %}{{ url | strip_newlines }}

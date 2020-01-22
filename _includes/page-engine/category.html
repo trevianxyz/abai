@@ -1,0 +1,43 @@
+<div class="card stacked">
+  <div class="card-body">
+    {% if category.background_img %}
+      <img src="{{ category.background_img | prepend: site.baseurl }}" class="indeximages" alt="Image" />
+    {% endif %}
+    <div class="row gutter-2 align-items-center">
+      <div class="col">
+        <h3 class="font-weight-normal mb-2">
+          {{ category.title }}
+        </h3>
+
+        {% if category.links %}
+          <ul class="list-group list-group-minimal">
+            {% for link in category.links %}
+              <li class="list-group-item">
+                <a href="{{ link.href | prepend: site.baseurl }}" class="link" title="{{ link.text }}">
+                  {{ link.text }}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        {% else %}
+        <small>
+          Lorem ipsum seomthingss df.
+        </small>
+
+        {% endif %}
+
+        {% if category.links && category.view_all_link %}
+          <a href="{{ category.view_all_link.href | prepend: site.baseurl }}" class="action mt-3 text-blue" title="{{ category.view_all_link.text }}">
+            {{ category.view_all_link.text }}
+          </a>
+        {% endif %}
+      </div>
+    </div>
+
+
+    {% if category.icon %}
+      <i class="{{ category.icon }}"></i>
+      <!-- icon-link2 icon-background text-blue -->
+    {% endif %}
+  </div>
+</div>

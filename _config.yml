@@ -1,0 +1,76 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Embassy of Kazakhstan in Washington, D.C.
+email: washington@mfa.kz
+description: >- # this means to ignore newlines until "baseurl:"
+  The Embassy of Kazakhstan in Washington, D.C. is the diplomatic mission of the Republic of Kazakhstan in the United States.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://kazakhembus.com" # the base hostname & protocol for your site, e.g. http://example.com
+consular_url: "http://consular.kazakhembus.com"
+twitter_username: KazakhEmbassy
+github_username:
+
+# collections_dir: collections
+# collections:
+#   foreign_policys:
+#     permalink: /:collection/:name
+#     output: true
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+
+# Contentful
+contentful:
+  spaces:
+  - Emb:                              # Jekyll _data folder identifier - Required
+      space: 3u75lz35gn9w                 # Required
+      access_token: 16238b77b396e59032ae155404634d612dfb528cf8f1118a0539e9c605b40347         # Required
+      # environment: master                 # Optional
+      # cda_query:                          # Optional
+      #   include: 2
+      #   limit: 100
+      all_entries: true                   # Optional - Defaults to false, only grabbing the amount set on CDA Query
+      # all_entries_page_size: 1000         # Optional - Defaults to 1000, maximum amount of entries per CDA Request for all_entries
+      # content_types:                      # Optional
+      #   cat: MyCoolMapper
+      # client_options:                     # Optional
+      #   api_url: 'preview.contentful.com' # Defaults to 'api.contentful.com' which is Production
+      #   max_include_resolution_depth: 5   # Optional - Defaults to 20, maximum amount of levels to resolve includes
+      # base_path: app_path                 # Optional - Defaults to Current directory
+      # destination: destination_in_data    # Optional - Defaults to _data/contentful/spaces
+      # individual_entry_files: true        # Optional - Defaults to false
+      # rich_text_mappings:                 # Optional - Defaults to {}
+      #   embedded-entry-block: MyEntryRenderer
+
+algolia:
+  application_id: 'TAGTUHCAAG'
+  index_name: 'page'
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

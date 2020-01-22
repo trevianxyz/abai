@@ -1,0 +1,87 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ '/assets/css/styleguide.css' | prepend: site.baseurl }}" />
+
+<aside class="sidenav sticky">
+  <ul class="usa-sidenav-list">
+    <li>
+      {% if page.category == null %}
+        {% assign page_title= page.title | slugify | prepend: '/' %}
+        <a href="{{ page_title | prepend: site.baseurl }}">
+          <b data-info="page.title">{{ page.title }}</b>
+        </a>
+      {% else %}
+        {% assign page_category = page.category | slugify | prepend: '/' %}
+        <a href="{{ page_category | prepend: site.baseurl }}">
+          <b data-info="page.category">{{ page.category }}</b>
+        </a>
+      {% endif %}
+
+      <ul id="filters" class="usa-sidenav-list">
+        <li>
+          <a class="news-filter" href="javascript:void(0);" data-filter="*">
+            All Media
+          </a>
+        </li>
+        <li>
+          <a class="news-filter is-checked" href="javascript:void(0);" data-filter=".announcements">
+            Announcements
+          </a>
+        </li>
+        <li>
+          <a class="news-filter is-checked" href="javascript:void(0);" data-filter=".fact-sheets">
+            Fact Sheets
+          </a>
+        </li>
+        <li>
+          <a class="news-filter is-checked" href="javascript:void(0);" data-filter=".press-releases">
+            Press Releases
+          </a>
+        </li>
+        <li>
+          <a class="news-filter is-checked" href="javascript:void(0);" data-filter=".prepared-remarks-speeches">
+            Remarks & Speeches
+          </a>
+        </li>
+        <li>
+          <a class="news-filter is-checked" href="javascript:void(0);" data-filter=".featured-articles">
+            Featured Articles
+          </a>
+        </li>
+        <li>
+          <a class="news-filter is-checked" href="javascript:void(0);" data-filter=".ambassador-s-opinion">
+          Ambassador's Opinion
+          </a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</aside>
+
+<main id="main-content" class="main-content">
+
+  <div class="styleguide-content usa-content">
+    <header>
+      {% if page.category != null %}
+        <p class="site-subheading">
+          <a href="{{ page_category | prepend: site.baseurl }}">
+            {{ page.category }}
+          </a>
+        </p>
+      {% endif %}
+      <h1 id="{{ page.title | slugify }}">{{ page.title }}</h1>
+    </header>
+
+    {% if page.category == null %}
+      {% include topic-overview.html %}
+    {% else %}
+      {% include topic.html %}
+    {% endif %}
+
+    <div class="styleguide-content usa-content">
+      {{ content }}
+    </div>
+  </div>
+
+</main>

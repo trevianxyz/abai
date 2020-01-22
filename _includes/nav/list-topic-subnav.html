@@ -1,0 +1,22 @@
+{% for topic in site.data.contentful.spaces.Emb.topic %}
+  {% if topic.title == subtopic.title  %}
+    {% if topic.subtopics %}
+      <ul class="usa-sidenav-sub_list">
+        {% for topic_subtopic in topic.subtopics %}
+          <li>
+            {% assign _topic_subtopic_href = topic_subtopic.title | slugify | prepend: '/' %}
+
+            {% capture topic_subtopic_href %}{{ _href | prepend: '/' }}{{ _subtopic_href | prepend: '/' }}{{ _topic_subtopic_href }}{% endcapture %}
+
+            {% capture check_supbtopic_href %}{{ topic_subtopic_href | strip }}{% endcapture %}
+            {% assign page_url = page.url | strip %}
+
+            <a class="{% if check_supbtopic_href == page.url | rstrip %}usa-current{% endif %}" href="{{ topic_subtopic_href | prepend: site.baseurl }}">
+              {{ topic_subtopic.title }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  {% endif %}
+{% endfor %}

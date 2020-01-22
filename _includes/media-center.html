@@ -1,0 +1,94 @@
+<style>
+  .fancy {
+    font-family: robotobold, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    line-height: 2;
+    color: #112e51;
+    overflow: hidden;
+  }
+  .fancy span {
+    display: inline-block;
+    position: relative;
+  }
+  .fancy span:before,
+  .fancy span:after {
+    left: 100%;
+    margin-left: 0.625rem;
+    content: "";
+    position: absolute;
+    height: 0.6875rem;
+    width: 62.5rem;
+  }
+  .fancy span:after {
+    border-bottom: 4px solid DodgerBlue;
+    top: 47%;
+  }
+  .fancy span:before {
+    border-top: 4px solid DodgerBlue;
+    top: 39%;
+  }
+</style>
+
+<section class="usa-section usa-section-light usa-graphic_list">
+  <div class="usa-grid media-center-grid">
+    <h3 class="fancy">
+      <span>Recent Media</span>
+    </h3>
+    <div class="d-flex flex-row justify-content-center align-items-center">
+
+      <div class="newsfeed">
+        {% for news in site.data.contentful.spaces.Emb.posts limit:1 %}
+            {% assign sorted = site.data.contentful.spaces.Emb.posts | sort: 'date') | reverse %}
+              {% for news in sorted limit:4 %}
+                  {% if news.location_news == "dc" or news.location_news == "mfa" %}
+          <div class="row align-items-center">
+            <div class="col-sm-12 col-md-4">
+              {% if news.image.url %}
+              <img src="{{ news.image.url }}" class="img-fluid" alt="Image" />
+              {% else %}
+              <img src="/assets/images/kz/qazaqstan_seal.png" class="img-fluid" alt="Image" />
+              {% endif %}
+            </div>
+            <div class="col-sm-12 col-md-8">
+              <h3>
+                <a class="media-link media_center" href="{{ site.baseurl }}{{ news.source_url }}" target="_blank" title="{{ news.source_title }}">
+                  {{ news.title }}
+                </a>
+              </h3>
+              <div class="meta__date">
+                <time datetime="{{ news.date }}">
+                  {{ news.date | date: "%b %d, %C%y" }}
+                </time>
+              </div>
+            </div>
+          </div>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+          <div class="media-row">
+            <hr />
+            <h1 class="media-title all_news">
+              <a class="usa-button usa-button-big" href="{{ '/news' | prepend: site.baseurl }}" title="All News">
+                All News & Media
+              </a>
+            </h1>
+          </div>
+      </div>
+      <div class="w-25 p-2">
+        <div id="block-twittertimeline" class="block block-twitter-embed block-twitter-embed-timeline">
+          <span>
+            <a class="twitter-timeline" data-width="400" data-height="800" data-theme="light" href="https://twitter.com/KazakhEmbassy?ref_src=twsrc%5Etfw">Tweets by KazakhEmbassy</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </span>
+        </div>
+      </div>
+      <div class="w-25 p-2 usa-media_block">
+        <div class="snapwidget">
+        <!-- SnapWidget -->
+        <script src="https://snapwidget.com/js/snapwidget.js"></script>
+        <iframe src="https://snapwidget.com/embed/761662" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:95%; "></iframe>
+          </div>
+      </div>
+    </div>
+  </div>
+
+</section>

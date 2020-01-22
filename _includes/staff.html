@@ -1,0 +1,31 @@
+
+  <div class="row justify-content-sm-center">
+    <div class="col">
+      <h3>Main phone number: <a href="tel:1-202-232-5488">(202)-232-5488</a></h3>
+    </div>
+  </div>
+
+  <div class="col-12">
+  <div class="table-responsive">
+    <table class="table" id="staff-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Position</th>
+          <th>Email</th>
+          <th>EXT</th>
+        </tr>
+      </thead>
+      <tbody>
+       {% for names in site.data.staff10jan20 %}
+        <tr>
+          <td>{{ names.Name }}</td>
+          <td>{{ names.Position }}</td>
+          <td><a href="mailto:{{ names.Email }}">{{ names.Email }}</a></td>
+          <td>{{ names.EXT }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>

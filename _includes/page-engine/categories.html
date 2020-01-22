@@ -1,0 +1,21 @@
+<section class="categories">
+  <div class="container">
+    <div class="row gutter-3 mt-5">
+
+      {% for category in page.categories %}
+
+        {% if category.links %}
+          <div class="col-md-6">
+            {% include page-engine/category.html %}
+          </div>
+        {% else %}
+          <a href="{{ category.view_all_link.href | prepend: site.baseurl }}" class="category-as-link col-md-6" title="{{ category.title }}">
+            {% include page-engine/category.html %}
+          </a>
+        {% endif %}
+
+      {% endfor %}
+
+    </div>
+  </div>
+</section>

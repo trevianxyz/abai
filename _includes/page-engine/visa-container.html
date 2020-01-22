@@ -1,0 +1,39 @@
+<div class="row gutter-3">
+  {% for visa in section.visas[page.locale] %}
+    <div class="col-md-6 col-lg-{{ 12 | divided_by: section.number_of_columns['en-US'] }}">
+      <div class="card stacked mt-3">
+        <div class="card-header pt-0">
+          <span class="card-price">
+            {{ visa.fee[page.locale] }}
+          </span>
+          <h3 class="card-title mt-3 mb-1">
+            {{ visa.title[page.locale] }}
+            {% if visa.number_of_years[page.locale] %}
+              <span class="badge badge-secondary">
+                {{ visa.number_of_years[page.locale] }}
+              </span>
+            {% endif %}
+          </h3>
+          <div class="text-muted">
+            {{ visa.type[page.locale] }}
+          </div>
+          <div>
+            {{ visa.subtitle[page.locale] | markdownify }}
+          </div>
+        </div>
+        <div class="card-body">
+          <ul class="list-group list-group-minimal mb-3">
+            {% for detail in visa.details[page.locale] %}
+              <li class="list-group-item d-flex justify-content-between align-items-center">{{ detail }}
+                <i class="icon-check2 text-green fs-20"></i>
+              </li>
+            {% endfor %}
+          </ul>
+          <a href="{{ visa.paymentpage['en-US'] }}" class="btn btn-block btn-primary" target="_blank">
+            Buy Now
+          </a>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>

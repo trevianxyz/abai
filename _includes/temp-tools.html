@@ -1,0 +1,18 @@
+{% assign data = site.data.temp-tools-include %}
+
+<h1><span class="index-section">{{ data.title }}</span></h1>
+<div>
+    {% for tool in data.tools %}
+    {% capture toolImage %}{% include util/url.html url=tool.image %}{% endcapture %}
+    {% capture toolUrl %}{% include util/url.html url=tool.action.url %}{% endcapture %}
+  <a class="card-action" href="{{ toolUrl }}" style="text-decoration: none;">
+    <div class="card card--big my-5" onclick="location.href='{{ toolUrl }}';">
+        {% if tool.image %}<img class="card-img-top" width="60%" src="{{ toolImage }}">{% endif %}
+        <div class="card-body p-5">
+            <h2 class="card-title mt-4 temp-tool-title" style="color: #fff;">{{ tool.title }}</h2>
+            <p class="temp-tool-text" style="text-decoration: none;">{{ tool.body }}</p>
+        </div>
+    </div>
+  </a>
+    {% endfor %}
+</div>

@@ -1,0 +1,47 @@
+<div class="border-bottom pb-6 mb-6">
+  <h2 class="font-weight-semi-bold h1">
+    Introduction<a class="anchorjs-link" href="#intro" aria-label="Anchor" data-anchorjs-icon="#"></a>
+  </h2>
+  <p class="text-dark font-weight-normal mb-0" style="font-size: 1.125rem;">
+    The United States, on December 25, 1991, was the first country to recognize Kazakhstan’s independence following the break up of the Soviet Union. Kazakh - U.S. Relations are built on the cornerstone of nuclear nonproliferation and security, and over the course of 25 years has grown to include strong bilaterial cooperation on trade, regional security and the stabilization of Afghanistan, regional economic integration, and development of civil society, rule of law and democracy.
+  </p>
+</div>
+
+{% for topic in site.data.pages.kzusrelations.topics %}
+  <div id="{{ topic.href }}" class="mb-5">
+    <h2 class="h4 mb-4">
+      <span class="h3">{{ topic.title }}</span><a class="anchorjs-link" href="#{{ topic.href }}" aria-label="Anchor" data-anchorjs-icon="#"></a>
+    </h2>
+    <p>
+      {{ topic.copy }}
+    </p>
+    {% if topic.img != '' %}
+      <img src="{{ topic.img }}" alt="{{ topic.img_alt}}" width="100%" height="auto" class="maincontentpic" />
+    {% endif %}
+  </div>
+
+<!-- insert Alert into topic -->
+{% for alert in site.data.pages.kzusrelations.topics %}
+  {% if alert.title == "Economic & Trade Cooperation" %}
+   {% include pages/kzusrelations/usbizinkz.html %}
+  {% endif %}
+{% endfor %}
+<!-- END Alert into topic -->
+
+  {% if topic.subtopics %}
+    {% for subtopic in topic.subtopics %}
+      <div id="{{ subtopic.href }}" class="mb-5">
+        <h2 class="h4 mb-4">
+          {{ subtopic.title }}
+          <a class="anchorjs-link" href="#{{ subtopic.href }}" data-anchorjs-icon="#"></a>
+        </h2>
+        <p>
+          {{ subtopic.copy }}
+        </p>
+        <img src="{{ subtopic.img }}" alt="{{ subtopic.img_alt}}" width="100%" height="auto" class="maincontentpic" />
+      </div>
+
+    {% endfor %}
+  {% endif %}
+
+{% endfor %}

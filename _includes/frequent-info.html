@@ -1,0 +1,49 @@
+<style>
+  .frequent-info--col {
+    margin-bottom: 4rem !important;
+    margin-top: 4rem !important;
+  }
+
+  .frequent-info--row .frequent-info--col:nth-child(2n+2) {
+    margin-right: 0;
+  }
+
+  .frequent-info--icon {
+    align-items: center;
+    background: DodgerBlue;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+  }
+</style>
+
+<section class="usa-section usa-section-dark usa-graphic_list frequent-info pb-0" id="index-freq-info">
+  <div class="usa-grid usa-graphic_list-row">
+    <h2>
+      Frequented Info
+    </h2>
+  </div>
+  <div class="usa-grid usa-graphic_list-row frequent-info--row">
+
+    {% for item in page.frequent_info %}
+      <div class="usa-width-one-half usa-media_block frequent-info--col">
+        <span class="frequent-info--icon usa-media_block-img">
+          <i class="{{ item.icon }}"></i>
+        </span>
+        <div class="usa-media_block-body">
+          <h3>
+            {{ item.title }}
+          </h3>
+          <p>
+            {{ item.body }}
+          </p>
+          <a href="{{ item.button.href | prepend: site.baseurl }}" type="button" class="btn btn-primary btn-sm" target="_blank">
+            {{ item.button.text }}
+          </a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</section>

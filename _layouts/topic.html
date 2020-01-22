@@ -1,0 +1,74 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ '/assets/css/styleguide.css' | prepend: site.baseurl }}" />
+
+<aside class="sidenav sticky">
+  <ul class="usa-sidenav-list">
+    <li>
+      {% assign page_category = page.category | slugify | prepend: '/' %}
+      <a href="{{ page_category | prepend: site.baseurl }}">
+        <b data-info="page.category layout/topic">{{ page.category }}</b>
+      </a>
+
+      <ul class="usa-sidenav-list">
+        {% include nav/list-topic.html %}
+      </ul>
+    </li>
+  </ul>
+</aside>
+
+<main id="main-content" class="main-content">
+
+<div class="styleguide-content usa-content">
+  <header>
+    <p class="site-subheading">
+      {% assign page_category = page.category | slugify | prepend: '/' %}
+      <a href="{{ page_category | prepend: site.baseurl }}">
+        {{ page.category }}
+      </a>
+
+      {% if page.parent != null %}
+        {% capture topic_subnav_href %}{{ page.category | slugify | prepend: '/' }}{{ page.parent | slugify | prepend: '/' }}{% endcapture %}
+
+         <a style="display: inline-block;" href="{{ topic_subnav_href | prepend: site.baseurl }}">
+           {{ page.parent }}
+         </a>
+      {% endif %}
+    </p>
+    <h1 id="{{ page.title | slugify }}">{{ page.title }}</h1>
+  </header>
+
+{% for topic in site.data.contentful.spaces.Emb.topic %}
+  {% if topic.title == page.title %}
+  <div class="usa-font-lead">
+  {{ topic.body | markdownify }}
+  </div>
+
+<!-- below forloop is for topic_short-->
+  {% for subtopic in sitepage.subtopics %}
+    <div class="row">
+      <div class="col-12">
+        <a name="{{ subtopic.title | slugify }}"></a>
+          <h2 class="title">
+            {{ subtopic.title }}
+          </h2>
+          <p class="rich-text-test" id="subtopic-text">
+          {{ subtopic.body | truncate: 150  }}
+          {% assign _subtopic_href = subtopic.title | slugify %}
+          <a data-page="layouts/topic" href="{{ _subtopic_href }}">
+            Read more
+          </a>
+        </p>
+      </div>
+    </div>
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+  </div>
+
+  <div class="styleguide-content usa-content">
+    {{ content }}
+  </div>
+
+</main>

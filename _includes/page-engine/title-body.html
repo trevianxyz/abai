@@ -1,0 +1,12 @@
+<div class="row">
+  <div class="col-sm-12">
+    {% if section.show_title['en-US'] %}
+      <h2>
+        {{ section.title[page.locale] }}
+      </h2>
+    {% endif %}
+    <p>
+      {{ section.body[page.locale] }}
+    </p>
+  </div>
+</div>

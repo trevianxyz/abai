@@ -1,0 +1,14 @@
+.usa-footer-big .usa-footer-primary-section > .usa-grid
+
+img.usa-footer-logo-img.embus {
+
+}
+
+i#back-to-top.fas.fa-arrow-alt-circle-up.fa-3x {
+  color: #046b99;
+float: right;
+}
+
+.usa-grid.usa-footer-return-to-top.embus {
+  background-color: #f1f1f1; 
+}

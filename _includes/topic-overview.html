@@ -1,0 +1,27 @@
+{% for sitepage in site.data.contentful.spaces.Emb.page %}
+  {% if sitepage.title == page.title %}
+
+    <div class="usa-font-lead">
+      {{ sitepage.body | markdownify }}
+    </div>
+
+    {% for subtopic in sitepage.subtopics %}
+      <div class="row">
+        <div class="col-12">
+          <a name="{{ subtopic.title | slugify }}"></a>
+          <h2 class="title">
+            {{ subtopic.title }}
+          </h2>
+          <p class="rich-text">
+            {{ subtopic.body | markdownify | truncate: 190 }}
+
+            {% assign _subtopic_href = subtopic.title | slugify %}
+            <a data-page="topic-overview" href="{{ page.url }}/{{ _subtopic_href }}">
+              Read more
+            </a>
+          </p>
+        </div>
+      </div>
+    {% endfor %}
+  {% endif %}
+{% endfor %}

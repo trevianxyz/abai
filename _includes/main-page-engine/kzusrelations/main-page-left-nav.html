@@ -1,0 +1,78 @@
+<ul class="js-scroll-nav hd-doc-section-nav">
+  <!-- topics -->
+  {% for topic in site.data.pages.kzusrelations.topics %}
+    <li class="hd-doc-section-nav-item">
+      <a href="#{{ topic.href }}">
+        {{ topic.title }}
+      </a>
+      <!-- subtopics -->
+      {% if topic.subtopics %}
+        <ul>
+          {% for subtopic in topic.subtopics %}
+            <li>
+              <a href="#{{ subtopic.href }}">
+                {{ subtopic.title }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+
+    </li>
+  {% endfor %}
+</ul>
+
+<aside class="usa-width-one-fourth usa-layout-docs-sidenav">
+
+
+<nav>
+<ul class="usa-sidenav-list">
+
+
+<!--parent link from uswds template-->
+<li>
+  <a href="#{{ page.href }}">
+      {{ page.title }}
+</li>
+
+<li>
+  <a href="" class="usa-current">
+      {{ topic.title }}
+  </a>
+
+  <ul class="usa-sidenav-sub_list">
+
+
+<li>
+  <a href="#{{ subtopic.href }}">
+    {{ subtopic.title }}
+  </a>
+</li>
+
+  <ul class="usa-sidenav-sub_list">
+
+<li>
+    <a href="" class="usa-current">
+    Grandchild link
+  </a>
+
+</li>
+  </ul>
+
+</li>
+
+  </ul>
+
+<ul>
+  
+<li>
+  <a href="">
+    Parent link
+  </a>
+
+</li>
+
+</ul>
+</nav>
+
+</aside>

@@ -1,0 +1,49 @@
+.usa-hero .carousel-item {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 500px;
+}
+
+.usa-hero .carousel-item .container {
+  padding: 3rem 0;
+}
+
+.active {
+  display: block !important;
+}
+
+.usa-hero-callout {
+  max-width: 40rem;
+  padding: .5rem;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+@media (max-width: 768.98px) {
+  .usa-hero-callout-alt {
+    font-size: 20px;
+
+  }
+
+.usa-hero-callout {
+  margin-top: 50px; 
+  max-width: 40rem;
+  padding: .5rem;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  }
+
+}
+
+
+/* Responsive */
+@media (max-width: 375px) {
+  .usa-hero .carousel-item {
+    background-size: 200%;
+    background-repeat: no-repeat;
+    background-position: -320px 50px;
+    background-color: #40739e;
+  }
+}

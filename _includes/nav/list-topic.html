@@ -1,0 +1,42 @@
+{% for sitepage in site.data.contentful.spaces.Emb.page %}
+
+    {% assign _href = sitepage.title | slugify %}
+    {% assign _page = _href | resolve_permalink %}
+
+    {% if sitepage.title == page.category %}
+
+      {% for subtopic in sitepage.subtopics %}
+        <li>
+          {% assign _subtopic_href = subtopic.title | slugify %}
+
+          {% capture subtopic_href %}{{ _href | prepend: '/' }}{{ _subtopic_href | prepend: '/' }}{% endcapture %}
+
+          {% capture check_href %}{{ subtopic_href | strip }}{% endcapture %}
+
+          <a class="{% if page.permalink == check_href | strip %}usa-current{% endif %}" href="{{ subtopic_href | prepend: site.baseurl }}">
+            {{ subtopic.title }}
+          </a>
+
+          {% if page.parent && page.parent == subtopic.title %}
+
+            {% assign _subtopic_parent = page.parent | slugify %}
+
+            {% capture subtopic_parent %}{{ _href | prepend: '/' }}{{ _subtopic_parent | prepend: '/' }}{% endcapture %}
+
+            {% if subtopic_parent == subtopic_href %}
+              {% include nav/list-topic-subnav.html %}
+            {% endif %}
+
+          {% else %}
+
+            {% if page.title == subtopic.title %}
+              {% include nav/list-topic-subnav.html %}
+            {% endif %}
+
+          {% endif %}
+
+        </li>
+      {% endfor %}
+    {% endif %}
+
+{% endfor %}

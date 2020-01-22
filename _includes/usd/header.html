@@ -1,0 +1,24 @@
+<a class="usa-skipnav" href="#main-content">Skip to main content</a>
+
+{% include usd/banner.html %}
+
+<header class="usa-header usa-header-extended" role="banner">
+  <div class="usa-navbar">
+    <div class="usa-logo" id="extended-logo">
+      <em class="usa-logo-text">
+        <a href="{{ '/' | prepend: site.baseurl }}" title="Home" aria-label="Consular & Visa Section | Embassy of Kazakhstan">
+          <img class="img-fluid" src="{{ '/assets/images/kz/kz-seal.jpg' | prepend: site.baseurl }}" class="logo">
+          <span>
+            <div>Embassy of the Republic of Kazakhstan</div>
+            <div>Washington, D.C.</div>
+          </span>
+        </a>
+      </em>
+    </div>
+    <button class="usa-menu-btn">Menu</button>
+  </div>
+
+  {% include usd/nav.html %}
+</header>
+
+<div class="usa-overlay"></div>

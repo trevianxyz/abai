@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en">
+  {% include header-contents.html %}
+  <body id="top" class="{{ page.page_specific_class }}">
+    {% include usd/header.html %}
+    {{ content }}
+    <a href="javascript:void(0);" id="scroll" title="Scroll to Top" style="display: none;">Top<span></span></a>
+    {% include footer.html %}
+    {% include bootstrap-scripts.html %}
+    {% include footer-scripts.html %}
+  </body>
+</html>

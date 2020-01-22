@@ -1,0 +1,16 @@
+{% for sitepage in site.data.contentful.spaces.Emb.page %}
+
+  {% assign _href = sitepage.title | slugify %}
+  {% assign _page = _href | resolve_permalink %}
+
+  {% if sitepage.title == page.title %}
+    {% for subtopic in sitepage.subtopics %}
+      <li>
+        {% capture topic_overview_href %}{{ _href | prepend: '/' }}{{ subtopic.title | slugify | prepend: '/' }}{% endcapture %}
+        <a href="{{ topic_overview_href | prepend: site.baseurl }}">
+          {{ subtopic.title }}
+        </a>
+      </li>
+    {% endfor %}
+  {% endif %}
+{% endfor %}

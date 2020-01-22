@@ -1,0 +1,52 @@
+primary:
+  - href: /components/
+  - href: /page-templates/
+  - href: /documentation/
+  - href: /about/
+
+mobile:
+  - href: /components/
+    collapsible: true
+  - href: /page-templates/
+  - href: /documentation/
+    collapsible: true
+  - href: /about/
+    collapsible: true
+  - href: /whats-new/
+    collapsible: true
+
+About the Embassy:
+  - text: Ambassador's Welcome
+    href: /documentation/
+  - text: Staff Directory
+    href: /documentation/implementations/
+  - text: The Sherman House
+    href: /documentation/implementations/
+  - text: Contact Us
+    href: /documentation/implementations/
+
+Foreign Policy:
+  - text: Overview
+    href: /foreign-policy/
+  - text: International Organizations
+    href: /foreign-policy/international-organizations/
+  - text: Nuclear Non-proliferation
+    href: /foreign-policy/nuclear
+
+Domestic Policy:
+  - text: Economy
+    href: '#Economy'
+  - text: Modernization Priorities
+    href: '#Modernizations'
+  - text: Investment Climate
+    href: '#investment-climate'
+  - text: Doing Business
+    href: '#Doing-Business'
+  - text: Finance & Banking
+    href: '#css-architecture'
+  - text: Extractive Industries
+    href: '#js-customization'
+  - text: Anti-Corruption
+    href: '#customization-and-theming'
+  - text: Logistics & Transportation
+    href: '#where-things-live'

@@ -1,0 +1,726 @@
+
+[class*="col-"]  {
+  width: 100%;
+}
+
+/*
+section.embus_index {
+background-image: url("/assets/images/kz/hero-pics/charyn_canyon_poster.png");
+background-repeat:no-repeat;
+background-position: right;
+background-size: 12%;
+}
+*/
+
+
+.media-center-grid {
+  max-width: 1200px !important;
+}
+
+
+img.postimage {
+  position: relative;
+  display: inline-block;
+  float: right;
+  width: 40%;
+  height: auto;
+}
+
+#investbanner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#investbanner:hover {
+  transform: scale(1.05); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  transition: ease-in-out .5s;
+}
+
+.page-topic-image {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ height: auto;
+ width: 100%;
+}
+
+img.news_thumbnail {
+  display: inline-block;
+  max-width: 250px !important;
+  min-height: 160px !important;
+  max-height: 170px !important;
+  margin: 1rem;
+  padding: .5rem;
+  overflow: hidden;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+img.news_thumbnail_media-center {
+  margin: .5rem;
+  padding: .1rem;
+  overflow: hidden;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.briefing-statement__title_allnews {
+  float:right;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+
+.briefing-statement__title_allnews a {
+  color: #000;
+  text-decoration: none;
+}
+
+
+/*div.media_center h4 {
+  margin-top: 0;
+} */
+
+.usa-media_block .row {
+  margin-bottom: 15px;
+}
+
+header.usa-header {
+  background-image: linear-gradient(to left, transparent, 60%, white),
+                    url(/assets/images/kz/eagle-sun.svg);
+  background-repeat: no-repeat;
+  background-size: 30%;
+  background-position: top right 200px;
+}
+
+p.bottom_footer {
+  color: white;
+}
+
+div.footer-section-bottom {
+  background-color: #112e51;
+}
+
+p.bottom_footer a {
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: aliceblue;
+}
+
+.row {
+  margin-left: 0px !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  width: 100%;
+}
+
+.page--index footer {
+  margin-top: 0 !important;
+}
+
+.header-with-background-image {
+  background: black;
+}
+
+.badge {
+  vertical-align: middle;
+}
+
+.badge.reduce-size {
+  font-size: .85rem;
+}
+
+.category-as-link,
+.category-as-link:hover {
+  color: #333;
+}
+
+.category-as-link h3,
+.category-as-link:hover h3 {
+  color: black;
+}
+
+form h2 {
+  background-color: #fff;
+}
+
+/* Navbar Links */
+.navbar .nav-item > a {
+  color: #fff !important;
+}
+
+.hd-doc-section-nav-item a {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+  p.bottom_footer {
+    color: white;
+  }
+
+  div.footer-section-bottom {
+    background-color: #112e51;
+  }
+
+  p.bottom_footer a {
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: #7efff5;
+  }
+
+div.usa-footer-primary-content.usa-footer-contact_info p {
+  text-decoration: underline;
+  text-decoration-color: #7efff5;
+}
+
+a.btn.btn-primary.btn-sm.go-to-visa:visited {
+    color: #fff !important;
+  }
+
+/* #toTop jquery*/
+  #scroll {
+      position:fixed;
+      right:25px;
+      bottom:20px;
+      cursor:pointer;
+      width:50px;
+      height:50px;
+      background-color:#3498db;
+      text-indent:-9999px;
+      display:none;
+      -webkit-border-radius:5px;
+      -moz-border-radius:5px;
+      border-radius:5px;
+  }
+  #scroll span {
+      position:absolute;
+      top:50%;
+      left:50%;
+      margin-left:-8px;
+      margin-top:-12px;
+      height:0;
+      width:0;
+      border:8px solid transparent;
+      border-bottom-color:#ffffff
+  }
+  #scroll:hover {
+      background-color:#48dbfb;
+      opacity:1;
+      filter:"alpha(opacity=100)";
+      -ms-filter:"alpha(opacity=100)";
+  }
+
+  p a:link {
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: #7efff5;
+    text-decoration-style: solid;
+    font-weight: bold;
+  }
+  p a:visited {
+    color: #black;
+    text-decoration-color: #7efff5;
+  }
+  p a:hover {background: #7efff5;
+  }
+  td a:hover {background: #7efff5;
+  }
+  h3 a:hover {background: #7efff5;
+  }
+  h1 a:hover {background: #7efff5;
+  }
+
+  section#index-basic-section.usa-section {
+    background-color: #e1f3f8;
+    background-repeat: no-repeat;
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+  }
+
+p.bottom_footer a {
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: #7efff5;
+    }
+
+p.bottom_footer a:hover {
+  color: #000;
+  text-decoration: underline;
+  text-decoration-color: #7efff5;
+    }
+
+div.bd-callout.bd-callout-info.border-left.go-to-infobox-callout {
+  border-left: 1.5rem solid !important;
+  border-left-color: #7efff5 !important;
+}
+
+div.bd-callout.bd-callout-info.border-left.go-to-infobox-callout p {
+  padding-left: 10px;
+}
+
+a.temp-tool-title {
+  text-decoration: none !important;
+}
+
+a p.temp-tool-text, a .temp-tool-text p {
+  text-decoration: none !important;
+}
+
+
+a.fa-2x {
+  padding-left: 10px;
+  padding-bottom: 15px;
+  color: black !important;
+  text-decoration: none;
+}
+
+
+.newsfeed {
+  width: 50%;
+}
+/* Responsive */
+@media (max-width: 767.98px) {
+
+iframe.polling-embus{
+  width: 100%;
+  height: 500px;
+  padding: none;
+}
+
+iframe img {
+  margin-left: -30px;
+}
+div#block-twittertimeline {
+  display: none;
+}
+
+div.col-4.twittertimeline {
+    display: none !important;
+  }
+
+.snapwidget {
+  display: none;
+}
+
+.newsfeed {
+  width: 100%;
+}
+
+a.btn.btn-primary.btn-sm.go-to-visa:visited {
+    color: #fff !important;
+  }
+
+/* media center on index */
+  a.media_center {
+    color: blue !important;
+  }
+
+/*
+div.col-4.media_center, div.col-8.media_center {
+      flex:none;
+      max-width: none;
+    }
+*/
+
+.usa-section-dark.carousel {
+background-color: #2054938f !important;
+}
+
+div.usa-hero-callout.usa-section-dark.carousel p {
+    display: none !important;
+    padding: 0px;
+  }
+
+/*.carousel-inner .carousel-item:first-child {
+ }*/
+
+.usa-grid.col-md-6.text-center.mb-6 .usa-hero-callout.usa-section-dark.carousel:first-child {
+  top: 250px;
+}
+
+em.usa-logo-text {
+font-size: 20px;
+}
+
+p {
+color: black;
+font-size: 1.9rem;
+}
+
+p a:link {
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: #7efff5;
+  text-decoration-style: solid;
+  font-weight: bold;
+}
+
+p a:visited {
+  color: #black;
+  text-decoration-color: #7efff5;
+}
+p a:hover {background: #7efff5;
+}
+td a:hover {background: #7efff5;
+}
+h3 a:hover {background: #7efff5;
+}
+
+.card-deck {
+  max-width: 1110px;
+  display: center;
+  padding-top: 2rem;
+  text-align: left;
+}
+
+.card {
+  border: 1px solid rgba(255, 255, 255, 0.125);
+  background-color: #f9fafc;
+}
+
+.card-text {
+  margin: 2rem;
+  padding-bottom: 1.5rem;
+}
+
+.card-headline {
+  margin: 2rem;
+  font-weight: 600;
+  font-size: 1.25rem;
+  color: #525456;
+  text-align: center;
+}
+
+.card-title {
+  font-weight: bold;
+  /* font-family: 'Cabin', sans-serif;
+  padding: 1.25rem;
+  padding-left: 2rem;
+  text-align: center;
+  background-color: #192a56;
+  color: white;
+  font-size: 2.0rem; */
+}
+
+.cardgrouprow-container--index {
+  margin-bottom: 4rem;
+}
+
+.cardgrouprow-container--index .card-title {
+  min-height: 136px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h4 .card-headline a:link{
+  color: white;
+}
+
+h4#stafflink a {
+  color: black;
+  text-decoration: underline;
+}
+h4#stafflink a:hover {
+  background-color: #7efff5;
+}
+
+h4 a:visited {color: white;
+}
+
+h3 .card-block .card-title .underline-on-hover:hover a:link {
+  text-decoration: underline;
+  color: #0000ff;
+}
+
+/* footer.html */
+
+nav.navbar.navbar-expand-sm.bg-light.navbar-light {
+    background: #c23616 !important;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-nav a.nav-link {
+    color: #fff !important;
+    font-weight: bold;
+    position: relative;
+    text-decoration: none;
+
+}
+.navbar .row {
+    width: 100%;
+
+}
+ul.navbar-nav {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.nav-item {
+  margin-left: 10;
+}
+
+.dropdown-menu1 {
+    position: absolute;
+    min-width: 220px;
+    display: none;
+    padding-top: 10px;
+}
+
+li.nav-item {
+    position: relative;
+    padding: 1px;
+    border-right: 1px solid #fff;
+}
+
+li.nav-item:hover .dropdown-menu1 {
+    display: block;
+}
+
+.dropdown-menu1 .dropdown:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 14px 18px;
+    border-color: transparent transparent #fff;
+    position: absolute;
+    top: -18px;
+    left: 20%;
+    transform: translateX(-50%);
+    -webkit-filter: drop-shadow(0 -2px 1px #dee2e5);
+    filter: drop-shadow(0 -2px 1px #dee2e5);
+}
+
+.dropdown{ padding: 0px; }
+li.child-item {
+    padding: 10px 20px;
+    text-align: left;
+}
+ul.dropdown {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+.dropdown-menu1 .dropdown {
+    z-index: 99;
+    background: #fff;
+    box-shadow: 0 1px 6px #8e9caa;
+    border: 0;
+    border-radius: 4px;
+    border-top: 1px solid #e9ebee;
+}
+
+
+/*Hero section */
+section.hero.bg-blue.overlay {
+  padding: 1.25rem 0;
+}
+
+h3.font-weight-normal.mb-2 {
+      font-weight: 700 !important;
+}
+
+body > section,
+body > footer {
+  width: 100%;
+}
+
+.site-subheading {
+  display: block;
+  margin-bottom: 0.6rem;
+  margin-top: 0;
+}
+
+.site-subheading span,
+.site-subheading a {
+  color: #5b616b !important;
+  display: inline-block;
+  font-size: 1.3rem;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
+#footer-contactus-link a.usa-footer-primary-link {
+text-align: right;
+}
+
+.usa-footer-logo-img {
+    max-width: 13rem !important;
+    float: right !important;
+    padding-right: 15px;
+  }
+
+footer nav {
+  background-color: #192a56 !important;
+}
+
+address a {
+  font-size: 2rem;
+}
+
+div.timeline-widget {
+  margin-top: 70px !important;
+}
+
+h2 #recentnews {
+  font-size: 2rem !important;
+}
+
+.usa-font-lead {
+  max-width: none;
+}
+
+div.col-12 #subtopic-text {
+  font-size: 3rem !important;
+}
+
+section#index-basic-section.usa-section {
+  background-color: #e1f3f8;
+  background-repeat: no-repeat;
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+}
+
+a.btn.btn-primary.btn-sm:visited {
+  color: white !important;
+}
+
+.footer-section-bottom a {
+    color: aliceblue;
+}
+
+iframe {
+  padding-bottom: 0px !important;
+}
+
+iframe.usbizbubs {
+  width: 100% ;
+  height: auto;
+}
+
+div.col-8.polling-embus {
+  margin-left: -100px !important;
+}
+
+.styleguide-content.usa-content div.staff_page {
+  margin: 0px;
+}
+
+div.social_icons {
+ margin-left:
+}
+
+.social_icons a {
+ text-decoration: none !important;
+}
+
+address {
+  margin-left: 2rem;
+  padding-left: 10px;
+}
+
+div.footer_logo_col {
+  padding-right: 0px;
+}
+
+header.usa-header {
+  background-image: linear-gradient(to left, transparent, 60%, white),
+                    url(/assets/images/kz/eagle-sun.svg);
+  background-repeat: no-repeat;
+  background-size: 40%;
+  background-position: top right 50px;
+}
+
+/* FOOTER */
+
+  div.footer-section-bottom {
+    background-color: #112e51;
+  }
+
+  p.bottom_footer {
+    color: white;
+  }
+
+  div.footer-section-bottom {
+    background-color: #112e51;
+  }
+
+  p.bottom_footer a {
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: #7efff5;
+  }
+
+  div.usa-footer-primary-content.usa-footer-contact_info p {
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: #7efff5;
+  }
+}
+
+/* SEARCH STYLES */
+
+#hits {
+	background: #eaeaea;
+	overflow-y: auto;
+	max-height: 400px;
+	margin: 0px;
+}
+
+.search-result-al-text {
+	font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif !important;
+	font-weight: normal;
+	text-decoration: none !important;
+	margin-top: 0em !important;
+	margin-bottom: 0em !important;
+	padding-bottom: 0.25em !important;
+	padding-top: 0.25em !important;
+}
+
+.ais-Hits-item {
+	margin: 0px;
+}
+
+.search-result-al:hover {
+	background: #FFFFFF;
+	font-weight: bold;
+}
+
+.al-none {
+	display: none;
+}
+
+.ais-SearchBox-submit {
+	border: 1px solid black !important;
+	background-color: #205493 !important;
+	background-image: none !important;
+}
+
+.ais-SearchBox-submit svg {
+	fill: #FFFFFF;
+}
+
+.ais-SearchBox-submit:hover svg {
+	fill: #000000;
+}
+
+.ais-SearchBox-submit:hover {
+	background-color: #FFFFFF !important;
+}
+
+.ais-Highlight-highlighted {
+	background-color: #bbf7f2;
+}
+
+.inactive {
+	display: none !important;
+}

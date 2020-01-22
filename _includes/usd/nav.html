@@ -1,0 +1,103 @@
+<nav role="navigation" class="usa-nav">
+  <div class="usa-nav-inner">
+    <button class="usa-nav-close">
+      <img src="{{ '/assets/img/close.svg' | prepend: site.baseurl }}" alt="close">
+    </button>
+    <ul class="usa-nav-primary usa-accordion">
+      <li>
+        <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-one">
+          <span>About the Embassy</span>
+        </button>
+        <ul id="extended-nav-section-one" class="usa-nav-submenu">
+          <li>
+            <a href="{{ '/about-the-embassy/ambassador-kazykhanov' | prepend: site.baseurl }}">Ambassador Kazykhanov</a>
+          </li>
+          <li>
+            <a href="{{ '/about-the-embassy/staff-directory' | prepend: site.baseurl }}">Staff Directory</a>
+          </li>
+          <li>
+            <a href="{{ '/about-the-embassy/sherman-house' | prepend: site.baseurl }}">Sherman House</a>
+          </li>
+          <li>
+            <a href="{{ '/about-the-embassy/consulates-general' | prepend: site.baseurl }}">Consulates General</a>
+          </li>
+          <li>
+            <a href="{{ '/about-the-embassy/contact-us' | prepend: site.baseurl }}">Contact Us</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-two">
+          <span>Visas & Consular</span>
+        </button>
+        <ul id="extended-nav-section-two" class="usa-nav-submenu">
+          <li>
+            <a href="{{ '/' | prepend: site.consular_url }}">
+              Consular Section Home
+            </a>
+          </li>
+
+        </ul>
+      </li>
+      <li>
+        <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-three">
+          <span>Kazakh-U.S. Relations</span>
+        </button>
+        <ul id="extended-nav-section-three" class="usa-nav-submenu">
+          <li>
+            <a href="{{ '/us-relations' | prepend: site.baseurl }}">Overview</a>
+          </li>
+          <li>
+            <a href="{{ '/us-relations/political-cooperation' | prepend: site.baseurl }}">Political Cooperation</a>
+          </li>
+          <li>
+            <a href="{{ '/us-relations/economic-cooperation' | prepend: site.baseurl }}">Economic Cooperation</a>
+          </li>
+          <li>
+            <a href="{{ '/us-relations/security-cooperation' | prepend: site.baseurl }}">Security Cooperation</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-four">
+          <span>Foreign & Domestic Policies</span>
+        </button>
+        <ul id="extended-nav-section-four" class="usa-nav-submenu">
+          <li>
+            <a href="{{ '/foreign-policy' | prepend: site.baseurl }}">Foreign Policy</a>
+          </li>
+          <li>
+            <a href="{{ '/domestic-policy' | prepend: site.baseurl }}">Domestic Policy</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-five">
+          <span>About Kazakhstan</span>
+        </button>
+        <ul id="extended-nav-section-five" class="usa-nav-submenu">
+          <li>
+            <a href="{{ '/about-kazakhstan' | prepend: site.baseurl }}">Overview</a>
+          </li>
+          <li>
+            <a href="{{ '/about-kazakhstan/facts-about-kazakhstan' | prepend: site.baseurl }}">Facts About Kazakhstan</a>
+          </li>
+          <li>
+            <a href="{{ '/about-kazakhstan/culture' | prepend: site.baseurl }}">Culture</a>
+          </li>
+          <li>
+            <a href="{{ '/about-kazakhstan/history' | prepend: site.baseurl }}">History</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <div class="usa-nav-secondary">
+      <form class="usa-search usa-search-small js-search-form">
+        <div role="search" id="searchbox-al">
+          <label class="usa-sr-only" for="extended-search-field-small">Search small</label>
+        </div>
+		<div id="hits" class="inactive"></div>
+      </form>
+    </div>
+  </div>
+</nav>

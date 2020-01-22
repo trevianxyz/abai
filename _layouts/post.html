@@ -1,0 +1,78 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ '/assets/css/styleguide.css' | prepend: site.baseurl }}" />
+
+<aside class="sidenav sticky">
+  <ul class="usa-sidenav-list">
+    <li>
+      {% assign page_category = page.category | slugify | prepend: '/' %}
+      <a href="{{ page_category | prepend: site.baseurl }}">
+        <b data-info="page.category layout/topic">{{ page.category }}</b>
+      </a>
+
+      <ul class="usa-sidenav-list">
+        {% include nav/list-topic.html %}
+      </ul>
+    </li>
+  </ul>
+</aside>
+
+<main id="main-content" class="main-content">
+
+  <div class="styleguide-content usa-content">
+    <header>
+      <h1 id="{{ post.title | slugify }}">{{ page.title }}</h1>
+      <p class="site-subheading">
+          {{ page.date | date_to_string }}
+        </p>
+    </header>
+
+  {% for post in site.data.contentful.spaces.Emb.posts %}
+    {% if post.title == page.title %}
+
+{% if page.noshow_img == true %}
+    {{ post.body | markdownify }}
+{% else %}
+
+      {% if post.album.url %}
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+          {% for url in post.album %}
+        <div class="carousel-item active">
+          <img src="{{ post.image.url }}" class="d-block w-100" alt="...">
+        </div>
+          {% endfor %}
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+      {% elsif post.image.url %}
+      <div class="usa-font-lead">
+        <img src="{{ post.image.url }}" class="postimage inline-block p-3" alt="Image" />
+      </div>
+      {{ post.body | markdownify }}
+  {% endif %}
+{% endif %}
+
+    {% endif %}
+  {% endfor %}
+
+  {{ content | markdownify }}
+
+  </div>
+  <div class="d-flex justify-content-around styleguide-content usa-content">
+    <a class="media-link" href="{{ 'news' | prepend: site.baseurl }}" title="All News" style="color: #0071bc;">
+      Return to News
+    </a>
+      <a class="media-link" href="{{ '/' | prepend: site.baseurl }}" title="Home" aria-label="Return to homepage" style="color: #0071bc;">Return to Homepage
+      </a>
+  </div>
+
+</main>

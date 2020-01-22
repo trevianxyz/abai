@@ -1,0 +1,23 @@
+title: "Resources"
+tools:
+  - title: "Bilateral Relations Dashboard"
+    body: "The United States and Kazakhstan have a deep and comprehensive bilateral relationship. Rich media and data visualisations help to tell the story of friendship and cooperation between our two nations."
+    image: /assets/images/kz/usa-dash-background.png
+    action:
+      title: "Learn More"
+      url: "http://dashboard.kazakhembus.com/"
+    topic: 'bilateral'
+  - title: "Seven Facets of the Great Steppe"
+    body: "Seven Facets is the study of the national, cultural and human history of Kazakhstan in all its depth and complexity."
+    image: /assets/images/kz/7f-background.png
+    action:
+      title: "Explore"
+      url: "http://7facets.info/"
+    topic: 'seven facets'
+  - title: "The ATOM Project"
+    body: "The ATOM Project seeks to affect real and lasting change by engaging millions of global citizens to urge their leaders to take up policies that work to permanently stop nuclear weapons testing."
+    image: /assets/images/kz/theatomproject.png
+    action:
+      title: "Sign the Petition"
+      url: "https://www.theatomproject.org/100K/"
+    topic: 'nonproliferation'

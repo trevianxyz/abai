@@ -1,0 +1,83 @@
+.card[active] {
+    box-shadow: none;
+    transition: box-shadow .25s;
+}
+
+.card[active]:hover {
+    box-shadow: 0 0.4em 1.2em rgba(0, 0, 0, 0.2);
+}
+
+.card[active] .card-img-top {
+    transform: scale(1);
+    transition: transform .25s;
+}
+
+.card[active]:hover .card-img-top {
+    transform: scale(1.2);
+}
+
+.card--big {
+    position: relative;
+    background-color: #000;
+    overflow: hidden;
+    border-width: 0;
+    cursor: pointer;
+}
+
+.card--big:before {
+    width: 100%;
+    height: 5px;
+    background-color: #FDC40C;
+    z-index: 101;
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    visibility: hidden;
+    transform: scaleX(0);
+    transition: all 0.25s;
+}
+
+.card--big:hover:before {
+    visibility: visible;
+    transform: scaleX(1);
+}
+
+.card--big .card-img-top {
+    position: absolute;
+    width: auto;
+    top: 0;
+    bottom: 0;
+    transform: scale(1);
+    transition: transform 0.25s;
+}
+
+.card--big:hover .card-img-top {
+    transform: scale(1.2);
+}
+
+.card--big .card-img-top + .card-body {
+    z-index: 100;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.card--big:nth-child(1) .card-img-top + .card-body {
+    background-color: rgba(0, 22, 76, 0.5);
+}
+
+.card--big:nth-child(3) .card-img-top + .card-body {
+    background-color: rgba(0, 42, 2, 0.5);
+}
+
+@media (max-width: 768.98px) {
+
+
+  .card--big .card-img-top {
+      width: 100%;
+      top: 50px;
+      transform: scale(1.5);
+
+  }
+
+}
