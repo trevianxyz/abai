@@ -1,7 +1,6 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: Home
 frequent_info:
@@ -31,7 +30,7 @@ frequent_info:
       href: /us-relations
 ---
 
-<a href="https://invest.gov.kz/"><img src="/assets/images/kz/investbanner.jpeg" id="investbanner" class="img-fluid" /></a>
+<a href="https://invest.gov.kz/"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/words-of-wisdom.png" id="investbanner" class="img-fluid" /></a>
 {% include page-engine.html %}
 {% include media-center.html %}
 {% include frequent-info.html %}
