@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/styleguide.css' | prepend: site.baseurl }}" />
+
+<aside class="sidenav sticky">
+  <ul class="usa-sidenav-list">
+    <li>
+      {% assign page_category = page.category | slugify | prepend: '/' %}
+      <a href="{{ page_category | prepend: site.baseurl }}">
+        <b data-info="page.category layout/topic">{{ page.category }}</b>
+      </a>
+
+      <ul class="usa-sidenav-list">
+        {% include nav/list-topic.html %}
+      </ul>
+    </li>
+  </ul>
+</aside>
+
+<main id="main-content" class="main-content">
+
+  <div class="styleguide-content usa-content">
+    <header>
+      <h1 id="{{ post.title | slugify }}">{{ page.title }}</h1>
+      <p class="site-subheading">
+
+        </p>
+    </header>
+
+      {% elsif page.image.url %}
+      <div class="usa-font-lead">
+        <img src="{{ page.image.url }}" class="postimage inline-block p-3" alt="Image" />
+      </div>
+
+  {{ content | markdownify }}
+
+  </div>
+  <div class="d-flex justify-content-around styleguide-content usa-content">
+    <a class="media-link" href="{{ 'news' | prepend: site.baseurl }}" title="All News" style="color: #0071bc;">
+      Return to News
+    </a>
+      <a class="media-link" href="{{ '/' | prepend: site.baseurl }}" title="Home" aria-label="Return to homepage" style="color: #0071bc;">Return to Homepage
+      </a>
+  </div>
+
+</main>

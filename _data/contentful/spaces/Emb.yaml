@@ -22700,6 +22700,39 @@ page:
     revision: 2
   title: Consul General Abdraimov
   body: " "
+- sys:
+    id: gesfZjDzH85wrS7dSVLJR
+    created_at: !ruby/object:DateTime 2020-01-22 23:02:46.591000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-22 23:02:46.591000000 Z
+    content_type_id: page
+    revision: 1
+  title: Home | Abai Center
+  sections:
+  - sys:
+      id: 969q0qpb8tHwHaWZ6g8ji
+      created_at: !ruby/object:DateTime 2020-01-22 22:38:53.169000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-22 23:03:12.462000000 Z
+      content_type_id: carousel
+      revision: 2
+    title: abai_center_carousel
+    carousel_slides:
+    - sys:
+        id: 2wPwMKtow2cki1Zg3zz9wT
+        created_at: !ruby/object:DateTime 2020-01-22 22:47:53.013000000 Z
+        updated_at: !ruby/object:DateTime 2020-01-22 22:47:53.013000000 Z
+        content_type_id: carouselSlide
+        revision: 1
+      title: 'Abai: A Cultural Icon'
+      body: 'The likeness of Abai Kunanbaiuly transcends generations and envokes Turkic
+        & national pride for all Kazakhs.  '
+      image:
+        sys:
+          id: 2KkEkdSP2fhNEk5MOUozua
+          created_at: !ruby/object:DateTime 2020-01-22 22:47:19.175000000 Z
+          updated_at: !ruby/object:DateTime 2020-01-22 22:47:19.175000000 Z
+        title: abai icon caro
+        description: 
+        url: "//images.ctfassets.net/3u75lz35gn9w/2KkEkdSP2fhNEk5MOUozua/0092c80c885c7e508bc60df7841078da/abai_icon_caro.png"
 posts:
 - sys:
     id: 1QTwWuIrr2OSUiYeYoU48K
@@ -79437,6 +79470,31 @@ carousel:
       url: "//images.ctfassets.net/3u75lz35gn9w/6lTZzpQWiMnCPAQGPjEmpK/e77553530093f50db8ef9ca722cf8844/tokayev-state-nation-carousel.png"
     button_text: Read More
     button_url: https://astanatimes.com/2019/12/kazakh-president-announces-major-political-reforms-package/
+- sys:
+    id: 969q0qpb8tHwHaWZ6g8ji
+    created_at: !ruby/object:DateTime 2020-01-22 22:38:53.169000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-22 23:03:12.462000000 Z
+    content_type_id: carousel
+    revision: 2
+  title: abai_center_carousel
+  carousel_slides:
+  - sys:
+      id: 2wPwMKtow2cki1Zg3zz9wT
+      created_at: !ruby/object:DateTime 2020-01-22 22:47:53.013000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-22 22:47:53.013000000 Z
+      content_type_id: carouselSlide
+      revision: 1
+    title: 'Abai: A Cultural Icon'
+    body: 'The likeness of Abai Kunanbaiuly transcends generations and envokes Turkic
+      & national pride for all Kazakhs.  '
+    image:
+      sys:
+        id: 2KkEkdSP2fhNEk5MOUozua
+        created_at: !ruby/object:DateTime 2020-01-22 22:47:19.175000000 Z
+        updated_at: !ruby/object:DateTime 2020-01-22 22:47:19.175000000 Z
+      title: abai icon caro
+      description: 
+      url: "//images.ctfassets.net/3u75lz35gn9w/2KkEkdSP2fhNEk5MOUozua/0092c80c885c7e508bc60df7841078da/abai_icon_caro.png"
 carouselSlide:
 - sys:
     id: 6Titrwr7o7knsEubTuyYrF
@@ -80169,6 +80227,23 @@ carouselSlide:
     url: "//images.ctfassets.net/3u75lz35gn9w/7hvSbWqwiT0qJShgjy79Dt/1fcb5ac28e730002c12ea910f8f0a906/openskies_carousel__2_.png"
   button_text: Read More
   button_url: https://kz.usembassy.gov/the-united-states-and-kazakhstan-sign-open-skies-agreement/
+- sys:
+    id: 2wPwMKtow2cki1Zg3zz9wT
+    created_at: !ruby/object:DateTime 2020-01-22 22:47:53.013000000 Z
+    updated_at: !ruby/object:DateTime 2020-01-22 22:47:53.013000000 Z
+    content_type_id: carouselSlide
+    revision: 1
+  title: 'Abai: A Cultural Icon'
+  body: 'The likeness of Abai Kunanbaiuly transcends generations and envokes Turkic
+    & national pride for all Kazakhs.  '
+  image:
+    sys:
+      id: 2KkEkdSP2fhNEk5MOUozua
+      created_at: !ruby/object:DateTime 2020-01-22 22:47:19.175000000 Z
+      updated_at: !ruby/object:DateTime 2020-01-22 22:47:19.175000000 Z
+    title: abai icon caro
+    description: 
+    url: "//images.ctfassets.net/3u75lz35gn9w/2KkEkdSP2fhNEk5MOUozua/0092c80c885c7e508bc60df7841078da/abai_icon_caro.png"
 frequentAuthor:
 - sys:
     id: 5KS7WuHHxsBkyrtw1sThQB
