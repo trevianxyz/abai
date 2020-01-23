@@ -29,11 +29,12 @@ layout: default
         </p>
     </header>
 
-      {% elsif page.image.url %}
+      {% if page.image.url %}
       <div class="usa-font-lead">
         <img src="{{ page.image.url }}" class="postimage inline-block p-3" alt="Image" />
       </div>
-
+      {% endif %}
+      
   {{ content | markdownify }}
 
   </div>
