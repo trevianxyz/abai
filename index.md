@@ -29,8 +29,7 @@ frequent_info:
       text: Go to Page
       href: /us-relations
 ---
-<!--<a href="https://invest.gov.kz/"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/words-of-wisdom.png" id="investbanner" class="img-fluid" /></a>-->
 {% include page-engine.html %}
-{% include usd/basic-section.html %}
+<a href="#"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/dailyabai.png" id="investbanner" class="img-fluid" /></a>
 {% include temp-data-feed.html %}
 {% include media-center.html %}

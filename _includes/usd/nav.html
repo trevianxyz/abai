@@ -85,7 +85,6 @@
           <a class="dropdown-item" href="{{ site.baseurl | append: '/seven-facets/locations-seven-facets' }}">Locations</a></li>
           </ul>
       </li>
-
       <li>
         <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-four">
           <span>Virtual Exhibition</span>
@@ -99,9 +98,26 @@
           </li>
         </ul>
       </li>
-      <li class="usa-nav__primary-item">
+      <li>
+        <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="extended-nav-section-six">
+          <span>More</span>
+        </button>
+        <ul id="extended-nav-section-six" class="usa-nav-submenu">
+          <li>
+            <a href="{{ '/abai-store' | prepend: site.baseurl }}">Abai Store</a>
+          </li>
+          <li>
+            <a href="{{ '/collectables' | prepend: site.baseurl }}">Collectables</a>
+          </li>
+          <li>
+            <a href="{{ '/contact-us' | prepend: site.baseurl }}">Contact Us</a>
+          </li>
+        </ul>
+      </li>
+      <!--<li class="usa-nav__primary-item">
     <a class="usa-nav__link" href="javascript:void(0)"><span>Contact Us</span></a>
-    </li></ul>
+    </li>-->
+  </ul>
     <div class="usa-nav-secondary">
       <form class="usa-search usa-search-small js-search-form">
         <div role="search" id="searchbox-al">
