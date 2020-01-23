@@ -1,5 +1,5 @@
 ---
-permalink: /about-the-embassy/contact-us
+permalink: /contact-us
 layout: topic
 title: Contact Us
 category: About the Embassy
