@@ -88,7 +88,7 @@ img.news_thumbnail_media-center {
 
 header.usa-header {
   background-image: linear-gradient(to left, transparent, 60%, white),
-                    url(/assets/images/kz/eagle-sun.svg);
+                    url();
   background-repeat: no-repeat;
   background-size: 30%;
   background-position: top right 200px;

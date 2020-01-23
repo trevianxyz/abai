@@ -53,7 +53,7 @@
   }
 
   .usa-logo a img {
-    height: 170px;
+    height: 250px;
   }
 
   .usa-logo a span {
@@ -66,5 +66,9 @@
 
   .usa-logo a div {
     line-height: initial;
+  }
+
+  img.logo {
+
   }
 }
