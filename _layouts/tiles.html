@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="inner-title py-4">
+  <h1>
+    {{ page.title }}
+  </h1>
+</div>
+
+<div class="tile-grid d-flex flex-wrap">
+    {{ content }}
+{% for image in site.static_files %}
+  {% if image.path contains page.filter-directory %}
+      <div class="tile-grid-item p-2">
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+      </div>
+  {% endif %}
+{% endfor %}
+</div>

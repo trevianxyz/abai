@@ -1,5 +1,5 @@
 ---
-permalink: /videos
+permalink: /multimedia/videos
 layout: topic
 title: Videos
 category: Multimedia
