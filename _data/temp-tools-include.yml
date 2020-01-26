@@ -1,8 +1,8 @@
-title: "Researching Abai"
+title: "Analytics of Abai"
 tools:
   - title: "Abai Text Cloud"
     body: "Abai wrote about all aspects of Steppe life and Turkic and Kazakh culture. He was not shy to call out hyprocracy he observed in people's public and private lives, or make political commentary."
-    image:  
+    image: assets/images/kz/abai_wordcloud.png
     action:
       title: "Learn More"
       url: "http://dashboard.kazakhembus.com/"
