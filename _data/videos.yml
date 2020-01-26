@@ -1,0 +1,71 @@
+contents:
+  - title: Miss Kazakhstan
+    src: 'https://7facets.fra1.cdn.digitaloceanspaces.com/miss_kazakhstan.mp4'
+    filters:
+      - title: "topic"
+        values:
+          - "Cradle of the Turkic World"
+      - title:
+        values:
+  - title: Kazakh Warriors
+    src: 'https://7facets.fra1.cdn.digitaloceanspaces.com/turkic-cradle/kazakh_warriors.mp4'
+    filters:
+      - title: "topic"
+        values:
+          - "Cradle of the Turkic World"
+      - title:
+        values:
+  - title: Discover Nur-Sultan
+    src: "https://qazio.fra1.digitaloceanspaces.com/videos/kz_video.mp4#t=10"
+    filters:
+      - title: "topic"
+        values:
+          - "Tourism"
+      - title: "language"
+        values:
+          - "english"
+  - title: Kazakhstan Surprize Me
+    src: "https://myqaz.sgp1.cdn.digitaloceanspaces.com/videos/kazakhstan-surprize-me"
+    filters:
+      - title: "topic"
+        values:
+          - "Tourism"
+      - title: "language"
+        values:
+          - "english"
+  - title: Nur-Sultan by Drone
+    src: "https://myqaz.sgp1.cdn.digitaloceanspaces.com/videos/nur-sultan-by-drone-kazakhstan.mp4"
+    filters:
+      - title: "topic"
+        values:
+          - "Tourism"
+      - title: "language"
+        values:
+          - "english"
+  - title: Explore the Magical Turkestan
+    src: "https://qazio.fra1.digitaloceanspaces.com/turkestan.mp4"
+    filters:
+      - title: "topic"
+        values:
+          - "Cradle of the Turkic World"
+      - title: "language"
+        values:
+          - "english"
+  - title: The Valley of Balls
+    src: "https://qazio.fra1.digitaloceanspaces.com/valley-of-balls-kazakhstan.mp4"
+    filters:
+      - title: "topic"
+        values:
+          - "Great Silk Road"
+      - title: "language"
+        values:
+          - "english"
+  - title: The UNESCO Sites of Kazakhstan
+    src: "https://qazio.fra1.digitaloceanspaces.com/unesco-sites-kazakhstan-french.mp4"
+    filters:
+      - title: "topic"
+        values:
+          - "Great Silk Road"
+      - title: "language"
+        values:
+          - "french"
