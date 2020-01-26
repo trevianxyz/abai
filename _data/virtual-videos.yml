@@ -1,0 +1,7 @@
+contents:
+  - title: The Mausoleum of Khoja Ahmed Yasawi
+    src: 'https://tengri-khan.fra1.cdn.digitaloceanspaces.com/full-yasawi-turkestan.mp4'
+    filters:
+      - title: "topic"
+        values:
+          - "Cradle of the Turkic World"
