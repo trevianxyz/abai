@@ -1,5 +1,5 @@
 ---
-permalink: /seven-facets/cradle-turkic-world
+permalink: /seven-facets-of-the-great-steppe/cradle-of-the-turkic-world
 title: Cradle of the Turkic World
 layout: topic
 filter-category: "cradle-turkic"

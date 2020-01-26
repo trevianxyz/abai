@@ -1,5 +1,5 @@
 ---
-permalink: /seven-facets/animal-style
+permalink: /seven-facets-of-the-great-steppe/animal-style
 title: Animal Style
 layout: topic
 filter-category: "animal-style"

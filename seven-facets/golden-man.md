@@ -1,5 +1,5 @@
 ---
-permalink: /seven-facets/golden-man
+permalink: /seven-facets-of-the-great-steppe/golden-man
 title: Golden Man
 layout: topic
 filter-category: "golden-man"

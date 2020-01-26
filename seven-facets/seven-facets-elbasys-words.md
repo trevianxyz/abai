@@ -1,5 +1,5 @@
 ---
-permalink: /seven-facets/seven-facets-elbasys-words
+permalink: /seven-facets-of-the-great-steppe/seven-facets-elbasy-s-words
 layout: topic
 title: Seven Facets - Elbasy's Words
 category: Seven Facets

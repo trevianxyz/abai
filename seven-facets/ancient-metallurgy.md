@@ -1,5 +1,5 @@
 ---
-permalink: /seven-facets/ancient-metallurgy
+permalink: /seven-facets-of-the-great-steppe/ancient-metallurgy
 title: Ancient Metallurgy
 layout: topic
 filter-category: "metallurgy"
