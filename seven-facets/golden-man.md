@@ -1,7 +1,7 @@
 ---
 permalink: /seven-facets-of-the-great-steppe/golden-man
 title: Golden Man
-layout: inner
+layout: topic
 filter-category: "golden-man"
 after-embed:
 image_graphic-slider: "golden_man"

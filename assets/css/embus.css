@@ -87,11 +87,12 @@ img.news_thumbnail_media-center {
 }
 
 header.usa-header {
-  background-image: linear-gradient(to left, transparent, 80%, white),
-                    url("https://abaicenter.nyc3.cdn.digitaloceanspaces.com/abai-reading.jpg");
+  background-image: linear-gradient(to right, white 10%,
+    transparent 80%, white 10%),
+                    url("https://abaicenter.nyc3.cdn.digitaloceanspaces.com/abai_about_myself.jpg");
   background-repeat: no-repeat;
-  background-size: 40%;
-  background-position: top right 10px;
+  background-size: 45%;
+  background-position: right top 74%;
 }
 
 p.bottom_footer {
