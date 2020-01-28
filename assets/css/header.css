@@ -4,12 +4,14 @@
   flex-direction: row;
   justify-content: center;
   border: 0;
+  align-items: center;
 }
 
 .usa-logo {
   float: none;
   line-height: 4rem;
   margin-left: 0;
+  align-items: center;
 }
 
 .usa-logo a {
@@ -35,12 +37,11 @@
 
 
 .usa-logo a div {
-  font-size: 9.5rem;
+  display: block;
+  font-size: 6.5rem;
   margin-left: 100px;
-}
-
-.usa-logo a div {
   line-height: 22px;
+  margin-top: 5%;
 }
 
 .usa-logo a div:last-child {
@@ -52,8 +53,13 @@
   width: 6.8rem;
 }
 
-div.main-text {
-  text-transform: capitalize;
+.usa-logo a div.main-text {
+   display: flex;
+   align-items: center;
+}
+
+#extended-logo {
+  align-items: center;
 }
 
 /* Large Screens */
