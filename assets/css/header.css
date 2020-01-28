@@ -1,6 +1,7 @@
 .usa-navbar {
   height: 11em !important;
   display: flex;
+  flex-direction: row;
   justify-content: center;
   border: 0;
 }
@@ -35,7 +36,7 @@
 
 .usa-logo a div {
   font-size: 9.5rem;
-  margin-left: 90px;
+  margin-left: 100px;
 }
 
 .usa-logo a div {
@@ -43,7 +44,7 @@
 }
 
 .usa-logo a div:last-child {
-  color: #718093;
+  color: #192a56;
 }
 
 .usa-menu-btn {
@@ -86,11 +87,13 @@ div.main-text {
     height: auto !important;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-between;
     border: 0;
-    margin: 10px;
-  }
+    }
 
+div.main-text {
+  padding: 10px;
+}
 
   .usa-logo a div {
     margin-left: 0px;
