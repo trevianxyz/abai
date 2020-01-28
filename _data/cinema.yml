@@ -1,0 +1,9 @@
+contents:
+  - title: Myn Bala
+    src: 'https://www.youtube.com/embed/kJlYHdsteDA'
+  - title: Almaz Kylysh
+    src: 'https://www.youtube.com/embed/QomY_rN0A-0'
+    filters:
+      - title: "topic"
+        values:
+ 
