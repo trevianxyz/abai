@@ -1,3 +1,4 @@
+
 .usa-navbar {
   height: 11em !important;
   display: flex;
@@ -58,8 +59,13 @@
    align-items: center;
 }
 
-#extended-logo {
-  align-items: center;
+
+span.quote {
+  float: right;
+  font-family: 'Cherry Swash', cursive;
+  font-size: 1.5em;
+  margin-right: 20px;
+  padding: 30px;
 }
 
 /* Large Screens */
