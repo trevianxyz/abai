@@ -1,7 +1,7 @@
 .usa-navbar {
-  height: auto;
+  height: 11em !important;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   border: 0;
 }
 
@@ -17,6 +17,7 @@
   padding: 9px;
 	display: flex;
   align-items: center;
+  font-size: 3.5rem;
 }
 
 .usa-logo a img {
@@ -28,8 +29,13 @@
   color: #192a56;
   font-size: 1.5rem;
   font-weight: 600;
-  margin-left: 0.2rem;
   margin-right: 0.5rem;
+}
+
+
+.usa-logo a div {
+  font-size: 4.5rem;
+  margin-left: 100px;
 }
 
 .usa-logo a div {
@@ -43,6 +49,10 @@
 .usa-menu-btn {
   height: auto;
   width: 6.8rem;
+}
+
+div.main-text {
+  text-transform: capitalize;
 }
 
 /* Large Screens */
@@ -68,7 +78,23 @@
     line-height: initial;
   }
 
-  img.logo {
+}
 
+@media (max-width: 767.98px) {
+
+  .usa-navbar {
+    height: auto !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 0;
+    margin: 10px;
   }
+
+
+  .usa-logo a div {
+    margin-left: 0px;
+    font-size: 3.5rem; 
+  }
+
 }

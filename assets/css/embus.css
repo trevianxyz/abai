@@ -87,12 +87,16 @@ img.news_thumbnail_media-center {
 }
 
 header.usa-header {
-  background-image: linear-gradient(to right, white 10%,
-    transparent 80%, white 10%),
-                    url("https://abaicenter.nyc3.cdn.digitaloceanspaces.com/abai_about_myself.jpg");
+  background-image: linear-gradient(to left, white 1%,
+    transparent 90%),
+                    url("https://abaicenter.nyc3.cdn.digitaloceanspaces.com/abai_purple-bust.png");
   background-repeat: no-repeat;
-  background-size: 45%;
-  background-position: right top 74%;
+  background-size: 20%;
+  background-position: left 10% center;
+}
+
+span.main-text {
+  margin-left: 100px;
 }
 
 p.bottom_footer {
@@ -634,7 +638,7 @@ div.footer_logo_col {
 
 header.usa-header {
   background-image: linear-gradient(to left, transparent, 60%, white),
-                    url(/assets/images/kz/eagle-sun.svg);
+                    url();
   background-repeat: no-repeat;
   background-size: 40%;
   background-position: top right 50px;
