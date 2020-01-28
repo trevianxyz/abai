@@ -37,10 +37,9 @@
     <div class="d-flex flex-row justify-content-center align-items-center">
 
       <div class="newsfeed">
-        {% for news in site.data.contentful.spaces.Emb.posts limit:1 %}
-            {% assign sorted = site.data.contentful.spaces.Emb.posts | sort: 'date') | reverse %}
-              {% for news in sorted limit:4 %}
-                  {% if news.location_news == "dc" or news.location_news == "mfa" %}
+                  {% assign sorted = site.data.contentful.spaces.Emb.posts | reverse %}
+                    {% for news in sorted %}
+                          {% if news.deploy_topics == "cultureHistory" %}
           <div class="row align-items-center">
             <div class="col-sm-12 col-md-4">
               {% if news.image.url %}
@@ -64,7 +63,7 @@
           </div>
             {% endif %}
           {% endfor %}
-        {% endfor %}
+
           <div class="media-row">
             <hr />
             <h1 class="media-title all_news">
@@ -81,7 +80,7 @@
           </span>
         </div>
       </div>
-  
+
     </div>
   </div>
 
