@@ -77,9 +77,7 @@
       {% assign news_category = news.category.first | slugify %}
       <article class="element-item {{ news_category }} briefing-statement briefing-statement--results">
         <div class="briefing-statement__content">
-          <p class="briefing-statement__type">
-            {{ news.category }}
-          </p>
+         
           <div class="row align-items-center">
             <div class="col-sm-12 col-md-4 media_center">
             {% if news.image.url %}

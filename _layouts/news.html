@@ -3,7 +3,7 @@ layout: default
 ---
 <link rel="stylesheet" href="{{ '/assets/css/styleguide.css' | prepend: site.baseurl }}" />
 
-<aside class="sidenav sticky">
+<!--<aside class="sidenav sticky">
   <ul class="usa-sidenav-list">
     <li>
       {% if page.category == null %}
@@ -57,7 +57,7 @@ layout: default
       </ul>
     </li>
   </ul>
-</aside>
+</aside>-->
 
 <main id="main-content" class="main-content">
 
@@ -79,9 +79,11 @@ layout: default
       {% include topic.html %}
     {% endif %}
 
-    <div class="styleguide-content usa-content">
+  <div class="container">
+  <div class="styleguide-content usa-content">
       {{ content }}
     </div>
+  </div>
   </div>
 
 </main>
