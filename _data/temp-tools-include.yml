@@ -5,7 +5,7 @@ tools:
     image: assets/images/kz/abai_wordcloud.png
     action:
       title: "Learn More"
-      url: "http://dashboard.kazakhembus.com/"
+      url: "/book-of-words-wordcloud"
     topic: 'bilateral'
   - title: "Abai Feature 2"
     body: "Seven Facets is the study of the national, cultural and human history of Kazakhstan in all its depth and complexity."
