@@ -1,8 +1,8 @@
 title: ""
 tools:
-  - title: "Abai Text Cloud"
-    body: "Abai wrote about all aspects of Steppe life and Turkic and Kazakh culture. He was not shy to call out hyprocracy he observed in people's public and private lives, or make political commentary."
-    image: assets/images/kz/abai_wordcloud.png
+  - title: "Book of Words Text Cloud"
+    body: "The Abai Center uses modern research methods and big data analytics technologies to provide resources and data for scholars and readers to look at Abai’s works in new and different ways."
+    image: assets/images/wordcloudbookofwords.png
     action:
       title: "Learn More"
       url: "/book-of-words-wordcloud"
