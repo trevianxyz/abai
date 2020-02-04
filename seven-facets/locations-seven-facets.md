@@ -1,5 +1,5 @@
 ---
-permalink: /seven-facets-of-the-great-steppe/location-of-seven-facets-sites
+permalink: /seven-facets-of-the-great-steppe/locations-seven-facets
 layout: topic
 title: Location of Seven Facets Sites
 category: Seven Facets
