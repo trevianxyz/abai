@@ -5,7 +5,7 @@ layout: topic
 filter-category: "golden-man"
 after-embed:
 image_graphic-slider: "golden_man"
-category: Seven Facets
+category: Seven Facets of the Great Steppe
 intro: "Our ancestors created the highest-level artistic creations that still amaze the imagination. Skillful golden guise of a warrior indicates confident mastery of the ancient masters of gold processing techniques. It also revealed a rich mythology, reflecting power and aesthetics of the Steppe civilization."
 ---
 

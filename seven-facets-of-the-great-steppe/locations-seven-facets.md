@@ -2,7 +2,7 @@
 permalink: /seven-facets-of-the-great-steppe/locations-seven-facets
 layout: topic
 title: Location of Seven Facets Sites
-category: Seven Facets
+category: Seven Facets of the Great Steppe
 ---
 
 <h1><mark>Map needs adjustments so to work on this site as it does on 7factets.info</mark></h1>
