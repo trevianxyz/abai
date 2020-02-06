@@ -1,23 +1,23 @@
 title: ""
 tools:
-  - title: "Book of Words Text Cloud"
-    body: "The Abai Center uses modern research methods and big data analytics technologies to provide resources and data for scholars and readers to look at Abai’s works in new and different ways."
-    image: assets/images/wordcloudbookofwords.png
+  - title: "Traditional Life on the Steppe: Tradecraft of Kazakh people."
+    body: "Handicrafts were an inherent part of daily life for the people of the Kazakh Steppe. "
+    image: "https://e-history.kz/images/w800-h600-cct-si/media/upload/4901/2015/09/04/711432c1b682cbbf0e592580da879b75.jpg"
     action:
       title: "Learn More"
-      url: "/book-of-words-wordcloud"
-    topic: 'bilateral'
-  - title: "Abai Feature 2"
-    body: "Seven Facets is the study of the national, cultural and human history of Kazakhstan in all its depth and complexity."
-    image: /assets/images/kz/7f-background.png
+      url: "https://e-history.kz/en/publications/view/1389?fbclid=IwAR1l1bdFYRh2NglbrfF7MdDSO3ekFM3eBfX30MyvaiIiTJS3oN5w0xyPl98"
+    topic:
+  - title: "Dinmukhamed Kunaev's House Museum"
+    body: "The house opened as a museum on January 12, 2012, Kunaev’s birthday, and displays almost the entire heritage of its owner, creating an authentic atmosphere of the recent, but at the same time already distant past."
+    image: /assets/images/kz/kunaev_house.png
     action:
       title: "Explore"
-      url: "http://7facets.info/"
+      url: "https://voicesoncentralasia.org/dinmukhamed-kunaevs-house-museum/?fbclid=IwAR1T63rB62o96sfmMFi4FnoOuNoFJE3Vs3Z6gkF9v3p-25xXLMiMCtocFtc"
     topic: 'seven facets'
-  - title: "Abai Feature 3"
-    body: "The ATOM Project seeks to affect real and lasting change by engaging millions of global citizens to urge their leaders to take up policies that work to permanently stop nuclear weapons testing."
-    image: /assets/images/kz/theatomproject.png
+  - title: "Deciphering the Saukele"
+    body: "The Traditional Headdress of Kazakh Brides"
+    image: '/assets/images/kz/saukele.png'
     action:
-      title: "Sign the Petition"
-      url: "https://www.theatomproject.org/100K/"
-    topic: 'nonproliferation'
+      title:
+      url: "https://voicesoncentralasia.org/deciphering-the-saukele-the-traditional-headdress-of-kazakh-brides/?fbclid=IwAR19PRxqMovIwx_r88648DARVvSN6kg0kkmu4qeMTf2cRULonBt5xZ_u9ko"
+    topic:
