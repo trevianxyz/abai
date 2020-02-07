@@ -9,8 +9,8 @@
     {% capture toolImage %}{% include util/url.html url=tool.image %}{% endcapture %}
     {% capture toolUrl %}{% include util/url.html url=tool.action.url %}{% endcapture %}
   <a class="card-action" href="{{ toolUrl }}" style="text-decoration: none;">
-    <div class="card card--big my-3" onclick="location.href='{{ toolUrl }}';">
-        {% if tool.image %}<img class="card-img-top" width="90%" src="{{ toolImage }}">{% endif %}
+    <div class="card card--big my-5" onclick="location.href='{{ toolUrl }}';">
+        {% if tool.image %}<img class="card-img-top" src="{{ toolImage }}">{% endif %}
         <div class="card-body">
             <div class="card-title temp-tool-title" style="color: #fff;">{{ tool.title }}</div>
             <p class="temp-tool-text" style="text-decoration: none;">{{ tool.body }}</p>
