@@ -1,6 +1,6 @@
 ---
-permalink: /seven-facets-of-the-great-steppe/culture-horsemanship
-title: Culture of Horsemanship
+permalink: /seven-facets-of-the-great-steppe/horse-culture
+title: Horse Culture
 layout: topic
 filter-category: "horsemanship"
 image_graphic-slider: "horse_manship"
