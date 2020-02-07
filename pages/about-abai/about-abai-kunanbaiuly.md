@@ -5,7 +5,7 @@ title: About Abai Kunanbaiuly
 category: About Abai
 ---
 
-![](https://abaicenter.nyc3.cdn.digitaloceanspaces.com/abaihardlook.jpeg)
+<img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/abaihardlook.jpeg" style="float: right;" height="300px" class="px-3" alt="Abai Kunanbaiuly profile">
 
 Abai Kunanbaiuly (1845-1904) was born at the bottom of the Chingiz Mountain in the today's Abai district located in Eastern Kazakhstan region.
 

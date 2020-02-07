@@ -4,6 +4,8 @@ layout: topic
 title: Abai & Kazakhstan in the 21st Century
 category: About Abai
 ---
+<img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiOrange.png" style="float: right;" height="300px" class="px-3" alt="Abai Kunanbaiuly profile">
+
 **_Kassym-Jomart TOKAYEV_**<br>
 **_President of the Republic of Kazakhstan_**
 
@@ -101,9 +103,10 @@ According to Abai, in order to earn a living, you need to learn craft. Because �
 ## Face of the global culture
 Almost every modern civilized state can boast of its rich historical personalities. Among them are politicians, statesmen and public figures, leaders, poets and writers, figures of art and culture. The Kazakh people also have plenty of outstanding personalities, and among them Abai has a special place. We are still unable to introduce our great thinker to the world.
 
-Over the years of my diplomatic service, I often met with politicians and experts in various fields. I exchanged views with foreigners on many issues common to mankind. In general, they are well aware of the political and economic achievements of Kazakhstan. But not enough with our spiritual and cultural values. The question arises: “Why don’twe reveal the Kazakh culture through Abai?”
+Over the years of my diplomatic service, I often met with politicians and experts in various fields. I exchanged views with foreigners on many issues common to mankind. In general, they are well aware of the political and economic achievements of Kazakhstan. But not enough with our spiritual and cultural values. The question arises: “Why don’t we reveal the Kazakh culture through Abai?”
 
 The scientist Abai is a genius of the Kazakh land of a global level. He sowed the seed of mind and wisdom to all mankind. Our researchers, who have in depth studied the poetic power of Abai, say that he received inexhaustible material from Kazakh folklore, Eastern and Western word art, Russian literature and historical works.
+
 The great thinking of Abai is also clearly reflected in his religious taste and understanding. “Allah is the truth, the word is the truth, truth is never false,” he said. It is clear that he came to this conclusion, having deeply studied, comprehended the works of the philosophers of East and West. In the thirty-eighth word, he expresses his attitude towards God.
 
 Religious philosophers, who appreciated Abai’s spiritual horizons, pay special attention to his concept of “a faithful Muslim.” The concept of a “faithful Muslim” probably concerned not only the Kazakhs, but the entire Muslim world. Here is our thinker and sage Abai, who continues to grow at the world level thanks to this religious point of view.
