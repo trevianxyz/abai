@@ -269,6 +269,12 @@ a.temp-tool-title {
   text-decoration: none !important;
 }
 
+.temp-tool-title {
+  font-size: 2.5rem;
+  font-weight: bolder;
+  font-style: italic;
+}
+
 a p.temp-tool-text, a .temp-tool-text p {
   text-decoration: none !important;
 }
