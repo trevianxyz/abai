@@ -172,12 +172,12 @@ form h2 {
   p.bottom_footer a {
     color: white;
     text-decoration: underline;
-    text-decoration-color: #7efff5;
+    text-decoration-color: #a29bfe;
   }
 
 div.usa-footer-primary-content.usa-footer-contact_info p {
   text-decoration: underline;
-  text-decoration-color: #7efff5;
+  text-decoration-color: #a29bfe;
 }
 
 a.btn.btn-primary.btn-sm.go-to-visa:visited {
@@ -220,21 +220,21 @@ a.btn.btn-primary.btn-sm.go-to-visa:visited {
   p a:link {
     color: black;
     text-decoration: underline;
-    text-decoration-color: #7efff5;
+    text-decoration-color: #a29bfe;
     text-decoration-style: solid;
     font-weight: bold;
   }
   p a:visited {
     color: #black;
-    text-decoration-color: #7efff5;
+    text-decoration-color: #a29bfe;
   }
-  p a:hover {background: #7efff5;
+  p a:hover {background: rgba(162, 155, 254,0.2);
   }
-  td a:hover {background: #7efff5;
+  td a:hover {background: rgba(162, 155, 254,0.2);
   }
-  h3 a:hover {background: #7efff5;
+  h3 a:hover {background: rgba(162, 155, 254,0.2);
   }
-  h1 a:hover {background: #7efff5;
+  h1 a:hover {background: rgba(162, 155, 254,0.2);
   }
 
   section#index-basic-section.usa-section {
@@ -247,18 +247,18 @@ a.btn.btn-primary.btn-sm.go-to-visa:visited {
 p.bottom_footer a {
   color: white;
   text-decoration: underline;
-  text-decoration-color: #7efff5;
+  text-decoration-color: #a29bfe;
     }
 
 p.bottom_footer a:hover {
   color: #000;
   text-decoration: underline;
-  text-decoration-color: #7efff5;
+  text-decoration-color: #a29bfe;
     }
 
 div.bd-callout.bd-callout-info.border-left.go-to-infobox-callout {
   border-left: 1.5rem solid !important;
-  border-left-color: #7efff5 !important;
+  border-left-color: #a29bfe !important;
 }
 
 div.bd-callout.bd-callout-info.border-left.go-to-infobox-callout p {
@@ -363,20 +363,20 @@ font-size: 1.9rem;
 p a:link {
   color: black;
   text-decoration: underline;
-  text-decoration-color: #7efff5;
+  text-decoration-color: #a29bfe;
   text-decoration-style: solid;
   font-weight: bold;
 }
 
 p a:visited {
   color: #black;
-  text-decoration-color: #7efff5;
+  text-decoration-color: #a29bfe;
 }
-p a:hover {background: #7efff5;
+p a:hover {background: #a29bfe;
 }
-td a:hover {background: #7efff5;
+td a:hover {background: #a29bfe;
 }
-h3 a:hover {background: #7efff5;
+h3 a:hover {background: #a29bfe;
 }
 
 .card-deck {
@@ -435,7 +435,7 @@ h4#stafflink a {
   text-decoration: underline;
 }
 h4#stafflink a:hover {
-  background-color: #7efff5;
+  background-color: #a29bfe;
 }
 
 h4 a:visited {color: white;
@@ -667,14 +667,14 @@ header.usa-header {
   p.bottom_footer a {
     color: white;
     text-decoration: underline;
-    text-decoration-color: #7efff5;
+    text-decoration-color: #a29bfe;
   }
 
   div.usa-footer-primary-content.usa-footer-contact_info p {
     color: black;
     font-weight: bold;
     text-decoration: underline;
-    text-decoration-color: #7efff5;
+    text-decoration-color: #a29bfe;
   }
 }
 
