@@ -13,6 +13,13 @@ background-size: 12%;
 */
 
 
+img.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  }/*
+
 .media-center-grid {
   max-width: 1200px !important;
 }
@@ -328,7 +335,13 @@ a.btn.btn-primary.btn-sm.go-to-visa:visited {
     color: blue !important;
   }
 
-/*
+
+img.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  }/*
 div.col-4.media_center, div.col-8.media_center {
       flex:none;
       max-width: none;
