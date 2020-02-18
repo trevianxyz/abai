@@ -18,7 +18,7 @@ img.logo {
   margin-left: auto;
   margin-right: auto;
   padding: 5px;
-  }/*
+  }
 
 .media-center-grid {
   max-width: 1200px !important;
@@ -33,14 +33,15 @@ img.postimage {
   height: auto;
 }
 
-#investbanner {
+.index-banner-img {
+  position: relative; 
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-#investbanner:hover {
-  transform: scale(1.05); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+.index-banner-img:hover {
+  transform: scale(1.05);  
   transition: ease-in-out .5s;
 }
 
@@ -85,9 +86,9 @@ img.news_thumbnail_media-center {
 }
 
 
-/*div.media_center h4 {
+div.media_center h4 {
   margin-top: 0;
-} */
+} 
 
 .usa-media_block .row {
   margin-bottom: 15px;
