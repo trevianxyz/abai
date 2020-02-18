@@ -4,3 +4,5 @@ layout: topic
 title: Book of Words
 category: Works of Abai
 ---
+
+{% include words.html %}
