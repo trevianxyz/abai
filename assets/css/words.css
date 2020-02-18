@@ -7,3 +7,14 @@
 .words-chapter-current {
     display: block !important;
 }
+
+.words-text > p {
+    max-width: 50ch !important;
+    font-size: 2rem;
+}
+
+@media (max-width: 768px) {
+    .words-text > p {
+        font-size: 1.8rem;
+    }
+}
