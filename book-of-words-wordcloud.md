@@ -3,7 +3,7 @@ layout: page
 title: Book of Words Wordcloud
 permalink: /book-of-words-wordcloud
 ---
-
+TEST 
 This visualization displays the words that Abai used most frequently in The Book of Words, which is considered Abai's seminal works.
 
 The Abai Center uses modern research methods and big data analytics technologies to provide resources and data for scholars and readers to look at Abai's works in new and different ways.
