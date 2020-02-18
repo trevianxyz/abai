@@ -13,6 +13,11 @@
     font-size: 2rem;
 }
 
+/*.words-text > p:first-child:first-letter {
+    color: #903; 
+    initial-letter: 2;
+}*/
+
 @media (max-width: 768px) {
     .words-text > p {
         font-size: 1.8rem;
