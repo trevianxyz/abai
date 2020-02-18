@@ -32,5 +32,6 @@ frequent_info:
 {% include page-engine.html %}
 <a href="/about-abai/abai-kazakhstan-in-the-21st-century"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/abai21century.png" class="img-fluid index-banner-img" /></a>
 {% include temp-data-feed.html %}
-<a href="#"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/dailyabai.png" class="img-fluid index-banner-img" /></a>
+<a href="/book-of-words-wordcloud"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/wordsofabaiwordcloud.png" class="img-fluid index-banner-img" /></a>
 {% include media-center.html %}
+<a href="#"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/dailyabai.png" class="img-fluid index-banner-img" /></a>
