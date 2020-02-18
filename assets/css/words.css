@@ -1,1 +1,9 @@
 /* Book of Words Display CSS */
+
+.words-chapter {
+    display: none;
+}
+
+.words-chapter-current {
+    display: block !important;
+}
