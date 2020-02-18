@@ -1,8 +1,8 @@
 ---
-permalink: /works-of-abai/book-of-words
+permalink: /about-abai/book-of-words
 layout: topic
 title: Book of Words
-category: Works of Abai
+category: About Abai
 ---
 
 {% include words.html %}
