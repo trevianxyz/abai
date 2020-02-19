@@ -51,3 +51,29 @@
 .fa:active {
     color: #000000;
 }
+
+.words-text > p {
+    position: relative;
+}
+  
+.tooltiptext {
+    position: absolute;
+    top: -50px;
+    left: 0px;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    z-index: 1;
+}
+
+.tooltiptext > a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/*.tooltip:hover .tooltiptext {
+    visibility: visible;
+}*/
