@@ -43,3 +43,11 @@
     width: 50px;
     text-align: center;
 }
+
+.fa:hover {
+    color: #575757;
+}
+
+.fa:active {
+    color: #000000;
+}
