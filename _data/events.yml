@@ -9,7 +9,7 @@ contents:
     event-address: "1957 E St NW, Washington, DC 20052"
     organizer-comment: "Please RSVP at beskenabay@gmail.com"
     filters:
-      - title: "topic"
+      - title: "cat"
         values:
           - "Transcripts"
           - "Photos"
@@ -22,7 +22,7 @@ contents:
     src:
     body: 
     filters:
-      - title: "topic"
+      - title: "cat"
         values:
           - "Transcripts"
           - "Photos"
@@ -34,7 +34,7 @@ contents:
     src:
     body: 
     filters:
-      - title: "topic"
+      - title: "cat"
         values:
           - "Transcripts"
           - "Photos"
@@ -46,7 +46,7 @@ contents:
     src:
     body: 
     filters:
-      - title: "topic"
+      - title: "cat"
         values:
           - "Transcripts"
           - "Photos"

@@ -7,7 +7,8 @@ layout: default
 <section class="jumbotron text-center events-jumbotron">
 <div class="container">
 <h1 class="jumbotron-heading text-white">{{ page.title }} at the Abai Center</h1>
-<p class="lead text-white">Events at the Abai Center are open to the public and all are invited. We ask that each attendee to please RSVP to ensure that ammenities are sufficient.</p>
+<h5 class="text-white">Events at the Abai Center are open to the public. We ask that each attendee to please RSVP to ensure that ammenities are sufficient.
+</h5>
 <p>
 <a href="#" class="btn btn-primary my-2 event-btn">View Calendar</a>
 <a href="#upcoming-events" class="btn btn-dark my-2 event-btn">Upcoming Events</a>
@@ -45,7 +46,9 @@ layout: default
                     <button type="button" class="btn btn-sm btn-outline-secondary">Share</button>
                     <button type="button" class="btn btn-sm btn-outline-secondary">RSVP</button>
                 </div>
-                <small class="text-muted">{{ item.filters.values }}</small>
+                {% if item.cat %}
+            <small class="text-muted">{{ item.cat }}</small>
+            {% endif %}
             </div>
         </div>
     </div>
