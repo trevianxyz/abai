@@ -25,6 +25,7 @@ layout: default
     <div class="card mb-4 box-shadow">
         {% if item.title %}
         <h2 class="card-title text-center">{{ item.title }}</h2>
+        <h3 class="card-text text-center">{{ item.event-date }}</h3>
         {% else %}
         <h2 class="card-title text-center"> Event being scheduled </h2>
         {% endif %}
@@ -41,8 +42,10 @@ layout: default
         <div class="card-body">
             <p class="card-text">{{ item.body }}</p>
             <div class="row">
-                <div class="col-md-4 col-sm-12">
+                <div class="col-sm-12">
                 <p class="card-text">{{ item.event-time }}</p>
+                <p class="card-text">{{ item.event-location }}</p>
+                 <p class="card-text">{{ item.event-address }}</p>
                 </div>
 
             </div>

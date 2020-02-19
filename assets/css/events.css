@@ -9,3 +9,7 @@
 
 a.event-btn:visited {color: #fff;} 
 a.event-btn {color: #fff;} 
+
+.card-text {
+  font-weight: bold;
+}
