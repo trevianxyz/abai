@@ -13,9 +13,10 @@ image_graphic-slider: "photo-gallery"
   {% if image.path contains page.filter-directory %}
     <div class="col-6">  
       <div class="tile-grid-item p-2">
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        <img src="{{ site.baseurl }}{{ image.path }}" class="img-thumbnail" alt="image" />
       </div>
     </div>
   {% endif %}
 {% endfor %}
 </div>
+
