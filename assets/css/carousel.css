@@ -39,7 +39,7 @@
 
 
 /* Responsive */
-@media (max-width: 375px) {
+@media (max-width: 767.98px) {
   .usa-hero .carousel-item {
     background-size: 200%;
     background-repeat: no-repeat;
