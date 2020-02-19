@@ -6,7 +6,7 @@ layout: default
 
 <section class="jumbotron text-center events-jumbotron">
 <div class="container">
-<h1 class="jumbotron-heading">{{ page.title }} at the Abai Center</h1>
+<h1 class="jumbotron-heading text-white">{{ page.title }} at the Abai Center</h1>
 <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator,
 etc. Make it short and sweet, but not too short so folks don't simply skip over it entirely.</p>
 <p>
@@ -24,9 +24,9 @@ etc. Make it short and sweet, but not too short so folks don't simply skip over 
 <div class="col-md-4">
     <div class="card mb-4 box-shadow">
         {% if item.title %}
-        <h3 class="card-title">{{ item.title }}</h3>
+        <h2 class="card-title text-center">{{ item.title }}</h2>
         {% else %}
-        <h3 class="card-title"> Event being scheduled </h3>
+        <h2 class="card-title text-center"> Event being scheduled </h2>
         {% endif %}
         {% if item.src %}
         <img class="card-img-top"      
@@ -44,6 +44,7 @@ etc. Make it short and sweet, but not too short so folks don't simply skip over 
                 <div class="btn-group">
                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                     <button type="button" class="btn btn-sm btn-outline-secondary">Share</button>
+                    <button type="button" class="btn btn-sm btn-outline-secondary">RSVP</button>
                 </div>
                 <small class="text-muted">{{ item.filters.values }}</small>
             </div>
