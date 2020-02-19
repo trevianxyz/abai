@@ -1,5 +1,6 @@
 ---
 permalink: /events
-layout: topic
+layout: events
 title: Events
 ---
+

@@ -285,6 +285,7 @@ a.temp-tool-title {
 
 a p.temp-tool-text, a .temp-tool-text p {
   text-decoration: none !important;
+  color: #fff; 
 }
 
 
