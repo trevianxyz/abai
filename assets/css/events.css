@@ -1,0 +1,7 @@
+.events-jumbotron {
+  background-image: linear-gradient(to left, transparent, 80%, white),
+                    url('/assets/images/antenna-cw-cj_nFa14-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 70%;
+}
