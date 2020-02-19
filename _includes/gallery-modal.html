@@ -18,8 +18,11 @@
 </div>
 
 <script>
-    $('.img-thumbnail').on('click', function (e) {
-        openModal(e.target.dataset.img);
+
+    $(document).ready(function() {
+        $('.img-thumbnail').on('click', function (e) {
+            openModal(e.target.dataset.img);
+        })
     })
 
     function openModal(img) {
