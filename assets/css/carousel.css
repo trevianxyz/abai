@@ -23,7 +23,6 @@
 @media (max-width: 768.98px) {
   .usa-hero-callout-alt {
     font-size: 20px;
-
   }
 
 .usa-hero-callout {
@@ -35,15 +34,10 @@
 
   }
 
-}
-
-
-/* Responsive */
-@media (max-width: 767.98px) {
-  .usa-hero .carousel-item {
-    background-size: 200%;
-    background-repeat: no-repeat;
-    background-position: -320px 50px;
-    background-color: #40739e;
+.carousel-item.active {  
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: -890px center !important;
+  height: 450px;
   }
 }
