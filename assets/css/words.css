@@ -23,3 +23,23 @@
         font-size: 1.8rem;
     }
 }
+
+.words-control {
+    display: flex;
+    width: fit-content;
+    padding: 4px;
+    justify-content: start;
+    margin: 2px 0;
+    border: 1px solid #57575750;
+    border-radius: 8px;
+}
+
+.wc {
+    margin: 4px;
+    line-height: 50px;
+}
+
+.w-page {
+    width: 50px;
+    text-align: center;
+}
