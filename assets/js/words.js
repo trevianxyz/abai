@@ -5,7 +5,21 @@ function getCurrent() {
 }
 
 function getNext() {
-    return getCurrent().nextElementSibling;
+    let curr =  getCurrent();
+    if (curr.id == 'w45') {
+        return curr;
+    } else {
+        return curr.nextElementSibling;
+    }
+}
+
+function getPrev() {
+    let curr =  getCurrent();
+    if (curr.id == 'w1') {
+        return curr;
+    } else {
+        return curr.previousElementSibling;
+    }
 }
 
 function get(num) {
@@ -14,6 +28,7 @@ function get(num) {
 }
 
 function activate(e) {
+    console.log('activating ' + e)
     if (typeof(e) == 'number') {
         e = get(e);
     } 
@@ -21,10 +36,10 @@ function activate(e) {
     curr = getCurrent();
     animateCSS(curr, 'fadeOut', function() {
         curr.classList.remove('words-chapter-current')
-    })
-    animateCSS(e, 'fadeIn', function() {
         e.classList.add('words-chapter-current')
     })
+
+    animateCSS(e, 'fadeIn')
     
 }
 
@@ -57,6 +72,36 @@ var cb = function() {
             activate(Math.floor(Math.random() * 44) + 1);
         })
     });
+
+    var next = document.querySelectorAll('.w-right')
+    next.forEach(function(n) {
+        n.addEventListener('click', function() {
+            next = getNext()
+            activate(next)
+        })
+    })
+
+    var prev = document.querySelectorAll('.w-left')
+    prev.forEach(function(p) {
+        p.addEventListener('click', function() {
+            prev = getPrev()
+            activate(prev)
+        })
+    })
+
+    var box = document.querySelectorAll('input.w-page-input')
+    box.forEach(function(b) {
+        b.addEventListener('change', function(i) {
+            val = parseInt(i.target.value)
+            if (typeof(val) == 'number' && !isNaN(val)) {
+                activate(val)
+            } else {
+                i.target.value = getCurrent().id.slice(1);
+            }
+        })
+    })
+
+    //document.addEventListener
 };
   
 if (
