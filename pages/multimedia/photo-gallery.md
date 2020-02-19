@@ -4,6 +4,7 @@ layout: topic
 title: Photo Gallery
 filter-directory: "photo-gallery"
 category: Multimedia
+image_graphic-slider: "photo-gallery"
 ---
 
 <div class="tile-grid d-flex flex-wrap">
