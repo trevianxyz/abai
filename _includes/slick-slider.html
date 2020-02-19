@@ -1,3 +1,4 @@
+ <!--
  <div class="slicky-slider">
     {% for image in site.static_files %}
       {% if image.path contains page.image_graphic-slider %}
@@ -10,7 +11,7 @@
 
 {% unless include.no-modal %}
 
-<div id="myModal" class="modal vw-100">
+<div id="OldModal" class="modal vw-100">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
     <img id="modalImg" src="" alt="modal image" />
@@ -24,12 +25,13 @@
 
   function openModal(img) {
     $('#modalImg').attr('src', img);
-    $('#myModal').show();
+    $('#oldmodal').show();
   }
 
   function closeModal() {
-    $('#myModal').hide();
+    $('#oldmodal').hide();
   }
 </script>
 
 {% endunless %}
+-->
