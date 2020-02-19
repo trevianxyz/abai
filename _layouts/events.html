@@ -23,6 +23,11 @@ etc. Make it short and sweet, but not too short so folks don't simply skip over 
 {% for item in site.data.events.contents %}
 <div class="col-md-4">
     <div class="card mb-4 box-shadow">
+        {% if item.title %}
+        <h3 class="card-title">{{ item.title }}</h3>
+        {% else %}
+        <h3 class="card-title"> Event being scheduled </h3>
+        {% endif %}
         {% if item.src %}
         <img class="card-img-top"      
             data-src="{{ item.src }}"
