@@ -658,11 +658,11 @@ div.footer_logo_col {
 }
 
 header.usa-header {
-  background-image: linear-gradient(to left, transparent, 60%, white),
-                    url();
+  background-image: linear-gradient(to right, transparent, 70%, white),
+                    url(https://abaicenter.nyc3.cdn.digitaloceanspaces.com/abai_purple-bust.png);
   background-repeat: no-repeat;
-  background-size: 40%;
-  background-position: top right 50px;
+  background-size: 10%;
+  background-position: center left 6px;
 }
 
 /* FOOTER */

@@ -13,6 +13,11 @@
     font-size: 2rem;
 }
 
+.words-title {
+  text-decoration: underline;
+  text-decoration-color: #a29bfe;   
+}
+
 /*.words-text > p:first-child:first-letter {
     color: #903; 
     initial-letter: 2;
