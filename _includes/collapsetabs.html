@@ -9,7 +9,8 @@
     <li class="pillz-nav-item">
         <button class="usa-accordion-button {% if counter_pill_tab == 0 %}active{% endif %} pillz-nav-link"
             aria-expanded="false" aria-controls="c-a{{ counter_pill_tab }}">  
-            {{ item.title }}
+        <span class="badge badge-success align-top">Next Event</span> <span>{{ item.title }}</span> 
+            <span class="text-small">{{ item.event-date }}</span>
         </button>
         <div id="c-a{{ counter_pill_tab }}" class="usa-accordion-content">
         <div class="row">
