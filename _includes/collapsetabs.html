@@ -24,6 +24,10 @@ a.pillz-nav-link.nav-link.active.show, .pillz-nav-link:hover {
 i {
     display: block;
 }
+
+.next-event-badge {
+ font-size: 12px;
+}
 </style>
 
 {% assign tab_pages = site.data.events.contents %}
@@ -37,8 +41,8 @@ i {
     <li class="pillz-nav-item">
         <button class="usa-accordion-button {% if counter_pill_tab == 0 %}active{% endif %} pillz-nav-link"
             aria-expanded="false" aria-controls="c-a{{ counter_pill_tab }}">  
-       <i class="fas fa-film fa-lg fa-spin mx-3"></i><span class="align-bottom">Film Sceening: {{ item.title }}</span>, 
-        <span class="text-small align-bottom">{{ item.event-date }}</span><span class="badge badge-success align-top mx-1">Next Event</span>
+       <i class="fas fa-film fa-lg mx-3 align-bottom"></i><span class="align-bottom">Film Sceening: {{ item.title }}</span>, 
+        <span class="text-small align-bottom">{{ item.event-date }}</span><span class="badge badge-success align-top mx-1 next-event-badge">Next Event</span>
         </button>
         <div id="c-a{{ counter_pill_tab }}" class="usa-accordion-content">
         <div class="row">
