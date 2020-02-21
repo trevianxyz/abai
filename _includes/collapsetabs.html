@@ -78,13 +78,13 @@ i {
             </div>
         </div>
         <div class="row">
-        <div class="col-9">
+        <div class="col-sm-12 col-md-9">
          {{ item.body | markdownify }}
     <div class="row">
         <a type="button" href="mailto:beskenabay@gmail.com" role="button" class="btn btn-sm btn-outline-secondary mx-0">RSVP</a>
     </div>
         </div>
-        <div class="col-3">
+        <div class="col-sm-12 col-md-3">
             <img class="img-thumbnail float-left event-list-thumb my-2"
                 data-src="{% if item.src %} {{ item.src }} {% else %} https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiBlue.png {% endif %}"
                 alt="event thumbnail"
