@@ -18,7 +18,7 @@ layout: default
 
 <div class="container">
     <div class="row">
-        <div class="col-md-8 events-list">
+        <div class="col-md-9 order-2 order-md-1 events-list">
             <div class="container" id="upcoming-events">
                 {% for item in site.data.events.contents %}
                 <div class="row"></div>
@@ -66,8 +66,8 @@ layout: default
                 {% endfor %}
                 </div>
         </div>
-        <div class="col-md-4 calendar-box">
-
+        <div class="col-md-3 order-1 order-md-2 calendar-box">
+            <div class="shadow border border-secondary w-100" style="height: 100px;"></div>
         </div>
     </div>
 </div>
