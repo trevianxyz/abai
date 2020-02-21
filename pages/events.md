@@ -4,4 +4,4 @@ layout: events
 title: Events
 ---
 
-{% include calendar-widget.html %}
+{% include events.html %}
