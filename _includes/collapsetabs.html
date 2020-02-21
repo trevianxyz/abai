@@ -58,6 +58,10 @@ i {
         <div class="row">
         <div class="col-9">
          {{ item.body | markdownify }}
+    <div class="row">
+        <button type="button" class="btn btn-sm btn-outline-secondary mx-0">Share</button>
+        <button type="button" class="btn btn-sm btn-outline-secondary mx-0">RSVP</button>
+    </div>
         </div>
         <div class="col-3">
             <img class="img-thumbnail float-right event-list-thumb my-3"
@@ -67,6 +71,7 @@ i {
                 data-holder-rendered="true" />
         </div>
         </div>
+        
         </div>
     </li>
     {% assign counter_pill_tab = counter_pill_tab | plus: 1 %}
