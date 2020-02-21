@@ -3,6 +3,10 @@ layout: default
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/events.css' | prepend: site.baseurl }}" />
+<script>
+    var data = {{ site.data.events | jsonify }};
+</script>
+<script src="{{ '/assets/js/events.js' | prepend: site.baseurl }}"></script>
 
 <section class="jumbotron text-center events-jumbotron mb-0">
     <div class="container">
@@ -72,10 +76,69 @@ layout: default
         </div>
 
         <div class="col-md-3 order-1 order-md-2 calendar-box">
-            <div class="shadow border border-secondary w-100" style="height: 100px;" id="rhs">
-                <h4 class="mt-1 text-center" id="cal-m">February 2020</h4>
-                <div class="" id="cal-grid">
-
+            <div class="shadow border border-secondary w-100" id="rhs">
+                <h4 class="mt-3 text-center" id="cal-m">February 2020</h4>
+                <div class="p-2" id="cal-grid">
+                    <table class="table table-sm text-center" id="cal-table">
+                        <thead class="thead-light">
+                            <tr>
+                                <th>M</th>
+                                <th>T</th>
+                                <th>W</th>
+                                <th>T</th>
+                                <th>F</th>
+                                <th>S</th>
+                                <th>S</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td>1</td>
+                                <td>2</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>4</td>
+                                <td>5</td>
+                                <td>6</td>
+                                <td>7</td>
+                                <td>8</td>
+                                <td>9</td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>11</td>
+                                <td>12</td>
+                                <td>13</td>
+                                <td>14</td>
+                                <td>15</td>
+                                <td>16</td>
+                            </tr>
+                            <tr>
+                                <td>17</td>
+                                <td>18</td>
+                                <td>19</td>
+                                <td>20</td>
+                                <td>21</td>
+                                <td>22</td>
+                                <td>23</td>
+                            </tr>
+                            <tr>
+                                <td>24</td>
+                                <td>25</td>
+                                <td class="day-active">26</td>
+                                <td>27</td>
+                                <td>28</td>
+                                <td>29</td>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
             </div>
         </div>

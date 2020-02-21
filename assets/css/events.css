@@ -29,3 +29,30 @@ a.event-btn:hover {
 .jumbotron-heading {
   text-shadow: -2px 2px 1px black;
 }
+
+table,
+thead,
+tr,
+tbody,
+th,
+td {
+  text-align: center;
+}
+
+.table td {
+  text-align: center;
+}
+
+td.day-active {
+  color: #FFFFFF;
+  font-weight: bold;
+  background-color: #505050;
+  transition: 0.3s;
+}
+
+td.day-active:hover {
+  color: #212121;
+  font-weight: bold;
+  background-color: #e9ecef;
+  cursor: pointer;
+}
