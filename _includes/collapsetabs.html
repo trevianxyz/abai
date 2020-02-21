@@ -28,6 +28,9 @@ i {
 .next-event-badge {
  font-size: 12px;
 }
+.event-list-thumb {
+  height: 245px;
+}
 </style>
 
 {% assign tab_pages = site.data.events.contents %}
@@ -59,12 +62,11 @@ i {
         <div class="col-9">
          {{ item.body | markdownify }}
     <div class="row">
-        <button type="button" class="btn btn-sm btn-outline-secondary mx-0">Share</button>
-        <button type="button" class="btn btn-sm btn-outline-secondary mx-0">RSVP</button>
+        <a type="button" href="mailto:beskenabay@gmail.com" role="button" class="btn btn-sm btn-outline-secondary mx-0">RSVP</a>
     </div>
         </div>
         <div class="col-3">
-            <img class="img-thumbnail float-right event-list-thumb my-3"
+            <img class="img-thumbnail float-left event-list-thumb my-2"
                 data-src="{% if item.src %} {{ item.src }} {% else %} https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiBlue.png {% endif %}"
                 alt="event thumbnail"
                 src="{% if item.src %} {{ item.src }} {% else %} https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiBlue.png {% endif %}"
