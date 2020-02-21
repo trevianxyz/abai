@@ -31,6 +31,26 @@ i {
 .event-list-thumb {
   height: 245px;
 }
+
+@keyframes infinite-spinning {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.fa-film {
+ animation-name: infinite-spinning;
+ animation-duration: 20s; /* or: Xms */
+ animation-iteration-count: 10;
+ animation-direction: alternate; /* or: normal */
+ animation-timing-function: ease-in-out; /* or: ease, ease-in, ease-in-out, linear, cubic-bezier(x1, y1, x2, y2) */
+ animation-delay: 3s; /* or: Xms */
+}
+
+
 </style>
 
 {% assign tab_pages = site.data.events.contents %}
