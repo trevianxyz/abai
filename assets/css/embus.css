@@ -12,7 +12,6 @@ background-size: 12%;
 }
 */
 
-
 img.logo {
   display: block;
   margin-left: auto;
@@ -296,10 +295,10 @@ a.fa-2x {
   text-decoration: none;
 }
 
-
 .newsfeed {
   width: 50%;
 }
+
 /* Responsive */
 @media (max-width: 767.98px) {
 
