@@ -3,14 +3,14 @@
 {% assign counter_pill_tab = 0 %}
 
 {% if tab_pages.size > 0 %}
-<ul class="usa-accordion-bordered tabscollapse ul-nav-pillz mt-1">
+<ul class="usa-accordion-bordered tabscollapse ul-nav-pillz">
     {% for item in tab_pages %}
     {% if item.jumbo-event == true %}
     <li class="pillz-nav-item">
         <button class="usa-accordion-button {% if counter_pill_tab == 0 %}active{% endif %} pillz-nav-link"
             aria-expanded="false" aria-controls="c-a{{ counter_pill_tab }}">  
-        <span class="badge badge-success align-top">Next Event</span> <span>{{ item.title }}</span> 
-            <span class="text-small">{{ item.event-date }}</span>
+       <i class="fas fa-film fa-lg mx-3"></i><span class="align-bottom">Film Sceening: {{ item.title }}</span>, 
+        <span class="text-small align-bottom">{{ item.event-date }}</span><span class="badge badge-success align-top mx-1">Next Event</span>
         </button>
         <div id="c-a{{ counter_pill_tab }}" class="usa-accordion-content">
         <div class="row">
