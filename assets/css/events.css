@@ -56,3 +56,7 @@ td.day-active:hover {
   background-color: #e9ecef;
   cursor: pointer;
 }
+
+.event-list-thumb {
+  height: 245px;
+}
