@@ -7,9 +7,25 @@
   background-size: 70%;
 }
 
-a.event-btn:visited {color: #fff;} 
-a.event-btn {color: #fff;} 
+a.event-btn:visited {
+  color: #fff!important;
+  text-decoration: none!important;
+} 
+
+a.event-btn {
+  color: #fff;
+  text-decoration: none!important;
+} 
+
+a.event-btn:hover {
+  color: #fff!important;
+  text-decoration: none!important;
+} 
 
 .card-text {
   font-weight: bold;
+}
+
+.jumbotron-heading {
+  text-shadow: -2px 2px 1px black;
 }

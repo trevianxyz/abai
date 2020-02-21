@@ -4,68 +4,79 @@ layout: default
 
 <link rel="stylesheet" href="{{ '/assets/css/events.css' | prepend: site.baseurl }}" />
 
-<section class="jumbotron text-center events-jumbotron">
-<div class="container">
-<h1 class="jumbotron-heading text-white">{{ page.title }} at the Abai Center</h1>
-<h5 class="text-white">Events at the Abai Center are open to the public. We ask that each attendee to please RSVP to ensure that amenities are sufficient.
-</h5>
-<p>
-<a href="#calendar" class="btn btn-primary my-2 event-btn">View Calendar</a>
-<a href="#upcoming-events" class="btn btn-dark my-2 event-btn">Upcoming Events</a>
-</p>
-</div>
+<section class="jumbotron text-center events-jumbotron mb-0">
+    <div class="container">
+        <h1 class="jumbotron-heading text-white">{{ page.title }} at the Abai Center</h1>
+        <h5 class="text-white mb-5">
+            Events at the Abai Center are open to the public.<br>
+            We ask that each attendee to please RSVP to ensure that amenities are sufficient.
+        </h5>
+    </div>
 </section>
 
 <div class="album py-5 bg-light">
-<div class="container" id="upcoming-events">
 
-<div class="row">
-{% for item in site.data.events.contents %}
-<div class="col-md-4">
-    <div class="card mb-4 box-shadow">
-        {% if item.title %}
-        <h2 class="card-title text-center">{{ item.title }}</h2>
-        <h3 class="card-text text-center">{{ item.event-date }}</h3>
-        {% else %}
-        <h2 class="card-title text-center"> Event being scheduled </h2>
-        {% endif %}
-        {% if item.src %}
-        <img class="card-img-top"      
-            data-src="{{ item.src }}"
-            alt="Thumbnail [100%x225]" style="height: 245px; width: 70%; display: block; margin-left: auto; margin-right: auto;"
-            src="{{ item.src }}"
-            data-holder-rendered="true" />
-        {% else %}
-        <img class="card-img-top" data-src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiBlue.png" alt="Thumbnail [100%x225]"
-            style="height: 245px; width: 70%; display: block; margin-left: auto; margin-right: auto;" src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiBlue.png" data-holder-rendered="true" />
-        {% endif %}
-        <div class="card-body">
-            <p class="card-text">{{ item.body }}</p>
-            <div class="row">
-                <div class="col-sm-12">
-                <p class="card-text">{{ item.event-time }}</p>
-                <p class="card-text">{{ item.event-location }}</p>
-                 <p class="card-text">{{ item.event-address }}</p>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 events-list">
+            <div class="container" id="upcoming-events">
+                {% for item in site.data.events.contents %}
+                <div class="row"></div>
+                <div class="col-12">
+                    <div class="card mb-4 box-shadow">
+                        {% if item.title %}
+                        <h2 class="card-title text-center">{{ item.title }}</h2>
+                        <h3 class="card-text text-center">{{ item.event-date }}</h3>
+                        {% else %}
+                        <h2 class="card-title text-center"> Event being scheduled </h2>
+                        {% endif %}
+                        {% if item.src %}
+                        <img class="card-img-top"      
+                            data-src="{{ item.src }}"
+                            alt="Thumbnail [100%x225]" style="height: 245px; width: 70%; display: block; margin-left: auto; margin-right: auto;"
+                            src="{{ item.src }}"
+                            data-holder-rendered="true" />
+                        {% else %}
+                        <img class="card-img-top" data-src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiBlue.png" alt="Thumbnail [100%x225]"
+                            style="height: 245px; width: 70%; display: block; margin-left: auto; margin-right: auto;" src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiBlue.png" data-holder-rendered="true" />
+                        {% endif %}
+                        <div class="card-body">
+                            <p class="card-text">{{ item.body }}</p>
+                            <div class="row">
+                                <div class="col-sm-12">
+                                <p class="card-text">{{ item.event-time }}</p>
+                                <p class="card-text">{{ item.event-location }}</p>
+                                 <p class="card-text">{{ item.event-address }}</p>
+                                </div>
+                
+                            </div>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">Share</button>
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">RSVP</button>
+                                </div>
+                                {% if item.cat %}
+                            <small class="text-muted">{{ item.cat }}</small>
+                            {% endif %}
+                            </div>
+                        </div>
+                    </div>
                 </div>
+                {% endfor %}
+                </div>
+        </div>
+        <div class="col-md-4 calendar-box">
 
-            </div>
-            <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary">Share</button>
-                    <button type="button" class="btn btn-sm btn-outline-secondary">RSVP</button>
-                </div>
-                {% if item.cat %}
-            <small class="text-muted">{{ item.cat }}</small>
-            {% endif %}
-            </div>
         </div>
     </div>
 </div>
-{% endfor %}
-</div>
+
+
         </div>
     </div>
+
+
     <div class="container">
 {{ content }}
 </div>
