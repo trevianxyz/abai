@@ -23,7 +23,16 @@
             </div>
         </div>
         <div class="row">
+        <div class="col-9">
          {{ item.body | markdownify }}
+        </div>
+        <div class="col-3">
+            <img class="img-thumbnail float-right event-list-thumb my-3"
+                data-src="{% if item.src %} {{ item.src }} {% else %} https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiBlue.png {% endif %}"
+                alt="event thumbnail"
+                src="{% if item.src %} {{ item.src }} {% else %} https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiBlue.png {% endif %}"
+                data-holder-rendered="true" />
+        </div>
         </div>
         </div>
     </li>
