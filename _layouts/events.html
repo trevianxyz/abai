@@ -19,10 +19,13 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col-md-9 order-2 order-md-1 events-list">
-            <div class="container" id="upcoming-events">
+            <div class="container" id="lhs">
                 {% for item in site.data.events.contents %}
-                <div class="row"></div>
+                <div class="row">
                 <div class="col-12">
+
+                    <!-- EVENT LISTING: title, date, time, thumbnail, buttons -->
+
                     <div class="card mb-4 box-shadow">
                         {% if item.title %}
                         <h2 class="card-title text-center">{{ item.title }}</h2>
@@ -63,20 +66,25 @@ layout: default
                         </div>
                     </div>
                 </div>
-                {% endfor %}
-                </div>
+            </div>
+            {% endfor %}
+            </div>
         </div>
+
         <div class="col-md-3 order-1 order-md-2 calendar-box">
-            <div class="shadow border border-secondary w-100" style="height: 100px;"></div>
+            <div class="shadow border border-secondary w-100" style="height: 100px;" id="rhs">
+                <h4 class="mt-1 text-center" id="cal-m">February 2020</h4>
+                <div class="" id="cal-grid">
+
+                </div>
+            </div>
         </div>
     </div>
 </div>
+</div>
+</div>
 
 
-        </div>
-    </div>
-
-
-    <div class="container">
-{{ content }}
+<div class="container">
+    {{ content }}
 </div>
