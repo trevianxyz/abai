@@ -1,0 +1,46 @@
+<style>
+
+.jumbotron-event-index {
+  background-image: linear-gradient(to left, transparent, 95% ),
+                    url('https://abaicenter.nyc3.cdn.digitaloceanspaces.com/diamond-sword-film.jpg') !important;
+  background-repeat: no-repeat;
+  background-position: right; 
+  background-size: 70%;
+}
+
+</style>
+
+<div class="jumbotron">
+    {% for item in site.data.events.contents %}
+    {% if item.jumbo-event == true %}
+    <div class="row">
+            <h4>Upcoming Events</h4>
+        <div class="col-sm-12 col-md-8">
+        <h1 class="">{{ item.title }}</h1>
+            <div class="row">
+                <div class="flex-column justify-content-start mr-3">
+            <div>{{ item.event-date }}</div>
+            <div>{{ item.event-time }}</div>
+                </div>
+                <div class="flex-column justify-content-end ml-4">
+            <div>{{ item.event-location }}</div>
+            <div>{{ item.event-address }}</div>
+                </div>
+            </div>
+        <p class="lead">{{ item.subtitle }}</p>
+        <hr class="">
+        <p>{{ item.body }}</p>
+        </div>
+        <div class="col-sm-12 col-md-4">
+        <img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/diamond-sword-film.jpg" height="300px" alt="">
+        </div>
+    </div>
+    <div class="row">
+    <p class="lead">
+    <a class="btn btn-primary btn-lg" href="#" role="button">RSVP</a>
+    </p>
+    </div>
+        {% endif %}
+        {% endfor %}
+</div>
+ 

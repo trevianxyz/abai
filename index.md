@@ -29,8 +29,8 @@ frequent_info:
       text: Go to Page
       href: /us-relations
 ---
+{% include collapsetabs.html %}
 {% include page-engine.html %}
-<a href="/about-abai/abai-kazakhstan-in-the-21st-century"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/abai21century.png" class="img-fluid index-banner-img" /></a>
 {% include temp-data-feed.html %}
 <a href="/book-of-words-wordcloud"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/wordsofabaiwordcloud.png" class="img-fluid index-banner-img" /></a>
 {% include media-center.html %}
