@@ -72,6 +72,7 @@ td.day-active.day-selected:hover {
 #event-details {
   display: none;
   position: relative;
+  transition-duration: 0.3s;
 }
 
 #ed-close {
@@ -91,4 +92,9 @@ td.day-active.day-selected:hover {
 
 #event-details.ed-active {
   display: block;
+  transition-duration: 0.3s;
+}
+
+.event-listing {
+  transition-duration: 0.3s;
 }

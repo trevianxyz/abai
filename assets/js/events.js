@@ -112,6 +112,11 @@ function openEventListings() {
 }
 
 domready(function() {
+
+    document.getElementById('ed-close').addEventListener('click', function() {
+        openEventListings();
+        document.getElementById('event-details').classList.remove('ed-active');
+    })
     
     viewBtns = document.querySelectorAll('button.btn-view');
 
@@ -119,6 +124,7 @@ domready(function() {
         b.addEventListener('click', function(b) {
             result = renderEvent(b.target.dataset.eventTitle);
             if (result === 0) {
+                document.getElementById('event-details').classList.add('ed-active');
                 closeEventListings();
             } else {
                 alert("Error: this event is currently unavailable.");
