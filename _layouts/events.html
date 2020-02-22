@@ -14,7 +14,7 @@ layout: default
         <h1 class="jumbotron-heading text-white">{{ page.title }} at the Abai Center</h1>
         <h5 class="text-white mb-5">
             Events at the Abai Center are open to the public.<br>
-            We ask that each attendee to please RSVP to ensure that amenities are sufficient.
+            We ask that each attendee to please RSVP to ensure that amenities are sufficient and that guest are comfortable.
         </h5>
     </div>
 </section>
@@ -37,9 +37,13 @@ layout: default
                                 {% if item.title %}
                                     <h2>{{ item.title }}</h2>
                                     <h3>{{ item.event-date }}, {{ item.event-time }}</h3>
+                                    <div class="event-details-div">
+                                    <div>{{ item.event-location }}</div>
+                                    <div>{{ item.event-address }}</div>
+                                    </div>
                                     <div class="d-flex justify-content-between align-items-center">
                                         <div class="btn-group">
-                                            <button type="button" class="btn btn-sm btn-outline-secondary mx-0 btn-view" data-event-title="{{ item.title }}">View</button>
+                                            <button type="button" class="btn btn-sm btn-outline-secondary mx-0 btn-view" data-event-title="{{ item.title }}">Details</button>
                                             <button type="button" class="btn btn-sm btn-outline-secondary mx-0">Share</button>
                                             <button type="button" class="btn btn-sm btn-outline-secondary mx-0">RSVP</button>
                                         </div>
@@ -58,11 +62,10 @@ layout: default
                                     src="{% if item.src %} {{ item.src }} {% else %} https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiBlue.png {% endif %}"
                                     data-holder-rendered="true" />
                             </div>
-                        </div>
-                    </div>
-
+                            </div>
                 </div>
             </div>
+        </div>
             {% endfor %}
 
             <div class="row bg-white border border-light shadow-sm" id="event-details">
@@ -164,11 +167,11 @@ layout: default
                 </div>
             </div>
         </div>
-    </div>
+        
+        </div>
+    
 </div>
 </div>
-</div>
-
 
 <div class="container">
     {{ content }}

@@ -1,15 +1,70 @@
+<style>
+ 
+.pillz-nav-link {
+  font-size: 20px;
+  color: #000;
+  text-decoration: underline;
+  text-decoration-color: rgba(72, 219, 251,0.2);
+  text-transform: capitalize; 
+}
+
+.ul-nav-pillz {
+  border-bottom: solid 5px #48dbfb !important;
+  background-color: rgba(255, 255, 255,1.0);
+}
+
+a.pillz-nav-link.nav-link.active.show, .pillz-nav-link:hover {
+  background-color: rgba(72, 219, 251,0.5) !important;
+}
+
+.pillz-tab-pane {
+  border-bottom: solid 5px rgba(72, 219, 251,0.2);
+}
+
+i {
+    display: block;
+}
+
+.next-event-badge {
+ font-size: 12px;
+}
+.event-list-thumb {
+  height: 245px;
+}
+
+@keyframes infinite-spinning {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.fa-film {
+ animation-name: infinite-spinning;
+ animation-duration: 20s; /* or: Xms */
+ animation-iteration-count: 10;
+ animation-direction: alternate; /* or: normal */
+ animation-timing-function: ease-in-out; /* or: ease, ease-in, ease-in-out, linear, cubic-bezier(x1, y1, x2, y2) */
+ animation-delay: 3s; /* or: Xms */
+}
+
+</style>
+
 {% assign tab_pages = site.data.events.contents %}
 
 {% assign counter_pill_tab = 0 %}
 
 {% if tab_pages.size > 0 %}
-<ul class="usa-accordion-bordered tabscollapse ul-nav-pillz mt-1">
+<ul class="usa-accordion-bordered tabscollapse ul-nav-pillz">
     {% for item in tab_pages %}
     {% if item.jumbo-event == true %}
     <li class="pillz-nav-item">
         <button class="usa-accordion-button {% if counter_pill_tab == 0 %}active{% endif %} pillz-nav-link"
             aria-expanded="false" aria-controls="c-a{{ counter_pill_tab }}">  
-            {{ item.title }}
+       <i class="fas fa-film fa-lg mx-3 align-bottom"></i><span class="align-bottom">Film Sceening: {{ item.title }}</span>, 
+        <span class="text-small align-bottom">{{ item.event-date }}</span><span class="badge badge-success align-top mx-1 next-event-badge">Next Event</span>
         </button>
         <div id="c-a{{ counter_pill_tab }}" class="usa-accordion-content">
         <div class="row">
@@ -23,8 +78,21 @@
             </div>
         </div>
         <div class="row">
+        <div class="col-sm-12 col-md-9">
          {{ item.body | markdownify }}
+    <div class="row">
+        <a type="button" href="mailto:beskenabay@gmail.com" role="button" class="btn btn-sm btn-outline-secondary mx-0">RSVP</a>
+    </div>
         </div>
+        <div class="col-sm-12 col-md-3">
+            <img class="img-thumbnail float-left event-list-thumb my-2"
+                data-src="{% if item.src %} {{ item.src }} {% else %} https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiBlue.png {% endif %}"
+                alt="event thumbnail"
+                src="{% if item.src %} {{ item.src }} {% else %} https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiBlue.png {% endif %}"
+                data-holder-rendered="true" />
+        </div>
+        </div>
+        
         </div>
     </li>
     {% assign counter_pill_tab = counter_pill_tab | plus: 1 %}
