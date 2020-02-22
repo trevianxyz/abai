@@ -57,6 +57,38 @@ td.day-active:hover {
   cursor: pointer;
 }
 
+td.day-active.day-selected {
+
+}
+
+td.day-active.day-selected:hover {
+  
+}
+
 .event-list-thumb {
   height: 245px;
+}
+
+#event-details {
+  display: none;
+  position: relative;
+}
+
+#ed-close {
+  position: absolute;
+  top: 5px;
+  right: 19px;
+  font-size: 2em;
+  color: #505050;
+  text-decoration: none;
+  z-index: 40000;
+}
+
+#ed-close:hover {
+  color: #212121;
+  cursor: pointer;
+}
+
+#event-details.ed-active {
+  display: block;
 }
