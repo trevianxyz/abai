@@ -62,7 +62,7 @@ td.day-active:hover {
 
 .event-list-thumb:hover {
   transition: .35s ease-in-out;
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
  
 #event-details {

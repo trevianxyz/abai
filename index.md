@@ -33,8 +33,8 @@ frequent_info:
 
 {% include collapsetabs.html %}
 {% include page-engine.html %}
-{% include temp-data-feed.html %}
-{% include slick-slider.html %}
 <a href="/book-of-words-wordcloud"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/wordsofabaiwordcloud.png" class="img-fluid index-banner-img" /></a>
+{% include slick-slider.html %}
+{% include temp-data-feed.html %}
 {% include media-center.html %}
 <a href="#"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/dailyabai.png" class="img-fluid index-banner-img" /></a>
