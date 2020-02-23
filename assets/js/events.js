@@ -138,7 +138,7 @@ domready(function() {
 
     if (window.location.href.includes('?event=')) {
         var urlEvent = window.location.href.slice(window.location.href.lastIndexOf('=') + 1);
-        var title = decodeURIComponent(urlEvent);
+        var title = decodeURIComponent(urlEvent).replace(/\+/g, ' ');
         let result = renderEvent(title);
         if (result === 0) {
             document.getElementById('event-details').classList.add('ed-active');

@@ -73,7 +73,7 @@ text-decoration: none!important;
     <li class="pillz-nav-item">
         <button class="usa-accordion-button {% if counter_pill_tab == 0 %}active{% endif %} pillz-nav-link"
             aria-expanded="false" aria-controls="c-a{{ counter_pill_tab }}">  
-       <i class="fas fa-film fa-lg mx-3 align-bottom"></i><span class="align-bottom">Film Sceening: {{ item.title }}</span>, 
+       <i class="fas fa-film fa-lg mx-3 align-bottom"></i><span class="align-bottom">Film Screening: {{ item.title }}</span>, 
         <span class="text-small align-bottom">{{ item.event-date }}</span><span class="badge badge-success align-top mx-1 next-event-badge">Next Event</span>
         </button>
         <div id="c-a{{ counter_pill_tab }}" class="usa-accordion-content">
@@ -90,9 +90,9 @@ text-decoration: none!important;
         <div class="row">
         <div class="col-sm-12 col-md-9">
          {{ item.body | markdownify }}
-    <div class="row">
-     <a type="button" href="/events" role="button" class="btn btn-sm btn-outline-secondary event-btn mx-0">Details</a>
-    <a type="button" href="mailto:beskenabay@gmail.com" role="button" class="btn btn-sm btn-outline-secondary event-btn mx-0">RSVP</a>
+    <div class="row btn-group">
+      <a type="button" href="/events?event={{ item.title | url_encode }}" role="button" class="btn btn-sm btn-outline-secondary event-btn mx-0">Details</a>
+      <a type="button" href="mailto:{{ item.event-email }}?subject=RSVP: {{ item.title }}" role="button" class="btn btn-sm btn-outline-secondary event-btn mx-0">RSVP</a>
     </div>
         </div>
         <div class="col-sm-12 col-md-3">
