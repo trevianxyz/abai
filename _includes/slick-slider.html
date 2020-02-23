@@ -14,7 +14,8 @@
     {% for image in site.static_files %}
       {% if image.path contains page.images-artists-works %}
     <div class="col px-0">
-        <img src="{{ image.path }}" class="img-thumbnail rounded mx-auto slick-slider-img" data-img="{{ image.path }}">
+        <img src="{{ image.path }}" class="img-thumbnail rounded mx-auto slick-slider-img align-middle"
+          data-img="{{ image.path }}">
     </div>
       {% endif %}
     {% endfor %}
