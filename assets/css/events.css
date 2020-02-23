@@ -56,14 +56,6 @@ td.day-active:hover {
   cursor: pointer;
 }
 
-td.day-active.day-selected {
-
-}
-
-td.day-active.day-selected:hover {
-  
-}
-
 .event-list-thumb {
   height: 245px;
 }

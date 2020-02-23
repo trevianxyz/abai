@@ -50,6 +50,16 @@ i {
  animation-delay: 3s; /* or: Xms */
 }
 
+a.event-btn:visited {
+color: #fff!important;
+text-decoration: none!important;
+}
+
+a.event-btn {
+color: #fff;
+text-decoration: none!important;
+}
+
 </style>
 
 {% assign tab_pages = site.data.events.contents %}
@@ -81,7 +91,8 @@ i {
         <div class="col-sm-12 col-md-9">
          {{ item.body | markdownify }}
     <div class="row">
-        <a type="button" href="mailto:beskenabay@gmail.com" role="button" class="btn btn-sm btn-outline-secondary mx-0">RSVP</a>
+     <a type="button" href="/events" role="button" class="btn btn-sm btn-outline-secondary event-btn mx-0">Details</a>
+    <a type="button" href="mailto:beskenabay@gmail.com" role="button" class="btn btn-sm btn-outline-secondary event-btn mx-0">RSVP</a>
     </div>
         </div>
         <div class="col-sm-12 col-md-3">

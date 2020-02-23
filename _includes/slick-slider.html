@@ -1,20 +1,19 @@
- <!--
- <div class="slicky-slider">
+<div class="slicky-slider">
     {% for image in site.static_files %}
-      {% if image.path contains page.image_graphic-slider %}
+      {% if image.path contains images-artists-works %}
     <div class="col px-0">
         <img src="{{ image.path }}" class="img-thumbnail rounded mx-auto" data-img="{{ image.path }}">
     </div>
     {% endif %}
   {% endfor %}
-  </div>
+</div>
 
 {% unless include.no-modal %}
 
 <div id="OldModal" class="modal vw-100">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
-    <img id="modalImg" src="" alt="modal image" />
+    <img id="modalArtistsworks" src="" alt="modal image" />
   </div>
 </div>
 
@@ -24,14 +23,13 @@
   })
 
   function openModal(img) {
-    $('#modalImg').attr('src', img);
-    $('#oldmodal').show();
+    $('#modalArtistsworks').attr('src', img);
+    $('#OldModal').show();
   }
 
   function closeModal() {
-    $('#oldmodal').hide();
+    $('#OldModal').hide();
   }
 </script>
 
 {% endunless %}
--->
