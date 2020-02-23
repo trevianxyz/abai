@@ -42,7 +42,6 @@ function getEvent(title) {
 function renderEvent(event) {
     console.log('rendering event ' + event)
     if (typeof event === 'string') {
-        console.log('issa string')
         event = getEvent(event);
         console.log(event)
     }
@@ -93,6 +92,11 @@ function renderEvent(event) {
             document.getElementById('ed-body').innerHTML = event.body;
         } else {
             document.getElementById('ed-body').innerHTML = "";
+        }
+
+        if (event['event-email']) {
+            let link = "mailto:" + event['event-email'] + "?subject=RSVP: " + event.title;
+            document.getElementById('ed-rsvp').hre = link;
         }
 
         return 0;
