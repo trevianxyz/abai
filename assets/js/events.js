@@ -136,8 +136,15 @@ domready(function() {
         })
     })
 
+    shareBtns = document.querySelectorAll('button.btn-share');
+
+
+
     if (window.location.href.includes('?event=')) {
-        var urlEvent = window.location.href.slice(window.location.href.lastIndexOf('=') + 1);
+        var urlEvent = window.location.href.slice(window.location.href.lastIndexOf('event=') + 6);
+        if (urlEvent.includes("&")) {
+            urlEvent = urlEvent.slice(0, urlEvent.indexOf('&'));
+        }
         var title = decodeURIComponent(urlEvent).replace(/\+/g, ' ');
         let result = renderEvent(title);
         if (result === 0) {

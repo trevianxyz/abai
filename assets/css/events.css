@@ -123,3 +123,11 @@ td.day-active:hover {
     width: 75%;
   }
 }
+
+.event-share-link {
+  font-size: 0.7em !important;
+}
+
+a.btn > i {
+  color: white !important;
+}
