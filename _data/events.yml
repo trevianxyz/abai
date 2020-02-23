@@ -15,30 +15,16 @@ contents:
           - "Transcripts"
           - "Photos"
           - "Resources"
-      - title:
-        values:
-          - "Open to the Public"
+  - title:  
+    subtitle: 
+    src:
+    body: 
   - title:  
     subtitle: 
     src:
     body: 
     filters:
-      - title: "cat"
+      - title: 
         values:
-          - "Transcripts"
-          - "Photos"
-          - "Resources"
-      - title:
-        values:
-  - title:  
-    subtitle: 
-    src:
-    body: 
-    filters:
-      - title: "cat"
-        values:
-          - "Transcripts"
-          - "Photos"
-          - "Resources"
       - title:
         values:

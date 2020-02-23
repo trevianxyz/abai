@@ -46,10 +46,12 @@ layout: default
                                             <button type="button" class="btn btn-sm btn-outline-secondary mx-0 btn-view" data-event-title="{{ item.title }}">Details</button>
                                             <button type="button" class="btn btn-sm btn-outline-secondary mx-0">Share</button>
                                             <button type="button" class="btn btn-sm btn-outline-secondary mx-0">RSVP</button>
-                                        </div>
-                                        {% if item.cat %}
-                                            <small class="text-muted">{{ item.cat }}</small>
-                                        {% endif %}
+                                        </div>   
+                                    </div>
+                                    <div class="d-flex justify-content-start align-items-center">
+                                        <small class="btn btn-outline-info mx-2">Transcripts</small>
+                                        <small class="btn btn-outline-success mx-2">Photos</small>
+                                        <small class="btn btn-outline-danger mx-2">Resources</small>
                                     </div>
                                 {% else %}
                                     <h2>Event being scheduled</h2>
