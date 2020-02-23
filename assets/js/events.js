@@ -54,6 +54,13 @@ function renderEvent(event) {
 
         if (event.title) {
             document.getElementById('ed-title').innerHTML = event.title;
+            let sharebox = document.querySelector('div[data-event-share="' + event.title + '"').cloneNode(true);
+            sharebox.id = "ed-sharebox";
+            document.getElementById('ed-btns').insertAdjacentElement('afterend', sharebox);
+            document.getElementById('ed-sharebox').classList.add('d-none');
+            document.getElementById('ed-share').addEventListener('click', function(b) {
+                document.getElementById('ed-sharebox').classList.toggle('d-none');
+            })
         } else {
             document.getElementById('ed-title').innerHTML = "";
         }
