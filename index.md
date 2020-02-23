@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: Home | Abai Center
+images-artists-works: "abai-artists"
 frequent_info:
   - title: About Ambassador Kazykhanov
     body: Ambassador Kazykhanov is one of Kazakhstan's most experienced diplomats, and has served as ambassador to several missions, foreign minister and assistant to President Nazarbayev.
@@ -29,10 +30,11 @@ frequent_info:
       text: Go to Page
       href: /us-relations
 ---
+
 {% include collapsetabs.html %}
 {% include page-engine.html %}
-{% include slick-slider.html %} 
 {% include temp-data-feed.html %}
+{% include slick-slider.html %}
 <a href="/book-of-words-wordcloud"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/wordsofabaiwordcloud.png" class="img-fluid index-banner-img" /></a>
 {% include media-center.html %}
 <a href="#"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/dailyabai.png" class="img-fluid index-banner-img" /></a>

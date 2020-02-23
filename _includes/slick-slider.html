@@ -1,13 +1,17 @@
+<link rel="stylesheet" href="{{ '/assets/css/slick-slider.css' | prepend: site.baseurl }}" />
+
+<div class="container">
 <div class="slicky-slider">
     {% for image in site.static_files %}
-      {% if image.path contains images-artists-works %}
+      {% if image.path contains page.images-artists-works %}
     <div class="col px-0">
-        <img src="{{ image.path }}" class="img-thumbnail rounded mx-auto" data-img="{{ image.path }}">
+        <img src="{{ image.path }}" class="img-thumbnail rounded mx-auto" height="200px" data-img="{{ image.path }}">
     </div>
-    {% endif %}
-  {% endfor %}
+      {% endif %}
+    {% endfor %}
 </div>
-
+</div>
+<!--
 {% unless include.no-modal %}
 
 <div id="OldModal" class="modal vw-100">
@@ -32,4 +36,4 @@
   }
 </script>
 
-{% endunless %}
+{% endunless %} -->
