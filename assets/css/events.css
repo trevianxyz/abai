@@ -81,6 +81,13 @@ td.day-active:hover {
   cursor: pointer;
 }
 
+#ed-img:hover {
+  transition: 5s 10s;
+  transition-delay: 100ms;
+  transform: scale(2);
+  transition-timing-function: ease;
+}
+
 #event-details.ed-active {
   display: block;
   transition-duration: 0.3s;
