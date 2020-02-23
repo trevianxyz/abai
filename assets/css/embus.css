@@ -39,7 +39,7 @@ img.postimage {
   margin-right: auto;
   height: 220px;
   width: auto;
-  border: solid 2px #192a56;
+  border: solid 2px #000;
 }
 
 .index-banner-img:hover {
@@ -307,9 +307,10 @@ a.fa-2x {
 
 .index-banner-img {
   height: auto;
-  width: 100%;
-  margin-left: 30px;
-  margin-right: 30px;
+  width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 iframe.polling-embus{

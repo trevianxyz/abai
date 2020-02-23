@@ -1,14 +1,8 @@
 h2 {
     text-align: center;
-    padding: 20px;
 }
 
 /* Slider */
-
-.slick-slide {
-    margin: 0px 20px;
-}
-
 
 .slick-slider {
     position: relative;
@@ -77,6 +71,7 @@ h2 {
     float: left;
     height: 100%;
     min-height: 1px;
+    margin: 0px 10px;
 }
 
 [dir='rtl'] .slick-slide {
@@ -153,3 +148,12 @@ div.col.slick-slide a:visited {
 .slick-arrow>i {
     color: #FFFFFF;
 }
+
+@media (max-width: 767.98px) {
+
+.slick-arrow {
+    width: 1em;
+}
+
+}
+
