@@ -136,4 +136,16 @@ domready(function() {
         })
     })
 
+    if (window.location.href.includes('?event=')) {
+        var urlEvent = window.location.href.slice(window.location.href.lastIndexOf('=') + 1);
+        var title = decodeURIComponent(urlEvent);
+        let result = renderEvent(title);
+        if (result === 0) {
+            document.getElementById('event-details').classList.add('ed-active');
+            closeEventListings();
+        } else {
+            alert("Error: this event is currently unavailable.");
+        }
+    }
+
 })
