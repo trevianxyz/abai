@@ -7,7 +7,7 @@ contents:
     event-time: "5:30pm - 8:30pm"
     event-location: "Elliott School of International Affairs, Room 213"
     event-address: "1957 E St NW, Washington, DC 20052"
-    organizer-comment: "Please RSVP at beskenabay@gmail.com"
+    event-email: "beskenabay@gmail.com"
     jumbo-event: true
     filters:
       - title: "cat"
