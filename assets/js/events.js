@@ -138,7 +138,11 @@ domready(function() {
 
     shareBtns = document.querySelectorAll('button.btn-share');
 
-
+    shareBtns.forEach(function(b) {
+        b.addEventListener('click', function(b) {
+            document.getElementById(b.target.dataset.target).classList.toggle('d-none');
+        })
+    })
 
     if (window.location.href.includes('?event=')) {
         var urlEvent = window.location.href.slice(window.location.href.lastIndexOf('event=') + 6);

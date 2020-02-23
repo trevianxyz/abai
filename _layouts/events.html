@@ -51,12 +51,12 @@ layout: default
                                     <div class="d-flex justify-content-between align-items-center mb-3">
                                         <div class="btn-group">
                                             <button type="button" class="btn btn-sm btn-outline-secondary mx-0 btn-view" data-event-title="{{ item.title }}">Details</button>
-                                            <button type="button" class="btn btn-sm btn-outline-secondary mx-0 btn-share" data-event-url="https://abaicenter.com/events?event={{ item.title | url_encode }}">Share</button>
+                                            <button type="button" class="btn btn-sm btn-outline-secondary mx-0 btn-share" data-event-url="https://abaicenter.com/events?event={{ item.title | url_encode }}" data-target="share-{{ item.title | slugify }}">Share</button>
                                             <a type="button" class="btn btn-sm btn-outline-secondary mx-0 btn-rsvp" {% if item.event-email %}href="mailto:{{ item.event-email }}?subject=RSVP: {{ item.title }}"{% endif %}>RSVP</a>
                                         </div>   
                                     </div>
 
-                                    <div class="share bg-light border-light rounded mb-3 p-4">
+                                    <div id="share-{{ item.title | slugify }}" data-event-share="{{ item.title }}" class="share bg-light border-light rounded mb-3 p-4 d-none">
                                         <h5 class="mt-0 mb-3">Share This Event</h5>
 
                                         <small class="text-secondary">Social Media</small>
