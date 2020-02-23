@@ -56,18 +56,15 @@ td.day-active:hover {
   cursor: pointer;
 }
 
-td.day-active.day-selected {
-
-}
-
-td.day-active.day-selected:hover {
-  
-}
-
 .event-list-thumb {
   height: 245px;
 }
 
+.event-list-thumb:hover {
+  transition: .35s ease-in-out;
+  transform: scale(1.1);
+}
+ 
 #event-details {
   display: none;
   position: relative;
@@ -87,6 +84,13 @@ td.day-active.day-selected:hover {
 #ed-close:hover {
   color: #212121;
   cursor: pointer;
+}
+
+#ed-img:hover {
+  transition: 5s 10s;
+  transition-delay: 100ms;
+  transform: scale(2);
+  transition-timing-function: ease;
 }
 
 #event-details.ed-active {

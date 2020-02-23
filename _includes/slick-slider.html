@@ -1,20 +1,33 @@
- <!--
- <div class="slicky-slider">
-    {% for image in site.static_files %}
-      {% if image.path contains page.image_graphic-slider %}
-    <div class="col px-0">
-        <img src="{{ image.path }}" class="img-thumbnail rounded mx-auto" data-img="{{ image.path }}">
-    </div>
-    {% endif %}
-  {% endfor %}
-  </div>
+<link rel="stylesheet" href="{{ '/assets/css/slick-slider.css' | prepend: site.baseurl }}" />
 
+<div class="container">
+  <div>
+   <h2>{{ "abai through Artists' Eyes" | upcase }}</h2> 
+  <p>Abai Kunanbaiuly is one of the most inspiring figures in Kazakh art.
+    Classic paintings, rare photos, and modern pop images depicting Abai
+    transcend generations and social constructs. Every artist sees him
+    differently, from their own soul, leading to particular
+    representations and unique visuals.
+  </p>
+</div>
+<div class="slicky-slider">
+    {% for image in site.static_files %}
+      {% if image.path contains page.images-artists-works %}
+    <div class="col px-0">
+        <img src="{{ image.path }}" class="img-thumbnail rounded mx-auto slick-slider-img align-middle"
+          data-img="{{ image.path }}">
+    </div>
+      {% endif %}
+    {% endfor %}
+</div>
+</div>
+<!--
 {% unless include.no-modal %}
 
 <div id="OldModal" class="modal vw-100">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
-    <img id="modalImg" src="" alt="modal image" />
+    <img id="modalArtistsworks" src="" alt="modal image" />
   </div>
 </div>
 
@@ -24,14 +37,13 @@
   })
 
   function openModal(img) {
-    $('#modalImg').attr('src', img);
-    $('#oldmodal').show();
+    $('#modalArtistsworks').attr('src', img);
+    $('#OldModal').show();
   }
 
   function closeModal() {
-    $('#oldmodal').hide();
+    $('#OldModal').hide();
   }
 </script>
 
-{% endunless %}
--->
+{% endunless %} -->
