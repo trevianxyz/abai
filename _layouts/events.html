@@ -64,8 +64,8 @@ layout: default
                                             <a type="button" href="https://twitter.com/intent/tweet?text=I'm%20attending%20{{ item.title }}%3A%20{{ "https://abaicenter.com/events?event=" | append: item.title | url_encode | replace: "+", "%2B"}}" target="_blank" class="btn btn-sm"><i class="fab fa-twitter"></i></a>
                                             <a type="button" href="https://www.facebook.com/sharer/sharer.php?u={{ "https://abaicenter.com/events?event=" | append: item.title | url_encode }}" target="_blank" class="btn btn-sm"><i class="fab fa-facebook"></i></a>
                                             <a type="button" href="https://www.linkedin.com/shareArticle?mini=true&url={{ "https://abaicenter.com/events?event=" | append: item.title | url_encode }}&title={{ item.title | url_encode }}&summary=&source=" target="_blank" class="btn btn-sm"><i class="fab fa-linkedin"></i></a>
-                                            <a type="button" href="https://www.facebook.com/sharer/sharer.php?u={{ "https://abaicenter.com/events?event=" | append: item.title | url_encode }}" target="_blank" class="btn btn-sm"><i class="fab fa-telegram"></i></a>
-                                            <a type="button" href="https://www.facebook.com/sharer/sharer.php?u={{ "https://abaicenter.com/events?event=" | append: item.title | url_encode }}" target="_blank" class="btn btn-sm"><i class="fab fa-whatsapp"></i></a>
+                                            <a type="button" href="https://telegram.me/share/url?url={{ "https://abaicenter.com/events?event=" | append: item.title | url_encode }}&text={{ "I'm attending" | append: item.title | url_encode }}" target="_blank" class="btn btn-sm"><i class="fab fa-telegram"></i></a>
+                                            <a type="button" href="whatsapp://send?text={{ "https://abaicenter.com/events?event=" | append: item.title | url_encode }}" data-action="share/whatsapp/share" class="btn btn-sm"><i class="fab fa-whatsapp"></i></a>
                                         </div>
 
                                         <small class="text-secondary">Event Link</small>
