@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="{{ '/assets/css/slick-slider.css' | prepend: site.baseurl }}" />
+<link rel="stylesheet" href="{{ '/assets/css/photo-gallery.css' | prepend: site.baseurl }}" />
 
 <div class="container">
   <div>
@@ -21,10 +22,10 @@
     {% endfor %}
 </div>
 </div>
-<!--
+
 {% unless include.no-modal %}
 
-<div id="OldModal" class="modal vw-100">
+<div id="OldModal" class="modal vw-50">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
     <img id="modalArtistsworks" src="" alt="modal image" />
@@ -46,4 +47,4 @@
   }
 </script>
 
-{% endunless %} -->
+{% endunless %}
