@@ -45,7 +45,7 @@ td {
 td.day-active {
   color: #FFFFFF;
   font-weight: bold;
-  background-color: #01a3a4;
+  background-color: #505050;
   transition: 0.3s;
 }
 
