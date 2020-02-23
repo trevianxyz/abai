@@ -51,9 +51,25 @@ layout: default
                                     <div class="d-flex justify-content-between align-items-center mb-3">
                                         <div class="btn-group">
                                             <button type="button" class="btn btn-sm btn-outline-secondary mx-0 btn-view" data-event-title="{{ item.title }}">Details</button>
-                                            <button type="button" class="btn btn-sm btn-outline-secondary mx-0" data-event-url="https://abaicenter.com/events?event={{ item.title | url_encode }}">Share</button>
+                                            <button type="button" class="btn btn-sm btn-outline-secondary mx-0 btn-share" data-event-url="https://abaicenter.com/events?event={{ item.title | url_encode }}" data-target="share-{{ item.title | slugify }}">Share</button>
                                             <a type="button" class="btn btn-sm btn-outline-secondary mx-0 btn-rsvp" {% if item.event-email %}href="mailto:{{ item.event-email }}?subject=RSVP: {{ item.title }}"{% endif %}>RSVP</a>
                                         </div>   
+                                    </div>
+
+                                    <div id="share-{{ item.title | slugify }}" data-event-share="{{ item.title }}" class="share bg-light border-light rounded mb-3 p-4 d-none">
+                                        <h5 class="mt-0 mb-3">Share This Event</h5>
+
+                                        <small class="text-secondary">Social Media</small>
+                                        <div class="event-share-social-container">
+                                            <a type="button" href="https://twitter.com/intent/tweet?text=I'm%20attending%20{{ item.title }}%3A%20{{ "https://abaicenter.com/events?event=" | append: item.title | url_encode | replace: "+", "%2B"}}" target="_blank" class="btn btn-sm"><i class="fab fa-twitter"></i></a>
+                                            <a type="button" href="https://www.facebook.com/sharer/sharer.php?u={{ "https://abaicenter.com/events?event=" | append: item.title | url_encode }}" target="_blank" class="btn btn-sm"><i class="fab fa-facebook"></i></a>
+                                            <a type="button" href="https://www.linkedin.com/shareArticle?mini=true&url={{ "https://abaicenter.com/events?event=" | append: item.title | url_encode }}&title={{ item.title | url_encode }}&summary=&source=" target="_blank" class="btn btn-sm"><i class="fab fa-linkedin"></i></a>
+                                            <a type="button" href="https://telegram.me/share/url?url={{ "https://abaicenter.com/events?event=" | append: item.title | url_encode }}&text={{ "I'm attending" | append: item.title | url_encode }}" target="_blank" class="btn btn-sm"><i class="fab fa-telegram"></i></a>
+                                            <a type="button" href="whatsapp://send?text={{ "https://abaicenter.com/events?event=" | append: item.title | url_encode }}" data-action="share/whatsapp/share" class="btn btn-sm"><i class="fab fa-whatsapp"></i></a>
+                                        </div>
+
+                                        <small class="text-secondary">Event Link</small>
+                                        <pre class="mt-2 p-3 bg-secondary text-light rounded event-share-link">https://abaicenter.com/events?event={{ item.title | url_encode }}</pre>
                                     </div>
                                     
                                 {% else %}
@@ -79,7 +95,7 @@ layout: default
             
             <div class="col-12">
                 
-                <img id="ed-img" class="img-thumbnail mx-auto w-25 d-block mt-3"      
+                <img id="ed-img" class="img-thumbnail mx-auto d-block mt-3"      
                                     data-src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiBlue.png"
                                     alt="event thumbnail"
                                     src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/AbaiBlue.png"
@@ -107,9 +123,9 @@ layout: default
                     <small class="text-secondary ml-2">Resources</small>
                 </div>
 
-                <div class="d-flex justify-content-center align-items-center mb-3">
+                <div id="ed-btns" class="d-flex justify-content-center align-items-center mb-3">
                     <div class="btn-group">
-                        <button type="button" class="btn btn-sm btn-outline-secondary mx-0">Share</button>
+                        <button id="ed-share" type="button" class="btn btn-sm btn-outline-secondary mx-0">Share</button>
                         <a id="ed-rsvp" type="button" class="btn btn-sm btn-outline-secondary mx-0 btn-rsvp">RSVP</a>
                     </div>   
                 </div>

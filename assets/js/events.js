@@ -54,6 +54,13 @@ function renderEvent(event) {
 
         if (event.title) {
             document.getElementById('ed-title').innerHTML = event.title;
+            let sharebox = document.querySelector('div[data-event-share="' + event.title + '"').cloneNode(true);
+            sharebox.id = "ed-sharebox";
+            document.getElementById('ed-btns').insertAdjacentElement('afterend', sharebox);
+            document.getElementById('ed-sharebox').classList.add('d-none');
+            document.getElementById('ed-share').addEventListener('click', function(b) {
+                document.getElementById('ed-sharebox').classList.toggle('d-none');
+            })
         } else {
             document.getElementById('ed-title').innerHTML = "";
         }
@@ -136,8 +143,19 @@ domready(function() {
         })
     })
 
+    shareBtns = document.querySelectorAll('button.btn-share');
+
+    shareBtns.forEach(function(b) {
+        b.addEventListener('click', function(b) {
+            document.getElementById(b.target.dataset.target).classList.toggle('d-none');
+        })
+    })
+
     if (window.location.href.includes('?event=')) {
-        var urlEvent = window.location.href.slice(window.location.href.lastIndexOf('=') + 1);
+        var urlEvent = window.location.href.slice(window.location.href.lastIndexOf('event=') + 6);
+        if (urlEvent.includes("&")) {
+            urlEvent = urlEvent.slice(0, urlEvent.indexOf('&'));
+        }
         var title = decodeURIComponent(urlEvent).replace(/\+/g, ' ');
         let result = renderEvent(title);
         if (result === 0) {

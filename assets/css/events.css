@@ -113,3 +113,21 @@ td.day-active:hover {
 .btn-rsvp:active {
   color: white!important;
 }
+
+#ed-img {
+  width: 25%;
+}
+
+@media (max-width: 768px) {
+  #ed-img {
+    width: 75%;
+  }
+}
+
+.event-share-link {
+  font-size: 0.7em !important;
+}
+
+a.btn > i {
+  color: white !important;
+}
