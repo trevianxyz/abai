@@ -44,13 +44,13 @@ It seems safe to say that in his nature poetry, Abai is the authentic voice of h
 ### Love
 Nature often serves as the backdrop for love and passion: 
 
-In the silent, luminous night									On the water the moonbeams quiver.								In the gully beyond the aul								Tumultuous, roars the river.
+_In the silent, luminous night									On the water the moonbeams quiver.								In the gully beyond the aul								Tumultuous, roars the river._
 
-The mountains respond in a choir								To the shepherd dogs hidden from view.								You come in a flowery dress									To your midnight rendezvous.									
+_The mountains respond in a choir								To the shepherd dogs hidden from view.								You come in a flowery dress									To your midnight rendezvous._									
 
-At once both bold and meek									Full of sweet girlish grace,									You furtively look around,									Blushes light up your face.
+_At once both bold and meek									Full of sweet girlish grace,									You furtively look around,									Blushes light up your face._
 
-Not venturing even to speak									With a soft half-sigh, half-groan									On tip-toe you rise and press									Your trembling lips to my own. 
+_Not venturing even to speak									With a soft half-sigh, half-groan									On tip-toe you rise and press									Your trembling lips to my own._ 
 
 In this poem, written in 1888, nature provides shelter, a hideout for the lovers. Human emotions live in harmony with the movements of the trees, the moon, and the river. In this and other love poems, passion is captured as an overwhelming, tormenting, but ultimately gratifying power. The erotic candor of Abai’s love poems is remarkable in itself, demonstrating how the poet fully embraces all aspects of love, including the physical.
 
@@ -72,34 +72,34 @@ The poetic form gives these conclusions a crisp shape but also makes it more per
 ### The Mission of Poetry 
 In his poetry, Abai often asks himself: why do I use the poetic form in the first place? Who is my target audience? And he answers with a stringently formulated credo:
 
-Not for amusement do I write my verse,								Nor do I stuff it full of silly words.								It’s for the young I write, for those								Whose hearing is acute, whose senses are alert.							Men who have vision and are quick to give response						Will understand the message in my verse.
+_Not for amusement do I write my verse,								Nor do I stuff it full of silly words.								It’s for the young I write, for those								Whose hearing is acute, whose senses are alert.							Men who have vision and are quick to give response						Will understand the message in my verse._
 
 Abai’s poem confirms his identity as a teacher of life, an identity he has acquired through many hard lessons. Being privy to hearing or reading his poetry is the right of those who are open to those lessons, to shared experiences; those who are eager for entertainment should look elsewhere.  
 
 ### Philosophy 
 Philosophical questions are at the center of several of Abai’s poems, addressing existential aspects of our life here on Earth and thereafter. One of these poems, written in 1895, begins with a seeming paradox: Nature may be mortal, but humans are not. For a Western reader educated in a rationalistic framework, this is a paradoxical statement, as the opposite seems to be true: human beings exist in the world for a limited time, while nature in its universality will always be there. But Abai’s worldview is rigorously anthropocentric. The supremacy of humanity in the universe, the fundamental respect for human potential and accomplishments turns the relationship around: Nature is mortal, humans are immortal! Abai’s radical reversal of the conventional relationship between humanity and the universe is rarely found in Western poetry; it is hard to say whether this is a demonstration of the primacy of his religious views or whether Abai speaks strictly within a poetic paradigm. Conspicuously, his anthropocentrism has found a continuation in 20th-century Kazakh poetry, for example, in Suleimenov. 
 
-Maybe nature is mortal, but man is not.								Though there is no coming back									When he draws his last breath.									The separation of I and Mine									Only the ignorant regard as death. (…) 
+_Maybe nature is mortal, but man is not.								Though there is no coming back									When he draws his last breath.									The separation of I and Mine									Only the ignorant regard as death. (…)_ 
 
-This world and the other can’t both be loved.							The divine and the earthly must be divorced.							But a man’s no believer if he in his heart								Loves this world all too much, and the other perforce.
+_This world and the other can’t both be loved.							The divine and the earthly must be divorced.							But a man’s no believer if he in his heart								Loves this world all too much, and the other perforce._
 
 ### The Nation
 Among the central themes in Abai’s poetry is his nation. The Kazakhs are his people, but who are they, what are their values? Whenever Abai ponders these questions, he is a stern judge; his directness in addressing national vices, as he sees them, is both awesome and terrifying. 
 
-Oh my luckless Kazakh, my unfortunate kin,
+_Oh my luckless Kazakh, my unfortunate kin,
 An unkempt moustache hides your mouth and chin.
 Blood on your right cheek, fat on your left –
-When will the dawn of your reason begin?
+When will the dawn of your reason begin?_
 
-Your looks are not bad and your numbers are vast,
+_Your looks are not bad and your numbers are vast,
 Yet why do you change your favors so fast?
 You will never listen to sound advice,
-Your tongue in its rashness is unsurpassed. (…)
+Your tongue in its rashness is unsurpassed. (…)_
 
-Kinsmen for trifle each other hate.
+_Kinsmen for trifle each other hate.
 God bereft them of reason – such is their fate.
 No honor, no harmony, only dissent;
-No wonder cattle is scarcer of late. 								
+No wonder cattle is scarcer of late._
 
 The sternness and directness with which Abai chastises his nation is astonishing; it is hard to think of other poets revered by their nations who would be able to express such critical sentiments. Indeed, there is no hopeful outlook softening his message – the only way the poet can talk to his people is in uncompromising moral certitude, with a candor that is almost merciless. The fact that the Kazakh nation nonetheless loves Abai reveals a willingness to put up with harsh words as long as they are perceived as truthful. 
 
