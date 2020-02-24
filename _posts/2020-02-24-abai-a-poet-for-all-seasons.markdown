@@ -10,7 +10,7 @@ noshow_img: true
 
 By [{{ page.author }}](#author)
 
-Life
+## Life
 Abai Kunanbaev, the great thinker, enlightener, poet, and composer of the Kazakh people, was born on August 10, 1845 in the Genghis mountains of the Semipalatinsk region. His father, Kunanbai Uskenbaev, was a highly influential elder of the Tobykty Clan, part of the Middle Juz. Abai was educated at home by a mullah, later in the Semipalatinsk madrasah (medrese), and in a Russian school. He studied the Holy Koran, foreign languages, including Arab and Farsi, and read the works of Eastern poets and scientists such as Firdousi, Navoi, and Avicenna. Although a deeply religious man, Abai has also been praised as Kazakhstan’s supreme enlightener.	
 
 Abai’s father had high hopes for his son, expecting that one day, he would be his loyal aide in all legal matters relating to other clans, which were often fraught with conflict. To some extent, Abai justified these hopes – he became one of the most famous law experts of his time. However, he was also influenced by classical humanistic ideas and suffered from the unforgiving cruelty of his environment caused by Russian colonial rule and native patriarchal tradition. Among Abai’s Russian acquaintances were several exiled intellectuals whose liberal ideas influenced him. Abai viewed it as his mission to acquaint Kazakhs with the accomplishments of world literature. He rendered some of the best translations of the works of Pushkin, Lermontov, and Krylov, as well as Byron, Goethe, and Heine into the Kazakh language. Another major influence on Abai’s thinking were classical philosophers – Socrates, Plato, Aristotle. 
@@ -23,21 +23,25 @@ A major formative factor in Abai’s upbringing was his contentious relationship
 Abai was a widely respected intellectual whose opinion was valued, including by the Russian administration, especially in legal conflicts. But in his life, he had to face numerous tragedies. He lost two of his sons to tuberculosis in 1895 and in 1904. Struck by grief, his own will to live waned quickly. Abai died on July 6, 1904 and was buried in Zhidebai. In the 1940s and 1950s, Kazakh writer Mukhtar Auezov turned Abai’s life into a four-volume epic, arguably the greatest achievement of Kazakh literature: The Path of Abai (Abai Zholy). Auezov created a veritable encyclopedia of Kazakh culture and customs, unparalleled in its richness and psychological depth. The Kazakh people’s multi-layered nomadic society with its complex relationships, encompassing both time-honored traditions and irrational excesses, is shown through the prism of Abai, a decent man, loyal friend, passionate lover, and deep thinker. This novel is more than a fictionalized biography: it is the portrait of a nation.    
 As with all great artists, Abai’s legacy has been interpreted differently in each subsequent period. Soviet specialists put the strongest emphasis on the social relevance of his work: whereas in the 1920s, the focus was more on the individualistic and spiritual aspects of his texts, in particular, the suffering of the intellectual in a world that largely disrespects education, in post-Soviet decades, the national specifics of Abai’s oeuvre became prevalent. Reading Abai’s poetic texts today, it is clear that they contain multiple elements and allow for a variety of interpretive approaches, all of which are legitimate in their own way. However, the surest method to understand Abai in a way that is true to his original intentions is to read the original texts. It is not an exaggeration to say that any exploration of Kazakhstan without an immersion in the legacy of Abai would be incomplete. 
  
-Poetry
+## Poetry
 
-Nature
+### Nature
 Abai used poetry to capture the atmosphere of the aul and the steppe during different times of the year. His cycle on the seasons is particularly remarkable as it deviates from typical perceptions of nature in other national literatures, giving Abai’s poetry an unmistakably Kazakh dimension. “Autumn” (1888), for example, emphasizes darkness and not the celebration of plentiful harvesting, whereas “Winter” reflects existential danger, conveying a unique attitude toward forces of nature that defines the life of Kazakhs for many months. In Abai’s poetic world, winter appears as a person, and it is not a friendly one: 
 
-His beetling eyebrows are knit in a frown.
-When he tosses his head – dismal snow starts to fall.						Like a crazy old camel he acts in his rage,						Rocking and shaking our yurt’s thin wall. 
+_His beetling eyebrows are knit in a frown._
+_When he tosses his head – dismal snow starts to fall._
+_Like a crazy old camel he acts in his rage,_
+_Rocking and shaking our yurt’s thin wall._
 
-The horses in vain try to shatter the ice – 
-The hungry herd scarcely shuffle their feet,							Greedy wolves – winter’s henchmen – have their fangs;						Watch, or disaster your flocks may meet!
+_The horses in vain try to shatter the ice –_
+_The hungry herd scarcely shuffle their feet,_
+_Greedy wolves – winter’s henchmen – have their fangs;_
+_Watch, or disaster your flocks may meet!_
 
 Unlike winter poems in other national literatures, Abai’s points to this season’s deadly consequences for people and animals alike: neither is it associated with the glittering beauty of fresh snow, nor the purity of the blue winter sky, nor the vastness of white fields or the joys of sleighing, skiing, and skating. Instead, Abai shows all the dangers that winter brings. Metaphors, such as wolves acting as “winter’s greedy henchmen,” point to an impending doom, a darkly existential dimension of this season in the Kazakh people’s perception.
 It seems safe to say that in his nature poetry, Abai is the authentic voice of his nation: he expresses the emotions that he, just like every Kazakh, experiences in his interactions with the forces of life. For the inner tension of these poems it is essential that the auctorial voice is not that of an outside observer. Rather, he and his people are one, his viewpoint is theirs. 
 
-Love
+### Love
 Nature often serves as the backdrop for love and passion: 
 
 In the silent, luminous night									On the water the moonbeams quiver.								In the gully beyond the aul								Tumultuous, roars the river.
@@ -50,36 +54,36 @@ Not venturing even to speak									With a soft half-sigh, half-groan									On
 
 In this poem, written in 1888, nature provides shelter, a hideout for the lovers. Human emotions live in harmony with the movements of the trees, the moon, and the river. In this and other love poems, passion is captured as an overwhelming, tormenting, but ultimately gratifying power. The erotic candor of Abai’s love poems is remarkable in itself, demonstrating how the poet fully embraces all aspects of love, including the physical.
 
-Didacticism
+### Didacticism
 In his didactic poems, Abai takes on the role of a teacher of life who explains to his listener, or reader, the rules of which principles they are to follow and which to avoid. The generalizations of these poems appear quite authoritative. However, the arguments expressed to the listener/reader are not normative in the conventional sense, verbalizing officially sanctioned rules for life. Rather, they are derived from what Abai himself learned in life, such as in the following poem written in 1889:
 
-When your mind is as keen and as cold as ice,
-When hot passions burn in your petulant heart,
-Both fiery passion and patient thought
-Must be ruled by the will, lest they stray apart. (…)
+_When your mind is as keen and as cold as ice,_
+_When hot passions burn in your petulant heart,_
+_Both fiery passion and patient thought_
+_Must be ruled by the will, lest they stray apart. (…)_
 
-What use is the mind without passion and will?
-For a thoughtless heart even midday is dark.
-Be able to keep all three in accord.
-Let your will make your heart to your reason hark.
+_What use is the mind without passion and will?_
+_For a thoughtless heart even midday is dark._
+_Be able to keep all three in accord._
+_Let your will make your heart to your reason hark._
 
 The poetic form gives these conclusions a crisp shape but also makes it more persuasive in its didactic purpose. 
 
-The Mission of Poetry 
+### The Mission of Poetry 
 In his poetry, Abai often asks himself: why do I use the poetic form in the first place? Who is my target audience? And he answers with a stringently formulated credo:
 
 Not for amusement do I write my verse,								Nor do I stuff it full of silly words.								It’s for the young I write, for those								Whose hearing is acute, whose senses are alert.							Men who have vision and are quick to give response						Will understand the message in my verse.
 
 Abai’s poem confirms his identity as a teacher of life, an identity he has acquired through many hard lessons. Being privy to hearing or reading his poetry is the right of those who are open to those lessons, to shared experiences; those who are eager for entertainment should look elsewhere.  
 
-Philosophy 
+### Philosophy 
 Philosophical questions are at the center of several of Abai’s poems, addressing existential aspects of our life here on Earth and thereafter. One of these poems, written in 1895, begins with a seeming paradox: Nature may be mortal, but humans are not. For a Western reader educated in a rationalistic framework, this is a paradoxical statement, as the opposite seems to be true: human beings exist in the world for a limited time, while nature in its universality will always be there. But Abai’s worldview is rigorously anthropocentric. The supremacy of humanity in the universe, the fundamental respect for human potential and accomplishments turns the relationship around: Nature is mortal, humans are immortal! Abai’s radical reversal of the conventional relationship between humanity and the universe is rarely found in Western poetry; it is hard to say whether this is a demonstration of the primacy of his religious views or whether Abai speaks strictly within a poetic paradigm. Conspicuously, his anthropocentrism has found a continuation in 20th-century Kazakh poetry, for example, in Suleimenov. 
 
 Maybe nature is mortal, but man is not.								Though there is no coming back									When he draws his last breath.									The separation of I and Mine									Only the ignorant regard as death. (…) 
 
 This world and the other can’t both be loved.							The divine and the earthly must be divorced.							But a man’s no believer if he in his heart								Loves this world all too much, and the other perforce.
 
-The Nation
+### The Nation
 Among the central themes in Abai’s poetry is his nation. The Kazakhs are his people, but who are they, what are their values? Whenever Abai ponders these questions, he is a stern judge; his directness in addressing national vices, as he sees them, is both awesome and terrifying. 
 
 Oh my luckless Kazakh, my unfortunate kin,
