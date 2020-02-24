@@ -25,14 +25,23 @@
 
 {% unless include.no-modal %}
 
+{% assign imgArtistsworks = site.images-artists-works %}
 <div id="OldModal" class="modal">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
-    <img id="modalArtistsworks" src="" alt="modal image" />
+     {% for cap in site.data.captions %}
+          {% if cap.filename = work.imgArtistsworks %}
+      <img id="modalArtistsworks" src="" alt="modal image" />
+    
+      <figcaption> {{ cap.caption }}</figcaption>
+        {% endif %}
+      {% endfor %}
   </div>
 </div>
-
+ 
 <script>
+ 
+
   $('.img-thumbnail').on('click', function(e) {
     openModal(e.target.dataset.img);
   })
@@ -40,6 +49,8 @@
   function openModal(img) {
     $('#modalArtistsworks').attr('src', img);
     $('#OldModal').show();
+ 
+
   }
 
   function closeModal() {

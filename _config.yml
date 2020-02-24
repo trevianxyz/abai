@@ -27,6 +27,11 @@ github_username:
 #     permalink: /:collection/:name
 #     output: true
 
+collections:
+  images-artists-works:
+    permalink: /:collection/:name
+    output: true
+
 # Build settings
 markdown: kramdown
 theme: minima
