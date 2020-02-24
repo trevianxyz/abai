@@ -15,8 +15,17 @@
     {% for image in site.static_files %}
       {% if image.path contains page.images-artists-works %}
     <div class="col px-0">
-        <img src="{{ image.path }}" class="img-thumbnail rounded mx-auto slick-slider-img align-middle"
+        <img src="{{ image.path }}" class="img-thumbnail rounded mx-auto slick-slider-img"
           data-img="{{ image.path }}">
+        <div class="mt-2">
+          <small class="text-secondary caption">
+          {% for c in site.data.captions %}
+            {% if c.filename == image.name %}
+              {{ c.caption }}
+            {% endif %}
+          {% endfor %}
+        </small>
+        </div>
     </div>
       {% endif %}
     {% endfor %}
