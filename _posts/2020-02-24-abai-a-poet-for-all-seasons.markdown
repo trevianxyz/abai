@@ -106,15 +106,15 @@ The sternness and directness with which Abai chastises his nation is astonishing
 Autobiographical Motifs
 When Abai speaks about himself, his will to verbalize the experiences of his life with utmost honesty outweighs any other consideration. This is particularly true of a number of Abai’s poems that sum up the results of his life struggles, drawing a balance of what he has realized over the years. Such is the poem “It pains me now.”
 
-_It pains me now to realize that I have tinkered							With nature’s gifts and lived my life in vain._							_I thought myself one of the rarest thinkers,							But empty is my fame… Alas, I have no aim._						
+> _Inconstancy and idleness are our greatest banes.							We put no faith in loyalty of friends._								
+> _Our warmth of feeling all too quickly wanes,							We cool too soon: a trifling hurt offends._ 							
 
-_Inconstancy and idleness are our greatest banes.							We put no faith in loyalty of friends._								_Our warmth of feeling all too quickly wanes,							We cool too soon: a trifling hurt offends._ 							
+> _I have no one to love now, and no friend.							In disillusionment I turned to writing verse._							
+> _When I was sure in heart, how without end,							How fascinating seemed the universe!_								
 
-_I have no one to love now, and no friend.							In disillusionment I turned to writing verse._							_When I was sure in heart, how without end,							How fascinating seemed the universe!_								
-
-_My soul craves friendship, seeks it daily,_							
-_My heart is aching for it, and while I								Have never known a friend who’d not betray me,_						
-_I sing a hymn to friendship for all time!_
+> _My soul craves friendship, seeks it daily,_							
+> _My heart is aching for it, and while I								Have never known a friend who’d not betray me,_						
+> _I sing a hymn to friendship for all time!_
 
 It is this uncompromising honesty about himself that earned Abai the right to judge his own people with unrelenting candor. 
 
