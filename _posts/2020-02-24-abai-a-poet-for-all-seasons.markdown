@@ -4,11 +4,11 @@ layout: post
 title: "ABAI: A Poet for All Seasons"
 date: 2020-02-24
 categories: 
-author: "PETER ROLLBERG"
+author: "Peter Rollberg"
 noshow_img: true
 ---
 
-By [{{ page.author }}](#author)
+By Professor [{{ page.author }}](#author)
 
 ## Life
 Abai Kunanbaev, the great thinker, enlightener, poet, and composer of the Kazakh people, was born on August 10, 1845 in the Genghis mountains of the Semipalatinsk region[^1]. His father, Kunanbai Uskenbaev, was a highly influential elder of the Tobykty Clan, part of the Middle Juz. Abai was educated at home by a mullah, later in the Semipalatinsk madrasah (medrese), and in a Russian school. He studied the Holy Koran, foreign languages, including Arab and Farsi, and read the works of Eastern poets and scientists such as Firdousi, Navoi, and Avicenna. Although a deeply religious man, Abai has also been praised as Kazakhstan’s supreme enlightener.
@@ -17,7 +17,9 @@ Abai Kunanbaev, the great thinker, enlightener, poet, and composer of the Kazakh
 
 Abai’s father had high hopes for his son, expecting that one day, he would be his loyal aide in all legal matters relating to other clans, which were often fraught with conflict. To some extent, Abai justified these hopes – he became one of the most famous law experts of his time. However, he was also influenced by classical humanistic ideas and suffered from the unforgiving cruelty of his environment caused by Russian colonial rule and native patriarchal tradition. Among Abai’s Russian acquaintances were several exiled intellectuals whose liberal ideas influenced him. Abai viewed it as his mission to acquaint Kazakhs with the accomplishments of world literature. He rendered some of the best translations of the works of Pushkin, Lermontov, and Krylov, as well as Byron, Goethe, and Heine into the Kazakh language. Another major influence on Abai’s thinking were classical philosophers – Socrates, Plato, Aristotle.
 
-By the age of 35, Abai began to devote serious attention to his own poetry. His poems quickly gained fame throughout the steppes, being spread by word of mouth. But due to Abai’s natural modesty and the questionable status of poets in society, he attributed his works to others, denying that he was the author. Only in the summer of 1886, he signed a poem (“Summer”) with his own name. Eventually, these poems made Abai hugely popular throughout the Kazakh steppes. He introduced a number of new prosodic forms into Kazakh literature, for example, the hexameter. Abai was the first to create a cycle of poems dedicated to the four seasons: “Zhaz” (“Summer”), “Kuz” (“Fall”), “Kys” (“Winter”), and “Zhazgytury” (“Spring”). He also created satirical verses mocking opportunism and kowtowing toward powerful administrators. His long narrative poems such as “Iskander” (dedicated to Alexander the Great), “Mazgud,” and The Legend of Azim,” solidified his reputation as the leading poet of the Kazakh people. 
+By the age of 35, Abai began to devote serious attention to his own poetry. His poems quickly gained fame throughout the steppes, being spread by word of mouth[^2]. But due to Abai’s natural modesty and the questionable status of poets in society, he attributed his works to others, denying that he was the author. Only in the summer of 1886, he signed a poem (“Summer”) with his own name. Eventually, these poems made Abai hugely popular throughout the Kazakh steppes. He introduced a number of new prosodic forms into Kazakh literature, for example, the hexameter. Abai was the first to create a cycle of poems dedicated to the four seasons: “Zhaz” (“Summer”), “Kuz” (“Fall”), “Kys” (“Winter”), and “Zhazgytury” (“Spring”). He also created satirical verses mocking opportunism and kowtowing toward powerful administrators. His long narrative poems such as “Iskander” (dedicated to Alexander the Great), “Mazgud,” and The Legend of Azim,” solidified his reputation as the leading poet of the Kazakh people. 
+
+[^2]: "Only much later did Mursent Bekin write down Abai’s poems."
 
 Abai’s aul attracted numerous akyns, but also foreigners – including Tatars and Russians – who wanted to witness Abai’s wisdom and artistry first-hand. While handwritten copies of Abai’s works were circulated among readers, it was the akyns who learned them by heart and performed them throughout the country. Abai also was a gifted composer who created tunes for his poems, which made them even more popular. As the great scholar and writer Mukhtar Auezov put it: “He carried his poetry like a burning torch through the gloom of ignorance and prejudice that enveloped the Kazakh steppes, revealing new horizons to his people and the promise of a new dawn.”
 
