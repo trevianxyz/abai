@@ -29,7 +29,8 @@ github_username:
 
 collections:
   images-artists-works:
-    permalink: /:collection/:name
+    permalink: /:collection/abai-artists/:name
+    path: "/:collection/abai-artists"
     output: true
 
 # Build settings

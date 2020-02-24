@@ -26,19 +26,20 @@
 {% unless include.no-modal %}
 
 {% assign imgArtistsworks = site.images-artists-works %}
+    {% for cap in site.data.captions %}
+    {% for image in site.static_files %}
+    {% if image.name == cap.filename %}
 <div id="OldModal" class="modal">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
-     {% for cap in site.data.captions %}
-          {% if cap.filename = work.imgArtistsworks %}
       <img id="modalArtistsworks" src="" alt="modal image" />
-    
-      <figcaption> {{ cap.caption }}</figcaption>
-        {% endif %}
-      {% endfor %}
+      <figcaption> {{ cap.caption }} </figcaption>
+           
   </div>
 </div>
- 
+   {% endif %}
+   {% endfor %}
+   {% endfor %}
 <script>
  
 
