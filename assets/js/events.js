@@ -191,7 +191,7 @@ domready(function() {
         })
     });
 
-    shareBtns = document.querySelectorAll('button.btn-share');
+    shareBtns = document.querySelectorAll('button.btn-sh');
 
     shareBtns.forEach(function(b) {
         b.addEventListener('click', function(b) {
