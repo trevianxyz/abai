@@ -3,6 +3,11 @@
 console.log("Hello from events.js!");
 // console.log(data);
 
+var today = new Date();
+var currMonth = today.getMonth();
+var currYear = today.getFullYear();
+var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
 /**
  * @param {int} The month number, 0 based
  * @param {int} The year, not zero based, required to account for leap years
@@ -12,11 +17,20 @@ function getDaysInMonth(month, year) {
     var date = new Date(year, month, 1);
     var days = [];
     while (date.getMonth() === month) {
-      days.push(new Date(date));
-      date.setDate(date.getDate() + 1);
+        days.push(new Date(date));
+        date.setDate(date.getDate() + 1);
     }
     return days;
-  }
+}
+
+function getWeeksInMonth(month, year) {
+    var firstOfMonth = new Date(year, month, 1);
+    var lastOfMonth = new Date(year, month + 1, 0);
+
+    var used = firstOfMonth.getDay() + 6 + lastOfMonth.getDate();
+
+    return Math.floor(used / 7) - 1;
+}
 
 var dates = [];
 data.contents.forEach(function(e) {
@@ -122,12 +136,38 @@ function openEventListings() {
     listings.forEach((l) => l.classList.remove('d-none'));
 }
 
+function decMonth() {
+    renderMonth(currMonth - 1);
+}
+
+function incMonth() {
+    renderMonth(currMonth + 1);
+}
+
+function renderMonth(month) {
+    if (month < 0) {
+        currMonth = month % 11;
+        currYear--;
+    } else if (month > 11) {
+        currMonth = month % 11;
+        currYear++;
+    } else {
+        currMonth = month;
+    }
+
+    var days = getDaysInMonth(currMonth, currYear);
+    var weeks = getWeeksInMonth(currMonth, currYear);
+    var offset = (days[0].getDay() - 1) % 7; // week starts on Monday
+
+    // STOPPED HERE; TODO: TEST DATE MATH
+}
+
 domready(function() {
 
     document.getElementById('ed-close').addEventListener('click', function() {
         openEventListings();
         document.getElementById('event-details').classList.remove('ed-active');
-    })
+    });
     
     viewBtns = document.querySelectorAll('button.btn-view');
 
@@ -141,7 +181,7 @@ domready(function() {
                 alert("Error: this event is currently unavailable.");
             }
         })
-    })
+    });
 
     shareBtns = document.querySelectorAll('button.btn-share');
 
@@ -149,7 +189,7 @@ domready(function() {
         b.addEventListener('click', function(b) {
             document.getElementById(b.target.dataset.target).classList.toggle('d-none');
         })
-    })
+    });
 
     if (window.location.href.includes('?event=')) {
         var urlEvent = window.location.href.slice(window.location.href.lastIndexOf('event=') + 6);
@@ -166,6 +206,9 @@ domready(function() {
         }
     }
 
-    
+    document.getElementById('cg-back').addEventListener("click", decMonth);
+    document.getElementById('cg-fwd').addEventListener("click", incMonth);
+
+    renderMonth(currMonth);
 
 })
