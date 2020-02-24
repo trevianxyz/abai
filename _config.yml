@@ -27,6 +27,12 @@ github_username:
 #     permalink: /:collection/:name
 #     output: true
 
+collections:
+  images-artists-works:
+    permalink: /:collection/abai-artists/:name
+    path: "/:collection/abai-artists"
+    output: true
+
 # Build settings
 markdown: kramdown
 theme: minima
