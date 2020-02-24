@@ -1,7 +1,7 @@
 ---
 permalink: /abai-a-poet-for-all-seasons
 layout: post
-title: "Abai: A Poet for All Seasons"
+title: "ABAI: A Poet for All Seasons"
 date: 2020-02-24
 categories: 
 noshow_img: true

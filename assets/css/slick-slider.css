@@ -148,6 +148,10 @@ div.col.slick-slide a:visited {
     color: #FFFFFF;
 }
 
+.slick-slider-img {
+    height: 190px;
+}
+
 @media (max-width: 767.98px) {
 
 .slick-arrow {
