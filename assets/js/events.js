@@ -26,10 +26,11 @@ function getDaysInMonth(month, year) {
 function getWeeksInMonth(month, year) {
     var firstOfMonth = new Date(year, month, 1);
     var lastOfMonth = new Date(year, month + 1, 0);
+    var offset = mod(firstOfMonth.getDay() - 1, 7)
 
-    var used = firstOfMonth.getDay() + 6 + lastOfMonth.getDate();
+    var totalSpace = lastOfMonth.getDate() + offset;
 
-    return Math.floor(used / 7) - 1;
+    return Math.ceil(totalSpace / 7);
 }
 
 var dates = [];
@@ -136,6 +137,10 @@ function openEventListings() {
     listings.forEach((l) => l.classList.remove('d-none'));
 }
 
+function mod(n, m) {
+    return ((n % m) + m) % m;
+  }
+
 function decMonth() {
     renderMonth(currMonth - 1);
 }
@@ -146,10 +151,10 @@ function incMonth() {
 
 function renderMonth(month) {
     if (month < 0) {
-        currMonth = month % 11;
+        currMonth = mod(month, 12);
         currYear--;
     } else if (month > 11) {
-        currMonth = month % 11;
+        currMonth = mod(month, 12);
         currYear++;
     } else {
         currMonth = month;
@@ -157,9 +162,12 @@ function renderMonth(month) {
 
     var days = getDaysInMonth(currMonth, currYear);
     var weeks = getWeeksInMonth(currMonth, currYear);
-    var offset = (days[0].getDay() - 1) % 7; // week starts on Monday
+    var offset = mod(days[0].getDay() - 1, 7); // week starts on Monday
 
-    // STOPPED HERE; TODO: TEST DATE MATH
+    document.getElementById('cal-m').innerHTML = months[currMonth] + " " + currYear;
+
+    console.log(weeks)
+    console.log(offset)
 }
 
 domready(function() {
