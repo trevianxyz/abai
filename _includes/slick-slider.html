@@ -14,19 +14,10 @@
 <div class="slicky-slider">
     {% for image in site.static_files %}
       {% if image.path contains page.images-artists-works %}
-    <div class="col px-0">
-        <img src="{{ image.path }}" class="img-thumbnail rounded mx-auto slick-slider-img"
-          data-img="{{ image.path }}">
-        <div class="mt-2">
-          <small class="text-secondary caption">
-          {% for c in site.data.captions %}
-            {% if c.filename == image.name %}
-              {{ c.caption }}
-            {% endif %}
-          {% endfor %}
-        </small>
+        <div class="col px-0">
+            <img src="{{ image.path }}" class="img-thumbnail rounded mx-auto slick-slider-img"
+              data-img="{{ image.path }}">
         </div>
-    </div>
       {% endif %}
     {% endfor %}
 </div>
@@ -35,18 +26,20 @@
 {% unless include.no-modal %}
 
 {% assign imgArtistsworks = site.images-artists-works %}
-    {% for cap in site.data.captions %}
     {% for image in site.static_files %}
-    {% if image.name == cap.filename %}
+  
 <div id="OldModal" class="modal">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
       <img id="modalArtistsworks" src="" alt="modal image" />
-      <figcaption> {{ cap.caption }} </figcaption>
+      {% for cap in site.data.captions %}
+        {% if image.name == cap.filename %}
+          <figcaption class="p-2"> {{ cap.caption }} </figcaption>
+        {% endif %}
+      {% endfor %}
   </div>
 </div>
-   {% endif %}
-   {% endfor %}
+   
    {% endfor %}
 <script>
  
