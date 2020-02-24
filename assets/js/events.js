@@ -3,6 +3,9 @@
 console.log("Hello from events.js!");
 // console.log(data);
 
+var today = new Date();
+var currMonth = today.getMonth();
+
 /**
  * @param {int} The month number, 0 based
  * @param {int} The year, not zero based, required to account for leap years
@@ -122,6 +125,14 @@ function openEventListings() {
     listings.forEach((l) => l.classList.remove('d-none'));
 }
 
+function decMonth() {
+
+}
+
+function incMonth() {
+
+}
+
 domready(function() {
 
     document.getElementById('ed-close').addEventListener('click', function() {
@@ -166,6 +177,7 @@ domready(function() {
         }
     }
 
-    
+    document.getElementById('cg-back').addEventListener("click", decMonth);
+    document.getElementById('cg-fwd').addEventListener("click", incMonth);
 
 })
