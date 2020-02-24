@@ -1,4 +1,11 @@
 contents:
+  - title: A man in Almaty painted a portrait of Abai with boxing gloves
+    src: 'https://youtu.be/jrO8Iy2WPgQ'
+    filters:
+      - title: "topic"
+        values:
+      - title:
+        values:
   - title: Miss Kazakhstan
     src: 'https://7facets.fra1.cdn.digitaloceanspaces.com/miss_kazakhstan.mp4'
     filters:
