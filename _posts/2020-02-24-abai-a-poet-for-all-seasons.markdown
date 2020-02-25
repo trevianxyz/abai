@@ -54,14 +54,21 @@ It seems safe to say that in his nature poetry, Abai is the authentic voice of h
 ### Love
 Nature often serves as the backdrop for love and passion: 
 
-_In the silent, luminous night_| _On the water the moonbeams quiver._| _In the gully_
-_beyond the aul_ | _Tumultuous, roars the river._ | 
-_The mountains respond in a choir_             |                   _To the shepherd dogs hidden from view._ | _You come in a_
-_flowery dress_ | _To your midnight rendezvous._ | 
-_At once both bold and meek_ | _Full of sweet girlish grace,_| _You furtively look_
-_around,_|_Blushes light up your face._ | |
-_Not venturing even to speak_ | _With a soft half-sigh, half-groan_ | _On tip-toe you_
-_rise and press_ | _Your trembling lips to my own.[^5]_
+
+_In the silent, luminous night_ | |
+_On the water the moonbeams quiver._ | | _In the_
+_gully beyond the aul_ | | _Tumultuous, roars the river._ 
+_The mountains respond in a choir_ | | 
+_To the shepherd dogs hidden from view._ | | _You_ 
+_come in a flowery dress_ | | _To your midnight rendezvous._
+ _At once both bold and meek_ | |
+_Full of sweet girlish grace,_ | | _You_ 
+_furtively look around,_ | | _Blushes light up_
+_your face._ | |
+_Not venturing even to speak_ | |
+_With a soft half-sigh, half-groan_ | | _On tip-_ 
+_toe you rise and press_ | | _Your trembling_ 
+_lips to my own.[^5]_ | | 
 
 [^5]: "Translated by Dorian Rottenberg, op. cit., p. 60."
 
