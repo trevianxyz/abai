@@ -306,6 +306,13 @@ a.fa-2x {
    color: gray; 
  }
 
+td {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+ }
+
 /* Responsive */
 @media (max-width: 767.98px) {
 
