@@ -92,9 +92,12 @@ The poetic form gives these conclusions a crisp shape but also makes it more per
 ### The Mission of Poetry 
 In his poetry, Abai often asks himself: why do I use the poetic form in the first place? Who is my target audience? And he answers with a stringently formulated credo:
 
-> _Not for amusement do I write my verse,								Nor do I stuff it full of silly words.								It’s 
-> for the young I write, for those								Whose hearing is acute, whose senses are alert.							Men who have 
-> vision and are quick to give response						Will understand the message in my verse._
+| | _Not for amusement do I write my verse,_
+_Nor do I stuff it full of silly words._ | | _It’s for_ 
+_the young I write, for those_ | | _Whose hearing_ 
+_is acute, whose senses are alert._ | | _Men who have vision_ 
+_and are quick to give response_	| | _Will understand the message in_ 
+_my verse._ | | 
 
 Abai’s poem confirms his identity as a teacher of life, an identity he has acquired through many hard lessons. Being privy to hearing or reading his poetry is the right of those who are open to those lessons, to shared experiences; those who are eager for entertainment should look elsewhere.  
 
