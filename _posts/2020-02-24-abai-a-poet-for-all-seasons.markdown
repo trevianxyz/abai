@@ -36,15 +36,15 @@ As with all great artists, Abai’s legacy has been interpreted differently in e
 ### Nature
 Abai used poetry to capture the atmosphere of the aul and the steppe during different times of the year. His cycle on the seasons is particularly remarkable as it deviates from typical perceptions of nature in other national literatures, giving Abai’s poetry an unmistakably Kazakh dimension. “Autumn” (1888), for example, emphasizes darkness and not the celebration of plentiful harvesting, whereas “Winter” reflects existential danger, conveying a unique attitude toward forces of nature that defines the life of Kazakhs for many months. In Abai’s poetic world, winter appears as a person, and it is not a friendly one:
 
-_His beetling eyebrows are knit in a frown._
-_When he tosses his head – dismal snow starts to fall._
-_Like a crazy old camel he acts in his rage,_
-_Rocking and shaking our yurt’s thin wall._
+| | _His beetling eyebrows are knit in a frown._ | 
+| | _When he tosses his head – dismal snow starts to fall._ | 
+_Like a crazy old camel he acts in his rage,_ | | _Rocking and_ 
+_shaking our yurt’s thin wall._ | | 
 
-_The horses in vain try to shatter the ice –_
-_The hungry herd scarcely shuffle their feet,_
-_Greedy wolves – winter’s henchmen – have their fangs;_
-_Watch, or disaster your flocks may meet![^4]_
+| | _The horses in vain try to shatter the ice_ | 
+| | _The hungry herd scarcely shuffle their feet,_ | 
+_Greedy wolves –winter’s henchmen– have their fangs;_ | | | _Watch,_ 
+_or disaster your flocks may meet!_[^4] | |
 
 [^4]: "Translated by Dorian Rottenberg; cf. Abai Kunanbayev, Selected Poems. Moscow: Progress Publishers, 1970, p. 58."
 
@@ -77,15 +77,15 @@ In this poem, written in 1888, nature provides shelter, a hideout for the lovers
 ### Didacticism
 In his didactic poems, Abai takes on the role of a teacher of life who explains to his listener, or reader, the rules of which principles they are to follow and which to avoid. The generalizations of these poems appear quite authoritative. However, the arguments expressed to the listener/reader are not normative in the conventional sense, verbalizing officially sanctioned rules for life. Rather, they are derived from what Abai himself learned in life, such as in the following poem written in 1889:
 
-> _When your mind is as keen and as cold as ice,_
-> _When hot passions burn in your petulant heart,_
-> _Both fiery passion and patient thought_
-> _Must be ruled by the will, lest they stray apart. (…)_
+| |  _When your mind is as keen and as cold as ice,_
+| |  _When hot passions burn in your petulant heart,_
+| |  _Both fiery passion and patient thought_
+| |  _Must be ruled by the will, lest they stray apart. (…)_
 
-> _What use is the mind without passion and will?_
-> _For a thoughtless heart even midday is dark._
-> _Be able to keep all three in accord._
-> _Let your will make your heart to your reason hark._
+| |  _What use is the mind without passion and will?_
+| |  _For a thoughtless heart even midday is dark._
+| |  _Be able to keep all three in accord._
+| |  _Let your will make your heart to your reason hark._
 
 The poetic form gives these conclusions a crisp shape but also makes it more persuasive in its didactic purpose. 
 
