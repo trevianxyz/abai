@@ -8,12 +8,12 @@ author: "Peter Rollberg"
 noshow_img: true
 ---
 
-By Professor [{{ page.author }}](#author)
+By PROFESSOR [{{ page.author }}](#author)
 
 ## Life
 Abai Kunanbaev, the great thinker, enlightener, poet, and composer of the Kazakh people, was born on August 10, 1845 in the Genghis mountains of the Semipalatinsk region[^1]. His father, Kunanbai Uskenbaev, was a highly influential elder of the Tobykty Clan, part of the Middle Juz. Abai was educated at home by a mullah, later in the Semipalatinsk madrasah (medrese), and in a Russian school. He studied the Holy Koran, foreign languages, including Arab and Farsi, and read the works of Eastern poets and scientists such as Firdousi, Navoi, and Avicenna. Although a deeply religious man, Abai has also been praised as Kazakhstan’s supreme enlightener.
 
-[^1]:"The region has been renamed Abai district, part of the Eastern Kazakhstani oblast." 
+[^1]: "The region has been renamed Abai district, part of the Eastern Kazakhstani oblast." 
 
 Abai’s father had high hopes for his son, expecting that one day, he would be his loyal aide in all legal matters relating to other clans, which were often fraught with conflict. To some extent, Abai justified these hopes – he became one of the most famous law experts of his time. However, he was also influenced by classical humanistic ideas and suffered from the unforgiving cruelty of his environment caused by Russian colonial rule and native patriarchal tradition. Among Abai’s Russian acquaintances were several exiled intellectuals whose liberal ideas influenced him. Abai viewed it as his mission to acquaint Kazakhs with the accomplishments of world literature. He rendered some of the best translations of the works of Pushkin, Lermontov, and Krylov, as well as Byron, Goethe, and Heine into the Kazakh language. Another major influence on Abai’s thinking were classical philosophers – Socrates, Plato, Aristotle.
 
@@ -150,3 +150,4 @@ Peter Rollberg is Professor of Slavic Languages, Film Studies, and International
 </div>
 </div>
 </div>
+<hr>

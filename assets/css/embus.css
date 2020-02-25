@@ -302,6 +302,10 @@ a.fa-2x {
   width: 50%;
 }
 
+ .footnotes {
+   color: gray; 
+ }
+
 /* Responsive */
 @media (max-width: 767.98px) {
 
@@ -701,6 +705,9 @@ header.usa-header {
     text-decoration: underline;
     text-decoration-color: #a29bfe;
   }
+
+
+
 }
 
 /* SEARCH STYLES */
