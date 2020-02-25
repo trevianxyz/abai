@@ -104,12 +104,16 @@ Abai’s poem confirms his identity as a teacher of life, an identity he has acq
 ### Philosophy 
 Philosophical questions are at the center of several of Abai’s poems, addressing existential aspects of our life here on Earth and thereafter. One of these poems, written in 1895, begins with a seeming paradox: Nature may be mortal, but humans are not. For a Western reader educated in a rationalistic framework, this is a paradoxical statement, as the opposite seems to be true: human beings exist in the world for a limited time, while nature in its universality will always be there. But Abai’s worldview is rigorously anthropocentric. The supremacy of humanity in the universe, the fundamental respect for human potential and accomplishments turns the relationship around: Nature is mortal, humans are immortal! Abai’s radical reversal of the conventional relationship between humanity and the universe is rarely found in Western poetry; it is hard to say whether this is a demonstration of the primacy of his religious views or whether Abai speaks strictly within a poetic paradigm. Conspicuously, his anthropocentrism has found a continuation in 20th-century Kazakh poetry, for example, in Suleimenov. 
 
-> _Maybe nature is mortal, but man is not.								Though there is no coming back_									
-> _When he draws his last breath.									The separation of I and Mine_									
-> _Only the ignorant regard as death. (…)_ 
+ | _Maybe nature is mortal, but man is not._ |		
+ _Though there is no coming back_ | | _When_ 
+ _he draws his last breath._	|	| _The_ 
+ _separation of I and Mine_	|	| _Only_ 
+ _the ignorant regard as death. (…)_ |	|
 
-> _This world and the other can’t both be loved.							The divine and the earthly must be divorced.						
-> _But a man’s no believer if he in his heart								Loves this world all too much, and the other perforce._
+| _This world and the other can’t both be loved._	|						
+_The divine and the earthly must be divorced._ | 	| _But a_ 
+_man’s no believer if he in his heart_ | | _Loves_ 
+_this world all too much, and the other perforce._ | |
 
 ### The Nation
 Among the central themes in Abai’s poetry is his nation. The Kazakhs are his people, but who are they, what are their values? Whenever Abai ponders these questions, he is a stern judge; his directness in addressing national vices, as he sees them, is both awesome and terrifying. 
