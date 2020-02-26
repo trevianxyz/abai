@@ -117,35 +117,45 @@ _this world all too much, and the other perforce._ | |
 ### The Nation
 Among the central themes in Abai’s poetry is his nation. The Kazakhs are his people, but who are they, what are their values? Whenever Abai ponders these questions, he is a stern judge; his directness in addressing national vices, as he sees them, is both awesome and terrifying. 
 
-> _Oh my luckless Kazakh, my unfortunate kin,
-> An unkempt moustache hides your mouth and chin.
-> Blood on your right cheek, fat on your left –
-> When will the dawn of your reason begin?_
+| _Oh my luckless Kazakh, my unfortunate kin,_ | |
+| _An unkempt moustache hides your mouth and chin._ | |
+| _Blood on your right cheek, fat on your left–_ | |
+| _When will the dawn of your reason begin?_ | |
 
-> _Your looks are not bad and your numbers are vast,
-> Yet why do you change your favors so fast?
-> You will never listen to sound advice,
-> Your tongue in its rashness is unsurpassed. (…)_
+| _Your looks are not bad and your numbers are vast,_ | |
+| _Yet why do you change your favors so fast?_ | |
+| _You will never listen to sound advice,_ | |
+| _Your tongue in its rashness is unsurpassed. (…)_ | |
 
-> _Kinsmen for trifle each other hate.
-> God bereft them of reason – such is their fate.
-> No honor, no harmony, only dissent;
-> No wonder cattle is scarcer of late._
+| _Kinsmen for trifle each other hate._ | |
+| _God bereft them of reason – such is their fate._ | |
+| _No honor, no harmony, only dissent;_ | |
+| _No wonder cattle is scarcer of late._ | |
 
 The sternness and directness with which Abai chastises his nation is astonishing; it is hard to think of other poets revered by their nations who would be able to express such critical sentiments. Indeed, there is no hopeful outlook softening his message – the only way the poet can talk to his people is in uncompromising moral certitude, with a candor that is almost merciless. The fact that the Kazakh nation nonetheless loves Abai reveals a willingness to put up with harsh words as long as they are perceived as truthful. 
 
 ### Autobiographical Motifs
 When Abai speaks about himself, his will to verbalize the experiences of his life with utmost honesty outweighs any other consideration. This is particularly true of a number of Abai’s poems that sum up the results of his life struggles, drawing a balance of what he has realized over the years. Such is the poem “It pains me now.”
 
-> _Inconstancy and idleness are our greatest banes.							We put no faith in loyalty of friends._								
-> _Our warmth of feeling all too quickly wanes,							We cool too soon: a trifling hurt offends._ 							
+| It pains me now to realize that I have tinkered | |
+ _With nature’s gifts and lived my life in vain._ | | I 
+ _thought myself one of the rarest thinkers,_ | | But 
+ _empty is my fame… Alas, I have no aim._ | | 
 
-> _I have no one to love now, and no friend.							In disillusionment I turned to writing verse._							
-> _When I was sure in heart, how without end,							How fascinating seemed the universe!_								
+| _Inconstancy and idleness are our greatest banes._ | |
+_We put no faith in loyalty of friends._ | | _Our_ 
+_warmth of feeling all too quickly wanes,_ | | _We cool too_
+_soon: a trifling hurt offends._ | |
 
-> _My soul craves friendship, seeks it daily,_							
-> _My heart is aching for it, and while I								Have never known a friend who’d not betray me,_						
-> _I sing a hymn to friendship for all time!_
+| _I have no one to love now, and no friend._ | | _In_ 
+_disillusionment I turned to writing verse._ | |
+_When I was sure in heart, how without end,_ | | _How fascinating seemed_
+_the universe!_ | |
+
+| _My soul craves friendship, seeks it daily,_ | |
+| | _My heart is aching for it, and while I_ | 
+_Have never known a friend who’d not betray me,_ | | |
+| _I sing a hymn to friendship for all time!_ | | 
 
 It is this uncompromising honesty about himself that earned Abai the right to judge his own people with unrelenting candor. 
 
