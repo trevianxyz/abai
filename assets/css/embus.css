@@ -308,11 +308,12 @@ a.fa-2x {
 
 td {
   padding-left: 2px !important;
-  padding-right: 32px !important;
-  background-color: aliceblue;
+  padding-right: 12px !important;
+
   text-align: right;
   font-style: italic !important;
  }
+ 
 
 /* Responsive */
 @media (max-width: 767.98px) {

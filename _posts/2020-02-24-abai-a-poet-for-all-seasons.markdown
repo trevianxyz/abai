@@ -137,8 +137,8 @@ The sternness and directness with which Abai chastises his nation is astonishing
 ### Autobiographical Motifs
 When Abai speaks about himself, his will to verbalize the experiences of his life with utmost honesty outweighs any other consideration. This is particularly true of a number of Abai’s poems that sum up the results of his life struggles, drawing a balance of what he has realized over the years. Such is the poem “It pains me now.”
 
-| It pains me now to realize that I have tinkered | |
- _With nature’s gifts and lived my life in vain._ | | I 
+| It pains me now to realize that I have tinkered | | | 
+ _With nature’s gifts and lived my life in vain._ | | _I_ 
  _thought myself one of the rarest thinkers,_ | | But 
  _empty is my fame… Alas, I have no aim._ | | 
 
