@@ -103,15 +103,15 @@ In this poem, written in 1888, nature provides shelter, a hideout for the lovers
 ### Didacticism
 In his didactic poems, Abai takes on the role of a teacher of life who explains to his listener, or reader, the rules of which principles they are to follow and which to avoid. The generalizations of these poems appear quite authoritative. However, the arguments expressed to the listener/reader are not normative in the conventional sense, verbalizing officially sanctioned rules for life. Rather, they are derived from what Abai himself learned in life, such as in the following poem written in 1889:
 
-| |  When your mind is as keen and as cold as ice,
-| |  When hot passions burn in your petulant heart,
-| |  Both fiery passion and patient thought
-| |  Must be ruled by the will, lest they stray apart. (…)
+When your mind is as keen and as cold as ice, | |
+When hot passions burn in your petulant heart, | | 
+Both fiery passion and patient thought | | 
+Must be ruled by the will, lest they stray apart. (…) | | 
 
-| |  What use is the mind without passion and will?
-| |  For a thoughtless heart even midday is dark.
-| |  Be able to keep all three in accord.
-| |  Let your will make your heart to your reason hark[^6].
+What use is the mind without passion and will?| | 
+For a thoughtless heart even midday is dark.| | 
+Be able to keep all three in accord.| | 
+Let your will make your heart to your reason hark[^6].| | 
 
 [^6]: Translated by Dorian Rottenberg, op. cit., p. 76.
 
