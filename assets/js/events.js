@@ -192,7 +192,7 @@ domready(function() {
     });
 
     shareBtns = document.querySelectorAll('button.btn-sh');
-\
+
     shareBtns.forEach(function(b) {
         b.addEventListener('click', function(b) {
             document.getElementById(b.target.dataset.target).classList.toggle('d-none');
