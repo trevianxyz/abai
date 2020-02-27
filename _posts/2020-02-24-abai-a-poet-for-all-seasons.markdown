@@ -15,10 +15,23 @@ td {
   font-style: italic !important;
  }
 
- td:first-child {
-   padding-left: 0px !important;
-   text-align: left;
- }
+
+td:first-child {
+padding-left: 0px !important;
+text-align: left;
+}
+
+table {
+width: 600px;
+}
+
+@media screen and (max-width: 786px) {
+table {
+width: auto;
+font-size: 12px;
+}
+
+}
  </style>
 
 By PROFESSOR [{{ page.author | upcase }}](#author)
@@ -51,13 +64,13 @@ Abai used poetry to capture the atmosphere of the aul and the steppe during diff
 
  | His beetling eyebrows are knit in a frown. | 
  | When he tosses his head – dismal snow starts to fall. | 
-_Like a crazy old camel he acts in his rage,_ | | Rocking and 
-_shaking our yurt’s thin wall._ | | 
+Like a crazy old camel he acts in his rage, | | Rocking and 
+shaking our yurt’s thin wall. | | 
 
-| _The horses in vain try to shatter the ice_ | 
-| _The hungry herd scarcely shuffle their feet,_ | 
-_Greedy wolves –winter’s henchmen– have their fangs;_ | | Watch, 
-_or disaster your flocks may meet!_[^4] | |
+| The horses in vain try to shatter the ice | 
+| The hungry herd scarcely shuffle their feet, | 
+Greedy wolves –winter’s henchmen– have their fangs; | | Watch, 
+or disaster your flocks may meet![^4] | |
 
 [^4]: Translated by Dorian Rottenberg; cf. Abai Kunanbayev, Selected Poems. Moscow: Progress Publishers, 1970, p. 58.
 
@@ -68,20 +81,20 @@ It seems safe to say that in his nature poetry, Abai is the authentic voice of h
 Nature often serves as the backdrop for love and passion: 
 
 
-_In the silent, luminous night_ | |
-_On the water the moonbeams quiver._ | | _In the_
-_gully beyond the aul_ | | _Tumultuous, roars the river._ 
-_The mountains respond in a choir_ | | 
-_To the shepherd dogs hidden from view._ | | _You_ 
-_come in a flowery dress_ | | _To your midnight rendezvous._
- _At once both bold and meek_ | |
-_Full of sweet girlish grace,_ | | _You_ 
-_furtively look around,_ | | _Blushes light up_
-_your face._ | |
-_Not venturing even to speak_ | |
-_With a soft half-sigh, half-groan_ | | _On tip-_ 
-_toe you rise and press_ | | _Your trembling_ 
-_lips to my own.[^5]_ | | 
+In the silent, luminous night | |
+On the water the moonbeams quiver. | | In the
+gully beyond the aul | | Tumultuous, roars the river. 
+The mountains respond in a choir | | 
+To the shepherd dogs hidden from view. | | You 
+come in a flowery dress | | To your midnight rendezvous.
+ At once both bold and meek | |
+Full of sweet girlish grace, | | You 
+furtively look around, | | Blushes light up
+your face. | |
+Not venturing even to speak | |
+With a soft half-sigh, half-groan | | On tip- 
+toe you rise and press | | Your trembling 
+lips to my own.[^5] | | 
 
 [^5]: Translated by Dorian Rottenberg, op. cit., p. 60.
 
@@ -90,15 +103,15 @@ In this poem, written in 1888, nature provides shelter, a hideout for the lovers
 ### Didacticism
 In his didactic poems, Abai takes on the role of a teacher of life who explains to his listener, or reader, the rules of which principles they are to follow and which to avoid. The generalizations of these poems appear quite authoritative. However, the arguments expressed to the listener/reader are not normative in the conventional sense, verbalizing officially sanctioned rules for life. Rather, they are derived from what Abai himself learned in life, such as in the following poem written in 1889:
 
-| |  _When your mind is as keen and as cold as ice,_
-| |  _When hot passions burn in your petulant heart,_
-| |  _Both fiery passion and patient thought_
-| |  _Must be ruled by the will, lest they stray apart. (…)_
+| |  When your mind is as keen and as cold as ice,
+| |  When hot passions burn in your petulant heart,
+| |  Both fiery passion and patient thought
+| |  Must be ruled by the will, lest they stray apart. (…)
 
-| |  _What use is the mind without passion and will?_
-| |  _For a thoughtless heart even midday is dark._
-| |  _Be able to keep all three in accord._
-| |  _Let your will make your heart to your reason hark[^6]._
+| |  What use is the mind without passion and will?
+| |  For a thoughtless heart even midday is dark.
+| |  Be able to keep all three in accord.
+| |  Let your will make your heart to your reason hark[^6].
 
 [^6]: Translated by Dorian Rottenberg, op. cit., p. 76.
 
@@ -107,70 +120,70 @@ The poetic form gives these conclusions a crisp shape but also makes it more per
 ### The Mission of Poetry 
 In his poetry, Abai often asks himself: why do I use the poetic form in the first place? Who is my target audience? And he answers with a stringently formulated credo:
 
-| | _Not for amusement do I write my verse,_
-_Nor do I stuff it full of silly words._ | | _It’s for_ 
-_the young I write, for those_ | | _Whose hearing_ 
-_is acute, whose senses are alert._ | | _Men who have vision_ 
-_and are quick to give response_	| | _Will understand the message in_ 
-_my verse._[^7] | | 
+| | Not for amusement do I write my verse,
+Nor do I stuff it full of silly words. | | It’s for 
+the young I write, for those | | Whose hearing 
+is acute, whose senses are alert. | | Men who have vision 
+and are quick to give response	| | Will understand the message in 
+my verse.[^7] | | 
 
 Abai’s poem confirms his identity as a teacher of life, an identity he has acquired through many hard lessons. Being privy to hearing or reading his poetry is the right of those who are open to those lessons, to shared experiences; those who are eager for entertainment should look elsewhere.  
 
 ### Philosophy 
 Philosophical questions are at the center of several of Abai’s poems, addressing existential aspects of our life here on Earth and thereafter. One of these poems, written in 1895, begins with a seeming paradox: Nature may be mortal, but humans are not. For a Western reader educated in a rationalistic framework, this is a paradoxical statement, as the opposite seems to be true: human beings exist in the world for a limited time, while nature in its universality will always be there. But Abai’s worldview is rigorously anthropocentric[^8]. The supremacy of humanity in the universe, the fundamental respect for human potential and accomplishments turns the relationship around: Nature is mortal, humans are immortal! Abai’s radical reversal of the conventional relationship between humanity and the universe is rarely found in Western poetry; it is hard to say whether this is a demonstration of the primacy of his religious views or whether Abai speaks strictly within a poetic paradigm. Conspicuously, his anthropocentrism has found a continuation in 20th-century Kazakh poetry, for example, in Suleimenov. 
 
-| | _Maybe nature is mortal, but man is not._ 
-_Though there is no coming back_ | | _When_ 
-_he draws his last breath._ | | _The_
-_separation of I and Mine_ | | _Only_
-_the ignorant regard as death. (…)_ | |
-| | _This world and the other can’t both be loved._ 
-_The divine and the earthly must be divorced._ | | _But a_
-_man’s no believer if he in his heart_ | | _Loves_
-_this world all too much, and the other perforce._[^9] | |
+| | Maybe nature is mortal, but man is not. 
+Though there is no coming back | | When 
+he draws his last breath. | | The
+separation of I and Mine | | Only
+the ignorant regard as death. (…) | |
+| | This world and the other can’t both be loved. 
+The divine and the earthly must be divorced. | | But a
+man’s no believer if he in his heart | | Loves
+this world all too much, and the other perforce.[^9] | |
 
 ### The Nation
 Among the central themes in Abai’s poetry is his nation. The Kazakhs are his people, but who are they, what are their values? Whenever Abai ponders these questions, he is a stern judge; his directness in addressing national vices, as he sees them, is both awesome and terrifying. 
 
-| _Oh my luckless Kazakh, my unfortunate kin,_ | |
-| _An unkempt moustache hides your mouth and chin._ | |
-| _Blood on your right cheek, fat on your left–_ | |
-| _When will the dawn of your reason begin?_ | |
+| Oh my luckless Kazakh, my unfortunate kin, | |
+| An unkempt moustache hides your mouth and chin. | |
+| Blood on your right cheek, fat on your left– | |
+| When will the dawn of your reason begin? | |
 
-| _Your looks are not bad and your numbers are vast,_ | |
-| _Yet why do you change your favors so fast?_ | |
-| _You will never listen to sound advice,_ | |
-| _Your tongue in its rashness is unsurpassed. (…)_ | |
+| Your looks are not bad and your numbers are vast, | |
+| Yet why do you change your favors so fast? | |
+| You will never listen to sound advice, | |
+| Your tongue in its rashness is unsurpassed. (…) | |
 
-| _Kinsmen for trifle each other hate._ | |
-| _God bereft them of reason – such is their fate._ | |
-| _No honor, no harmony, only dissent;_ | |
-| _No wonder cattle is scarcer of late._[^10] | |
+| Kinsmen for trifle each other hate. | |
+| God bereft them of reason – such is their fate. | |
+| No honor, no harmony, only dissent; | |
+| No wonder cattle is scarcer of late.[^10] | |
 
 The sternness and directness with which Abai chastises his nation is astonishing; it is hard to think of other poets revered by their nations who would be able to express such critical sentiments. Indeed, there is no hopeful outlook softening his message – the only way the poet can talk to his people is in uncompromising moral certitude, with a candor that is almost merciless. The fact that the Kazakh nation nonetheless loves Abai reveals a willingness to put up with harsh words as long as they are perceived as truthful. 
 
 ### Autobiographical Motifs
 When Abai speaks about himself, his will to verbalize the experiences of his life with utmost honesty outweighs any other consideration. This is particularly true of a number of Abai’s poems that sum up the results of his life struggles, drawing a balance of what he has realized over the years. Such is the poem “It pains me now.”
 
-| It pains me now to realize that I have tinkered | | 
- _With nature’s gifts and lived my life in vain._ | | _I_ 
- _thought myself one of the rarest thinkers,_ | | But 
- _empty is my fame… Alas, I have no aim._ | | 
+It pains me now to realize that I have tinkered | |
+With nature’s gifts and lived my life in vain. | | I
+thought myself one of the rarest thinkers, | | But
+empty is my fame… Alas, I have no aim. | | 
 
-| _Inconstancy and idleness are our greatest banes._ | |
-_We put no faith in loyalty of friends._ | | _Our_ 
-_warmth of feeling all too quickly wanes,_ | | _We cool too_
-_soon: a trifling hurt offends._ | |
+Inconstancy and idleness are our greatest banes.| |
+We put no faith in loyalty of friends.| | Our
+warmth of feeling all too quickly wanes,| | We cool too
+soon: a trifling hurt offends. | |
 
-| _I have no one to love now, and no friend._ | | _In_ 
-_disillusionment I turned to writing verse._ | |
-_When I was sure in heart, how without end,_ | | _How fascinating seemed_
-_the universe!_ | |
+I have no one to love now, and no friend.| | In
+disillusionment I turned to writing verse.| |
+When I was sure in heart, how without end,| | How fascinating seemed
+the universe!| |
 
-| _My soul craves friendship, seeks it daily,_ | |
-| | _My heart is aching for it, and while I_ | 
-_Have never known a friend who’d not betray me,_ | | |
-| _I sing a hymn to friendship for all time!_[^11] | | 
+My soul craves friendship, seeks it daily, | |
+My heart is aching for it, and while I | |
+Have never known a friend who’d not betray me, | |
+I sing a hymn to friendship for all time![^11] | |
 
 It is this uncompromising honesty about himself that earned Abai the right to judge his own people with unrelenting candor. 
 
