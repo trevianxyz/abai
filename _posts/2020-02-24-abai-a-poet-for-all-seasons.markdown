@@ -31,11 +31,20 @@ width: auto;
 font-size: 12px;
 }
 
+blockquote > p {
+  white-space: nowrap;
+  font-size: 12px;
+}
+
 }
 
 blockquote {
   font-style: italic;
   margin-left: 1.5rem;
+}
+
+blockquote > p {
+  white-space: nowrap;
 }
 
 blockquote > p > sup {
