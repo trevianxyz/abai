@@ -31,7 +31,7 @@ frequent_info:
       href: /us-relations
 ---
 
-{% include collapsetabs.html %}
+<!--{% include collapsetabs.html %}-->
 {% include page-engine.html %}
 {% include slick-slider.html %}
 <a href="/book-of-words-wordcloud"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/wordsofabaiwordcloud.png" class="img-fluid index-banner-img" /></a>
