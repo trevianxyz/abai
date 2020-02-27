@@ -27,7 +27,19 @@ i {
 
 .next-event-badge {
  font-size: 12px;
+ color: #FFF;
+ background-color: green;
+animation-name: next-event-badge;
+animation-duration: 4.5s;
+animation-delay: 13s;
+animation-iteration-count: infinite;
 }
+
+@keyframes next-event-badge {
+from {background-color: green;}
+to {background-color: rgba(76, 209, 55,1.0);}
+}
+
 .event-list-thumb {
   height: 245px;
 }
@@ -72,9 +84,23 @@ text-decoration: none!important;
     {% if item.jumbo-event == true %}
     <li class="pillz-nav-item">
         <button class="usa-accordion-button {% if counter_pill_tab == 0 %}active{% endif %} pillz-nav-link"
-            aria-expanded="false" aria-controls="c-a{{ counter_pill_tab }}">  
-       <i class="fas fa-film fa-lg mx-3 align-bottom"></i><span class="align-bottom">Film Screening: {{ item.title }}</span>, 
-        <span class="text-small align-bottom">{{ item.event-date }}</span><span class="badge badge-success align-top mx-1 next-event-badge">Next Event</span>
+            aria-expanded="false" aria-controls="c-a{{ counter_pill_tab }}"> 
+          <div class="row">
+           <!-- <div 
+            class="col-2"> 
+              <i class="fas fa-film fa-lg mx-3 align-bottom"></i> 
+            </div>-->
+            <div 
+            class="col-12"> 
+            <span 
+            class="align-bottom">Film Screening: {{ item.title }}
+          </span>
+          <span 
+          class="text-small align-bottom">{{ item.event-date }}
+        </span>
+        <span 
+        class="badge align-top mx-1 next-event-badge">Next Event</span></div>
+          </div>   
         </button>
         <div id="c-a{{ counter_pill_tab }}" class="usa-accordion-content">
         <div class="row">
@@ -106,7 +132,7 @@ text-decoration: none!important;
         
         </div>
     </li>
-    {% assign counter_pill_tab = counter_pill_tab | plus: 1 %}
+      {% assign counter_pill_tab = counter_pill_tab | plus: 1 %}
     {% endif %}
     {% endfor %}
 </ul>

@@ -34,8 +34,9 @@ layout: default
                     <div class="container mb-4 bg-white border border-light shadow-sm">
                         <div class="row">
                             <div class="col-md-9 order-2 order-md-1">
-                                {% if item.title %}
-                                    <h2>{{ item.title }}</h2>
+                                {% if item.title %} 
+                                    <h2>{{ item.title }}</h2> <span class="badge badge-danger"><em>This event has
+                                            passed</em></span>
                                     <h3>{{ item.event-date }}, {{ item.event-time }}</h3>
                                     <div class="event-details-div">
                                     <div>{{ item.event-location }}</div>
