@@ -7,14 +7,19 @@ categories:
 author: "Peter Rollberg"
 noshow_img: true
 ---
-
+<style>
 td {
-  padding-left: 20px !important;
-  padding-right: 2px !important;
-
-  text-align: left;
+  padding-left: 30px !important;
+  padding-right: 0px !important;
+  text-align: right;
   font-style: italic !important;
  }
+
+ td:first-child {
+   padding-left: 0px !important;
+   text-align: left;
+ }
+ </style>
 
 By PROFESSOR [{{ page.author | upcase }}](#author)
 
@@ -44,14 +49,14 @@ As with all great artists, Abai’s legacy has been interpreted differently in e
 ### Nature
 Abai used poetry to capture the atmosphere of the aul and the steppe during different times of the year. His cycle on the seasons is particularly remarkable as it deviates from typical perceptions of nature in other national literatures, giving Abai’s poetry an unmistakably Kazakh dimension. “Autumn” (1888), for example, emphasizes darkness and not the celebration of plentiful harvesting, whereas “Winter” reflects existential danger, conveying a unique attitude toward forces of nature that defines the life of Kazakhs for many months. In Abai’s poetic world, winter appears as a person, and it is not a friendly one:
 
-| | _His beetling eyebrows are knit in a frown._ | 
-| | _When he tosses his head – dismal snow starts to fall._ | 
-_Like a crazy old camel he acts in his rage,_ | | _Rocking and_ 
+ | His beetling eyebrows are knit in a frown. | 
+ | When he tosses his head – dismal snow starts to fall. | 
+_Like a crazy old camel he acts in his rage,_ | | Rocking and 
 _shaking our yurt’s thin wall._ | | 
 
-| | _The horses in vain try to shatter the ice_ | 
-| | _The hungry herd scarcely shuffle their feet,_ | 
-_Greedy wolves –winter’s henchmen– have their fangs;_ | | | _Watch,_ 
+| _The horses in vain try to shatter the ice_ | 
+| _The hungry herd scarcely shuffle their feet,_ | 
+_Greedy wolves –winter’s henchmen– have their fangs;_ | | Watch, 
 _or disaster your flocks may meet!_[^4] | |
 
 [^4]: Translated by Dorian Rottenberg; cf. Abai Kunanbayev, Selected Poems. Moscow: Progress Publishers, 1970, p. 58.
