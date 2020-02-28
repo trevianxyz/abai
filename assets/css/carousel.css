@@ -41,3 +41,7 @@
   height: 450px;
   }
 }
+
+.modal-open {
+  overflow: hidden;
+}

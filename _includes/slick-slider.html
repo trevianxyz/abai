@@ -26,7 +26,7 @@
 {% unless include.no-modal %}
 
   
-<div id="OldModal" class="modal">
+<div id="OldModal" class="modal" style="z-index: 10000;">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
       <img id="modalArtistsworks" src="" alt="modal image" />
@@ -50,12 +50,15 @@
     })
     
     $('#OldModal').show();
+    $('html').addClass('modal-open');
  
 
   }
 
   function closeModal() {
+    $('html').removeClass('modal-open');
     $('#OldModal').hide();
+    
   }
 </script>
 
