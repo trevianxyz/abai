@@ -31,27 +31,7 @@ width: auto;
 font-size: 12px;
 }
 
-blockquote > p {
-  white-space: nowrap;
-  font-size: 12px;
 }
-
-}
-
-blockquote {
-  font-style: italic;
-  margin-left: 1.5rem;
-}
-
-blockquote > p {
-  white-space: nowrap;
-}
-
-blockquote > p > sup {
-  font-style: normal;
-  margin-left: 2px;
-}
-
  </style>
 
 By PROFESSOR [{{ page.author | upcase }}](#author)
@@ -67,7 +47,7 @@ By the age of 35, Abai began to devote serious attention to his own poetry. His 
 
 [^2]: Only much later did Mursent Bekin write down Abai’s poems.
 
-Abai’s *aul* attracted numerous akyns, but also foreigners – including Tatars and Russians – who wanted to witness Abai’s wisdom and artistry first-hand. While handwritten copies of Abai’s works were circulated among readers, it was the akyns who learned them by heart and performed them throughout the country. Abai also was a gifted composer who created tunes for his poems, which made them even more popular. As the great scholar and writer Mukhtar Auezov put it: “He carried his poetry like a burning torch through the gloom of ignorance and prejudice that enveloped the Kazakh steppes, revealing new horizons to his people and the promise of a new dawn.”
+Abai’s aul attracted numerous akyns, but also foreigners – including Tatars and Russians – who wanted to witness Abai’s wisdom and artistry first-hand. While handwritten copies of Abai’s works were circulated among readers, it was the akyns who learned them by heart and performed them throughout the country. Abai also was a gifted composer who created tunes for his poems, which made them even more popular. As the great scholar and writer Mukhtar Auezov put it: “He carried his poetry like a burning torch through the gloom of ignorance and prejudice that enveloped the Kazakh steppes, revealing new horizons to his people and the promise of a new dawn.”
 
 A major formative factor in Abai’s upbringing was his contentious relationship with his authoritarian father, whose plan it was to raise Abai as his successor. Kunanbai had four wives who competed against each other. But Abai’s mother, Ulzhan, and his paternal grandmother, Zere, showed Abai the possibility of a life based on values other than power: justice, truth, respect for all human beings, compassion, and mutual help. It was his mother who called him Abai, meaning “the thoughtful one”, rather than Ibrahim, his official first name. And since “thoughtful” was such a fitting description of the boy’s personality, it stuck to him forever.
 
@@ -80,18 +60,17 @@ As with all great artists, Abai’s legacy has been interpreted differently in e
 ## Poetry
 
 ### Nature
+Abai used poetry to capture the atmosphere of the aul and the steppe during different times of the year. His cycle on the seasons is particularly remarkable as it deviates from typical perceptions of nature in other national literatures, giving Abai’s poetry an unmistakably Kazakh dimension. “Autumn” (1888), for example, emphasizes darkness and not the celebration of plentiful harvesting, whereas “Winter” reflects existential danger, conveying a unique attitude toward forces of nature that defines the life of Kazakhs for many months. In Abai’s poetic world, winter appears as a person, and it is not a friendly one:
 
-Abai used poetry to capture the atmosphere of the *aul* and the steppe during different times of the year. His cycle on the seasons is particularly remarkable as it deviates from typical perceptions of nature in other national literatures, giving Abai’s poetry an unmistakably Kazakh dimension. “Autumn” (1888), for example, emphasizes darkness and not the celebration of plentiful harvesting, whereas “Winter” reflects existential danger, conveying a unique attitude toward forces of nature that defines the life of Kazakhs for many months. In Abai’s poetic world, winter appears as a person, and it is not a friendly one:
+ | His beetling eyebrows are knit in a frown. | 
+ | When he tosses his head – dismal snow starts to fall. | 
+Like a crazy old camel he acts in his rage, | | Rocking and 
+shaking our yurt’s thin wall. | | 
 
-> His beetling eyebrows are knit in a frown.   
-> When he tosses his head — dismal snow starts to fall.   
-> Like a crazy old camel he acts in his rage,   
-> Rocking and shaking our yurt’s thin wall.
-> 
-> The horses in vain try to shatter the ice —   
-> The hungry herd scarcely shuffle their feet,   
-> Greedy wolves — winter’s henchmen — have their fangs;    
-> Watch, or disaster your flocks may meet![^4]
+| The horses in vain try to shatter the ice | 
+| The hungry herd scarcely shuffle their feet, | 
+Greedy wolves –winter’s henchmen– have their fangs; | | Watch, 
+or disaster your flocks may meet![^4] | |
 
 [^4]: Translated by Dorian Rottenberg; cf. Abai Kunanbayev, Selected Poems. Moscow: Progress Publishers, 1970, p. 58.
 
@@ -99,124 +78,112 @@ Unlike winter poems in other national literatures, Abai’s points to this seaso
 It seems safe to say that in his nature poetry, Abai is the authentic voice of his nation: he expresses the emotions that he, just like every Kazakh, experiences in his interactions with the forces of life. For the inner tension of these poems it is essential that the auctorial voice is not that of an outside observer. Rather, he and his people are one, his viewpoint is theirs. 
 
 ### Love
-
 Nature often serves as the backdrop for love and passion: 
 
 
-> In the silent, luminous night    
-> On the water the moonbeams quiver.    
-> In the gully beyond the aul    
-> Tumultuous, roars the river.   
-> 
-> The mountains respond in a choir    
-> To the shepherd dogs hidden from view.   
-> You come in a flowery dress   
-> To your midnight rendezvous.   
-> 
-> At once both bold and meek   
-> Full of sweet girlish grace,   
-> You furtively look around,   
-> Blushes light up your face.   
-> 
-> Not venturing even to speak    
-> With a soft half-sigh, half-groan   
-> On tip-toe you rise and press   
-> Your trembling lips to my own.[^5]
+In the silent, luminous night | |
+On the water the moonbeams quiver. | | In the
+gully beyond the aul | | Tumultuous, roars the river. 
+The mountains respond in a choir | | 
+To the shepherd dogs hidden from view. | | You 
+come in a flowery dress | | To your midnight rendezvous.
+ At once both bold and meek | |
+Full of sweet girlish grace, | | You 
+furtively look around, | | Blushes light up
+your face. | |
+Not venturing even to speak | |
+With a soft half-sigh, half-groan | | On tip- 
+toe you rise and press | | Your trembling 
+lips to my own.[^5] | | 
 
 [^5]: Translated by Dorian Rottenberg, op. cit., p. 60.
 
 In this poem, written in 1888, nature provides shelter, a hideout for the lovers. Human emotions live in harmony with the movements of the trees, the moon, and the river. In this and other love poems, passion is captured as an overwhelming, tormenting, but ultimately gratifying power. The erotic candor of Abai’s love poems is remarkable in itself, demonstrating how the poet fully embraces all aspects of love, including the physical.
 
 ### Didacticism
-
 In his didactic poems, Abai takes on the role of a teacher of life who explains to his listener, or reader, the rules of which principles they are to follow and which to avoid. The generalizations of these poems appear quite authoritative. However, the arguments expressed to the listener/reader are not normative in the conventional sense, verbalizing officially sanctioned rules for life. Rather, they are derived from what Abai himself learned in life, such as in the following poem written in 1889:
 
-> When your mind is as keen and as cold as ice,    
-> When hot passions burn in your petulant heart,    
-> Both fiery passion and patient thought    
-> Must be ruled by the will, lest they stray apart. (…)
-> 
-> What use is the mind without passion and will?    
-> For a thoughtless heart even midday is dark.    
-> Be able to keep all three in accord.    
-> Let your will make your heart to your reason hark.[^6]
+When your mind is as keen and as cold as ice, | |
+When hot passions burn in your petulant heart, | | 
+Both fiery passion and patient thought | | 
+Must be ruled by the will, lest they stray apart. (…) | | 
+
+What use is the mind without passion and will?| | 
+For a thoughtless heart even midday is dark.| | 
+Be able to keep all three in accord.| | 
+Let your will make your heart to your reason hark[^6].| | 
 
 [^6]: Translated by Dorian Rottenberg, op. cit., p. 76.
 
 The poetic form gives these conclusions a crisp shape but also makes it more persuasive in its didactic purpose. 
 
 ### The Mission of Poetry 
-
 In his poetry, Abai often asks himself: why do I use the poetic form in the first place? Who is my target audience? And he answers with a stringently formulated credo:
 
-> Not for amusement do I write my verse,    
-> Nor do I stuff it full of silly words.    
-> It’s for the young I write, for those    
-> Whose hearing is acute, whose senses are alert.    
-> Men who have vision and are quick to give response    
-> Will understand the message in my verse.[^7] 
+| | Not for amusement do I write my verse,
+Nor do I stuff it full of silly words. | | It’s for 
+the young I write, for those | | Whose hearing 
+is acute, whose senses are alert. | | Men who have vision 
+and are quick to give response	| | Will understand the message in 
+my verse.[^7] | | 
 
 Abai’s poem confirms his identity as a teacher of life, an identity he has acquired through many hard lessons. Being privy to hearing or reading his poetry is the right of those who are open to those lessons, to shared experiences; those who are eager for entertainment should look elsewhere.  
 
 ### Philosophy 
-
 Philosophical questions are at the center of several of Abai’s poems, addressing existential aspects of our life here on Earth and thereafter. One of these poems, written in 1895, begins with a seeming paradox: Nature may be mortal, but humans are not. For a Western reader educated in a rationalistic framework, this is a paradoxical statement, as the opposite seems to be true: human beings exist in the world for a limited time, while nature in its universality will always be there. But Abai’s worldview is rigorously anthropocentric[^8]. The supremacy of humanity in the universe, the fundamental respect for human potential and accomplishments turns the relationship around: Nature is mortal, humans are immortal! Abai’s radical reversal of the conventional relationship between humanity and the universe is rarely found in Western poetry; it is hard to say whether this is a demonstration of the primacy of his religious views or whether Abai speaks strictly within a poetic paradigm. Conspicuously, his anthropocentrism has found a continuation in 20th-century Kazakh poetry, for example, in Suleimenov. 
 
-> Maybe nature is mortal, but man is not.    
-> Though there is no coming back    
-> When he draws his last breath.    
-> The separation of I and Mine    
-> Only the ignorant regard as death. (…)
-> 
-> This world and the other can’t both be loved.     
-> The divine and the earthly must be divorced.    
-> But a man’s no believer if he in his heart    
-> Loves this world all too much, and the other perforce.[^9]
+| | Maybe nature is mortal, but man is not. 
+Though there is no coming back | | When 
+he draws his last breath. | | The
+separation of I and Mine | | Only
+the ignorant regard as death. (…) | |
+| | This world and the other can’t both be loved. 
+The divine and the earthly must be divorced. | | But a
+man’s no believer if he in his heart | | Loves
+this world all too much, and the other perforce.[^9] | |
 
 ### The Nation
-
 Among the central themes in Abai’s poetry is his nation. The Kazakhs are his people, but who are they, what are their values? Whenever Abai ponders these questions, he is a stern judge; his directness in addressing national vices, as he sees them, is both awesome and terrifying. 
 
-> Oh my luckless Kazakh, my unfortunate kin,    
-> An unkempt moustache hides your mouth and chin.    
-> Blood on your right cheek, fat on your left —    
-> When will the dawn of your reason begin?
-> 
-> Your looks are not bad and your numbers are vast,    
-> Yet why do you change your favors so fast?    
-> You will never listen to sound advice,    
-> Your tongue in its rashness is unsurpassed. (…)
-> 
-> Kinsmen for trifle each other hate.    
-> God bereft them of reason — such is their fate.    
-> No honor, no harmony, only dissent;    
-> No wonder cattle is scarcer of late.[^10]
+| Oh my luckless Kazakh, my unfortunate kin, | |
+| An unkempt moustache hides your mouth and chin. | |
+| Blood on your right cheek, fat on your left– | |
+| When will the dawn of your reason begin? | |
+
+| Your looks are not bad and your numbers are vast, | |
+| Yet why do you change your favors so fast? | |
+| You will never listen to sound advice, | |
+| Your tongue in its rashness is unsurpassed. (…) | |
+
+| Kinsmen for trifle each other hate. | |
+| God bereft them of reason – such is their fate. | |
+| No honor, no harmony, only dissent; | |
+| No wonder cattle is scarcer of late.[^10] | |
 
 The sternness and directness with which Abai chastises his nation is astonishing; it is hard to think of other poets revered by their nations who would be able to express such critical sentiments. Indeed, there is no hopeful outlook softening his message – the only way the poet can talk to his people is in uncompromising moral certitude, with a candor that is almost merciless. The fact that the Kazakh nation nonetheless loves Abai reveals a willingness to put up with harsh words as long as they are perceived as truthful. 
 
 ### Autobiographical Motifs
-
 When Abai speaks about himself, his will to verbalize the experiences of his life with utmost honesty outweighs any other consideration. This is particularly true of a number of Abai’s poems that sum up the results of his life struggles, drawing a balance of what he has realized over the years. Such is the poem “It pains me now.”
 
-> It pains me now to realize that I have tinkered    
-> With nature’s gifts and lived my life in vain.    
-> I thought myself one of the rarest thinkers,    
-> But empty is my fame… Alas, I have no aim.
-> 
-> Inconstancy and idleness are our greatest banes.    
-> We put no faith in loyalty of friends.    
-> Our warmth of feeling all too quickly wanes,    
-> We cool too soon: a trifling hurt offends.
-> 
-> I have no one to love now, and no friend.    
-> In disillusionment I turned to writing verse.    
-> When I was sure in heart, how without end,    
-> How fascinating seemed the universe!
-> 
-> My soul craves friendship, seeks it daily,    
-> My heart is aching for it, and while I    
-> Have never known a friend who’d not betray me,    
-> I sing a hymn to friendship for all time![^11]
+It pains me now to realize that I have tinkered | |
+With nature’s gifts and lived my life in vain. | | I
+thought myself one of the rarest thinkers, | | But
+empty is my fame… Alas, I have no aim. | | 
+
+Inconstancy and idleness are our greatest banes.| |
+We put no faith in loyalty of friends.| | Our
+warmth of feeling all too quickly wanes,| | We cool too
+soon: a trifling hurt offends. | |
+
+I have no one to love now, and no friend.| | In
+disillusionment I turned to writing verse.| |
+When I was sure in heart, how without end,| | How fascinating seemed
+the universe!| |
+
+My soul craves friendship, seeks it daily, | |
+My heart is aching for it, and while I | |
+Have never known a friend who’d not betray me, | |
+I sing a hymn to friendship for all time![^11] | |
 
 It is this uncompromising honesty about himself that earned Abai the right to judge his own people with unrelenting candor. 
 
@@ -226,8 +193,8 @@ Abai harbored no illusions about humankind. He describes human behavior as domin
 <div id="author">
     <div class="row">
         <div class="col-sm-12 col-md-6 align-middle">
-        <p class="lead"><b>PETER ROLLBERG</b><br>
-Peter Rollberg is Professor of Slavic Languages, Film Studies, and International Affairs and Associate Dean for Faculty Affairs and Research Initiatives at George Washington University’s Elliott School of International Affairs. Rollberg studied at Lomonosov University in Moscow and at the University of Leipzig where he earned his Ph.D. in 1988. His main field of expertise is Russian literature and film, as well as Georgian and Kazakh cinema. In 1996, Rollberg published volume 10 of The Modern Encyclopedia of East Slavic, Baltic, and Eurasian Literatures (Academic International Press) and in 1997, a festschrift in honor of Charles Moser, entitled And Meaning for a Life Entire. His Historical Dictionary of Russian and Soviet Cinema was published in 2009 (second, enlarged edition 2016).</p>
+<p class="lead"><b>PETER ROLLBERG</b><br>
+Peter Rollberg is Professor of Slavic Languages, Film Studies, and International Affairs and Associate Dean for Faculty Affairs and Research Initiatives at George Washington University’s Elliott School of International Affairs. Rollberg studied at Lomonosov University in Moscow and at the University of Leipzig where he earned his Ph.D. in 1988. His main field of expertise is Russian literature and film, as well as Georgian and Kazakh cinema. In 1996, Rollberg published volume 10 of The Modern Encyclopedia of East Slavic, Baltic, and Eurasian Literatures (Academic International Press) and in 1997, a festschrift in honor of Charles Moser, entitled And Meaning for a Life Entire. His Historical Dictionary of Russian and Soviet Cinema was published in 2009 (second, enlarged edition 2016).</p>
 </div>
 <div class="col-sm-12 col-md-6 align-middle">
 <img src="/assets/images/kz/rollberg.jpeg" />
