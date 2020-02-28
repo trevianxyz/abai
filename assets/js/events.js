@@ -137,6 +137,20 @@ function openEventListings() {
     listings.forEach((l) => l.classList.remove('d-none'));
 }
 
+// year is fullYear, month is zero-indexed, day is not
+function eventOn(year, month, day) {
+    for (var i = 0; i < dates.length; i++) {
+        if (dates[i].getFullYear() === year && dates[i].getMonth() === month && dates[i].getDate() === day) {
+            return true;
+        }
+    }
+    return false;
+}
+
+function filterEvents() {
+    console.log(this);
+}
+
 function mod(n, m) {
     return ((n % m) + m) % m;
   }
@@ -166,8 +180,47 @@ function renderMonth(month) {
 
     document.getElementById('cal-m').innerHTML = months[currMonth] + " " + currYear;
 
-    console.log(weeks)
-    console.log(offset)
+    var rows = [];
+
+    for (var row = 0, d = 0; row < weeks; row++) {
+        var currRow = document.createElement('tr');
+        var currCells = [];
+        for (var i = 0; i < 7; i++) {
+            currCells.push(document.createElement('td'));
+        }
+
+        for (var col = 0; col < 7; col++) {
+
+            if (row === 0 && (col < offset)) {
+                currCells[col].innerHTML = '';
+                continue;
+            } else if (d < days.length) {
+                currCells[col].innerHTML = days[d].getDate();
+                if (eventOn(currYear, currMonth, days[d].getDate())) {
+                    currCells[col].classList.add('day-active');
+                    currCells[col].dataset.year = days[d].getFullYear();
+                    currCells[col].dataset.month = days[d].getMonth();
+                    currCells[col].dataset.day = days[d].getDate();
+                    currCells[col].addEventListener('click', filterEvents);
+                }
+                d++;
+            } else {
+                currCells[col].innerHTML = '';
+            }
+
+        }
+
+        currRow.append(...currCells);
+        rows.push(currRow);
+    }
+
+    var body = document.getElementById('cal-body');
+    
+    while (body.firstChild) {
+      body.removeChild(body.lastChild);
+    }
+
+    body.append(...rows);
 }
 
 domready(function() {

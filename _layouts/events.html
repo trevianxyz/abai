@@ -26,7 +26,7 @@ layout: default
         <div class="col-md-9 order-2 order-md-1 events-list">
             <div class="container" id="lhs">
                 {% for item in site.data.events.contents %}
-                <div class="row event-listing">
+                <div class="row event-listing"  data-event-year="{{ item.event-date | date: "%Y" }}" data-event-month="{{ item.event-date | date: "%m" | minus: 1 }}" data-event-day="{{ item.event-date | date: "%e" }}">
                 <div class="col-12">
 
                     <!-- EVENT LISTING: title, date, time, thumbnail, buttons -->
@@ -35,8 +35,12 @@ layout: default
                         <div class="row">
                             <div class="col-md-9 order-2 order-md-1">
                                 {% if item.title %} 
-                                    <h2>{{ item.title }}</h2> <span class="badge badge-danger"><em>This event has
-                                            passed</em></span>
+                                    <h2>{{ item.title }}</h2> 
+                                    {% assign eventdate = item.event-date | date: '%s' %}
+                                    {% assign today = 'now'| date: '%s' %}
+                                    {% if today > eventdate %} 
+                                        <span class="badge badge-danger"><em>This event has passed</em></span>
+                                    {% endif %}
                                     <h3>{{ item.event-date }}, {{ item.event-time }}</h3>
                                     <div class="event-details-div">
                                     <div>{{ item.event-location }}</div>
@@ -155,7 +159,7 @@ layout: default
                                 <th>S</th>
                             </tr>
                         </thead>
-                        <tbody>
+                        <tbody id="cal-body">
                             <tr>
                                 <td></td>
                                 <td></td>
