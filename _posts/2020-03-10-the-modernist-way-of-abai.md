@@ -33,8 +33,8 @@ font-size: 12px;
 }
 
 blockquote > p {
-  white-space: nowrap;
-  font-size: 12px;
+  white-space: wrap;
+  font-size: 17px;
 }
 
 }
