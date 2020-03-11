@@ -1,17 +1,15 @@
 <link rel="stylesheet" href="{{ '/assets/css/slick-slider.css' | prepend: site.baseurl }}" />
 
-<div class="container">
-
-    <div class="slicky-slider">
-        {% for image in site.static_files %}
-        {% if image.path contains page.modernist-gallery %}
-        <div class="col px-0">
-            <img src="{{ image.path }}" class="img-thumbnail rounded mx-auto slick-slider-img"
-                data-img="{{ image.path }}">
-        </div>
-        {% endif %}
-        {% endfor %}
-    </div>
+<div class="slicky-slider">
+    {% assign dataSet = site.data.modernist-gallery %}
+   
+{% for image in dataSet %}
+<div class="col px-0">
+<img src="{{ image.filename }}" class="img-thumbnail rounded mx-auto slick-slider-img"
+data-img="{{ image.filename }}" >
+</div>
+{% endfor %}
+   
 </div>
 
 {% unless include.no-modal %}
@@ -25,11 +23,7 @@
 </div>
 
 <script>
-    var captions = {
-        {
-            site.data.modernist-gallery | jsonify
-        }
-    };
+    var captions = {{ site.data.modernist-gallery | jsonify }};
 
     $('.img-thumbnail').on('click', function (e) {
         openModal(e.target.dataset.img);
@@ -45,7 +39,6 @@
 
         $('#ModeristModal').show();
         $('html').addClass('modal-open');
-
 
     }
 

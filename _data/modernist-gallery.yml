@@ -1,15 +1,11 @@
- - filename: "1modern-edition.jpg"
+ - filename: "/assets/images/modernist-gallery/1modern-edition.jpg"
    caption: "Mukhtar Auezov “The Path of Abai”, in 4 volumes, translation by Anatoly Kim, Almaty, 2006"
- - filename: "2english-edition.jpg"
+ - filename: "/assets/images/modernist-gallery/2english-edition.jpg"
    caption: "Mukhtar Auezov, “Abai” in English, Progress Publishing House, 1975"
- - filename: "3Persian-edition.jpg"
+ - filename: "/assets/images/modernist-gallery/3persian-edition.jpg"
    caption: "Mukhtar Auezov, “The Path of Abai”, Persian translation by Safar Abdullo, Hiradgon Publishing House (Iran), 2019"
- - filename: "4korean-edition.jpg"
+ - filename: "/assets/images/modernist-gallery/4korean-edition.jpg"
    caption: "Abai Tandamalı Өlender, favorites, Korean translation by Kim Ben Hack, 200"
- - filename: "5sidorkin.jpg"
+ - filename: "/assets/images/modernist-gallery/5sidorkin.jpg"
    caption: "Mukhtar Auezov, The Path of Abai, a series of postcards, Өner Publishing House, artist E. M. Sidorkin, text A. Nurpeisov, 1997"
-slick-slider-gallery: "modernist-gallery"
-  
-
-
-
+pathing: "/assets/images/modernist-gallery/"
