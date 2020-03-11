@@ -1,5 +1,12 @@
 title: ""
 tools:
+  - title: "ABAI: A Poet for All Seasons"
+    body: "PETER ROLLBERG, Associate Dean and Professor at George Washington University’s Elliott School of International Affairs, writes on Abai's life and works."
+    image: "https://abaicenter.nyc3.cdn.digitaloceanspaces.com/abaihopeposter.png"
+    action:
+      title:
+      url: "https://abaicenter.com/abai-a-poet-for-all-seasons"
+    topic:
   - title: "Traditional Life on the Steppe: Tradecraft of Kazakh people."
     body: "Handicrafts were an inherent part of daily life for the people of the Kazakh Steppe. The nomadic lifestyle - harsh winters and horsemanship - created a nomadic economy of metalwork and textiles."
     image: '/assets/images/kz/handcrafts.jpg'
@@ -14,10 +21,3 @@ tools:
       title: "Explore"
       url: "https://voicesoncentralasia.org/dinmukhamed-kunaevs-house-museum/?fbclid=IwAR1T63rB62o96sfmMFi4FnoOuNoFJE3Vs3Z6gkF9v3p-25xXLMiMCtocFtc"
     topic: 'seven facets'
-  - title: "Deciphering the Saukele: The Traditional Bridal Headdress"
-    body: "Each Saukele is unique and is designed and decorated with great care, mythic and cultural symbolism, and expense. Saukeles communicated a young women's family social position and marital status."
-    image: '/assets/images/kz/saukele2.jpg'
-    action:
-      title:
-      url: "https://voicesoncentralasia.org/deciphering-the-saukele-the-traditional-headdress-of-kazakh-brides/?fbclid=IwAR19PRxqMovIwx_r88648DARVvSN6kg0kkmu4qeMTf2cRULonBt5xZ_u9ko"
-    topic:

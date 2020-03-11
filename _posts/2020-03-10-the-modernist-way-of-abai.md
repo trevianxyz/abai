@@ -3,6 +3,7 @@ permalink: /the-modernist-way-of-abai
 layout: post
 title: "The Modernist Way of Abai"
 date: 2020-03-10
+filter-category: modernist-gallery
 categories: 
 noshow_img: true
 ---
@@ -52,6 +53,9 @@ blockquote > p > sup {
   margin-left: 2px;
 }
  </style>
+
+<link rel="stylesheet" href="{{ '/assets/css/slick-slider.css' | prepend: site.baseurl }}" />
+
 
 Abai was undoubtedly a modernist, paving the way for Kazakh literature—which was mostly oral at the time—to become sophisticated, emotional, philosophical, and political. His own “path,” famously depicted in Mukhtar Auezov’s epic novel _The Path of Abai (Abai Zholy)_, is still curious. How did he develop his peculiar view and language? What are his philosophical grounds? How did his inner Kazakhness transform into something new and modern, providing inspiration for the entire Kazakh society and for generations to come?
 
@@ -112,15 +116,62 @@ We sought answers to these questions from some prominent representatives of the 
 > Khan Kenesary did not succeed in putting together the Kazakhs, but Abai succeeded. He opened for the Kazakhs—with their "Tіl, Dіl, Dіn (Worldview, Language, Religion)"—the path
 > to the 20th century. 
 
-Captions:
-
-Mukhtar Auezov “The Path of Abai”, in 4 volumes, translation by Anatoly Kim, Almaty, 2006
-Mukhtar Auezov, “Abai” in English, Progress Publishing House, 1975
-Mukhtar Auezov, “The Path of Abai”, Persian translation by Safar Abdullo, Hiradgon Publishing House (Iran), 2019
-Abai Tandamalı Өlender, favorites, Korean translation by Kim Ben Hack, 200
-Mukhtar Auezov, The Path of Abai, a series of postcards, Өner Publishing House, artist E. M. Sidorkin, text A. Nurpeisov, 1997 
+<div class="container">
+   
+<div class="slicky-slider">
+    {% for image in site.static_files %}
+    {% if image.path contains page.modernist-gallery %}
+        <div class="col px-0">
+            <img src="{{ image.path }}" class="img-thumbnail rounded mx-auto slick-slider-img"
+            data-img="{{ image.path }}">
+        </div>
+    {% endif %}
+    {% endfor %}
+</div>
+</div>
 
 ### Abay Zholy
 
 "Abai Zholy" is one of the most popular and valuable novels written by Mukhtar Auezov. The first book of the series was published in 1942 and after five years in 1947 “Abai”, the second of the series was published, then came the third book in 1952 called “Abai aga” (Brother Abai). Finally, the fourth book was released in 1956. Later all of the books were repackaged and renamed as “Abai zholy” (The Path of Abai). The first book and second books each have 7 chapters and one epilogue. The third book has 6 chapters as has the Fourth and one epilogue entire epic is divided into 20 short chapters each of which includes uniquely interesting situations. (Wikipedia)
 “Writing about Abai was risky.” In fact, Auezov had to revive him from the ashes and defend him against ruthless censorship. In particular, in the novel The Path of Abai, censors removed seventy pages that describe how Kunanbay’s wife, Ulzhan, escorted him to Mecca. Auezov was often accused of archaism and nationalism by the Soviet authorities and had to defend himself.
+
+
+{% unless include.no-modal %}
+  
+<div id="ModeristModal" class="modal" style="z-index: 10000;">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+      <img id="modernistModal" src="" alt="modal image" />
+      <figcaption id="modal-cap" class="p-2"></figcaption>
+  </div>
+</div>
+   
+<script>
+  var captions = {{ site.data.modernist-gallery | jsonify }};
+
+  $('.img-thumbnail').on('click', function(e) {
+    openModal(e.target.dataset.img);
+  })
+
+  function openModal(img) {
+    $('#modernistModal').attr('src', img);
+    captions.forEach(function(c) {
+      if (img.includes(c.filename)) {
+        $('#modal-cap').html(c.caption);
+      }
+    })
+    
+    $('#ModeristModal').show();
+    $('html').addClass('modal-open');
+ 
+
+  }
+
+  function closeModal() {
+    $('html').removeClass('modal-open');
+    $('#OldModal').hide();
+    
+  }
+</script>
+
+{% endunless %}
