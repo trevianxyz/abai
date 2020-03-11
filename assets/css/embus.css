@@ -302,8 +302,8 @@ a.fa-2x {
   width: 50%;
 }
 
- .footnotes {
-   color: gray; 
+.footnotes {
+   color: gray !important; 
  }
  
 

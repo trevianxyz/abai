@@ -132,8 +132,10 @@ We sought answers to these questions from some prominent representatives of the 
 
 ### Abay Zholy
 
-"Abai Zholy" is one of the most popular and valuable novels written by Mukhtar Auezov. The first book of the series was published in 1942 and after five years in 1947 “Abai”, the second of the series was published, then came the third book in 1952 called “Abai aga” (Brother Abai). Finally, the fourth book was released in 1956. Later all of the books were repackaged and renamed as “Abai zholy” (The Path of Abai). The first book and second books each have 7 chapters and one epilogue. The third book has 6 chapters as has the Fourth and one epilogue entire epic is divided into 20 short chapters each of which includes uniquely interesting situations. (Wikipedia)
+_Abai Zholy_ is one of the most popular and valuable novels written by Mukhtar Auezov. The first book of the series was published in 1942 and after five years in 1947 _Abai_, the second of the series was published, then came the third book in 1952 called _Abai Aga_ (Brother Abai). Finally, the fourth book was released in 1956. Later all of the books were repackaged and renamed as _Abai Zholy_ (The Path of Abai). The first book and second books each have 7 chapters and one epilogue. The third book has 6 chapters as has the Fourth and one epilogue entire epic is divided into 20 short chapters each of which includes uniquely interesting situations.[^abai_zholy]
 “Writing about Abai was risky.” In fact, Auezov had to revive him from the ashes and defend him against ruthless censorship. In particular, in the novel The Path of Abai, censors removed seventy pages that describe how Kunanbay’s wife, Ulzhan, escorted him to Mecca. Auezov was often accused of archaism and nationalism by the Soviet authorities and had to defend himself.
+
+[^abai_zholy]: [_Abai Zholy_ (The path of Abai)](https://en.wikipedia.org/wiki/Mukhtar_Auezov#%22Abai_Zholy%22_%28The_path_of_Abai%29)
 
 
 {% unless include.no-modal %}
