@@ -29,21 +29,21 @@ data-img="{{ image.filename }}" >
     })
 
     function openModal(img) {
-        $('#Abai_modernistModal').attr('src', img);
+        $('#modernistModal').attr('src', img);
         captions.forEach(function (c) {
             if (img.includes(c.filename)) {
                 $('#modal-cap').html(c.caption);
             }
         })
 
-        $('#moderistModal').show();
+        $('#Abai_modernistModal').show();
         $('html').addClass('modal-open');
 
     }
 
     function closeModal() {
         $('html').removeClass('modal-open');
-        $('#modernistModal').hide();
+        $('#Abai_modernistModal').hide();
     }
 </script>
 
