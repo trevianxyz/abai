@@ -9,3 +9,7 @@
  - filename: "/assets/images/modernist-gallery/5sidorkin.jpg"
    caption: "Mukhtar Auezov, The Path of Abai, a series of postcards, Өner Publishing House, artist E. M. Sidorkin, text A. Nurpeisov, 1997"
 pathing: "/assets/images/modernist-gallery/"
+image_id: "modernistModal"
+modal_id: "#Abai_modernistModal"
+modal_width: 
+modal_height: 500px

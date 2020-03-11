@@ -1,5 +1,15 @@
 <link rel="stylesheet" href="{{ '/assets/css/slick-slider.css' | prepend: site.baseurl }}" />
 
+<style>
+ #modernistModal {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;   
+  height: auto;
+  width: 450px;     
+ }
+</style>
+
 <div class="slicky-slider">
 {% assign dataSet = site.data.modernist-gallery %}   
 {% for image in dataSet %}
