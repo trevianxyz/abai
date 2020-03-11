@@ -26,6 +26,10 @@ table {
 width: 600px;
 }
 
+.footnotes, .footnotes a {
+  color: grey;  
+}
+
 @media screen and (max-width: 786px) {
 table {
 width: auto;
@@ -72,7 +76,7 @@ We sought answers to these questions from some prominent representatives of the 
 > formulate its main theses in his work, showing the way for a relatively young nation. Abai is a modernist in verbal art, a reformer in his criticisms and judgments, and a teacher
 > in his instructions and covenants.
 
-### Rabiga Kulzhan, philologist and translator, maintains that Abai knew Kazakhness very well, with all of the pros and cons of the mentality. 
+### Rabiga Kulzhan, philologist and translator, maintains that Abai knew Kazakhness very well, with all of the pros and cons of the mentality: 
 > It was Abai who launched the process of Kazakhs’ integration into global culture. The central idea in Abai’s prose is: “Orys bolgyn kelse, aldamenen qазаa bol! / Russians see the
 > world, be with them!”—where Russians are seen as the representatives of Europe or global advanced culture more broadly. What followed was the very rapid integration of Kazakhs
 > into the modern world.<br><br>
@@ -84,7 +88,7 @@ We sought answers to these questions from some prominent representatives of the 
 > Abai's modernism had a far-reaching, enlightening mission. Some of his thoughts are still worth investigating today. For example, his 38th poem (word) still needs to be
 > translated with a deeper understanding of the religious and Sufi messages of the original.
 
-### Tilek Yrysbek, poet, translator, and designer. 
+### Tilek Yrysbek, poet, translator, and designer:
 > As the writer and intellectual Askar Suylemenov once said: When the Kazakhs become wiser, Abai will become obsolete. In my opinion, Abai will never be outdated, but will become a
 > tradition. In the words of Abai: _“Yesterday's cliff is the same cliff today.”_ This truth can also be attributed to Abai himself. Nothing has changed in our society since the
 > days of Abai, and he would have criticized our generation bitterly as we are very far from his ideal of the "perfect men." The loneliness of a sage is endless. But to understand
@@ -93,7 +97,7 @@ We sought answers to these questions from some prominent representatives of the 
 > nomadic civilization. Abai sought to change the Kazakhs by preserving our cultural heritage. His 45 words of edification are full of humanistic ideas. Therefore, he is our steppe
 > sage. And his words refer not only to the Kazakhs, but to the whole world.
 
-### Murat Auezov, a writer and a scholar in culture studies, is convinced that Abai was the savior of the Kazakh people. 
+### Murat Auezov, a writer and a scholar in culture studies, is convinced that Abai was the savior of the Kazakh people: 
 > He lived in the late 19th  and early 20th centuries. This time was a farewell song of the horse-nomad civilization. The nineteenth century of the nomadic steppe was the last
 > century of freedom, and already it felt the forthcoming catastrophic changes that were yet to occur. The inner feelings in the steppe, expressed in its songs and poems, are very
 > elegiac and sad. Great poets, singers, musicians, and heroic personalities appear in the steppe—those who understood the inevitability of tragic upheavals—and they foreshadowed
