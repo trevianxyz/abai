@@ -1,8 +1,7 @@
 <link rel="stylesheet" href="{{ '/assets/css/slick-slider.css' | prepend: site.baseurl }}" />
 
 <div class="slicky-slider">
-    {% assign dataSet = site.data.modernist-gallery %}
-   
+{% assign dataSet = site.data.modernist-gallery %}   
 {% for image in dataSet %}
 <div class="col px-0">
 <img src="{{ image.filename }}" class="img-thumbnail rounded mx-auto slick-slider-img"
@@ -14,7 +13,7 @@ data-img="{{ image.filename }}" >
 
 {% unless include.no-modal %}
 
-<div id="modernistModal" class="modal" style="z-index: 10000;">
+<div id="Abai_modernistModal" class="modal" style="z-index: 10000;">
     <span class="close cursor" onclick="closeModal()">&times;</span>
     <div class="modal-content">
         <img id="modernistModal" src="" alt="modal image" />
@@ -30,14 +29,14 @@ data-img="{{ image.filename }}" >
     })
 
     function openModal(img) {
-        $('#modernistModal').attr('src', img);
+        $('#Abai_modernistModal').attr('src', img);
         captions.forEach(function (c) {
             if (img.includes(c.filename)) {
                 $('#modal-cap').html(c.caption);
             }
         })
 
-        $('#ModeristModal').show();
+        $('#moderistModal').show();
         $('html').addClass('modal-open');
 
     }
