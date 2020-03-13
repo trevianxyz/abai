@@ -6,6 +6,8 @@ date: 2020-03-10
 slick-slider-gallery: "modernist-gallery"
 categories: 
 noshow_img: true
+bigtitle: true
+bigtitle_img: "/assets/images/abai_cartoon_effect.png"
 ---
 
 <style>
