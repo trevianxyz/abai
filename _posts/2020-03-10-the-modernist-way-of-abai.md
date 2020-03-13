@@ -77,7 +77,7 @@ We sought answers to these questions from some prominent representatives of the 
 > in his instructions and covenants.
 
 ### Rabiga Kulzhan, philologist and translator, maintains that Abai knew Kazakhness very well, with all of the pros and cons of the mentality: 
-> It was Abai who launched the process of Kazakhs’ integration into global culture. The central idea in Abai’s prose is: “Orys bolgyn kelse, aldamenen qазаa bol! / Russians see the
+> It was Abai who launched the process of Kazakhs’ integration into global culture. The central idea in Abai’s prose is: “Orys bolgyn kelse, aldamenen qазаq bol! / Russians see the
 > world, be with them!”—where Russians are seen as the representatives of Europe or global advanced culture more broadly. What followed was the very rapid integration of Kazakhs
 > into the modern world.<br><br>
 > During Soviet modernity, Kazakhs learned fast, and Kazakh-Russian mass bilingualism has become a tool of massive enlightenment. Abai has a separate
@@ -119,7 +119,8 @@ We sought answers to these questions from some prominent representatives of the 
 
 {% include slick-photo-slider.html %}
 
-### Abay Zholy
+### Abai Zholy
+
 _Abai Zholy_ is one of the most popular and valuable novels written by Mukhtar Auezov. The first book of the series was published in 1942 and after five years in 1947 _Abai_, the second of the series was published, then came the third book in 1952 called _Abai Aga_ (Brother Abai). Finally, the fourth book was released in 1956. Later all of the books were repackaged and renamed as _Abai Zholy_ (The Path of Abai). The first book and second books each have 7 chapters and one epilogue. The third book has 6 chapters as has the Fourth and one epilogue entire epic is divided into 20 short chapters each of which includes uniquely interesting situations.[^abai_zholy]
 “Writing about Abai was risky.” In fact, Auezov had to revive him from the ashes and defend him against ruthless censorship. In particular, in the novel The Path of Abai, censors removed seventy pages that describe how Kunanbay’s wife, Ulzhan, escorted him to Mecca. Auezov was often accused of archaism and nationalism by the Soviet authorities and had to defend himself.
 
