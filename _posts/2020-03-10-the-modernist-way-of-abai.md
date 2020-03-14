@@ -99,7 +99,7 @@ We sought answers to these questions from some prominent representatives of the 
 > nomadic civilization. Abai sought to change the Kazakhs by preserving our cultural heritage. His 45 words of edification are full of humanistic ideas. Therefore, he is our steppe
 > sage. And his words refer not only to the Kazakhs, but to the whole world.
 
-### Murat Auezov, a writer and a scholar in culture studies, is convinced that Abai was the savior of the Kazakh people: 
+### Murat Auezov, a scholar in culture studies, is convinced that Abai was the savior of the Kazakh people: 
 > He lived in the late 19th  and early 20th centuries. This time was a farewell song of the horse-nomad civilization. The nineteenth century of the nomadic steppe was the last
 > century of freedom, and already it felt the forthcoming catastrophic changes that were yet to occur. The inner feelings in the steppe, expressed in its songs and poems, are very
 > elegiac and sad. Great poets, singers, musicians, and heroic personalities appear in the steppe—those who understood the inevitability of tragic upheavals—and they foreshadowed
