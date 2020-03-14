@@ -768,3 +768,29 @@ header.usa-header {
 .inactive {
 	display: none !important;
 }
+
+/* post bigtitle */
+
+.post-bigtitle {
+  color: white;
+  text-align: center;
+  text-shadow: -3px 3px black;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.post-bigtitle > div > p.site-subheading {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.post-bigtitle > div > h1 {
+  font-size: 5rem;
+}

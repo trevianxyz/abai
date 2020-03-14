@@ -20,13 +20,16 @@ layout: default
 <main id="main-content" class="main-content">
 
   <div class="styleguide-content usa-content">
-    <header>
-      <h1 id="{{ post.title | slugify }}">{{ page.title }}</h1>
-      <p class="site-subheading">
+  
+    <header class="{% if page.bigtitle %}post-bigtitle" style="background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url({{ page.bigtitle_img }}){% endif %}">
+      <div>
+        <h1 id="{{ post.title | slugify }}">{{ page.title }}</h1>
+        <p class="site-subheading">
           {{ page.date | date_to_string }}
         </p>
+      </div>
     </header>
-
+    
   {% for post in site.data.contentful.spaces.Emb.posts %}
     {% if post.title == page.title %}
 
