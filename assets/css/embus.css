@@ -772,5 +772,26 @@ header.usa-header {
 /* post bigtitle */
 
 .post-bigtitle {
-  color: pink;
+  color: white;
+  text-align: center;
+  text-shadow: -3px 3px black;
+  height: 300px;
+  background-color: rgba(0, 22, 76, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.post-bigtitle > div > p.site-subheading {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.post-bigtitle > div > h1 {
+  font-size: 5rem;
 }
