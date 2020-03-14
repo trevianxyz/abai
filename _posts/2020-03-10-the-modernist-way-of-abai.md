@@ -7,7 +7,7 @@ slick-slider-gallery: "modernist-gallery"
 categories: 
 noshow_img: true
 bigtitle: true
-bigtitle_img: "/assets/images/abai_cartoon_effect.png"
+bigtitle_img: "/assets/images/abai-statue-books.jpg"
 ---
 
 <style>
