@@ -776,7 +776,6 @@ header.usa-header {
   text-align: center;
   text-shadow: -3px 3px black;
   height: 300px;
-  background-color: rgba(0, 22, 76, 0.5);
   display: flex;
   justify-content: center;
   align-items: center;
