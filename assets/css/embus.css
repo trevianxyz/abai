@@ -768,3 +768,9 @@ header.usa-header {
 .inactive {
 	display: none !important;
 }
+
+/* post bigtitle */
+
+.post-bigtitle {
+  color: pink;
+}
