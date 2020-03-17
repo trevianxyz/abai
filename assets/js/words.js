@@ -43,6 +43,18 @@ function activate(e) {
     
 }
 
+function killSelection() {
+    console.log("blank selection, killing")
+}
+
+function handleNewSelection(sel) {
+    console.log(sel);
+    console.log(sel.anchorNode);
+    //console.log(sel.toString());
+    sel.anchorNode.dataset.toggle = "tooltip";
+    sel.anchorNode.dataset.title = "YEET BITCHES";
+}
+
 function animateCSS(element, animationName, callback) {
     var node;
 
@@ -101,7 +113,20 @@ var cb = function() {
         })
     })
 
-    //document.addEventListener
+    let selection;
+
+    document.onselectionchange = function() {
+        console.log('new selection made');
+
+        selection = document.getSelection();
+
+        if (selection.toString() === "") {
+            killSelection();
+        } else {
+            handleNewSelection(selection);
+        }
+        
+    };
 };
   
 if (
