@@ -43,16 +43,29 @@ function activate(e) {
     
 }
 
+function constructTooltip(node, sel) {
+    node.dataset.activeTooltip = "true";
+    node.dataset.toggle = "tooltip";
+    node.dataset.html = "true";
+    node.dataset.trigger = "manual";
+    node.dataset.placement = "top";
+    node.dataset.title = "YEET BITCHES";
+}
+
 function killSelection() {
-    console.log("blank selection, killing")
+    console.log("blank selection, killing tooltips");
+    document.querySelectorAll('[data-active-tooltip="true"]')
+        .forEach((e) => e.dataset.activeTooltip = "false");
+    $('[data-toggle="tooltip"]').tooltip('dispose');
 }
 
 function handleNewSelection(sel) {
-    console.log(sel);
-    console.log(sel.anchorNode);
-    //console.log(sel.toString());
-    sel.anchorNode.dataset.toggle = "tooltip";
-    sel.anchorNode.dataset.title = "YEET BITCHES";
+    let parent = sel.anchorNode.parentNode;
+    constructTooltip(parent, sel);
+    
+    $('[data-active-tooltip="true"]').tooltip(); 
+    $('[data-active-tooltip="true"]').tooltip('show'); 
+
 }
 
 function animateCSS(element, animationName, callback) {
