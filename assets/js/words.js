@@ -49,7 +49,7 @@ function constructTooltip(node, sel) {
     node.dataset.html = "true";
     node.dataset.trigger = "manual";
     node.dataset.placement = "top";
-    node.dataset.title = "YEET BITCHES";
+    node.dataset.title = "YEET<b> my </b> BITCHES";
 }
 
 function killSelection() {
