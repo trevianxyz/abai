@@ -3,5 +3,8 @@ contents:
     src: 'https://tengri-khan.fra1.cdn.digitaloceanspaces.com/full-yasawi-turkestan.mp4'
     filters:
       - title: "topic"
-        values:
-          - "Cradle of the Turkic World"
+  - title: Kazakh Yurt 360
+    src: 'assets/images/kz/embus-yurt-360.png'
+    filters:
+      - title: "topic"
+
