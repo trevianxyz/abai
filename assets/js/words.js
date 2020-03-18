@@ -43,13 +43,19 @@ function activate(e) {
     
 }
 
+function constructTooltipText(sel) {
+    return '<a href="#"><i class="fab fa-twitter"></i></a> | ' + 
+        '<a href="#"><i class="fab fa-facebook"></i></a> | ' +
+        '<a href="#"><i class="fas fa-edit"></i></a>';
+}
+
 function constructTooltip(node, sel) {
     node.dataset.activeTooltip = "true";
     node.dataset.toggle = "tooltip";
     node.dataset.html = "true";
     node.dataset.trigger = "manual";
     node.dataset.placement = "top";
-    node.dataset.title = "YEET<b> my </b> BITCHES";
+    node.dataset.title = constructTooltipText(sel);
 }
 
 function killSelection() {

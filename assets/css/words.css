@@ -74,11 +74,16 @@
     z-index: 1;
 }
 
-.tooltiptext > a {
+.tooltip-inner {
+    color: #FFFFFFDF;
+    font-size: 2.5em;
+}
+
+.tooltip-inner > a {
     color: #FFFFFF;
     text-decoration: none;
 }
 
-/*.tooltip:hover .tooltiptext {
-    visibility: visible;
-}*/
+.tooltip-inner > a:hover {
+    color: #FFFFFFEF;
+}
