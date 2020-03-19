@@ -90,12 +90,6 @@ function handleNewSelection(sel) {
 
 }
 
-// Some very sketchy timing code to try and only render a tooltip
-// once the user is done selecting something.
-function waitForSelection(sel) {
-
-}
-
 function animateCSS(element, animationName, callback) {
     var node;
 
