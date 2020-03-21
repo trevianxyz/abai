@@ -5,9 +5,9 @@ function cb() {
     var ctx = c.getContext('2d');
     var img = document.getElementById('img1');
     ctx.drawImage(img, 10, 10);
-    ctx.font = "30px Arial";
+    ctx.font = "18px Arial";
     ctx.fillStyle = "white";
-    ctx.fillText("he looq", 20, 50);
+    ctx.fillText("You are a little brick in the wall of the world. Find your place in it!", 20, 50);
 }
 
 if (
