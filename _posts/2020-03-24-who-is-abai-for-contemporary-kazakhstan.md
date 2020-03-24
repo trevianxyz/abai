@@ -39,11 +39,17 @@ blockquote > p > sup {
 }
 </style>
 
-“To attain your goal and be faithful to your duty, you should foster constancy of purpose, determination and strong will, for this help preserve the sobriety of your reason and the purity of your conscience. 
-
-Everything should serve the cause of reason and honor.”
-Abai Qunanbaiuly, *Qara Sozder*, Word 32.
-
+<div class="post-epigraph">
+  <p>
+    “To attain your goal and be faithful to your duty, you should foster constancy of purpose, determination and strong will, for this help preserve the sobriety of your reason and the purity of your conscience.
+  </p>
+  <p>
+    Everything should serve the cause of reason and honor.”
+  </p>
+  <p class="post-epigraph-attrib">
+    Abai Qunanbaiuly, <i>Qara Sozder</i>, Word 32.
+  </p>
+</div>
 
 Kazakh writer and philosopher Abai is a canonical figure in Kazakhstani culture and society. The father of the Kazakh written literature, Abai, like Pushkin in Russia is considered an indisputable symbol of Kazakhness and even Kazakh statehood of contemporary Kazakhstan. In the past he was also canonized into the great revolutionary and the fighter for the Soviet values even if he died before the advent of the Soviet power in the Kazakh steppes. Many local Soviet writers considered Abai a “truly Soviet writer” and thinker owing to Mukhtar Auezov’s seminal text *Abai Zholy* about Abai’s life and revolutionary fervor for his people. The novel became the classical text of socialist realism but was also known as an encyclopedia of Kazakh culture. Many also believed that Mukhtar Auezov, a celebrated Kazakh Soviet writer himself, “saved” Abai from the historical erasure and cultural forgetting. Historical epopee about Abai’s life became an encyclopedic and historic genre of its own when the main character’s life and character development are described in great detail and contextualization along with the analysis of his surroundings and social change he creates. 
 
