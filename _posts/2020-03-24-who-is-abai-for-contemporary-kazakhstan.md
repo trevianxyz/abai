@@ -52,6 +52,23 @@ blockquote > p > sup {
 .post-inline-img {
   width: 40%;
 }
+
+.post-epigraph {
+  width: 75%;
+  text-align: right;
+  margin: 3rem 0 6rem auto;
+}
+
+.post-epigraph > p {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+p.post-epigraph-attrib {
+  margin-top: 2rem!important;
+  margin-bottom: 1rem!important;
+}
+
 </style>
 
 <div class="post-epigraph">
