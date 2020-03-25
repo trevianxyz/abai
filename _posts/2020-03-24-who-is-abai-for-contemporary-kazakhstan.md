@@ -22,6 +22,11 @@ bigtitle_img: "/assets/images/abai-opera-house.jpg"
     font-size: 17px;
   }
 
+  .post-inline-img {
+    float: none;
+    margin: 3rem auto;
+  }
+
 }
 
 blockquote {
@@ -36,6 +41,16 @@ blockquote > p {
 blockquote > p > sup {
   font-style: normal;
   margin-left: 2px;
+}
+
+.post-img-caption {
+  font-style: italic;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.post-inline-img {
+  width: 40%;
 }
 </style>
 
@@ -55,15 +70,22 @@ Kazakh writer and philosopher Abai is a canonical figure in Kazakhstani culture 
 
 The canonical construction of heroes such as Abai and historical writing in novels remained in the heart of Kazakh modern literature of the twentieth century. During this time, in the context of Soviet propaganda and censorship writers used the historical novel genre to recount the stories and histories of their people by the way of writing and rewriting their nation in novels, plays, operas, and other literary genres. Abai became the canonized symbol and one of the first historical protagonists of the semi-biographical, semi-historical and realistic novel. Prior to the publication of the *Abai Zholy* novel, Auezov also wrote the *Abai* opera that is staged in Kazakhstan and in other countries’ opera houses till present. Through the canonical text of *Abai Zholy* that became the classical novel and “master plot” for socialist realist novel in Soviet Kazakhstan, as well as the country’s most celebrated novel in modern literature, Abai remained the undisputable and most popular cultural and historical canon. There were little attempts to re-think Soviet canon of Abai after the collapse of the Soviet Union. 
 
+<div class="post-inline-img float-right m-3">
+  <img src="/assets/images/who-is-article/abai-monument-moscow.png" alt="Abai’s monument in Moscow, Russia">
+  <div class="post-img-caption">
+    Abai's monument in Moscow, Russia
+  </div>
+</div>
+
 After Kazakhstan gained independence in December 1991 Abai remained state’s main canonical figure in nation-building and cultural understanding of Kazakhs. “The nation’s salvation is in its spiritual [and cultural] rebirth. The path to this rebirth, as Abai fairly considered, would be long and difficult but it is necessary,” said President Nursultan A. Nazarbayev at the 1995 Abai’s 150th anniversary in Semey, Eastern Kazakhstan, the native land of Abai. The anniversary celebration in Semey in 1995 became one of the first spectacular events in post-independent Kazakhstan and attracted a lot of effort and attention from the local intelligentsia. The Abai monument in Moscow emerged in 1996 following these celebrations and as a part of the continued project of spectacular nationalism that engaged Abai as one of its symbols. There is even a street in the new capital of Kazakhstan – Astana – dedicated to the 150th anniversary of Abai. A major avenue of Almaty, the biggest city of Kazakhstan, also bears Abai’s name with the grand monument to the writer right at the beginning of the avenue that urban dwellers sometimes call *put’ Abaia*, *Abai zholy* or the *Path of Abai* imitating Mukhtar Auezov’s famous novel name and placing it within the city landscape.
  
-TKTKTKTKTKTKTK Abai’s monument in Moscow, Russia
-
 But how Abai canon, that was formed historically, changes today within the intellectual elites, youth and other people? Some of the people call to reevaluate the “sacred” image of the Father of Kazakh literature and culture while others want to rethink his heritage, including myself. 
 
-Many young intellectuals see the problem in the fact that Abai’s image is too literal, too Sovietized but his heritage is still not deconstructed and not analyzed fully again due to the Soviet legacy of reading Abai simply as a canonical Socialist Realist figure, a master plot. Everybody knows who Abai is but not everyone is particularly familiar or is capable of interpreting what Abai wrote about and thus he remains misunderstood. There is a growing necessity of re-thinking and re-reading Abai in contemporary context. Those Kazakh speakers who claim Abai’s sacredness and do not allow even the mere deconstruction of his heritage never question the problems of translation of his work from Kazakh (the original language) into Russian, for example. The Russian translation of Abai’s works remain a larger issue for those Russian speaking Kazakhs who continue to use the outdated and “not so perfect” Russian translation of *Qara Sozder* in the absence of a better translation. These discussions remain open and popular – groups of creative class youth create mobile phone applications to popularize Abai’s 45 philosophical essays *Qara Sozder* in Russian but the discussions about the adequate translation or even adequate initial transcription of this crucial text is still ongoing. 
+<div class="post-inline-img float-right m-3">
+  <img src="/assets/images/who-is-article/abai-phone-background.png" alt="a mobile phone application of Qara Sozder">
+</div>
 
-TKTKTKT phone
+Many young intellectuals see the problem in the fact that Abai’s image is too literal, too Sovietized but his heritage is still not deconstructed and not analyzed fully again due to the Soviet legacy of reading Abai simply as a canonical Socialist Realist figure, a master plot. Everybody knows who Abai is but not everyone is particularly familiar or is capable of interpreting what Abai wrote about and thus he remains misunderstood. There is a growing necessity of re-thinking and re-reading Abai in contemporary context. Those Kazakh speakers who claim Abai’s sacredness and do not allow even the mere deconstruction of his heritage never question the problems of translation of his work from Kazakh (the original language) into Russian, for example. The Russian translation of Abai’s works remain a larger issue for those Russian speaking Kazakhs who continue to use the outdated and “not so perfect” Russian translation of *Qara Sozder* in the absence of a better translation. These discussions remain open and popular – groups of creative class youth create mobile phone applications to popularize Abai’s 45 philosophical essays *Qara Sozder* in Russian but the discussions about the adequate translation or even adequate initial transcription of this crucial text is still ongoing. 
  
 In his series of diaries and dialogues with long gone thinkers and writers, late legendary trilingual translator and writer Gerold Belger combined contemporaneity with heritage, he brought old writers, Abai among them, back to life to question the great thinker about life and problems of contemporary Kazakhstan. Belger used philosophical discussions (*razmishleniya*) in the urban settings when he walked up to the monuments of famous Kazakh writers and intellectuals, Dzhambul, Mukhtar Auezov, Abai. All of these intellectuals became canonized during the Soviet era when their monuments appeared in almost every city around Soviet Kazakhstan and the streets bared their names. Gerold Belger came to the monuments of these famous canonical figures to “speak” to them about the problems of contemporary Kazakhstan. 
 
@@ -79,12 +101,33 @@ Ever since every child in my own “imagined community” of what some can defin
 
 Thinking back to these days I wonder, if perhaps such a fixated idea of monumentalizing Abai when his voice was already so solid among so many different communities and readers, was so necessary. *Qara Sozder* remains the must-have book in every household in Kazakhstan along with other and more contemporary Kazakh literati. Abai’s oeuvre is translated into many different languages worldwide. When people in Kazakhstan call Abai “our Pushkin” meaning that Abai’s oeuvre and existence in our history and contemporaneity for 175 years is as influential in defining our culture and our place in the world as Alexander Pushkin is for Russian culture – unconditional and all-encompassing. 
 
+<div class="post-inline-img float-right m-3">
+  <img src="/assets/images/who-is-article/akhmediyarov-installation-edit.jpg" alt="Askhat Akhmediyarov’s installation" style="max-height: 400px;">
+  <div class="post-img-caption">
+    Askhat Akhmediyarov’s installation
+  </div>
+</div>
+
 Even at 175, Abai never gets old. When Askhat Akhmediyarov presented his new installation combined from old Soviet books in TSE art gallery in the heart of Kazakh capital in January 2020, it only revealed the long-brewed thoughts. Even at 175, we, the people of Kazakhstan, are still searching back and rethinking the meaning of Abai’s *words*, re-reading *Qara Sozder*, and re-evaluating the wisdom of the lone steppe genius of the nineteenth century. As my childhood friends were saying, “Abai is in our minds, in our bones, in the soil of our land, and in our blood”. And similar to the mysterious notions of selfhood in any other cultures, Abai to me is a matter of almost a private space and a world of its own, the world that requires constant coming back to the source. In Abai I don’t see the limits of the “state”, ethnicity, tribe or even language. He and his wisdom are beyond the rigid structure of it all, just as much as some art and literature of present-day Kazakhstan, who, I hope continuously learn from Abai again and again. 
- 
-TKTKTKTK Askhat Akhmediyarov’s installation
 
-*This essay is adapted from Kudaibergenova, D. “Misunderstanding Abai and the legacy of the canon: “Neponyatnii” and “Neponyatii” Abai in contemporary Kazakhstan,” Journal of Eurasian Studies, Volume 9, Issue 1, January 2018, Pages 20-29
+<small class="text-muted">This essay is adapted from Kudaibergenova, D. “Misunderstanding Abai and the legacy of the canon: “Neponyatnii” and “Neponyatii” Abai in contemporary Kazakhstan,” Journal of Eurasian Studies, Volume 9, Issue 1, January 2018, Pages 20-29</small>
 
-About the author:
+<hr>
  
-Diana T. Kudaibergenova is a Postdoctoral Research Associate on the UKRI GCRF "COMPASS" project at the University of Cambridge. She studies different intersections of power relations through realms of political sociology dealing with concepts of state, nationalizing regimes and ideologies. Her first book, Rewriting the Nation in Modern Kazakh literature (Lexington, 2017) deals with the study of nationalism, modernization and cultural development in modern Kazakhstan. Her second book, Toward Nationalizing Regimes (https://upittpress.org/books/9780822946175/) is based on her doctoral research and focuses on the rise of nationalizing regimes in post-Soviet space after 1991 with prime focus on power struggles among the political and cultural elites in democratic and non-democratic states (Pittsburgh University Press, 2020).
+<div id="author">
+  <div class="row">
+    <div class="col-sm-12 col-md-6 align-middle">
+      <p class="lead">
+        <b>Diana T. Kudaibergenova</b>
+        <br><br>
+        Diana T. Kudaibergenova is a Postdoctoral Research Associate on the UKRI GCRF "COMPASS" project at the University of Cambridge. She studies different intersections of power relations through realms of political sociology dealing with concepts of state, nationalizing regimes and ideologies. Her first book, Rewriting the Nation in Modern Kazakh literature (Lexington, 2017) deals with the study of nationalism, modernization and cultural development in modern Kazakhstan. Her second book, <a href="https://upittpress.org/books/9780822946175/" target="_blank">Toward Nationalizing Regimes</a> is based on her doctoral research and focuses on the rise of nationalizing regimes in post-Soviet space after 1991 with prime focus on power struggles among the political and cultural elites in democratic and non-democratic states (University of Pittsburgh Press, 2020).
+      </p>
+    </div>
+    <div class="col-sm-12 col-md-6 align-middle">
+      <img src="/assets/images/who-is-article/kudaibergenova.png" />
+    </div>
+  </div>
+</div>
+
+<hr>
+
