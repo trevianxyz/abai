@@ -788,9 +788,26 @@ header.usa-header {
 
 .post-bigtitle > div > p.site-subheading {
   font-size: 1.3em;
-  font-weight: bold;
+  font-weight: 400;
+  text-shadow: -1px 1px black;
 }
 
 .post-bigtitle > div > h1 {
   font-size: 5rem;
+}
+
+.post-epigraph {
+  width: 75%;
+  text-align: right;
+  margin: 3rem 0 6rem auto;
+}
+
+.post-epigraph > p {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+p.post-epigraph-attrib {
+  margin-top: 2rem!important;
+  margin-bottom: 1rem!important;
 }

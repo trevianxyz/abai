@@ -1,7 +1,7 @@
 ---
 permalink: /abai-a-poet-for-all-seasons
 layout: page
-title: "ABAI: A Poet for All Seasons"
+title: "Abai: A Poet for All Seasons"
 date: 2020-02-24
 categories: 
 author: "Peter Rollberg"

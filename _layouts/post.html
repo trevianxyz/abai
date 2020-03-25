@@ -25,7 +25,7 @@ layout: default
       <div>
         <h1 id="{{ post.title | slugify }}">{{ page.title }}</h1>
         <p class="site-subheading">
-          {{ page.date | date_to_string }}
+          {% if page.author %}{{ page.author }} | {% endif %}{{ page.date | date_to_string }}
         </p>
       </div>
     </header>
