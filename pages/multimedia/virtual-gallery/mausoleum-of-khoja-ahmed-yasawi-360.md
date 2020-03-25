@@ -10,4 +10,3 @@ parent: Virtual Gallery
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://tengri-khan.fra1.cdn.digitaloceanspaces.com/full-yasawi-turkestan.mp4"></iframe>
 </div>
-
