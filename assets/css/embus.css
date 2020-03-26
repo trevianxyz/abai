@@ -811,3 +811,20 @@ p.post-epigraph-attrib {
   margin-top: 2rem!important;
   margin-bottom: 1rem!important;
 }
+
+@media (max-width: 767.98px) {
+
+  .post-bigtitle {
+    height: auto!important;
+  }
+
+  .post-bigtitle > div > p.site-subheading {
+    color: white!important;
+    font-size: 1em!important;
+  }
+  
+  .post-bigtitle > div > h1 {
+    font-size: 3rem;
+  }
+
+}
