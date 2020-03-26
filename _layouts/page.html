@@ -38,12 +38,9 @@ layout: default
   {{ content | markdownify }}
 
   </div>
+  
   <div class="d-flex justify-content-around styleguide-content usa-content">
-    <a class="media-link" href="{{ 'news' | prepend: site.baseurl }}" title="All News" style="color: #0071bc;">
-      Return to News
-    </a>
-      <a class="media-link" href="{{ '/' | prepend: site.baseurl }}" title="Home" aria-label="Return to homepage" style="color: #0071bc;">Return to Homepage
-      </a>
+    <a class="media-link" href="{{ '/' | prepend: site.baseurl }}" title="Home" aria-label="Return to homepage" style="color: #0071bc;">Return to Homepage</a>
   </div>
 
 </main>

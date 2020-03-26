@@ -3,8 +3,9 @@ permalink: /abai-a-poet-for-all-seasons
 layout: page
 title: "Abai: A Poet for All Seasons"
 date: 2020-02-24
-categories: 
+categories: ['publication']
 author: "Peter Rollberg"
+descrip: "Peter Rollberg, Associate Dean and Professor at George Washington University’s Elliott School of International Affairs, writes on Abai's life and works."
 noshow_img: true
 ---
 <style>
