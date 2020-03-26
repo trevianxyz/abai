@@ -4,7 +4,8 @@ layout: post
 title: "The Modernist Way of Abai"
 date: 2020-03-10
 slick-slider-gallery: "modernist-gallery"
-categories: 
+categories: ['publication']
+descrip: "Abai was undoubtedly a modernist. How did he develop his peculiar view and language? Kazakh intelligentsia give insight into Abai's way."
 noshow_img: true
 bigtitle: true
 bigtitle_img: "/assets/images/abai-statue-books.jpg"

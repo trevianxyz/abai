@@ -4,7 +4,8 @@ layout: post
 title: "Who is Abai for contemporary Kazakhstan?"
 author: "Diana Kudaibergenova"
 date: 2020-03-24
-categories: 
+categories: ['publication']
+descrip: "Scholar Diana Kudaibergenova speaks to the continuing relevance of Abai as a cultural figure in modern Kazakhstan, while recognizing his rich history and titan-like status."
 noshow_img: true
 bigtitle: true
 bigtitle_img: "/assets/images/abai-opera-house.jpg"
