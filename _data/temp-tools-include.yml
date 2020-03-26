@@ -1,7 +1,14 @@
 title: ""
 tools:
-  - title: "ABAI: A Poet for All Seasons"
-    body: "PETER ROLLBERG, Associate Dean and Professor at George Washington University’s Elliott School of International Affairs, writes on Abai's life and works."
+  - title: "The Modernist Way of Abai"
+    body: "Abai was undoubtedly a modernist. How did he develop his peculiar view and
+    language? Kazakh intelligentsia give insight into Abai's way."
+    image: "/assets/images/images-artists-works/Abai by Aitbaev.jpg"
+    action:
+      title:
+      url: "https://abaicenter.com/the-modernist-way-of-abai"
+  - title: "Abai: A Poet for All Seasons"
+    body: "Peter Rollberg, Associate Dean and Professor at George Washington University’s Elliott School of International Affairs, writes on Abai's life and works."
     image: "https://abaicenter.nyc3.cdn.digitaloceanspaces.com/abaihopeposter.png"
     action:
       title:
@@ -14,10 +21,3 @@ tools:
       title: "Learn More"
       url: "https://e-history.kz/en/publications/view/1389?fbclid=IwAR1l1bdFYRh2NglbrfF7MdDSO3ekFM3eBfX30MyvaiIiTJS3oN5w0xyPl98"
     topic:
-  - title: "Dinmukhamed Kunaev's House Museum"
-    body: "Kunaev was a leader of Soviet Kazakhstan. His home is a museum and exhibits aspects of his private life in the context of his public one, and Kazakhstan's historic period."
-    image: /assets/images/kz/kunaev_house.png
-    action:
-      title: "Explore"
-      url: "https://voicesoncentralasia.org/dinmukhamed-kunaevs-house-museum/?fbclid=IwAR1T63rB62o96sfmMFi4FnoOuNoFJE3Vs3Z6gkF9v3p-25xXLMiMCtocFtc"
-    topic: 'seven facets'
