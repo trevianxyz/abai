@@ -31,7 +31,7 @@
     border: 0.1rem solid #5B616B;
     border-radius: 0;
     overflow-y: scroll;
-    height: 500px;
+    height: 450px;
 }
 
 .disc-result {
@@ -41,10 +41,20 @@
 
 .disc-result:hover {
     background: #C0C0C9;
-    border: 0.1rem solid #727986;
 }
 
 .disc-result-active {
     border-top: 0.1rem solid #727986; /* 25% lighter than container border */
     border-bottom: 0.1rem solid #727986;
+}
+
+.is-first {
+    border-top: 0.1rem solid #00000000!important; /* a hack */
+}
+
+.disc-result-source {
+    color: #6C757D;
+    font-style: italic;
+    text-align: right;
+    font-size: 80%;
 }
