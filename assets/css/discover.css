@@ -46,6 +46,7 @@
 .disc-result-active {
     border-top: 0.1rem solid #727986; /* 25% lighter than container border */
     border-bottom: 0.1rem solid #727986;
+    background: #C0C0C9;
 }
 
 .is-first {

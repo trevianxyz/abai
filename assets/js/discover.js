@@ -16,7 +16,8 @@ class Canvas {
 
         let s = this._bg.dataset.textRect;
         let a = s.split(', ');
-        
+        a = a.map((n) => parseInt(n));
+
         this._textRectArr = a;
         this._textRect = {
             x: a[0],
@@ -28,12 +29,27 @@ class Canvas {
         this.redraw();
     }
 
+    get text() {
+        return this._text;
+    }
+
+    set text(t) {
+        this._text = t;
+        this.redraw();
+    }
+
     redraw() {
         this._ctx.drawImage(this._bg, 0, 0);
+
         this._ctx.strokeStyle = 'white';
         this._ctx.beginPath();
         this._ctx.rect(...this._textRectArr);
         this._ctx.stroke();
+
+        this._ctx.font = "18px Arial";
+        this._ctx.fillStyle = "white";
+       
+        this._ctx.fillText(this._text, this._textRect.x, this._textRect.y + 18);
     }
 
 }
@@ -45,6 +61,14 @@ class Canvas {
 function cb() {
     var c = new Canvas('disc-img');
     c.bg = 'img1';
+
+    document.querySelectorAll('.disc-result').forEach( (r) => r.addEventListener('click', function(e) {
+            c.text = this.firstElementChild.innerText;
+            this.classList.contains('disc-result-active') ? clearActives() : (clearActives(), this.classList.add('disc-result-active'));
+        })
+    );
+
+
 
     // var c = document.getElementById('disc-img');
     // setDPI(c, 192);
@@ -58,17 +82,21 @@ function cb() {
     // ctx.fillText("You are a little brick in the wall of the world. Find your place in it!", 20, 50);
 }
 
-function setDPI(canvas, dpi) {
-    // Set up CSS size.
-    canvas.style.width = canvas.style.width || canvas.width + 'px';
-    canvas.style.height = canvas.style.height || canvas.height + 'px';
+// function setDPI(canvas, dpi) {
+//     // Set up CSS size.
+//     canvas.style.width = canvas.style.width || canvas.width + 'px';
+//     canvas.style.height = canvas.style.height || canvas.height + 'px';
 
-    // Resize canvas and scale future draws.
-    var scaleFactor = dpi / 96;
-    canvas.width = Math.ceil(canvas.width * scaleFactor);
-    canvas.height = Math.ceil(canvas.height * scaleFactor);
-    var ctx = canvas.getContext('2d');
-    ctx.scale(scaleFactor, scaleFactor);
+//     // Resize canvas and scale future draws.
+//     var scaleFactor = dpi / 96;
+//     canvas.width = Math.ceil(canvas.width * scaleFactor);
+//     canvas.height = Math.ceil(canvas.height * scaleFactor);
+//     var ctx = canvas.getContext('2d');
+//     ctx.scale(scaleFactor, scaleFactor);
+// }
+
+function clearActives() {
+    document.querySelectorAll('.disc-result-active').forEach( (e) => e.classList.remove('disc-result-active'));
 }
 
 if (
