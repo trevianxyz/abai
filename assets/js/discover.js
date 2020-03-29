@@ -13,11 +13,27 @@ class Canvas {
 
     set bg(img) {
         this._bg = typeof img == 'string' ? document.getElementById(img) : img;
+
+        let s = this._bg.dataset.textRect;
+        let a = s.split(', ');
+        
+        this._textRectArr = a;
+        this._textRect = {
+            x: a[0],
+            y: a[1],
+            w: a[2],
+            h: a[3]
+        };
+
         this.redraw();
     }
 
     redraw() {
         this._ctx.drawImage(this._bg, 0, 0);
+        this._ctx.strokeStyle = 'white';
+        this._ctx.beginPath();
+        this._ctx.rect(...this._textRectArr);
+        this._ctx.stroke();
     }
 
 }
