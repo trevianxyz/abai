@@ -59,3 +59,8 @@
     text-align: right;
     font-size: 80%;
 }
+
+#disc-tools, #disc-share {
+    border: 0.1rem solid #5B616B;
+    padding: 1.5rem;
+}

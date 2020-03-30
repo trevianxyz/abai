@@ -5,6 +5,7 @@ class Canvas {
     constructor(elem) {
         this._elem = typeof elem == 'string' ? document.getElementById(elem) : elem;
         this._ctx = this._elem.getContext('2d');
+        this._text = "";
     }
 
     get bg() {
