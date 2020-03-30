@@ -62,12 +62,18 @@
 
 #disc-tools, #disc-share {
     border: 0.1rem solid #5B616B;
-}
-
-#disc-tools {
     display: flex;
     justify-content: space-evenly;
     font-size: 1.5em;
+}
+
+.disc-share-tool {
+    padding: 1.5rem;
+    cursor: pointer;
+}
+
+.disc-share-tool:hover > i {
+    color: #5B616B;
 }
 
 .disc-tool {
