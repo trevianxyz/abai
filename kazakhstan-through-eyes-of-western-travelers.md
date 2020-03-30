@@ -5,4 +5,8 @@ permalink: /kazakhstan-through-eyes-of-western-travelers
 ---
 
 
-sdfsdf
+<div class="">
+<a href="/sons-of-the-steppe">
+<h1>Sons of the Steppe</h1>
+</a>
+</div>
