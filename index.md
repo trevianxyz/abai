@@ -34,7 +34,7 @@ frequent_info:
 <!--{% include collapsetabs.html %}-->
 {% include page-engine.html %}
 {% include slick-slider.html %}
-<a href="/book-of-words-wordcloud"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/wordsofabaiwordcloud.png" class="img-fluid index-banner-img" /></a>
+<a href="/kazakhstan-through-eyes-of-western-travelers"><img src="/assets/images/eyes_western_travelers.png" class="img-fluid index-banner-img" /></a>
 {% include temp-data-feed.html %}
 {% include media-center.html %}
 <a href="#"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/dailyabai.png" class="img-fluid index-banner-img" /></a>
