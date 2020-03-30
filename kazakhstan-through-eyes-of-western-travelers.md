@@ -5,8 +5,14 @@ permalink: /kazakhstan-through-eyes-of-western-travelers
 ---
 
 
-<div class="">
+<blockquote class="blockquote">
 <a href="/sons-of-the-steppe">
-<h1>Sons of the Steppe</h1>
+<h3 class="m-0">Sons of the Steppe</h3>
 </a>
+<div class="row">
+<p>
+<span class="">By Henry Lansdell</span> <span>Harper's Magazine
+</span>
+</p>
 </div>
+</blockquote>
