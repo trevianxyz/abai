@@ -1,8 +1,3 @@
-#disc-img {
-    width: 100%;
-    height: 50%;
-}
-
 /* LHS */
 
 #disc-search {
@@ -58,6 +53,13 @@
     font-style: italic;
     text-align: right;
     font-size: 80%;
+}
+
+/* RHS */
+
+#disc-img {
+    width: 100%;
+    height: 50%;
 }
 
 #disc-tools, #disc-share {
