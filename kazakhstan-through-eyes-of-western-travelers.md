@@ -1,25 +1,38 @@
 ---
 layout: page
-title: Kazakhstan & Central Asia through the eyes of Western Travelers
+title: "Kazakhstan & Central Asia: Through the Eyes of Western Travelers"
 permalink: /kazakhstan-through-eyes-of-western-travelers
 ---
 
 {% assign articles = site.data.eyes.contents %}
 
 {% for item in articles %}
-
-<blockquote class="blockquote">
-    <a href="{{ item.href }}">
-    <h4 class="m-0">{{ item.title }}</h4>
-    </a>
-    <div class="row">
-        <p class="my-0">
-    {% if item.author %}
-        by 
+<div class="row align-items-center">
+    <div class="col-sm-12 col-md-4 media_center">
+    {% if item.image.url %}
+        <img src="{{ item.image.url }}" class="img-fluid news_thumbnail mx-auto" alt="Image" />
+    {% else %}
+    <img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/eyes.png" class="img-fluid news_thumbnail mx-auto" alt="Image" />
     {% endif %}
-        <span class="">{{ item.author }}</span> <span><em>{{ item.publication }}</em></span>
-        </p>
     </div>
-</blockquote>
+
+<div class="col-sm-12 col-md-8 media_center">
+    <h2 class="briefing-statement__title_allnews">
+    <a class="media-link" href="{{ item.href }}" target="_blank" title="{{ item.title }}">
+    "{{ item.title }}"
+    </a>
+    </h2>
+<div class="meta__pub ml-5">
+{% if item.author %} 
+<p>By {{ item.author }}</p>
+{% endif %}
+{% if item.publication %}
+<p><em>{{ item.publication }}</em></p>  
+{% endif %}
+</div>
+</div>
+</div>
 
 {% endfor %}
+
+ 
