@@ -112,6 +112,11 @@ function animateCSS(element, animationName, callback) {
 }
 
 var cb = function() {
+    var paramWord = (new URL(document.location)).searchParams.get('w');
+    if (paramWord && paramWord > 0 && paramWord <= 45) {
+        activate(parseInt(paramWord));
+    }
+
     var rand = document.querySelectorAll('.w-random')
     rand.forEach(function(r) {
         r.addEventListener('click', function() {
