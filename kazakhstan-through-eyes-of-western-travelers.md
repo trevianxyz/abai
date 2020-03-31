@@ -9,12 +9,15 @@ permalink: /kazakhstan-through-eyes-of-western-travelers
 {% for item in articles %}
 
 <blockquote class="blockquote">
-    <a href="/sons-of-the-steppe">
-    <h3 class="m-0">{{ item.title }}</h3>
+    <a href="{{ item.href }}">
+    <h4 class="m-0">{{ item.title }}</h4>
     </a>
     <div class="row">
-        <p>
-        <span class="">{{ item.author }}</span> <span>{{ item.publication }}</span>
+        <p class="my-0">
+    {% if item.author %}
+        by 
+    {% endif %}
+        <span class="">{{ item.author }}</span> <span><em>{{ item.publication }}</em></span>
         </p>
     </div>
 </blockquote>
