@@ -409,6 +409,12 @@ td a:hover {background: #a29bfe;
 h3 a:hover {background: #a29bfe;
 }
 
+a.media-link {color: black;
+text-decoration: underline !important;
+text-decoration-color: #a29bfe !important;
+text-decoration-style: solid !important;
+font-weight: bold;}
+
 .card-deck {
   max-width: 1110px;
   display: center;
