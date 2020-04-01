@@ -24,10 +24,13 @@ permalink: /kazakhstan-through-eyes-of-western-travelers
     </h2>
 <div class="meta__pub ml-5">
 {% if item.author %} 
-<p>By {{ item.author }}</p>
+By {{ item.author }}
 {% endif %}
 {% if item.publication %}
-<p><em>{{ item.publication }}</em></p>  
+<em><b> {{ item.publication }}</b></em>
+{% endif %}
+{% if item.date %} 
+<p>{{ item.date }}</p>
 {% endif %}
 </div>
 </div>

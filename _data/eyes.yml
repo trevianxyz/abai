@@ -4,7 +4,7 @@ contents:
     href: 'https://abaicenter.nyc3.cdn.digitaloceanspaces.com/pubs/The%20sons%20of%20the%20Steppe.pdf'
     publication: Harper's Magazine
     author: Henry Lansdell
-    date:  
+    date:  August 1887
   - title: The Mountains of Turkestan
     image: assets/images/mountain.png
     href: 'https://abaicenter.nyc3.cdn.digitaloceanspaces.com/pubs/mountains_of_turkestan.pdf'
@@ -16,5 +16,5 @@ contents:
     href: 'https://abaicenter.nyc3.cdn.digitaloceanspaces.com/pubs/meeting_place_of_empires.pdf'
     publication: Blackwood’s Edinburgh Magazine
     author:  
-    date: December, 1880 
+    date: December 1880 
 
