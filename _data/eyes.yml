@@ -1,17 +1,20 @@
 contents:
   - title: The Sons of the Steppe
-    src:
+    image: assets/images/steppe_man.png
     href: 'https://abaicenter.nyc3.cdn.digitaloceanspaces.com/pubs/The%20sons%20of%20the%20Steppe.pdf'
     publication: Harper's Magazine
-    author: Henry Lansdell 
+    author: Henry Lansdell
+    date:  
   - title: The Mountains of Turkestan
-    src:
+    image: assets/images/mountain.png
     href: 'https://abaicenter.nyc3.cdn.digitaloceanspaces.com/pubs/mountains_of_turkestan.pdf'
-    publication: Harper's Magazine
-    author: Ellsworth Huntington 
+    publication: The Geographical Journal
+    author: Ellsworth Huntington
+    date: January 1, 1905 
   - title: Meeting Place of Empires
-    src:
+    image:
     href: 'https://abaicenter.nyc3.cdn.digitaloceanspaces.com/pubs/meeting_place_of_empires.pdf'
-    publication: Harper's Magazine
+    publication: Blackwood’s Edinburgh Magazine
     author:  
+    date: December, 1880 
 
