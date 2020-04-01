@@ -1,0 +1,92 @@
+/* LHS */
+
+#disc-search {
+    position: relative;
+}
+
+#disc-search-btn {
+    height: 4.4rem;
+    padding: 0 1.1rem;
+    color: #212121;
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#disc-search-btn:hover {
+    color: #5B616B;
+}
+
+#disc-results {
+    color: #212121;
+    border: 0.1rem solid #5B616B;
+    border-radius: 0;
+    overflow-y: scroll;
+    height: 450px;
+}
+
+.disc-result {
+    border: 0.1rem solid #00000000;
+    padding: 1.5rem;
+}
+
+.disc-result:hover {
+    background: #C0C0C9;
+}
+
+.disc-result-active {
+    border-top: 0.1rem solid #727986; /* 25% lighter than container border */
+    border-bottom: 0.1rem solid #727986;
+    background: #C0C0C9;
+}
+
+.is-first {
+    border-top: 0.1rem solid #00000000!important; /* a hack */
+}
+
+.disc-result-source {
+    color: #6C757D;
+    font-style: italic;
+    text-align: right;
+    font-size: 80%;
+}
+
+/* RHS */
+
+#disc-img {
+    width: 100%;
+    height: 50%;
+}
+
+#disc-tools, #disc-share {
+    border: 0.1rem solid #5B616B;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 1.5em;
+}
+
+.disc-share-tool {
+    padding: 1.5rem;
+    cursor: pointer;
+}
+
+.disc-share-tool:hover > i {
+    color: #5B616B;
+}
+
+.disc-tool {
+    padding: 1.5rem;
+    height: 100%;
+}
+
+.disc-tool:hover {
+    color: #5B616B;
+}
+
+.disc-tool-divider {
+    border-left: 0.1rem solid #5B616B;
+}
