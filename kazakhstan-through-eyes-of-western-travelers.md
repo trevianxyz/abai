@@ -12,7 +12,7 @@ permalink: /kazakhstan-through-eyes-of-western-travelers
     {% if item.image %}
         <img src="{{ item.image }}" class="img-fluid news_thumbnail mx-auto" alt="Image" />
     {% else %}
-    <img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/eyes.png" class="img-fluid news_thumbnail mx-auto" alt="Image" />
+    <img src="assets/images/pen_quill.png" class="img-fluid news_thumbnail mx-auto" alt="Image" />
     {% endif %}
     </div>
 
