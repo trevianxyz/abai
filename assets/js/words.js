@@ -44,6 +44,8 @@ function activate(e) {
 }
 
 function constructTooltipText(sel) {
+    let word = getCurrent().id.substr(1);
+    console.log(word);
     let text = sel.toString();
     let twText = text;
 
@@ -55,7 +57,7 @@ function constructTooltipText(sel) {
     twText = encodeURI(twText);
     discText = encodeURI(text);
 
-    return `<a href="https://twitter.com/intent/tweet?text=%22${twText}%22%20%0A%0A%E2%80%94Abai%20Kunanbaiuly,%20%22Book%20of%20Words%22%0A%0AFor%20more,%20go%20to%20http%3A//abaicenter.com/about-abai/book-of-words"><i class="fab fa-twitter"></i></a> | ` + 
+    return `<a href="https://twitter.com/intent/tweet?text=%22${twText}%22%20%0A%0A%E2%80%94Abai%20Kunanbaiuly,%20%22Book%20of%20Words%22%0A%0AFor%20more,%20go%20to%20http%3A//abaicenter.com/about-abai/book-of-words?w=${word}"><i class="fab fa-twitter"></i></a> | ` + 
         '<a href="/discover?text=' + discText + '"><i class="fas fa-edit"></i></a>';
 }
 
@@ -112,6 +114,11 @@ function animateCSS(element, animationName, callback) {
 }
 
 var cb = function() {
+    var paramWord = (new URL(document.location)).searchParams.get('w');
+    if (paramWord && paramWord > 0 && paramWord <= 45) {
+        activate(parseInt(paramWord));
+    }
+
     var rand = document.querySelectorAll('.w-random')
     rand.forEach(function(r) {
         r.addEventListener('click', function() {
