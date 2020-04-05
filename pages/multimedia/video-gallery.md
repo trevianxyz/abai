@@ -11,7 +11,7 @@ category: Multimedia
   <div class="d-flex flex-column">
     <div class="video-title-text p-5">{{ item.title }}</div>
   </div>
-      <a href="{{ item.src }}" target="_blank">
+      <a href="{%if item.href %} {{ item.href }} {% else %} {{ item.src }} {% endif %}" target="_blank">
         <div class="video-card m-2 p-2">
         <video class="card-img-top" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
           <source src="{{ item.src }}" type="video/mp4">
