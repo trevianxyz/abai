@@ -23,6 +23,13 @@ The close connection between inscriptions and oral epics is also evident in the 
 
 ## The Book of Korkyt
 
+<div class="post-inline-img float-right m-3">
+  <img src="/assets/images/turkic-epics/1.jpg">
+  <div class="post-img-caption">
+    Grave (mausoleum) of Korkut Ata. Photo by A. Divaev (1898) (see: Zhirmunsky V, Oguzskii geroickeskii epos i kniga Korkuta/Kniga moego deda Korkuta. Oguzskii geroicheskii epos, Moscow-Leningrad., 1962, p. 170).
+  </div>
+</div>
+
 The Book of Korkyt Ata[^3] is a prominent example of early Turkic literature that originated as an oral epic transferred over the generations before being written down and published in book form. It is one of the most important sources of knowledge about the social and cultural life of Oghuz as well as the Turkic tribes broadly. It serves as a history of Turkic languages, with their distinct figurative system and foundational concepts of the Turkic worldview, that were gradually transformed under the influence of Oghuz tribes adopting Islam and resettling to Asia Minor (see Anikeeva, 2018). 
 
 Oghuz as a confederation of Turkic tribes dwelled in the lower reaches of Syr Darya river and on the coast of the Aral Sea at the end of the 8th century, originally coming from the Southern Siberia and migrating further West to the Caspian Sea. As many medieval Arab historians emphasized, the Oghuz were not monolithic in composition and language. Nomadic Oghuz tribes intermingled with other Turkic and Persian peoples. In the West, they waged wars with the Khazars and Volga Bulgars. In the 10th century, the Oghuz gained in power extending their territories in Northern Turkmenistan and South-Western Kazakhstan, which were correspondingly called ghuz steppes (*desht-i-guzan* in Persian). 
@@ -31,7 +38,21 @@ A clan within the Oghuz confederation of tribes, which was under the leadership 
 
 The Book of Korkyt Ata (Dede Korkut) has kept many indirect evidences that shed light on the period when Oghuz tribes lived in Central Asia. For example, one of the songs in the epic, Tales of the Looting of the House of Salor-Kazan, narrates scenes from the wars between the Oghuz and Pecheneg tribes in the lower Syr-Darya in the 9th and 10th centuries. Such scenes were narrated by Abu-l-Gazi in the “Genealogy of Turkmens” (see Zhirmunsky, 1962, p. 181). Korkyt himself, remains as a major hero in Turkic folklore of Central Asia to this day. Numerous Kazakh legends that were recorded by Veiliaminov-Zernov, Chokan Valikhanov, G.N Potanin, A. Divaev, I. Kastan’e and many other scholars, make references to the grave of saint Khorkhut-ata located in the lower Syr Darya (for more information, see Lerkh, 1870, p. vii-xiii; Divaev, 1990). According to these legends, Khorkhut or Korkyt, was a healer (*baksy* in Kazakh or a shaman) who declined money in return for his treatment and help. People believed that he continued his miraculous work even after his death, and the alleged burial place of Khorkhut-ata turned into a pilgrimage site for those who seek to recover from illness. 
 
+<div class="post-inline-img float-right m-3">
+  <img src="/assets/images/turkic-epics/2.jpg">
+  <div class="post-img-caption">
+    Dresden's List of the Books of Korkut. Source: <a href="https://www.slub-dresden.de/sammlungen/handschriften/kitab-i-dedem-korkut/">https://www.slub-dresden.de/sammlungen/handschriften/kitab-i-dedem-korkut/</a>
+  </div>
+</div>
+
 The Book of Korkyt relies on prose, but also includes different expressions, proverbs, sayings and rhymes, which include the main characters’ invocation to the water, trees and other elements of nature as well as the divinations of Korkyt himself.[^4]  For example, there are proverbs such as these: “Those who have ribs will rise, those who have cartilage will grow” (Song about Sekreka, son of Ushun-Koji, The book of Korkut, p. 90), “One man in the field will not be a knight, the bottom of an empty vessel will not hold tight” (Song about Amran, son of Bekil; The book of Korkyt, p. 87). Expressions where a narrator appeals to his or her audience (see above) are also ubiquitous. For example, “Let’s see my khan, what he said” (*Görelüm Hanum ne soyladı*). Furthermore, metaphors comparing warrior troops with streams of water or a heavy rainfall are consistently present in the epic. In response to the request of Salor-Kazan to interpret his dream, his brother Kara-Güne replies: “You saw a black cloud – that is your happiness; you saw snow and rain – that is a warrior troop; hair stands for care; blood stands for tragedy; and the rest I cannot interpret, may Allah show you the meaning.” The connection of water and blood consistently appears in various figures of speech including metaphors and hyperboles in the epic. Korkyt’s words conclude each story and include expressions such as these: “Let us be able to cross rivers of blood” (*Kanlu kanlu sulardan geit versün*); “Your blood ran like water” (*Qanyŋ subča Jügürti*) (Malov, 1951; Orkun 1987). The epic Oğuzname that also includes similar expressions: “Fights and battles were so cruel that the waters of the Itil River turned red” (Scherbak, 1959).  
+
+<div class="post-inline-img float-right m-3">
+  <img src="/assets/images/turkic-epics/3.jpg">
+  <div class="post-img-caption">
+    "Oguz-name", Bibliothèque nationale de France in Paris (MS Supplément turc 1001) 
+  </div>
+</div>
 
 Although the Book of Korkyt Ata originated in the pre-Islamic period, Turkic groups embraced Islam and subsequently drew from the Islamic literary tradition as they further reproduced the epic. For example, consider this metaphor of life as a caravan: “My grandfather Korkyt composed a song and shared this tale. He said – they came into this world and passed; so the caravan arrives and takes off; they were abducted by death and hidden by the earth; who did the perishable world remain to?” While expressions like this may draw from various sources, they primarily borrow from hadiths and the broader Islamic written literary tradition. The same metaphor of life as a caravan is also found in Abu-l-Ghazi’s chronicle “The Genealogy of Turkmen”: “Children of Adam are like a caravan, some wander, and others stay in the barn” (The Genealogy of Turkmen 332-334, see in Kononov, 1958, p. 45). Comparisons of earthly life and its ephemeral nature to the eternity are not new for the Turkic literary tradition – it appears in various didactic compositions from the time Turks adopted Islam. For example, formulations similar to those from Kitab-i-dedem Korkut are also found in the essay by a Central Asian poet and thinker Ahmed Yugneki, “The Gift of Truths” dating back to the 12th century. 
 
@@ -49,6 +70,13 @@ Similarly, Edigey as a real person who gained fame as a highly successful genera
 
 The very birth of Edigey is described as a miracle. This motif of the birth of an epic hero from heavenly spirits or from the Sun is common in Turkic folk genres (also see, Oghuz Khan, “The Genealogy of Turks”). According to some stories, he was born from the union of a “forest spirit” and khan Shakh-Timur’s falconer Kutly-Kaya. In the version recorded by Chokan Valikhanov, Edigey descends from one of the Muslim saints and a maiden – “Edigey descended from Baba Tukhlas; his father was Kutlu-Kaya.” In some versions, the maiden is known to be Kün Sulu, the daughter of the Sun, and yet in other versions, she was the daughter of the spirit Albasty (Valikhanov, 1904). 
 
+<div class="post-inline-img float-right m-3">
+  <img src="/assets/images/turkic-epics/4.jpg">
+  <div class="post-img-caption">
+    The title page of the manuscript "The book of my grandfather Korkut" from the Dresden Library.
+  </div>
+</div>
+
 A few other elements of the epic run in parallel with other epics and legends of the Turkic literature. Edigey’s battle with the warrior Alp (also known as Alyp-Batyr, Khabardin Alyp) as a result of which, he frees the beautiful daughter of Shah-Timur (also known as Sa-Temir) is for example commonly narrated by other epics. Edigey kills Alp with an arrow from his own bow, as the latter takes his seven-day long sleep. The legends of Edigey introduce audiences to another important character – Sabyra-yirau (also known as Supra-Jyrau, Safar-jyrau) who served in Tokhtamysh khan’s court as a bard, khan’s adviser and soothsayer. Grandfather Korkyt in The Book of Korkyt Ata, similarly served in the court of Oghuz Khan Bayindar, and was known as a bard and soothsayer. 
 
 The epic of Edigey reached us in different incarnations as various scholars encountered the epic among different ethnic groups, recorded them and put them into a written form. It was G. Spassky who was among the first to collect and study different versions of the legend of Edigey;[^9] he published a Kazakh version of the legend in the Siberian Herald magazine in 1820. Ten years later, a Polish orientalist Alexander Khodzko published legends of Edigey in English, after recording them based on the version narrated by Astrakhan Nogais (A. Khodzko, Specimens of the Popular Poetry of Persia, 1842). P.M. Melioransky, a professor at St. Petersburg University published “The Legend of Edigey and Tokhtamysh.”[^10] This edition was based on a Kyrgyz (i.e. Kazakh) version, that had been recorded by Chokan Valikhanov and his father Sultan Chingis in 1841-1842. Valikhanov and his father, in turn, documented the version told by a Kypchak bard poet and two Kazakh poets. The Nogai versions were recorded and published by M. Osmanov (1883) and I. Berezin as well as in different translations and interpretations.
@@ -64,16 +92,28 @@ The epic of Edigey reached us in different incarnations as various scholars enco
 [^9]: It must be noted that the legends about Edigey were passed down orally, but also through written manuscripts and through integration into other works. To illustrate, one of the versions of the legend is included in the 17th century essay “Daftar-I Genghis-nameh” written by Utemish-haji Muhammad Dosti.  
 [^10]: Melioransky was first to identify the main characters of the epic and to suggest that the epic was based on historic events.
 
-Сaptions to photos
-1.	Photo 1. Grave (mausoleum) of Korkut Ata. Photo by A. Divaev (1898) (see: Zhirmunsky V, Oguzskii geroickeskii epos i kniga Korkuta//Kniga moego deda Korkuta. Oguzskii geroicheskii epos, Moscow-Leningrad., 1962, p. 170).
-2.	Photo2. Dresden's List of the Books of Korkut. Source: https://www.slub-dresden.de/sammlungen/handschriften/kitab-i-dedem-korkut/ 
-3.	Photo 3. "Oguz-name", Bibliothèque nationale de France in Paris (MS Supplément turc 1001) 
-4.	Photo 4. The title page of the manuscript "The book of my grandfather Korkut" from the Dresden Library
-5.	Photo 5 (can be used as a feature photo) An architectural monument displaying kobyz (Kazakh music instrument) in honor of Korkyt Ata was erected in 1980 in the Karmakchinsky district of the Kyzylorda region of Kazakhstan. Authors - architect B. Ibraev and acoustic physicist S. Isatayev. When the wind blows, it starts to sound and all passing people can hear the melody of the wind. The monument is also visible from the windows of passing trains passing, following from Moscow to Tashkent and Almaty (source Wikipedia).
+
+<small class="text-muted">The featured image is an architectural monument displaying *kobyz* (Kazakh music instrument) in honor of Korkyt Ata was erected in 1980 in the Karmakchinsky district of the Kyzylorda region of Kazakhstan. Authors - architect B. Ibraev and acoustic physicist S. Isatayev. When the wind blows, it starts to sound and all passing people can hear the melody of the wind. The monument is also visible from the windows of passing trains passing, following from Moscow to Tashkent and Almaty (source: Wikipedia).</small>
 
 
+<hr>
+ 
+<div id="author">
+  <div class="row">
+    <div class="col-sm-12 col-md-6 align-middle">
+      <p class="lead">
+        <bTatyana Anikeeva</b>
+        <br><br>
+        Tatyana Anikeeva, senior research fellow in literature studies, Department of Oriental History, Institute of Oriental Studies of the Russian Academy of Science. Her areas of expertise include Turkic studies, Turkic folklore and literature, the history of Turkic literary traditions, the epic traditions of the Turks, the book culture of the Ottoman Empire, the history of Russian Turkology.
+      </p>
+    </div>
+    <div class="col-sm-12 col-md-6 align-middle">
+      <img src="/assets/images/turkic-epics/anikeeva.jpg" />
+    </div>
+  </div>
+</div>
+
+<hr>
 
 
-About the author
-Tatyana Anikeeva, senior research fellow in literature studies, Department of Oriental History, Institute of Oriental Studies of the Russian Academy of Science. Area of expertise includes Turkic studies, Turkic folklore and literature, the history of Turkic literary traditions, the epic traditions of the Turks, the book culture of the Ottoman Empire, the history of Russian Turkology
 
