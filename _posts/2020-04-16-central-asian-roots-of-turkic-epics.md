@@ -13,6 +13,16 @@ bigtitle_img: "/assets/images/turkic-epics/korkyt-ata.jpg"
 
 {% include post-css.html %}
 
+<style>
+    .post-bigtitle > div > h1 {
+        font-size: 6rem;
+    }
+
+    .post-bigtitle {
+        max-height: contain;
+    }
+</style>
+
 The Turkic epic tradition has its roots in Central Asia. Many of the prominent oral epics of the Turkic groups (some of which, like *Kisekbash* and *Büz Eget*, were turned into books in the 18th–19th centuries) are part of the cultural heritage of these peoples, for they serve as the principal repository of their collective memory. Nomadic societies passed down their history as well as their complex mythological worldview through oral epics and other folk genres.[^1] 
 
 The history of the Turkic literature dates back to as early as the 6th and 8th centuries, the period that also marks the existence of the Turkic Khaganate. It was at this time that “ancient Turkic literature” as we know it now developed its distinct stylistic verses and genres that became the cornerstones of the literary tradition (also see Stebleva, 2007). Earlier oral traditions influenced the subsequent written literary tradition, and the elements of folk and written text forms continue to influence each other to this day.  
@@ -102,7 +112,7 @@ The epic of Edigey reached us in different incarnations as various scholars enco
   <div class="row">
     <div class="col-sm-12 col-md-6 align-middle">
       <p class="lead">
-        <bTatyana Anikeeva</b>
+        <b>Tatyana Anikeeva</b>
         <br><br>
         Tatyana Anikeeva, senior research fellow in literature studies, Department of Oriental History, Institute of Oriental Studies of the Russian Academy of Science. Her areas of expertise include Turkic studies, Turkic folklore and literature, the history of Turkic literary traditions, the epic traditions of the Turks, the book culture of the Ottoman Empire, the history of Russian Turkology.
       </p>
