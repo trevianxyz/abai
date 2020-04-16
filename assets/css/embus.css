@@ -782,7 +782,7 @@ header.usa-header {
   text-align: center;
   text-shadow: -3px 3px black;
   min-height: 300px;
-  max-height: fit-content;
+  max-height: fit-content; 
   display: flex;
   justify-content: center;
   align-items: center;

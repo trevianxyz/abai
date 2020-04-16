@@ -17,10 +17,6 @@ bigtitle_img: "/assets/images/turkic-epics/korkyt-ata.jpg"
     .post-bigtitle > div > h1 {
         font-size: 6rem;
     }
-
-    .post-bigtitle {
-        max-height: contain;
-    }
 </style>
 
 The Turkic epic tradition has its roots in Central Asia. Many of the prominent oral epics of the Turkic groups (some of which, like *Kisekbash* and *Büz Eget*, were turned into books in the 18th–19th centuries) are part of the cultural heritage of these peoples, for they serve as the principal repository of their collective memory. Nomadic societies passed down their history as well as their complex mythological worldview through oral epics and other folk genres.[^1] 
