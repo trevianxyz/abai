@@ -17,4 +17,9 @@ contents:
     publication: Blackwood’s Edinburgh Magazine
     author:  
     date: December 1880 
-
+  - title: The Steppes of the Irtish
+    image: assets/images/kirghis.png
+    href: 'https://abaicenter.nyc3.cdn.digitaloceanspaces.com/pubs/kennan-steppes-of-the-irtish.pdf'
+    publication: The Century Magazine
+    author: George Kennan
+    date: May 1888
