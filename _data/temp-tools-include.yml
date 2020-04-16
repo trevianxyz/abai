@@ -1,5 +1,12 @@
 title: ""
 tools:
+  - title: "Who is Abai for contemporary Kazakhstan?"
+    body: "Scholar Diana Kudaibergenova speaks to the continuing relevance of Abai as a 
+    cultural figure in modern Kazakhstan, while recognizing his rich history and titan-like status."
+    image: "/assets/images/abai-opera-house.jpg"
+    action:
+      title:
+      url: "https://abaicenter.com/who-is-abai-for-contemporary-kazakhstan"
   - title: "The Modernist Way of Abai"
     body: "Abai was undoubtedly a modernist. How did he develop his peculiar view and
     language? Kazakh intelligentsia give insight into Abai's way."
@@ -13,11 +20,4 @@ tools:
     action:
       title:
       url: "https://abaicenter.com/abai-a-poet-for-all-seasons"
-    topic:
-  - title: "Traditional Life on the Steppe: Tradecraft of Kazakh people."
-    body: "Handicrafts were an inherent part of daily life for the people of the Kazakh Steppe. The nomadic lifestyle - harsh winters and horsemanship - created a nomadic economy of metalwork and textiles."
-    image: '/assets/images/kz/handcrafts.jpg'
-    action:
-      title: "Learn More"
-      url: "https://e-history.kz/en/publications/view/1389?fbclid=IwAR1l1bdFYRh2NglbrfF7MdDSO3ekFM3eBfX30MyvaiIiTJS3oN5w0xyPl98"
     topic:

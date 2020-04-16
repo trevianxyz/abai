@@ -11,66 +11,7 @@ bigtitle: true
 bigtitle_img: "/assets/images/abai-opera-house.jpg"
 ---
 
-<style>
-.footnotes, .footnotes a {
-  color: grey;  
-}
-
-@media screen and (max-width: 786px) {
-
-  blockquote > p {
-    white-space: wrap;
-    font-size: 17px;
-  }
-
-  .post-inline-img {
-    float: none;
-    margin: 3rem auto;
-  }
-
-}
-
-blockquote {
-  font-style: italic;
-  margin-left: 1.5rem;
-}
-
-blockquote > p {
-  white-space: wrap;
-}
-
-blockquote > p > sup {
-  font-style: normal;
-  margin-left: 2px;
-}
-
-.post-img-caption {
-  font-style: italic;
-  text-align: center;
-  margin-top: 1rem;
-}
-
-.post-inline-img {
-  width: 40%;
-}
-
-.post-epigraph {
-  width: 75%;
-  text-align: right;
-  margin: 3rem 0 6rem auto;
-}
-
-.post-epigraph > p {
-  margin-top: 0;
-  margin-bottom: 0.75rem;
-}
-
-p.post-epigraph-attrib {
-  margin-top: 2rem!important;
-  margin-bottom: 1rem!important;
-}
-
-</style>
+{% include post-css.html %}
 
 <div class="post-epigraph">
   <p>
