@@ -30,7 +30,7 @@ The close connection between inscriptions and oral epics is also evident in the 
 ## The Book of Korkyt
 
 <div class="post-inline-img float-right m-3">
-  <img src="/assets/images/turkic-epics/1.jpg">
+  <img src="/assets/images/turkic-epics/1.JPG">
   <div class="post-img-caption">
     Grave (mausoleum) of Korkut Ata. Photo by A. Divaev (1898) (see: Zhirmunsky V, Oguzskii geroickeskii epos i kniga Korkuta/Kniga moego deda Korkuta. Oguzskii geroicheskii epos, Moscow-Leningrad., 1962, p. 170).
   </div>
