@@ -312,10 +312,15 @@ a.fa-2x {
 
 .index-banner-img {
   height: auto;
-  width: 90%;
+  width: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 5px;
+  padding-right: 5px;
+  border: none;
+
+  /*transform: scale(1.05);*/ 
 }
 
 iframe.polling-embus{
