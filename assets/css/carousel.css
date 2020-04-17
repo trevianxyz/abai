@@ -37,7 +37,7 @@
 .carousel-item.active {  
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: -890px center !important;
+ /* background-position: -890px center !important;*/
   height: 450px;
   }
 }
