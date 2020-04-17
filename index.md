@@ -34,7 +34,7 @@ frequent_info:
 <!--{% include collapsetabs.html %}-->
 {% include page-engine.html %}
 {% include slick-slider.html %}
-<div class="col mt-3" style="height: 100px;">
+<div class="col my-lg-5">
 <a href="/kazakhstan-through-eyes-of-western-travelers"><img src="/assets/images/eyes_western_travelers.png" class="img-fluid index-banner-img" /></a>
 </div>
 {% include temp-data-feed.html %}
