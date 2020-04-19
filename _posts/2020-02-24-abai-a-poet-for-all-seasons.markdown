@@ -7,7 +7,6 @@ categories: ['publication']
 author: "Peter Rollberg"
 descrip: "Peter Rollberg, Associate Dean and Professor at George Washington University’s Elliott School of International Affairs, writes on Abai's life and works."
 noshow_img: true
-image: https://abaicenter.com/assets/images/turkic-epics/2.jpg
 ---
 <style>
 td {
