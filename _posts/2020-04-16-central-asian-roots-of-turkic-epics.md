@@ -9,6 +9,7 @@ descrip: "Scholar Tatyana Anikeeva traces the origins of the Turkic literary epi
 noshow_img: true
 bigtitle: true
 bigtitle_img: "/assets/images/turkic-epics/korkyt-ata.jpg"
+image: "https://abaicenter.com/assets/images/turkic-epics/2.jpg"
 ---
 
 {% include post-css.html %}
