@@ -53,5 +53,3 @@ font-weight: bold;
 </div>
 <hr class="my-0">
 {% endfor %}
-
- 
