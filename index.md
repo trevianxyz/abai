@@ -4,31 +4,14 @@
 layout: default
 title: Home | Abai Center
 images-artists-works: "abai-artists"
+descrip: "The Abai Center highlights the life & legacy of Abai Kunanbaiuly, a great Kazakh poet, philosopher, and founder of written Kazakh literature. The Abai Center showcases the rich heritage of the Kazakh culture & the modern Republic of Kazakhstan."
 frequent_info:
-  - title: About Ambassador Kazykhanov
+  - title: About Abai Center
     body: Ambassador Kazykhanov is one of Kazakhstan's most experienced diplomats, and has served as ambassador to several missions, foreign minister and assistant to President Nazarbayev.
     icon: far fa-flag fa-2x
     button:
       text: Go to Page
-      href: /about-the-embassy/ambassador-kazykhanov
-  - title: Staff Directory
-    body: The phone and email contacts for embassy staff.
-    icon: far fa-address-card fa-2x
-    button:
-      text: Go to Page
-      href: /about-the-embassy/staff-directory
-  - title: Quick Facts on Kazakhstan
-    body: These facts and figures that best describe the dynamic development and modernization Kazakhstan has experienced since gaining independence in 1991.
-    icon: fas fa-chart-line fa-2x
-    button:
-      text: Go to Page
-      href: /about-kazakhstan/facts-about-kazakhstan
-  - title: Relations with the United States
-    body: Kazakhstan and the United States have built a robust relationship based on trust, mutual respect and shared priorities.
-    icon: far fa-handshake fa-2x
-    button:
-      text: Go to Page
-      href: /us-relations
+      href: /about-the-embassy/ambassador-kazykhanov 
 ---
 
 <!--{% include collapsetabs.html %}-->
