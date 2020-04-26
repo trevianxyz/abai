@@ -4,7 +4,7 @@
 layout: default
 title: Home | Abai Center
 images-artists-works: "abai-artists"
-descrip: "The Abai Center highlights the life & legacy of Abai Kunanbaiuly, a great Kazakh poet, philosopher, and founder of written Kazakh literature. The Abai Center showcases the rich heritage of the Kazakh culture & the modern Republic of Kazakhstan."
+descrip: "The Abai Center highlights the life & legacy of Abai Kunanbaiuly - a great Kazakh poet, philosopher, and founder of written Kazakh literature. The Abai Center showcases the rich heritage of the Kazakh culture & the modern Republic of Kazakhstan."
 frequent_info:
   - title: About Abai Center
     body: Ambassador Kazykhanov is one of Kazakhstan's most experienced diplomats, and has served as ambassador to several missions, foreign minister and assistant to President Nazarbayev.
