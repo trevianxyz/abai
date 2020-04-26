@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Abai Center | Virtual Center
+title: Abai Center | Abai Kunanbaiuly's Life, Poetry & Prose
 email:
-description: >- # this means to ignore newlines until "baseurl:"
+description: "The Abai Center highlights the life & legacy of Abai Kunanbaiuly - a great Kazakh poet, philosopher, and founder of written Kazakh literature. The Abai Center showcases the rich heritage of the Kazakh culture & the modern Republic of Kazakhstan."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abaicenter.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
