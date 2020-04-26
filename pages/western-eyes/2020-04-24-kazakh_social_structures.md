@@ -1,7 +1,7 @@
 ---
 permalink: /kazakh_social_structures
 layout: page
-title: Kazakh Social Structures
+title: Kazakh Social Structure
 author: 'Alfred Hudson'
 date: 2020-04-24
 categories: ['publication']
