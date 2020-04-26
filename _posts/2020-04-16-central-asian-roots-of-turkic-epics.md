@@ -48,7 +48,7 @@ The Book of Korkyt Ata (Dede Korkut) has kept many indirect evidences that shed 
 <div class="post-inline-img float-right m-3">
   <img src="/assets/images/turkic-epics/2.jpg">
   <div class="post-img-caption">
-    Dresden's List of the Books of Korkut. Source: <a href="https://www.slub-dresden.de/sammlungen/handschriften/kitab-i-dedem-korkut/">https://www.slub-dresden.de/sammlungen/handschriften/kitab-i-dedem-korkut/</a>
+    Dresden's List of the Books of Korkut. Source: <a href="https://www.slub-dresden.de/sammlungen/handschriften/kitab-i-dedem-korkut/">University Library Dresden (SLUB)</a>
   </div>
 </div>
 
