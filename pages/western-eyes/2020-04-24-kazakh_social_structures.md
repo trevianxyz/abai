@@ -11,6 +11,7 @@ bigtitle: true
 bigtitle_img: ""
 image: "/assets/images/western-eyes/kazakh_social_structures_alfred_hudson.png"
 western-eyes: true
+url: "https://abaicenter.com/kazakh_social_structures"
 ---
   
 <div class="container">
