@@ -18,13 +18,13 @@ contents:
     author:  
     date: December 1880 
   - title: The Steppes of the Irtish
-    image: assets/images/kirghis.png
+    image: "assets/images/kirghis.png"
     href: 'https://abaicenter.nyc3.cdn.digitaloceanspaces.com/kennan-steppes-of-irtish.pdf'
     publication: The Century Magazine
     author: George Kennan
     date: May 1888
   - title: Kazakh Social Structure
-    image: "/assets/images/western-eyes/kazakh_social_structures_alfred_hudson.png"
+    image: "assets/images/western-eyes/social-structures-thumb.png"
     href: "/kazakh_social_structures"
     publication: Yale University Press
     author: George Kennan
