@@ -10,6 +10,7 @@ noshow_img: true
 bigtitle: true
 bigtitle_img: ""
 image: "/assets/images/western-eyes/kazakh_social_structures_alfred_hudson.png"
+western-eyes: true
 ---
   
 In his book published by Yale University Press, Alfred Hudson explains the nature of certain features of Kazakh social structure based on information gathered during field work among the Kazakhs in 1938.
