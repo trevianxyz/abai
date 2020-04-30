@@ -1,0 +1,23 @@
+<div class="d-flex justify-content-between align-pages-center mb-3">
+    <div class="btn-group">
+        <button type="button" class="btn btn-sm btn-outline-secondary mx-0 btn-view" data-event-title="{{ page.title }}">Details</button>
+        <button type="button" class="btn btn-sm btn-outline-secondary mx-0 btn-sh" data-event-url="https://abaicenter.com/poetry-video-submission" data-target="share-{{ page.title | slugify }}">Share</button>
+        <a type="button" class="btn btn-sm btn-outline-secondary mx-0 btn-rsvp" {% if page.event-email %}href="mailto:{{ page.event-email }}?subject=You're invited to the {{ page.title }}"{% endif %}>RSVP</a>
+    </div>   
+</div>
+
+<div id="share-{{ page.title | slugify }}" data-event-share="{{ page.title }}" class="share bg-light border-light rounded mb-3 p-4 d-none">
+    <h5 class="mt-0 mb-3">Share The Contest Challenge</h5>
+
+    <small class="text-secondary">Social Media</small>
+    <div class="event-share-social-container">
+        <a type="button" href="https://twitter.com/intent/tweet?text=I'm%20attending%20{{ page.title }}%3A%20{{ "https://abaicenter.com/" | append: page.title | url_encode | replace: "+", "%2B"}}" target="_blank" class="btn btn-sm"><i class="fab fa-twitter"></i></a>
+        <a type="button" href="https://www.facebook.com/sharer/sharer.php?u={{ "https://abaicenter.com/poetry-video-submission" | append: page.title | url_encode }}" target="_blank" class="btn btn-sm"><i class="fab fa-facebook"></i></a>
+        <a type="button" href="https://www.linkedin.com/shareArticle?mini=true&url={{ "https://abaicenter.com/poetry-video-submission" | append: page.title | url_encode }}&title={{ page.title | url_encode }}&summary=&source=" target="_blank" class="btn btn-sm"><i class="fab fa-linkedin"></i></a>
+        <a type="button" href="https://telegram.me/share/url?url={{ "https://abaicenter.com/poetry-video-submission" | append: page.title | url_encode }}&text={{ "I'm attending" | append: page.title | url_encode }}" target="_blank" class="btn btn-sm"><i class="fab fa-telegram"></i></a>
+        <a type="button" href="whatsapp://send?text={{ "https://abaicenter.com/poetry-video-submission" | append: page.title | url_encode }}" data-action="share/whatsapp/share" class="btn btn-sm"><i class="fab fa-whatsapp"></i></a>
+    </div>
+
+    <small class="text-secondary">Event Link</small>
+    <pre class="mt-2 p-3 bg-secondary text-light rounded event-share-link">https://abaicenter.com/poetry-video-submission</pre>
+</div>
