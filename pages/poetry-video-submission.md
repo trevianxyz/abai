@@ -1,7 +1,8 @@
 ---
 permalink: /poetry-video-submission
 layout: page
-title: 'Video Submission: Abai Poetry Reading Competition'
+title: 'Abai Video Poetry Reading Contest'
+image: /assets/images/abai_video_contest.png
 ---
 
 Submit your videos for the Abai poetry reading competition using the form below. 
