@@ -3,10 +3,11 @@ permalink: /poetry-video-submission
 layout: page
 title: 'Abai Video Poetry Reading Contest'
 image: /assets/images/abai_video_contest.png
+descrip: "In an effort to pay homage to the Abai’s legacy, the Embassy of Kazakhstan launched a contest raise awareness of Abai's works and to learn more about the history and culture of Kazakhstan."
 ---
 Kazakhstan celebrates the 175th Anniversary of Abai Kunanbaiuly throughout 2020. Abai is a well-known Kazakh poet, great thinker, composer and philosopher. Abai's legacy is a rich collection of songs, poems, and prose.
 
-In an effort to pay homage to the Abai’s legacy, the Embassy of Kazakhstan launched a contest raise awareness of Abai's works and to learn more about the history and culture of Kazakhstan. We hope the participants gain confidence in public speaking skills and build self-confidence - attributes that Abai himself held in high regard.
+In an effort to pay homage to the Abai’s legacy, the Embassy of Kazakhstan launched a contest raise awareness of Abai's works and to learn more about the history and culture of Kazakhstan. We hope the participants also benefit by gaining confidence in public speaking, and build self-confidence - attributes that Abai himself held in high regard.
 
 Submit your videos for the Abai poetry reading competition using the form below.
 
