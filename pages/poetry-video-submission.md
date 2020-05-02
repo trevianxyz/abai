@@ -27,3 +27,5 @@ All videos will be uploaded to the Embassy of Kazakhstan in Washington, DC’s F
 
 ##### JUDGING PROCESS
 The deadline for submission is May 1, 2020. Once uploaded, videos will be evaluated and ranked via a public poll on the [Embassy’s Facebook page](https://www.facebook.com/pg/KazakhEmbassyDC/) and abacenter.com.
+
+[View the Gallery of Submissions](/poetry-contest-gallery)
