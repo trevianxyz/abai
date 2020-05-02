@@ -17,6 +17,11 @@ background-size: 12%;
   text-decoration-color: #a29bfe;
 }
 
+.underlinzz-2 {
+  text-decoration: underline;
+  text-decoration-color: #fbc531;
+}
+
 embed.western-eyes-pdf {
  height: 600px !important;
  width: 100% !important;

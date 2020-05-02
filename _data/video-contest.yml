@@ -2,9 +2,10 @@ contents:
   - title: Jake Zawlacki
     src: "/assets/videos/Jake-Abai-Reading-Vertical.mp4"
     href: "https://youtu.be/B6OVBM-pv78"
-    filters:
-      - title: "topic"
+    poem-name: "Jelsiz tunde jaryq ai"
+    filters: 
+      - title: "language"
         values:
-          - "Cradle of the Turkic World"
+          - "Kazakh"
       - title:
         values:
