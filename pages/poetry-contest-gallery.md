@@ -12,12 +12,22 @@ descrip: "We appreciate everyone's submission to the Abai poetry reading video c
   <div class="col-sm-12 col-md-6">
   <div class="d-flex flex-column">
     <h2 class="p-2 text-center underlinzz">{{ item.title }}</h2>
+    <div class="poem-meta p-1 text-center underlinzz-2">
+    <em>
+    "{{ item.poem-name }}"
+    </em>
+    </div>
     <a href="{%if item.href %} {{ item.href }} {% else %} {{ item.src }} {% endif %}" target="_blank">
       <div class="video-card m-2 p-2">
       <video class="card-img-top" width="100%" height="350px" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
         <source src="{{ item.src }}" type="video/mp4">
       </video>
-      <div class="vid-meta p-1"><span class="catagory p-1">{{ item.category }}</span><span class="language p-1">{{ item.language }}</span></div>
+      <div class="vid-meta p-1">
+      <span class="catagory p-1">{{ item.category }}
+      </span>
+      <span class="language p-1">{{ item.language }}
+      </span>
+      </div>
       </div>
     </a>
   </div>

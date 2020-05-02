@@ -18,12 +18,13 @@ Submit your videos for the Abai poetry reading competition using the form below.
 <div id="rules"></div>
 ##### POETRY CONTEST RULES
 Participants should record videos of themselves reciting a piece of Abai’s works;
-Video duration - 2 minutes;
-Languages – Kazakh and English;
-Background music and national costume are encouraged. Other ideas will be accepted;
+- Video duration - no more than two minutes;
+- Languages – Kazakh or English;
+- Background music and national costume are encouraged; 
+- All forms of creativity will be accepted;
  
 ##### PUBLICATION
-All videos will be uploaded to the Embassy of Kazakhstan in Washington, DC’s Facebook page and abaicenter.com 
+All videos will be uploaded to the Embassy of Kazakhstan in Washington, DC’s Facebook page and abaicenter.com.  
 
 ##### JUDGING PROCESS
 The deadline for submission is May 1, 2020. Once uploaded, videos will be evaluated and ranked via a public poll on the [Embassy’s Facebook page](https://www.facebook.com/pg/KazakhEmbassyDC/) and abacenter.com.
