@@ -5,6 +5,7 @@ title: 'Abai Video Poetry Contest Gallery'
 image: /assets/images/abai_video_contest.png
 descrip: "We appreciate everyone's submission to the Abai poetry reading video contest."
 ---
+[Enter the Contest](/poetry-video-submission)
 
 <div class="row">
 {% for item in site.data.video-contest.contents %}
