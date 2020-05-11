@@ -3,6 +3,7 @@ permalink: /multimedia/mixed-media
 layout: topic
 title: Mixed Media
 category: Multimedia
+image: "/assets/images/kz/abai-asciiart.png"
 ---
 
 ## Abai in ASCII Art 
