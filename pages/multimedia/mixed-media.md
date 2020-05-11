@@ -1,10 +1,8 @@
 ---
-permalink: /about-kazakhstan/multimedia/mixed-media
+permalink: /multimedia/mixed-media
 layout: topic
 title: Mixed Media
 category: Multimedia
-parent: About Kazakhstan
-image: 
 ---
 
 ## Abai in ASCII Art 

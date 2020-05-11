@@ -1,5 +1,5 @@
 ---
-permalink: /about-kazakhstan/multimedia
+permalink: /multimedia
 layout: topic-overview
 title: Multimedia
 ---
