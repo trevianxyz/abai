@@ -849,6 +849,11 @@ p.post-epigraph-attrib {
   margin-bottom: 1rem!important;
 }
 
+#ascii-iframe { 
+width: 90%;
+height: 500px;
+}
+
 @media (max-width: 767.98px) {
 
   .post-bigtitle {
@@ -863,5 +868,10 @@ p.post-epigraph-attrib {
   .post-bigtitle > div > h1 {
     font-size: 3rem;
   }
+
+  #ascii-iframe {
+    width: 90%;
+    height: 400px;
+}
 
 }
