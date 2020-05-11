@@ -9,6 +9,8 @@ image: "/assets/images/kz/abai-asciiart.png"
 ## Abai in ASCII Art 
 ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the printable characters defined by the [ASCII Standard](https://en.wikipedia.org/wiki/ASCII). ASCII art includes ANSI art, a computer art form that was widely used at one time on BBSes. It is similar to ASCII art, but constructed from a larger set of 256 letters, numbers, and symbols — all codes found in [IBM code page 437](https://en.wikipedia.org/wiki/Code_page_437), often referred to as extended ASCII and used in MS-DOS and Unix environments. ASCII art technique is widely used by artists, hobbysts, hackers. - [Tetoki](https://www.tetoki.eu/asciiart/)
 
+Why present Abai's image as ASCII art? Simply because we can. Enjoy!
+
 <div class="d-flex flex-row justify-content-center">
 <iframe src="//www.qazaqstan.io/embeds/abai-asciiart/" width="80%" height="500" style="display: block; margin: 0 auto;" frameborder="0"></iframe>
 </div>
