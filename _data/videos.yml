@@ -1,6 +1,6 @@
 contents:
   - title: Kunanbai
-    src: 'https://abaicenter.com/assets/images/kz/Kunanbai.png'
+    src: 'https://www.youtube.com/embed/PhbFKW6Ebbs'
     href: 'https://youtu.be/PhbFKW6Ebbs'
     filters:
       - title: "topic"
@@ -9,7 +9,7 @@ contents:
       - title:
         values:
   - title: Драма / Мелодрама 
-    src: 'https://abaicenter.com/assets/images/kz/Драма.png'
+    src: "https://www.youtube.com/embed/sbGJvVYIfpg"
     href: "https://youtu.be/sbGJvVYIfpg"
     filters:
       - title: "topic"
