@@ -13,8 +13,7 @@ category: Multimedia
   </div>
       <a href="{%if item.href %} {{ item.href }} {% else %} {{ item.src }} {% endif %}" target="_blank">
         <div class="video-card m-2 p-2">
-        <video class="card-img-top" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
-          <source src="{{ item.src }}" type="video/mp4">
+        <video class="card-img-top" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" src="{{ item.src }}" type="video/mp4">
         </video>
         <div class="vid-meta p-1"><span class="catagory p-1">{{ item.category }}</span><span class="language p-1">{{ item.language }}</span></div>
         </div>
