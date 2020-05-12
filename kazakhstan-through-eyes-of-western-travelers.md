@@ -31,8 +31,9 @@ font-weight: bold;
 
 <div class="col-sm-12 col-md-8 media_center">
 <div class="align-middle">
-    <h2 class="briefing-statement__title_allnews mt-0">
-    <a class="media-link" href="{{ item.href }}" target="_blank" title="{{ item.title }}">
+ {% assign article_id = item.title | slugify %}
+    <h2 class="briefing-statement__title_allnews mt-0" id="{{ article_id }}">
+    <a class="media-link" href="{{ item.href }}" target="_blank" title="{{ item.title }}" >
     {{ item.title }}
     </a>
     </h2>
