@@ -6,6 +6,8 @@
     {% if sitepage.title == page.category %}
 
       {% for subtopic in sitepage.subtopics %}
+        {% unless subtopic.title == "History" %}
+        {% comment %} This is how I remove the "History" section on the side nav. I did not mess with Contentful at all. This is a bad solution, but it was fast. {% endcomment %}
         <li>
           {% assign _subtopic_href = subtopic.title | slugify %}
 
@@ -36,6 +38,7 @@
           {% endif %}
 
         </li>
+        {% endunless %}
       {% endfor %}
     {% endif %}
 

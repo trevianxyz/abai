@@ -1,0 +1,64 @@
+flag: /assets/img/kz/kz-flag.png
+header-intro: "Peaceful Assemblies"
+header: "The draft law is part of a set of systemic measures of social and political modernisation of the country initiated by the President of Kazakhstan Kassym-Jomart Tokayev in his state-of-the-nation address “Constructive Public Dialogue – the Basis of Stability and Prosperity of Kazakhstan” in September 2019."
+
+sections:
+  - id: "peace"
+    title: 
+    items:
+     - image: "/assets/img/kz/seven-facets/horsemanship/standing-rider.jpg"  
+       title: "A Conceptually New Law on Peaceful Assemblies"
+       desc-heading: 
+       sub-desc: "New law establishes uniform regulations in all regions for holding peaceful assemblies" 
+       background-color: "#7ed6df"
+     - image: "/assets/img/kz/seven-facets/horsemanship/standing-rider.jpg"  
+       title: "New Notification Procedures"
+       desc-heading:
+       sub-desc: "Peaceful assemblies are by default approved by local authorities"
+       background-color: "#fab1a0"
+     - image: "/assets/img/kz/seven-facets/horsemanship/standing-rider.jpg"  
+       title: "No restrictions on places of assembly"
+       desc-heading:  
+       sub-desc: "Peaceful picketing may be held in any public place (excluding burial places, military areas, and the grounds surrounding the residences of the President and Elbasy)." 
+       background-color: "#55efc4"
+     - image: "/assets/img/kz/seven-facets/horsemanship/standing-rider.jpg"  
+       title: "Elimination of overly broad requirements for assembly" 
+       desc-heading:  
+       sub-desc: "The outgoing law provided no clarity between forms and nature of assemblies thereby placing undue requirements on certain assemblies."
+       background-color: "#f6b93b"
+     - image: "/assets/img/kz/seven-facets/horsemanship/standing-rider.jpg" 
+       title:  "Principles of peaceful assembly"
+       desc-heading:
+       sub-desc: "The Principle of presumption in favor of holding peaceful assemblies, which means that in the absence of justified reasons restricting or prohibiting holding of a peaceful assembly, the peaceful assembly will take place."  
+       background-color: "#e55039"
+     - image: "/assets/img/kz/seven-facets/horsemanship/standing-rider.jpg" 
+       title:  "Reduced period for consideration"
+       desc-heading:
+       sub-desc: "Number of days prior to assembly that an application must be submitted is reduced by two days to three days prior."   
+       background-color: "#0abde3"
+     - image: "/assets/img/kz/seven-facets/horsemanship/standing-rider.jpg" 
+       title:  "Comprehensive List of Prohibitions"
+       desc-heading:
+       sub-desc: |
+        "<ul><li>forcible change of the constitutional order,</li><li>violate the integrity of the Republic of Kazakhstan,</li><li>undermining the security of the state,</li><li>incitement of social, racial, national, religious, class and tribal hatred,</li><li>violation of other provisions of the Constitution of the Republic of Kazakhstan,</li><li>laws and other normative legal acts of the Republic of Kazakhstan,</li><li>threat to state security,</li><li>violation of public order, life and health of others.</li></ul>" 
+       background-color: "#b8e994"
+    -  image: "/assets/img/kz/seven-facets/horsemanship/standing-rider.jpg"  
+       title: "Statutory Obligation of Government to Support Peaceful Assemblies"
+       desc-heading:
+       sub-desc: "The new law obligates government bodies to enable and support peaceful assemblies, including public safety, medical services, and fire safety."    
+       background-color: "#b8e994"
+    -  image: "/assets/img/kz/seven-facets/horsemanship/standing-rider.jpg"  
+       title: "Register of Specialized Locations"
+       desc-heading:
+       sub-desc: "The law requires that specialized locations be designated within the central parts of a locale (city, village, etc.) and meets public safety codes as a safe place for groups to gather. These specialized places help ensure authorities hear the message the assembled people or picketers are delivering."       
+       background-color: "#b8e994"
+    -  image: "/assets/img/kz/seven-facets/horsemanship/standing-rider.jpg"  
+       title:  "Online Register of Events & Schedule"
+       desc-heading:
+       sub-desc: "Local authorities will be required to make available online a register of events and schedule of Specialized Locations to prevent scheduling conflicts."  
+       background-color: "#b8e994"
+    -  image: "/assets/img/kz/seven-facets/horsemanship/standing-rider.jpg"  
+       title:  "Right to Appeal"
+       desc-heading:
+       sub-desc: "The new law gives organizers the mechanisms to appeal the decisions by local executive"
+       background-color: "#b8e994"
