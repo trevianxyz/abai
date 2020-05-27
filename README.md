@@ -13,6 +13,7 @@
   - Kazakh Khanate: Diamond Sword
   - Kunanbai
   - The Road to Mother
+* Add the new French traveller article (in progress, Sean will do)
 
 ### Content Types
 
