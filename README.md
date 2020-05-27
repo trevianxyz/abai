@@ -3,7 +3,7 @@
 ## Changes (27 May)
 
 * Change body font to Georgia or Garamond.
-* Put the "Kazakhstan and Central Asia through the eyes of Western Travelers " section (image) above the image Abai Poetry Contest.
+* ~~Put the "Kazakhstan and Central Asia through the eyes of Western Travelers" section (image) above the image Abai Poetry Contest.~~
 * Mobile version of Abai's verses is still not working. Fix it please.
 * Please modernize the section about Kazakhstan using beautiful images. Please find the image for Culture section attached. Try to improve it with an interesting and brief facts on your hand. I will try to send you some info on this.
 * Please create a Tourism or Visit Kazakhstan subsection (in about Kazakhstan section) using the information from https://kazakhstan.travel/.

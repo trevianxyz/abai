@@ -16,11 +16,11 @@ frequent_info:
 
 <!--{% include collapsetabs.html %}-->
 {% include page-engine.html %}
-<a href="/poetry-video-submission"><img src="/assets/images/poetry_reading_jumbo.png" class="img-fluid index-banner-img" /></a>
-{% include slick-slider.html %}
 <div class="col my-lg-5">
 <a href="/kazakhstan-through-eyes-of-western-travelers"><img src="/assets/images/eyes_western_travelers.png" class="img-fluid index-banner-img" /></a>
 </div>
+<a href="/poetry-video-submission"><img src="/assets/images/poetry_reading_jumbo.png" class="img-fluid index-banner-img" /></a>
+{% include slick-slider.html %}
 {% include temp-data-feed.html %}
 {% include media-center.html %}
 <!--<a href="#"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/dailyabai.png" class="img-fluid index-banner-img" /></a>-->
