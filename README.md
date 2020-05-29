@@ -6,14 +6,14 @@
 * ~~Put the "Kazakhstan and Central Asia through the eyes of Western Travelers" section (image) above the image Abai Poetry Contest.~~
 * Mobile version of Abai's verses is still not working. Fix it please.
 * Please modernize the section about Kazakhstan using beautiful images. Please find the image for Culture section attached. Try to improve it with an interesting and brief facts on your hand. I will try to send you some info on this.
-* Please create a Tourism or Visit Kazakhstan subsection (in about Kazakhstan section) using the information from https://kazakhstan.travel/. (in progress)
+* ~~Please create a Tourism or Visit Kazakhstan subsection (in about Kazakhstan section) using the information from https://kazakhstan.travel/.~~
 * ~~Remove the subsection on History (it causes many disputes)~~
 * Add the Kazakh films that I've sent you Josh. Try to put their name on top of them.
   - Myn Bala: Warriors of the Steppe
   - Kazakh Khanate: Diamond Sword
   - Kunanbai
   - The Road to Mother
-* Add the new French traveller article (in progress, Sean will do)
+* ~~Add the new French traveller article~~
 
 ### Content Types
 
