@@ -1,5 +1,5 @@
 ---
-permalink: '/moser-kazakhs-and-steppe'
+permalink: /moser-kazakhs-and-steppe
 layout: post
 title: 'Kazakhs and “Kirgiz steppe" by Swiss traveler Henri Moser'
 author: 'Prepared and translated by Snejana Atanova'
