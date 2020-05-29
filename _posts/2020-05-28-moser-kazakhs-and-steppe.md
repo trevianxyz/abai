@@ -15,8 +15,12 @@ image: "https://abaicenter.com/assets/images/turkic-epics/2.jpg"
 {% include post-css.html %}
 
 <style>
-  li {
-    list-style-type: "—";
+  .post-bigtitle > div > h1 {
+    font-size: 5.2rem;
+  }
+
+  ul:not(.usa-sidenav-list) > li {
+    list-style-type: "— ";
     margin-bottom: 0!important;
   }
 </style>
@@ -143,7 +147,7 @@ What became of that proud Amazon, with whom later on I've had so many good rides
       </p>
     </div>
     <div class="col-sm-12 col-md-6 align-middle">
-      <img src="/assets/images/turkic-epics/anikeeva.jpg" />
+      <img src="/assets/images/moser/atanova.jpg" />
     </div>
   </div>
 </div>
