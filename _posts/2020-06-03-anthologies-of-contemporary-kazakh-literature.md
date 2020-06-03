@@ -1,5 +1,5 @@
 ---
-permalink: /anthologies
+permalink: /anthologies-of-contemporary-kazakh-literature
 layout: post
 title: "Anthologies of Contemporary Kazakh Literature"
 author: Cambridge University Press
