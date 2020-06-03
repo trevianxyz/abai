@@ -4,7 +4,6 @@ layout: post
 title: 'Kazakhs and Kirgiz steppe by Swiss traveler Henri Moser'
 author: 'Prepared and translated by Snejana Atanova'
 date: 2020-05-28
-categories: ['publication']
 descrip: "The Swiss traveller Henri Moser visited Central Asia in the late 1880s. Newly translated from the French, these excerpts from his report on his travel detail his momentous voyage and his interactions with the Kazakh peoples."
 noshow_img: true
 bigtitle: true
