@@ -1,7 +1,7 @@
 ---
 permalink: /moser-kazakhs-and-steppe
 layout: post
-title: 'Kazakhs and “Kirgiz steppe" by Swiss traveler Henri Moser'
+title: 'Kazakhs and “Kirgiz steppe\" by Swiss traveler Henri Moser'
 author: 'Prepared and translated by Snejana Atanova'
 date: 2020-05-28
 categories: ['publication']
