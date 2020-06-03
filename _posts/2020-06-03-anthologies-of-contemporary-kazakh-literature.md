@@ -7,7 +7,7 @@ date: 2020-06-03
 descrip: Two new anthologies of Kazakh poetry and prose, translated into English for the first time.
 categories: ['publication']
 bigtitle: false
-bigtitle_img: "https://abaicenter.com/assets/images/kazakh-poetry.jpg"
+bigtitle_img: "/assets/images/kazakh-poetry.jpg"
 ---
 
 <style>
