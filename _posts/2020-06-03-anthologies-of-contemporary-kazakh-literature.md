@@ -8,6 +8,7 @@ descrip: Two new anthologies of Kazakh poetry and prose, translated into English
 categories: ['publication']
 bigtitle: false
 bigtitle_img: "/assets/images/kazakh-poetry.jpg"
+image: "/assets/images/kazakh-poetry.jpg"
 ---
 
 <style>
