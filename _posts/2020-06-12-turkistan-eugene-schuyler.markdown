@@ -2,7 +2,7 @@
 permalink: /turkistan-eugene-schuyler
 layout: post
 title: "'Turkistan' by Eugene Schuyler"
-author: "Eugene Schuyler"
+author: "H.E. Erzhan Kazykhanov"
 date: 2020-06-12
 descrip: "Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov."
 noshow_img: true
@@ -22,6 +22,7 @@ image: "assets/images/western-eyes/schuyler/turkistan.jpeg"
     margin-bottom: 0!important;
   }
 </style>
+<em>Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov.</em>
 
 Eugene Schuyler (1840–1890), little known today, was one of America’s most prominent diplomats of his time, one of the first to hold a PhD degree, a friend of Tolstoy, translator of Turgenev, and biographer of Peter the Great. Schuyler spent a decade in Russia; his first book describes a nine-month trip through Central Asia. 
 
