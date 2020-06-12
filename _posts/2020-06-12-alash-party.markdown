@@ -7,10 +7,10 @@ date: 2020-06-12
 descrip: ""
 noshow_img: true
 bigtitle: true
-bigtitle_img: "assets/images/publications/alash/alash-party.jpeg"
-image: "assets/images/publications/alash/alash-party.jpeg"
+bigtitle_img: "/assets/images/publications/alash/alash-party.jpeg"
+image: "/assets/images/publications/alash/alash-party.jpeg"
 author_bio: "Tahir Anuar, Undergraduate Student studying History at King’s College London."
-publications: true
+categories: ['publication']
 ---
 {% include post-css.html %}
 
