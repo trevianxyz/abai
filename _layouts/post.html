@@ -76,12 +76,27 @@ layout: default
 {% endif %}
 
   </div>
-  <div class="d-flex justify-content-around styleguide-content usa-content">
-    <a class="media-link" href="{{ 'news' | prepend: site.baseurl }}" title="All News" style="color: #0071bc;">
-      Return to News
-    </a>
-      <a class="media-link" href="{{ '/' | prepend: site.baseurl }}" title="Home" aria-label="Return to homepage" style="color: #0071bc;">Return to Homepage
-      </a>
+{% if page.western-eyes == true %}
+<div class="d-flex justify-content-around styleguide-content usa-content text-center">
+  <a class="media-link" href="{{ '/kazakhstan-through-eyes-of-western-travelers' | prepend: site.baseurl }}"
+    title="Home" aria-label="Return to homepage" style="color: #0071bc;">Return to Kazakhstan through Eyes of Western
+    Travelers</a>
+</div>
+{% endif %}
+
+{% if page.title == "Publications" %}
+<div class="d-flex justify-content-around styleguide-content usa-content text-center">
+  <a class="media-link" href="{{ '/kazakhstan-through-eyes-of-western-travelers' | prepend: site.baseurl }}"
+    title="Home" aria-label="Return to homepage" style="color: #0071bc;">Kazakhstan through Eyes of Western
+    Travelers</a>
+</div>
+{% endif %}
+
+<div class="d-flex justify-content-around styleguide-content usa-content">
+  <a class="media-link" href="{{ '/' | prepend: site.baseurl }}" title="Home" aria-label="Return to homepage"
+    style="color: #0071bc;">Return to Homepage</a>
+</div>
+
   </div>
 
 </main>
