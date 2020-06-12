@@ -4,7 +4,7 @@ layout: post
 title: "The ‘Alash’ Party and its Contribution to Kazakh Identity"
 author: "Tahir Anuar"
 date: 2020-06-12
-descrip: ""
+descrip: "The concept of ‘Kazakhness’ was saved from the brink of eradication and successfully survived the toughest of hardships under Soviet rule"
 noshow_img: true
 bigtitle: true
 bigtitle_img: "/assets/images/publications/alash/alash-party.jpeg"
