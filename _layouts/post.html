@@ -25,7 +25,7 @@ layout: default
       <div>
         <h1 id="{{ post.title | slugify }}">{{ page.title }}</h1>
         <p class="site-subheading">
-          {% if page.author %}{{ page.author }} | {% endif %}{{ page.date | date_to_string }}
+          {% if page.author %} <a href="#authorbio" style="color: #fff ">{{ page.author }}</a> | {% endif %}{{ page.date | date_to_string }}
         </p>
       </div>
     </header>
@@ -68,6 +68,12 @@ layout: default
 <div class="container">   
   {{ content | markdownify }}
 </div>
+<hr>
+{% if page.author_bio %}
+<div id="authorbio"></div>
+<h3>{{ page.author }}</h3>
+{{ page.author_bio }}
+{% endif %}
 
   </div>
   <div class="d-flex justify-content-around styleguide-content usa-content">

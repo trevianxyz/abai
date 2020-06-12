@@ -9,6 +9,7 @@ noshow_img: true
 bigtitle: true
 bigtitle_img: "assets/images/western-eyes/schuyler/map_of_shuylers_journey.jpeg"
 image: "assets/images/western-eyes/schuyler/map_of_shuylers_journey.jpeg"
+author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
 ---
 {% include post-css.html %}
 
@@ -91,5 +92,4 @@ In the middle of the mosque is the enormous hall, under the lofty dome which ris
 
 Eugene concludes his portrayals by saying that this mosque is considered the holiest in all Central Asia and had very great religious importance. 
 
-To conclude, it is worth noting that this two volume book is full of fascinating facts and findings representing very rare and valuable accounts of their time. Beyond doubt, it is impossible to give a complete overview of this significant work and I believe every reader will find their own enchanting pages of Kazakhstan history, culture and tradition by reading this book and embarking on a journey to Turkistan in the 19th century.  
- 
+To conclude, it is worth noting that this two volume book is full of fascinating facts and findings representing very rare and valuable accounts of their time. Beyond doubt, it is impossible to give a complete overview of this significant work and I believe every reader will find their own enchanting pages of Kazakhstan history, culture and tradition by reading this book and embarking on a journey to Turkistan in the 19th century.
