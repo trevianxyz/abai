@@ -25,7 +25,9 @@ layout: default
       <div>
         <h1 id="{{ post.title | slugify }}">{{ page.title }}</h1>
         <p class="site-subheading">
-          {% if page.author %} <a href="#authorbio" style="color: #fff ">{{ page.author }}</a> | {% endif %}{{ page.date | date_to_string }}
+        {% if page.author %}<a href="#authorbio"
+          style="{% if page.bigtitle %} color: #fff {% else %} color: #000 {% endif %}">{{ page.author }}</a> |
+          {% endif %}{{ page.date | date_to_string }}
         </p>
       </div>
     </header>
