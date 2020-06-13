@@ -8,13 +8,13 @@ author_bio: "Gabriel McGuire is an Assistant Professor in the Department of Lang
 categories: ['publication']
 descrip: "Mukhtar Auezov, in his classic novel Abai Zholy, suggested Kazakh oral poetry played just as important a role in Abai's maturation as an artist."
 noshow_img: true
-bigtitle: true
+bigtitle: false
 bigtitle_img: ""
 ---
 
-<em> This essay is adapted from McGuire, Gabriel. "Aqyn agha? Abai Zholy as socialist realism and as literary history." Journal of Eurasian studies 9, no. 1 (2018): 2-11.</em>
+_This essay is adapted from McGuire, Gabriel. "Aqyn agha? Abai Zholy as socialist realism and as literary history." Journal of Eurasian studies 9, no. 1 (2018): 2-11._
 
-Abai, Auezov, and Kazakh Oral Literature: Popular accounts of Abai's life and work often stress his love of Pushkin and his readings of philosophers like Socrates and Spinoza. Yet Mukhtar Auezov, in his classic novel Abai Zholy, suggested Kazakh oral poetry played just as important a role in Abai's maturation as an artist.
+**_Abai, Auezov, and Kazakh Oral Literature: Popular accounts of Abai's life and work often stress his love of Pushkin and his readings of philosophers like Socrates and Spinoza. Yet Mukhtar Auezov, in his classic novel Abai Zholy, suggested Kazakh oral poetry played just as important a role in Abai's maturation as an artist._**
 
 Near the middle of the Kazakh children’s novel Mening Atym Qozha, the book’s protagonist tries to write a poem expressing his love for his classmate Zhanar, only to be struck by an uncomfortable suspicion that his words are somehow not his own. He searches his memory, and suddenly realizes he has been quoting one of Abai’s poems. Qozha is horrified by this discovery, and begins to cross out the words he had ‘stolen’ from Abai. Suddenly, however, he pauses, and thinks again:
 
