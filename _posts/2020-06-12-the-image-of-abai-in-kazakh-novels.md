@@ -8,9 +8,36 @@ author_bio: "Gabriel McGuire is an Assistant Professor in the Department of Lang
 categories: ['publication']
 descrip: "Mukhtar Auezov, in his classic novel Abai Zholy, suggested Kazakh oral poetry played just as important a role in Abai's maturation as an artist."
 noshow_img: true
-bigtitle: false
-bigtitle_img: ""
+bigtitle: true
+bigtitle_img: "/assets/images/publications/Mukhtar_Auezov.jpeg"
+image: "/assets/images/publications/Mukhtar_Auezov.jpeg"
 ---
+
+{% include post-css.html %}
+
+<style>
+  .post-bigtitle > div > h1 {
+    font-size: 5.2rem;
+  }
+
+  ul:not(.usa-sidenav-list) > li {
+    list-style-type: "– ";
+    margin-bottom: 0!important;
+  }
+
+img {
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+  max-height: 500px;
+  width: auto; 
+}
+
+.footnotes p {
+  color: #000; 
+}
+
+</style>
 
 _This essay is adapted from McGuire, Gabriel. "Aqyn agha? Abai Zholy as socialist realism and as literary history." Journal of Eurasian studies 9, no. 1 (2018): 2-11._
 
