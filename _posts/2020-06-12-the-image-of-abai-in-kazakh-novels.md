@@ -8,7 +8,7 @@ author_bio: "Gabriel McGuire is an Assistant Professor in the Department of Lang
 categories: ['publication']
 descrip: "Mukhtar Auezov, in his classic novel Abai Zholy, suggested Kazakh oral poetry played just as important a role in Abai's maturation as an artist."
 noshow_img: true
-bigtitle: true
+bigtitle: false
 bigtitle_img: "/assets/images/publications/Mukhtar_Auezov.jpeg"
 image: "/assets/images/publications/Mukhtar_Auezov.jpeg"
 ---
