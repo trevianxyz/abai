@@ -5,12 +5,13 @@ title: "The Image of Abai in Kazakh Novels: The Case of Auezov"
 date: 2020-06-12
 author: "Gabriel McGuire"
 author_bio: "Gabriel McGuire is an Assistant Professor in the Department of Languages, Linguistics, and Literatures at Nazarbayev University. He holds a Ph.D. from the department of Folklore and Ethnomusicology at Indiana University, Bloomington. He teaches classes on world literature, folk tales, and the oral literature of Central Asia. His research interests include Soviet era Kazakh literature, oral epics and folk tales, and the interaction between oral and written genres of literature. His scholarship has been published in Ethnos, Central Asian Survey, and other journals."
+author_img: "assets/images/publications/mcguire/Gabriel_McGuiire.jpeg"
 categories: ['publication']
 descrip: "Mukhtar Auezov, in his classic novel Abai Zholy, suggested Kazakh oral poetry played just as important a role in Abai's maturation as an artist."
 noshow_img: true
-bigtitle: false
-bigtitle_img: "/assets/images/publications/Mukhtar_Auezov.jpeg"
-image: "/assets/images/publications/Mukhtar_Auezov.jpeg"
+bigtitle: true
+bigtitle_img: "/assets/images/publications/mcguire/Mukhtar_Auezov.jpeg"
+image: "/assets/images/publications/mcguire/Mukhtar_Auezov.jpeg"
 ---
 
 {% include post-css.html %}
