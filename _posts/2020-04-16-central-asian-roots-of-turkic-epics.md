@@ -3,12 +3,14 @@ permalink: '/central-asian-roots-of-turkic-epics'
 layout: post
 title: 'Central Asian roots of Turkic epics'
 author: 'Tatyana Anikeeva'
+author_bio: "Tatyana Anikeeva, senior research fellow in literature studies, Department of Oriental History, Institute of Oriental Studies of the Russian Academy of Science. Her areas of expertise include Turkic studies, Turkic folklore and literature, the history of Turkic literary traditions, the epic traditions of the Turks, the book culture of the Ottoman Empire, the history of Russian Turkology."
+author_img: "/assets/images/turkic-epics/anikeeva.jpg"
 date: 2020-04-16
 categories: ['publication']
 descrip: "Scholar Tatyana Anikeeva traces the origins of the Turkic literary epic to the rich cultural heritage of Kazakh nomadic society."
 noshow_img: true
 bigtitle: true
-bigtitle_img: "/assets/images/turkic-epics/korkyt-ata.jpg"
+bigtitle_img: "https://abaicenter.com/assets/images/turkic-epics/2.jpg"
 image: "https://abaicenter.com/assets/images/turkic-epics/2.jpg"
 ---
 
@@ -101,26 +103,3 @@ The epic of Edigey reached us in different incarnations as various scholars enco
 
 
 <small class="text-muted">The featured image is an architectural monument displaying *kobyz* (Kazakh music instrument) in honor of Korkyt Ata was erected in 1980 in the Karmakchinsky district of the Kyzylorda region of Kazakhstan. Authors - architect B. Ibraev and acoustic physicist S. Isatayev. When the wind blows, it starts to sound and all passing people can hear the melody of the wind. The monument is also visible from the windows of passing trains passing, following from Moscow to Tashkent and Almaty (source: Wikipedia).</small>
-
-
-<hr>
- 
-<div id="author">
-  <div class="row">
-    <div class="col-sm-12 col-md-6 align-middle">
-      <p class="lead">
-        <b>Tatyana Anikeeva</b>
-        <br><br>
-        Tatyana Anikeeva, senior research fellow in literature studies, Department of Oriental History, Institute of Oriental Studies of the Russian Academy of Science. Her areas of expertise include Turkic studies, Turkic folklore and literature, the history of Turkic literary traditions, the epic traditions of the Turks, the book culture of the Ottoman Empire, the history of Russian Turkology.
-      </p>
-    </div>
-    <div class="col-sm-12 col-md-6 align-middle">
-      <img src="/assets/images/turkic-epics/anikeeva.jpg" />
-    </div>
-  </div>
-</div>
-
-<hr>
-
-
-

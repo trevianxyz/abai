@@ -9,6 +9,7 @@ descrip: "Scholar Diana Kudaibergenova speaks to the continuing relevance of Aba
 noshow_img: true
 bigtitle: true
 bigtitle_img: "/assets/images/abai-opera-house.jpg"
+show_author_bottom: false
 ---
 
 {% include post-css.html %}

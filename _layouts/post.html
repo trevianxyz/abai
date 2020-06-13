@@ -67,17 +67,29 @@ layout: default
 
     {% endif %}
   {% endfor %}
+
 <div class="container">   
   {{ content | markdownify }}
 </div>
+<div id="author"></div>
+{% unless page.show_author_bottom == false %}
 <hr>
-{% if page.author_bio %}
-<div id="authorbio"></div>
-<h3>{{ page.author }}</h3>
-{{ page.author_bio }}
-{% endif %}
-
+  <div class="row">
+  <div class="col-sm-12 col-md-6 align-middle">     
+   <h3>{{ page.author }}</h3>
+    <div id="authorbio"></div>
+     <p class="lead">
+      {{ page.author_bio }}
+      </p>
+    </div>
+    <div class="col-sm-12 col-md-6 align-middle">
+      <img src="{{ page.author_img }}" />
+    </div>
   </div>
+  <hr>
+{% endunless %}
+
+</div>
 {% if page.western-eyes == true %}
 <div class="d-flex justify-content-around styleguide-content usa-content text-center">
   <a class="media-link" href="{{ '/kazakhstan-through-eyes-of-western-travelers' | prepend: site.baseurl }}"
@@ -86,7 +98,7 @@ layout: default
 </div>
 {% endif %}
 
-{% if page.title == "Publications" %}
+{% if page.categories == "publication" %}
 <div class="d-flex justify-content-around styleguide-content usa-content text-center">
   <a class="media-link" href="{{ '/kazakhstan-through-eyes-of-western-travelers' | prepend: site.baseurl }}"
     title="Home" aria-label="Return to homepage" style="color: #0071bc;">Kazakhstan through Eyes of Western
