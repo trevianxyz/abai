@@ -1,0 +1,65 @@
+<link rel="stylesheet" href="{{ '/assets/css/slick-slider.css' | prepend: site.baseurl }}" />
+
+<style>
+  #modernistModal {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 450px;
+  }
+</style>
+
+<div class="slicky-slider">
+  {% assign dataSet = site.data.{{ page.img-slider-yml }} %}
+  {% for image in dataSet %}
+  <div class="col px-0">
+    <img src="{{ image.filename }}" class="img-thumbnail rounded mx-auto slick-slider-img"
+      data-img="{{ image.filename }}">
+  </div>
+  {% endfor %}
+</div>
+
+{% unless include.no-modal %}
+  
+{% assign item = site.data.{{ page.img-slider-yml }} %}
+{% for modalImage in modalSet %}
+<div id="{{ item.modal_id }}" class="modal" style="z-index: 10000;">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+    <img id="{{ item.image_id }}" src="" alt="modal image" />
+    <figcaption id="modal-cap" class="p-2"></figcaption>
+  </div>
+</div>
+
+<script>
+  var captions = {
+    {
+      site.data.{{ page.img-slider-yml }}| jsonify
+    }
+  };
+
+  $('.img-thumbnail').on('click', function (e) {
+    openModal(e.target.dataset.img);
+  })
+
+  function openModal(img) {
+    $('#{{ item.image_id }}').attr('src', img);
+    captions.forEach(function (c) {
+      if (img.includes(c.filename)) {
+        $('#modal-cap').html(c.caption);
+      }
+    })
+
+    $('#{{ item.modal_id }}').show();
+    $('html').addClass('modal-open');
+
+  }
+
+  function closeModal() {
+    $('html').removeClass('modal-open');
+    $('{{ item.modal_id }}').hide();
+  }
+</script>
+{% endfor %}
+{% endunless %}

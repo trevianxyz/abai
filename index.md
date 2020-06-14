@@ -20,7 +20,18 @@ frequent_info:
 <a href="/kazakhstan-through-eyes-of-western-travelers"><img src="/assets/images/eyes_western_travelers.png" class="img-fluid index-banner-img" /></a>
 </div>
 <a href="/poetry-video-submission"><img src="/assets/images/poetry_reading_jumbo.png" class="img-fluid index-banner-img" /></a>
+ <div class="container"> 
+  <div>
+   <h2>{{ "abai through Artists' Eyes" | upcase }}</h2> 
+  <p>Abai Kunanbaiuly is one of the most inspiring figures in Kazakh art.
+    Classic paintings, rare photos, and modern pop images depicting Abai
+    transcend generations and social constructs. Every artist sees him
+    differently, from their own soul, leading to particular
+    representations and unique visuals.
+  </p>
+</div>
 {% include slick-slider.html %}
+</div>
 {% include temp-data-feed.html %}
 {% include media-center.html %}
 <!--<a href="#"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/dailyabai.png" class="img-fluid index-banner-img" /></a>-->

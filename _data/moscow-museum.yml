@@ -1,0 +1,15 @@
+ - filename: "/assets/images/publications/museum-oriental-art/акварель.jpg"
+   caption: ""
+ - filename: "assets/images/publications/museum-oriental-art/акварель.jpg"
+   caption: ""
+ - filename: "/assets/images/modernist-gallery/3persian-edition.jpg"
+   caption: "Mukhtar Auezov, “The Path of Abai”, Persian translation by Safar Abdullo, Hiradgon Publishing House (Iran), 2019"
+ - filename: "/assets/images/modernist-gallery/4korean-edition.jpg"
+   caption: "Abai Tandamalı Өlender, favorites, Korean translation by Kim Ben Hack, 200"
+ - filename: "/assets/images/modernist-gallery/5sidorkin.jpg"
+   caption: "Mukhtar Auezov, The Path of Abai, a series of postcards, Өner Publishing House, artist E. M. Sidorkin, text A. Nurpeisov, 1997"
+pathing: "/assets/images/publications/museum-oriental-art"
+image_id: "moscowmuseumImgs"
+modal_id: "#moscowmuseumModal"
+modal_width: 
+modal_height: 500px
