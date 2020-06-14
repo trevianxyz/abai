@@ -12,6 +12,7 @@ noshow_img: true
 bigtitle: true
 bigtitle_img: "/image_graphic-slider/museum-oriental-art/kастеев_акварель.jpg" 
 image: "/image_graphic-slider/museum-oriental-art/kастеев_акварель.jpg"
+img-slider-yml: "moscow-museum"
 ---
 
 {% include post-css.html %}
@@ -41,6 +42,8 @@ img {
 
 The collection of decorative and applied art, including felt and jewelry, in the State Museum of Oriental Art in Moscow was launched in 1927. The exhibits came from different sources: The State Museum fund, redistribution and exchange between museums, and by gifts and purchases from private persons. The significant expansion of the collection in the Soviet period was promoted by the expeditions of museum researchers to different regions of Kazakhstan, wanting to purchase new acquisitions and investigate further. Many of these expeditions were made in the 1960-1970s. A considerable collection of the Kazakh jewelry ornaments, felt, and samples of lint-free weaving was collected.
 
+{% include img-sliders.html/slick-slider-template.html %}
+
 Today, the collection of the State Museum of Oriental Art contains more than 300 Kazakh silver jewelry pieces from the XIX-XX centuries from various regions, but predominantly the Western and Northern regions. Some of these pieces include traditional rings, bracelets, earrings, temple pendants, buttons and patch plaques on clothing, pectoral jewelry, ; jewelry for the headdresses and saukele, braid pendants (often decorated with coins), belt buckles, and amulets. In the 1960s, a part of the jewelry collection was transferred by order of the Council of Ministers of the Kazakh SSR from the funds of the Central Museum of Kazakhstan.
 
 Products of Kazakh jewelers are very original, as seen by the ornaments and execution of technique, the laconism of decoration, and the distinguished forms, which make them very recognizable. These typical features are still preserved to this day. The quantity and quality of jewelry, the level of jewelers’ craftsmanship, and the materials used spoke to the welfare and wealth of the family. Each detail of the jewelry was carefully finished using embossing, engraving, false grains, enamel inserts. Jewelry was designed to protect the owners from evil spirits, to protect against disease, or to promote prosperity and fertility in the family. Kazakhs, as well as other peoples of the East and Central Asia, have the idea that jewelry pendants can scare away the bad spirits. The form, materials, and ornamentation of jewelry mattered therefore. Silver - the material of a majority of ornaments - helped to increase the wealth of the family and had purification functions. Carnelian, as well as its imitations such as glass and red paste, were shielded from the evil eye.
@@ -48,7 +51,6 @@ Products of Kazakh jewelers are very original, as seen by the ornaments and exec
 The forms of jewelry and their ornaments go back to ancient cults, as they were also attributed magical properties. Many are solar signs, such as circles, spirals, crosses, rhombuses, as well as bird beaks, claws, and lamb horns. Protective forces were given to objects of triangular shape. The collection of the Museum of Oriental Art contains triangular amulets – tumars inside which a prayer from the Koran, written on paper, was placed.
 
 The museum collection has a large number of rings, many of which are decorated with inserts of cornelian, glass, and paste. It’s interesting to examine the shape of the massive mother-in-law ring – kudagi juzik (_кудаги жузик_). Wearing the ring on two fingers at once symbolized the unity of the two beginnings. Such rings were usually given by the bride's parents to her future mother-in-law for the protection of the young daughter-in-law and to promote a good attitude toward her. 
-
 
 The Kazakhs consider earrings to be the oldest amulet. Women wear earrings all their life, and the form can be complicated or simplified. Rings and earrings are an obligatory part of the bride's dowry. During a wedding, a girl could wear up to ten kilograms of jewelry.
 
@@ -61,16 +63,15 @@ Author's felt carpets tekemet (_текемет_) from the 1960-1970s were made b
 
 The collection includes several tus-kiyiz (_тускииз_), which are large embroidered wall panels dating back to different periods - but specifically from the end of XIX century to 1960s. Tus-kiyiz display the excellency/ craftmanship of the national embroidery art with a variety of ornaments. Kazakh embroidery is distinguished by tambour stitchwork, performed with a hook and needle.
 
-A great variety of small objects in the collection, including bags made of felt and lint-free weaving were widely used as well. For example, a small bag for the storage of utensils, an ayak-kap (аяк-кап) (mid XX century), is made of wool, velvet, and felt in the technique of applique and using gold threads. The patterns decorating the bag are traditional, such as large horn-shaped curls and triangles along the perimeter.
+A great variety of small objects in the collection, including bags made of felt and lint-free weaving were widely used as well. For example, a small bag for the storage of utensils, an ayak-kap (_аяк-кап_) (mid XX century), is made of wool, velvet, and felt in the technique of applique and using gold threads. The patterns decorating the bag are traditional, such as large horn-shaped curls and triangles along the perimeter.
 
-There is a decorative, and at the same time very practical, function of the strips, known as bau (_бау_), with which the poles of the yurt were fixed together. The strips were decorated with ornaments woven from cotton-based wool threads. The same technique is applied for manufacturing a woven tape tangysh (тангыш), which is a narrow woolen ribbon used to tie the lattice of the yurt. These items belong to the first half of XX century.
+There is a decorative, and at the same time very practical, function of the strips, known as bau (_бау_), with which the poles of the yurt were fixed together. The strips were decorated with ornaments woven from cotton-based wool threads. The same technique is applied for manufacturing a woven tape tangysh (_тангыш_), which is a narrow woolen ribbon used to tie the lattice of the yurt. These items belong to the first half of XX century.
 
-Lint-free weaving is represented in the form of carpets and decorative author's blankets of the middle of the last century. Smooth, lint-free carpets (apasha) with stripes of stylized floral and geometric patterns are an important decoration of the yurt. "Apasha" (_Апаша_) is translated from Kazakh as "motley, striped". The Museum of Oriental Art has several such carpets dating to as late as the 1900s up to the 1960s, made in Alma-Ata and Chimkent regions.
+Lint-free weaving is represented in the form of carpets and decorative author's blankets of the middle of the last century. Smooth, lint-free carpets (_apasha_) with stripes of stylized floral and geometric patterns are an important decoration of the yurt. "Apasha" (_Апаша_) is translated from Kazakh as "motley, striped". The Museum of Oriental Art has several such carpets dating to as late as the 1900s up to the 1960s, made in Alma-Ata and Chimkent regions.
 
 Kazakh ornaments represent a single complex system of images, formed on the basis of ancient ideas about the surrounding world and reflecting the authentic culture of the people. These ornaments, which take the form of zoomorphic, vegetal, and geometric symbols are found in all kinds of decorative and applied art. Concise, but expressive ornaments are not lost in the past, but they are still actively used by modern masters. An example of bringing tradition into the modern day can be found with a male felt headdress from the museum collection, which was created by an unknown master in the 2000s.
 
-Captions
-
+<!--
 2154 III Syrmak (Сырмак)
 2287 III Kasteev Abylkhan, “Interior of the yurt” 
 3450 Tus-kiyiz (туcкииз), Kazakhstan, end of XIX century
@@ -83,3 +84,4 @@ Captions
 49060 кп Amulet, end of XIX century
 A detail of pectoral jewelry onirdjiek (онирджиек), Western Kazakhstan, first quarter of XX century
 Rings, Western Kazakhstan, first quarter of XX century
+-->

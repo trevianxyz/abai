@@ -14,8 +14,8 @@
   {% assign dataSet = site.data.{{ page.img-slider-yml }} %}
   {% for image in dataSet %}
   <div class="col px-0">
-    <img src="{{ image.filename }}" class="img-thumbnail rounded mx-auto slick-slider-img"
-      data-img="{{ image.filename }}">
+    <img src="{{ image.pathing }}{{ image.filename }}" class="img-thumbnail rounded mx-auto slick-slider-img"
+      data-img="{{ image.pathing }}{{ image.filename }}">
   </div>
   {% endfor %}
 </div>
