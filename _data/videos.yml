@@ -1,22 +1,4 @@
 contents:
-  - title: Kunanbai
-    src: 'https://www.youtube.com/embed/PhbFKW6Ebbs'
-    href: 'https://youtu.be/PhbFKW6Ebbs'
-    filters:
-      - title: "topic"
-        values:
-          - "Cradle of the Turkic World"
-      - title:
-        values:
-  - title: Драма / Мелодрама 
-    src: "https://www.youtube.com/embed/sbGJvVYIfpg"
-    href: "https://youtu.be/sbGJvVYIfpg"
-    filters:
-      - title: "topic"
-        values:
-          - "Cradle of the Turkic World"
-      - title:
-        values:
   - title: Miss Kazakhstan
     src: 'https://7facets.fra1.cdn.digitaloceanspaces.com/miss_kazakhstan.mp4'
     href: 'https://youtu.be/l8TQ2imwuPY'
