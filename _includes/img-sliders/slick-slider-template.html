@@ -31,12 +31,21 @@
     <figcaption id="modal-cap" class="p-2"></figcaption>
   </div>
 </div>
+{% endfor %}
 
 <script>
   var captions = {
     {
       site.data.{{ page.img-slider-yml }}| jsonify
-    }
+    };
+  var image_id = {
+    {
+    site.data.{{ page.img-slider-yml }}.image_id | jsonify
+    };
+  var modal_id = {
+    {
+    site.data.{{ page.img-slider-yml }}.modal_id | jsonify
+    };
   };
 
   $('.img-thumbnail').on('click', function (e) {
@@ -44,22 +53,22 @@
   })
 
   function openModal(img) {
-    $('#{{ item.image_id }}').attr('src', img);
+    $('#image_id').attr('src', img);
     captions.forEach(function (c) {
       if (img.includes(c.filename)) {
         $('#modal-cap').html(c.caption);
       }
     })
 
-    $('#{{ item.modal_id }}').show();
+    $('#modal_id').show();
     $('html').addClass('modal-open');
 
   }
 
   function closeModal() {
     $('html').removeClass('modal-open');
-    $('{{ item.modal_id }}').hide();
+    $('modal_id').hide();
   }
 </script>
-{% endfor %}
+
 {% endunless %}
