@@ -1,4 +1,4 @@
- - filename: "/images-artists-works/moscow_museum/moscow-musum-1.jpg"
+ - filename: "images-artists-works/moscow_museum/moscow-musum-1.jpg"
    caption: ""
  - filename: "images-artists-works/moscow_museum/moscow-musum-2.jpg"
    caption: ""
@@ -20,10 +20,10 @@
    caption: "астенное панно тускеиз. Фрагмент. Автор Жиембаева. 1913. Атлас, сатин, сукно, шелковые нити, машинная вышивка, тамбурный шов"
  - filename: "images-artists-works/moscow_museum/moscow-musum-11.jpg"
    caption: "астенное панно тускеиз. Фрагмент. Автор Жиембаева. 1913. Атлас, сатин, сукно, шелковые нити, машинная вышивка, тамбурный шов"
- - filename: "images-artists-works/moscow_museum/moscow-musum-12.jpg"
+ - filename: "images-artists-works/moscow_museum/moscow-museum-12.jpg"
    caption: "астенное панно тускеиз. Фрагмент. Автор Жиембаева. 1913. Атлас, сатин, сукно, шелковые нити, машинная вышивка, тамбурный шов"
 pathing: "/images-artists-works/moscow_museum"
 image_id: "imgMoscowmuseum"
 modal_id: "#moscowModal_id"
 modal_width: 
-modal_height: 200px
+modal_height: 300px

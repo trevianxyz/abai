@@ -10,14 +10,23 @@ categories: ['publication']
 descrip: ""
 noshow_img: true
 bigtitle: true
-bigtitle_img: "/images-artists-works/moscow_museum/kастеев_акварель.jpg" 
-image: "/images-artists-works/moscow_museum/kастеев_акварель.jpg"
+bigtitle_img: "/images-artists-works/moscow_museum/moscow-museum-12.jpg" 
+image: "/images-artists-works/moscow_museum/moscow-museum-12.jpg"
 images-artists-works: "moscow-museum"
 ---
 
 {% include post-css.html %}
 
 <style>
+
+  #imgMoscowmuseum {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 450px;
+  }
+
   .post-bigtitle > div > h1 {
     font-size: 5.2rem;
   }

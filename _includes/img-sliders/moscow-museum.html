@@ -10,18 +10,13 @@
 </div>
   {% endfor %}
 
-{% unless include.no-modal %}
-
 <div id="moscowModal_id" class="modal" style="z-index: 10000;">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
     <img id="imgMoscowmuseum" src="" alt="modal image" />
     <figcaption id="modal-cap" class="p-2"></figcaption>
   </div>
+  {% include img-sliders/moscow-museum-script.html %}
 </div>
-
-{% include img-sliders/moscow-museum-script.html %}
-
-{% endunless %}
-
 </div>
+ 
