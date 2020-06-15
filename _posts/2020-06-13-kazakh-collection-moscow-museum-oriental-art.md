@@ -10,14 +10,23 @@ categories: ['publication']
 descrip: ""
 noshow_img: true
 bigtitle: true
-bigtitle_img: "/images-artists-works/moscow_museum/kастеев_акварель.jpg" 
-image: "/images-artists-works/moscow_museum/kастеев_акварель.jpg"
+bigtitle_img: "/images-artists-works/moscow_museum/moscow-museum-12.jpg" 
+image: "/images-artists-works/moscow_museum/moscow-museum-12.jpg"
 images-artists-works: "moscow-museum"
 ---
 
 {% include post-css.html %}
 
 <style>
+
+  #imgMoscowmuseum {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 450px;
+  }
+
   .post-bigtitle > div > h1 {
     font-size: 5.2rem;
   }
@@ -42,7 +51,9 @@ img {
 
 The collection of decorative and applied art, including felt and jewelry, in the State Museum of Oriental Art in Moscow was launched in 1927. The exhibits came from different sources: The State Museum fund, redistribution and exchange between museums, and by gifts and purchases from private persons. The significant expansion of the collection in the Soviet period was promoted by the expeditions of museum researchers to different regions of Kazakhstan, wanting to purchase new acquisitions and investigate further. Many of these expeditions were made in the 1960-1970s. A considerable collection of the Kazakh jewelry ornaments, felt, and samples of lint-free weaving was collected.
 
-Today, the collection of the State Museum of Oriental Art contains more than 300 Kazakh silver jewelry pieces from the XIX-XX centuries from various regions, but predominantly the Western and Northern regions. Some of these pieces include traditional rings, bracelets, earrings, temple pendants, buttons and patch plaques on clothing, pectoral jewelry, ; jewelry for the headdresses and saukele, braid pendants (often decorated with coins), belt buckles, and amulets. In the 1960s, a part of the jewelry collection was transferred by order of the Council of Ministers of the Kazakh SSR from the funds of the Central Museum of Kazakhstan.
+Today, the collection of the State Museum of Oriental Art contains more than 300 Kazakh silver jewelry pieces from the XIX-XX centuries from various regions, but predominantly the Western and Northern regions. Some of these pieces include traditional rings, bracelets, earrings, temple pendants, buttons and patch plaques on clothing, pectoral jewelry,; jewelry for the headdresses and saukele, braid pendants (often decorated with coins), belt buckles, and amulets. In the 1960s, a part of the jewelry collection was transferred by order of the Council of Ministers of the Kazakh SSR from the funds of the Central Museum of Kazakhstan.
+
+{% include img-sliders/moscow-museum.html %}
 
 Products of Kazakh jewelers are very original, as seen by the ornaments and execution of technique, the laconism of decoration, and the distinguished forms, which make them very recognizable. These typical features are still preserved to this day. The quantity and quality of jewelry, the level of jewelers’ craftsmanship, and the materials used spoke to the welfare and wealth of the family. Each detail of the jewelry was carefully finished using embossing, engraving, false grains, enamel inserts. Jewelry was designed to protect the owners from evil spirits, to protect against disease, or to promote prosperity and fertility in the family. Kazakhs, as well as other peoples of the East and Central Asia, have the idea that jewelry pendants can scare away the bad spirits. The form, materials, and ornamentation of jewelry mattered therefore. Silver - the material of a majority of ornaments - helped to increase the wealth of the family and had purification functions. Carnelian, as well as its imitations such as glass and red paste, were shielded from the evil eye.
 
