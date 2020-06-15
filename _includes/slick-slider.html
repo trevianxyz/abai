@@ -1,16 +1,6 @@
 <link rel="stylesheet" href="{{ '/assets/css/slick-slider.css' | prepend: site.baseurl }}" />
 
 
-<div class="container">
-  <div>
-   <h2>{{ "abai through Artists' Eyes" | upcase }}</h2> 
-  <p>Abai Kunanbaiuly is one of the most inspiring figures in Kazakh art.
-    Classic paintings, rare photos, and modern pop images depicting Abai
-    transcend generations and social constructs. Every artist sees him
-    differently, from their own soul, leading to particular
-    representations and unique visuals.
-  </p>
-</div>
 <div class="slicky-slider">
     {% for image in site.static_files %}
       {% if image.path contains page.images-artists-works %}
@@ -20,7 +10,6 @@
         </div>
       {% endif %}
     {% endfor %}
-</div>
 </div>
 
 {% unless include.no-modal %}

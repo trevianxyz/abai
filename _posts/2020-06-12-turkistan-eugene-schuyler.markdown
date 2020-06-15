@@ -3,6 +3,7 @@ permalink: /turkistan-eugene-schuyler
 layout: post
 title: "'Turkistan' by Eugene Schuyler"
 author: "H.E. Erzhan Kazykhanov"
+author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33b7a5077aa48a22c62cba01db4f95be/Ambassador_Erzhan_Kazykhanov.jpg"
 date: 2020-06-12
 descrip: "Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov."
 noshow_img: true
