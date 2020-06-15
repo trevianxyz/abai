@@ -20,36 +20,8 @@
   </div>
 </div>
 
-<script>
-  var captions = {
-    {
-      site.data.captions | jsonify
-    }
-  };
-
-  $('.img-thumbnail').on('click', function (e) {
-    openModal(e.target.dataset.img);
-  })
-
-  function openModal(img) {
-    $('#imgMoscowmuseum').attr('src', img);
-    captions.forEach(function (c) {
-      if (img.includes(c.filename)) {
-        $('#modal-cap').html(c.caption);
-      }
-    })
-
-    $('#moscowModal_id').show();
-    $('html').addClass('modal-open');
-
-
-  }
-
-  function closeModal() {
-    $('html').removeClass('modal-open');
-    $('#moscowModal_id').hide();
-
-  }
-</script>
+{% include img-sliders/moscow-museum-script.html %}
 
 {% endunless %}
+
+</div>
