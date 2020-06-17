@@ -1,10 +1,10 @@
 ---
-permalink: /auezov-in-americas
+permalink: '/auezov-in-americas'
 layout: post
 title: Auezov in America
 date: 2020-06-17
 author: "Dennis Keen"
-author_bio: "Originally from California, Dennis came to Kazakhstan as a teenager and fell in love with Central Asia, learning Russian as a linguistics student and then studying Kazakh language, culture and history in a graduate program at Stanford University. He is the founder of Walking Almaty, a popular blog and tourism resource on the urban landscape of Almaty, and Monumental Almaty, a research project on Soviet-era mosaics and monumental art in the city. Kazakhs know him as "kúıeý" bala, or "son-in-law," as his wife Adisa from Uralsk."
+author_bio: "Originally from California, Dennis came to Kazakhstan as a teenager and fell in love with Central Asia, learning Russian as a linguistics student and then studying Kazakh language, culture and history in a graduate program at Stanford University. He is the founder of Walking Almaty, a popular blog and tourism resource on the urban landscape of Almaty, and Monumental Almaty, a research project on Soviet-era mosaics and monumental art in the city. Kazakhs know him as \"kúıeý\" bala, or \"son-in-law,\" as his wife Adisa from Uralsk."
 author_img: "assets/images/publications/auezov-in-america/dennis_keen.jpg"
 categories: ['publication']
 descrip: "Mukhtar​ Auezov the greatest Kazakh writer of the 20th century, made the last journey of his life to the United States of America."

@@ -1,9 +1,5 @@
 <script>
-  var captions = {
-    {
-      site.data.captions | jsonify
-    }
-  };
+  var captions = {{ site.data.captions | jsonify }};
 
   $('.img-thumbnail').on('click', function (e) {
     openModal(e.target.dataset.img);
