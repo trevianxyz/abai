@@ -3,13 +3,15 @@ permalink: /who-is-abai-for-contemporary-kazakhstan
 layout: post
 title: "Who is Abai for contemporary Kazakhstan?"
 author: "Diana Kudaibergenova"
+author_img: "/assets/images/who-is-article/kudaibergenova.png"
 date: 2020-03-24
 categories: ['publication']
 descrip: "Scholar Diana Kudaibergenova speaks to the continuing relevance of Abai as a cultural figure in modern Kazakhstan, while recognizing his rich history and titan-like status."
+author_bio: |
+  Diana T. Kudaibergenova is a Postdoctoral Research Associate on the UKRI GCRF "COMPASS" project at the University of Cambridge. She studies different intersections of power relations through realms of political sociology dealing with concepts of state, nationalizing regimes and ideologies. Her first book, Rewriting the Nation in Modern Kazakh literature (Lexington, 2017) deals with the study of nationalism, modernization and cultural development in modern Kazakhstan. Her second book, [Toward Nationalizing Regimes](https://upittpress.org/books/9780822946175/) is based on her doctoral research and focuses on the rise of nationalizing regimes in post-Soviet space after 1991 with prime focus on power struggles among the political and cultural elites in democratic and non-democratic states (University of Pittsburgh Press, 2020).
 noshow_img: true
 bigtitle: true
-bigtitle_img: "/assets/images/abai-opera-house.jpg"
-show_author_bottom: false
+bigtitle_img: "/assets/images/abai-opera-house.jpg" 
 ---
 
 {% include post-css.html %}
@@ -71,23 +73,3 @@ Thinking back to these days I wonder, if perhaps such a fixated idea of monument
 Even at 175, Abai never gets old. When Askhat Akhmediyarov presented his new installation combined from old Soviet books in TSE art gallery in the heart of Kazakh capital in January 2020, it only revealed the long-brewed thoughts. Even at 175, we, the people of Kazakhstan, are still searching back and rethinking the meaning of Abai’s *words*, re-reading *Qara Sozder*, and re-evaluating the wisdom of the lone steppe genius of the nineteenth century. As my childhood friends were saying, “Abai is in our minds, in our bones, in the soil of our land, and in our blood”. And similar to the mysterious notions of selfhood in any other cultures, Abai to me is a matter of almost a private space and a world of its own, the world that requires constant coming back to the source. In Abai I don’t see the limits of the “state”, ethnicity, tribe or even language. He and his wisdom are beyond the rigid structure of it all, just as much as some art and literature of present-day Kazakhstan, who, I hope continuously learn from Abai again and again. 
 
 <small class="text-muted">This essay is adapted from Kudaibergenova, D. “Misunderstanding Abai and the legacy of the canon: “Neponyatnii” and “Neponyatii” Abai in contemporary Kazakhstan,” Journal of Eurasian Studies, Volume 9, Issue 1, January 2018, Pages 20-29</small>
-
-<hr>
- 
-<div id="author">
-  <div class="row">
-    <div class="col-sm-12 col-md-6 align-middle">
-      <p class="lead">
-        <b>Diana T. Kudaibergenova</b>
-        <br><br>
-        Diana T. Kudaibergenova is a Postdoctoral Research Associate on the UKRI GCRF "COMPASS" project at the University of Cambridge. She studies different intersections of power relations through realms of political sociology dealing with concepts of state, nationalizing regimes and ideologies. Her first book, Rewriting the Nation in Modern Kazakh literature (Lexington, 2017) deals with the study of nationalism, modernization and cultural development in modern Kazakhstan. Her second book, <a href="https://upittpress.org/books/9780822946175/" target="_blank">Toward Nationalizing Regimes</a> is based on her doctoral research and focuses on the rise of nationalizing regimes in post-Soviet space after 1991 with prime focus on power struggles among the political and cultural elites in democratic and non-democratic states (University of Pittsburgh Press, 2020).
-      </p>
-    </div>
-    <div class="col-sm-12 col-md-6 align-middle">
-      <img src="/assets/images/who-is-article/kudaibergenova.png" />
-    </div>
-  </div>
-</div>
-
-<hr>
-
