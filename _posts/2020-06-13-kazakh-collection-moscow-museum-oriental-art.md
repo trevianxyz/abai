@@ -89,7 +89,7 @@ Kazakh ornaments represent a single complex system of images, formed on the basi
 7897 III Tus-kiyiz (туcкииз), Author: Jiimbaeva, 1913
 7899 III Tus-kiyiz (туcкииз), Author: Bekturanova, 1900
 8014 III (49023) кп Mother-in-law ring kudagi juzik (кудаги жузик ), Western Kazakhstan, Mangystau, XIX century
-9225III Men belt, Southern Kazakhstan, Taldy-Kurgan region, XIX century 
+9225 III Men belt, Southern Kazakhstan, Taldy-Kurgan region, XIX century 
 49060 кп Amulet, end of XIX century
 A detail of pectoral jewelry onirdjiek (онирджиек), Western Kazakhstan, first quarter of XX century
 Rings, Western Kazakhstan, first quarter of XX century
