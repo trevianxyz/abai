@@ -15,7 +15,7 @@ image: "assets/images/publications/auezov-in-america/auezov_3.jpg"
 ---
 {% include post-css.html %}
 
-Image #1
+![](assets/images/publications/auezov-in-america/auezov_1.png)
 
 Mukhtar Auezov, widely considered the greatest Kazakh writer of the 20th century for his epic novels and theatrical adaptations, is one of very few Kazakh authors whose work has been translated into English. His masterpiece, The Path of Abai, was published in dozens of languages, and a collection of his short stories was recently released in the UK. Yet there’s one work of Auezov that has never been translated from its original Kazakh, and in a bibliography replete with nomadic folklore, it stands out as one of the writer’s most unusual works. It’s called “Amerıka Áserlerі” -- “Impressions of America.” 
 
@@ -35,7 +35,7 @@ At another point during their stay in Washington, Auezov would be filmed for a s
 
 When Auezov and his team weren’t being grilled as enemy emissaries, they were exploring Washington like regular tourists. At the Capitol Building, they watched a civil rights bill being debated in the Senate. At the Library of Congress, Auezov was presented with his own novels (fifty books a year, he noted, are delivered from Kazakhstan). At the Islamic Center of DC, which had been built just a few years prior, Auezov asked the imam about the call to prayer, and was tickled to learn that it was broadcast over a stereo. For Auezov, a lasting highlight would be a visit to the Folger Shakespeare Library. The Kazakh playwright was the first to translate the bard’s plays (“Othello” and “The Taming of the Shrew”) into Kazakh, and visiting the world’s largest collection of Shakespeare materials was a delightful treat. 
 
-Image #2
+![](assets/images/publications/auezov-in-america/auezov_2.png)
 
 **New York City**
 
@@ -55,13 +55,13 @@ On their unorthodox route, the delegation spent several days in the mid-sized Ce
 
 The paper also noted the Soviet writers’ easygoing itinerary: "The writers saw what they asked to see, sometimes on the spur of the moment: a drive-in movie, a supermarket, a department store, a high school, farms, private homes, Yosemite National Park." Indeed, one of the few photographs available online from Auezov’s adventure is of the author, looking dapper in a peacoat and a fedora, dwarfed by the trunk of one of Yosemite’s legendary redwood trees. The awe he must have felt walking through the park’s grand forests (or amongst the well-stocked shelves of an American supermarket for that matter) remains tragically undocumented.  
 
-Image #3
+![](assets/images/publications/auezov-in-america/auezov_3.jpg)
 
 On March 3, the scribes left for LA, where we know they visited a university (most likely UCLA) and held a press conference at the Chapman Park Hotel on Wilshire Boulevard. Faced for the first time, quite probably, by hostile journalists, the Soviet figures often became defensive and accusatory as the questioning proceeded. Auezov was the eldest member of the delegation, but the quieter Kazakh and the Ukrainian Honchar seemed to defer their answers to Stepan Shchipachev, who had been designated the group’s spokesman. A story in the LA Times the next day quoted an irritated Shchipachev scolding his American hosts. “We publish far more American writers in Russia than you do Russian writers in America,” he boasted. A week later, the LA Times was apparently forced to publish a retraction of sorts. Shchipachev’s accusation, they wrote, “is based on misinformation. Have the Russians forgotten how many months ‘Dr. Zhivago’ was on our best-seller list? Or that Chekhov, Dostoevski, Tolstoi, Turgenev and Gogol are required reading in many university drama, short story and novel classes?” Despite the good intentions of the Thaw and its cultural exchange, it was clear that relations were still quite frosty.
 
 The next week, the team was off to Arizona, where Auezov visited the Grand Canyon and was given a tour of Taliesin West, Frank Lloyd Wright’s masterpiece of Southwestern architecture. A reporter joined Auezov on the ride back to town and shared an endearing moment from their chat in the back seat: “Auezov, riding in a car with this reporter, pointed to a mountaintop estate and asked what it was. Told that it was the 'Wrigley home,' he said 'Oh, a capitalist.' He smiled when told that everyone is a capitalist or potential one in America. Auezov interjected in his comments on America's good living that his grandson had asked him to 'bring back a Chevrolet and a Cadillac.'" Not immune to pride and ideology, a Phoenix paper used the anecdote to illustrate the superiority of the capitalist system. “There are some private cars in Russia,” the paper noted, “but they are hard to come by and harder still to operate.”
 
-Image #4
+![](assets/images/publications/auezov-in-america/auezov_4.jpg)
 
 **Boston, New York, and Back Home**
 
