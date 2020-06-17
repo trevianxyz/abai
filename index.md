@@ -21,7 +21,6 @@ frequent_info:
 </div>
 <a href="/poetry-video-submission"><img src="/assets/images/poetry_reading_jumbo.png" class="img-fluid index-banner-img" /></a>
  <div class="container"> 
-  <div>
    <h2>{{ "abai through Artists' Eyes" | upcase }}</h2> 
   <p>Abai Kunanbaiuly is one of the most inspiring figures in Kazakh art.
     Classic paintings, rare photos, and modern pop images depicting Abai
@@ -29,9 +28,11 @@ frequent_info:
     differently, from their own soul, leading to particular
     representations and unique visuals.
   </p>
-</div>
 {% include slick-slider.html %}
+<hr>
 </div>
-{% include temp-data-feed.html %}
+<div class="container">
+{% include publications-center.html cat='publication' %}
+</div>
 {% include media-center.html %}
 <!--<a href="#"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/dailyabai.png" class="img-fluid index-banner-img" /></a>-->
