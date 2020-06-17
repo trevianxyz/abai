@@ -1,13 +1,17 @@
 ---
 permalink: /abai-a-poet-for-all-seasons
-layout: page
+layout: post
 title: "Abai: A Poet for All Seasons"
 date: 2020-02-24
 categories: ['publication']
 author: "Peter Rollberg"
 descrip: "Peter Rollberg, Associate Dean and Professor at George Washington University’s Elliott School of International Affairs, writes on Abai's life and works."
+author_bio: "Peter Rollberg is Professor of Slavic Languages, Film Studies, and International Affairs and Associate Dean for Faculty Affairs and Research Initiatives at George Washington University’s Elliott School of International Affairs. Rollberg studied at Lomonosov University in Moscow and at the University of Leipzig where he earned his Ph.D. in 1988. His main field of expertise is Russian literature and film, as well as Georgian and Kazakh cinema. In 1996, Rollberg published volume 10 of The Modern Encyclopedia of East Slavic, Baltic, and Eurasian Literatures (Academic International Press) and in 1997, a festschrift in honor of Charles Moser, entitled And Meaning for a Life Entire. His Historical Dictionary of Russian and Soviet Cinema was published in 2009 (second, enlarged edition 2016)."
+author_img: "/assets/images/kz/rollberg.jpeg"
 noshow_img: true
 ---
+
+{% include post-css.html %}
 <style>
 td {
   padding-left: 30px !important;
@@ -222,20 +226,6 @@ When Abai speaks about himself, his will to verbalize the experiences of his lif
 It is this uncompromising honesty about himself that earned Abai the right to judge his own people with unrelenting candor. 
 
 Abai harbored no illusions about humankind. He describes human behavior as dominated by greed, dishonesty, contempt for others, pride, and ignorance. But he insists that these same human beings, both as individuals and as a nation, are free to make moral choices. He knows human nature; he has observed it keenly and studied it deeply. He shares his insights, hard to accept though they may be, with those who are willing to accept harsh truths. These human beings can opt for the values that Abai holds dearly: education and knowledge, respect and decency, truth and honesty, peace and love. That is the message of Abai, Kazakhstan’s greatest thinker, an inconvenient sage. Because Abai’s poetry addresses such a wide array of themes, from nature and love to life, death, and the character flaws of the nation, it seems fair to say that Abai is a poet for all seasons. His universality, sensitivity, and truthfulness explain why Abai’s poetic legacy is alive and dear to Kazakh readers today.
-
-
-<div id="author">
-    <div class="row">
-        <div class="col-sm-12 col-md-6 align-middle">
-        <p class="lead"><b>PETER ROLLBERG</b><br>
-Peter Rollberg is Professor of Slavic Languages, Film Studies, and International Affairs and Associate Dean for Faculty Affairs and Research Initiatives at George Washington University’s Elliott School of International Affairs. Rollberg studied at Lomonosov University in Moscow and at the University of Leipzig where he earned his Ph.D. in 1988. His main field of expertise is Russian literature and film, as well as Georgian and Kazakh cinema. In 1996, Rollberg published volume 10 of The Modern Encyclopedia of East Slavic, Baltic, and Eurasian Literatures (Academic International Press) and in 1997, a festschrift in honor of Charles Moser, entitled And Meaning for a Life Entire. His Historical Dictionary of Russian and Soviet Cinema was published in 2009 (second, enlarged edition 2016).</p>
-</div>
-<div class="col-sm-12 col-md-6 align-middle">
-<img src="/assets/images/kz/rollberg.jpeg" />
-</div>
-</div>
-</div>
-<hr>
 
 [^7]: Translated by Olga Shartse, op. cit., p. 74.
 [^8]: In his opposition to a rationalist approach, he was followed by Olzhas Suleimenov’s poetic worldview: “Earth, bow down to Man [i.e., humankind]!” [Zemlia, poklonis’ cheloveku!”] (1961).
