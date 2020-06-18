@@ -88,3 +88,9 @@ Initial reports in the Associated Press suggest that Auezov had planned to go to
 The trip was by all means historic, but today’s scholars have generally overlooked its importance, perhaps discouraged by the lack of primary sources. Here was Mukhtar Auezov, perhaps the greatest Kazakh cultural figure of the 20th century, cultivating Soviet soft power in the very belly of the American beast! Yet scenes from this grand adventure come only in vignettes: a stumbled-upon news story in an online archive, or a black-and-white photograph spotted at the author’s childhood home-turned-museum. A year after Auezov’s journey to the USA, the giant of Kazakh letters died tragically in Moscow during an operation to remove a cancerous polyp. His “Impressions of America” were left unfinished, his life’s last great story left untold. 
 
 Next year will mark the 60 year anniversary of Auezov’s death, and Auezov scholars will be eager for a way to honor his memory. Perhaps this final chapter in the author’s tale is one that can receive some attention. Surely, there is more we can learn. Auezov’s personal correspondence might yield some clues, or maybe there is a family photo album. And surely, it must be possible to translate “Impressions of America,” at long last, into a language that will reach a broader audience. Americans, I think, would find it an irresistible story: a man named Mukhtar from the Genghis Mountains, who wrote epics of the steppe and found them in the Library of Congress.
+
+![](assets/images/publications/auezov-in-america/auezov_6.jpg)
+
+![](assets/images/publications/auezov-in-america/auezov_7.png)
+
+![](assets/images/publications/auezov-in-america/auezov_8.png)
