@@ -1,5 +1,5 @@
 ---
-permalink: '/auezov-in-americas'
+permalink: '/auezov-in-america'
 layout: post
 title: Auezov in America
 date: 2020-06-17
@@ -10,10 +10,28 @@ categories: ['publication']
 descrip: "Mukhtar​ Auezov the greatest Kazakh writer of the 20th century, made the last journey of his life to the United States of America."
 noshow_img: true
 bigtitle: true
-bigtitle_img: "assets/images/publications/auezov-in-america/auezov_3.jpg" 
-image: "assets/images/publications/auezov-in-america/auezov_3.jpg"
+bigtitle_img: "/assets/images/publications/auezov-in-america/auezov_usa.png" 
+image: "/assets/images/publications/auezov-in-america/auezov_4.jpg"
 ---
 {% include post-css.html %}
+
+<style>
+img {
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+  max-height: 500px;
+  width: auto; 
+}
+
+.footnotes p {
+  color: #000; 
+}
+
+.post-bigtitle {
+  top: 0; 
+}
+</style>
 
 ![](assets/images/publications/auezov-in-america/auezov_1.png)
 
