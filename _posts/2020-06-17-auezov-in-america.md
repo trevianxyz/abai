@@ -10,8 +10,8 @@ categories: ['publication']
 descrip: "Mukhtar​ Auezov the greatest Kazakh writer of the 20th century, made the last journey of his life to the United States of America."
 noshow_img: true
 bigtitle: true
-bigtitle_img: "/assets/images/publications/auezov-in-america/auezov_usa.png" 
-image: "/assets/images/publications/auezov-in-america/auezov_usa.png"
+bigtitle_img: "/assets/images/publications/auezov-in-america/auezov_4_copy.jpeg" 
+image: "/assets/images/publications/auezov-in-america/auezov_4_copy.jpeg"
 ---
 {% include post-css.html %}
 
