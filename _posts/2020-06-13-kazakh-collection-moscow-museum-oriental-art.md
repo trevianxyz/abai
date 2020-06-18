@@ -10,8 +10,8 @@ categories: ['publication']
 descrip: ""
 noshow_img: true
 bigtitle: true
-bigtitle_img: "images-artists-works/moscow_museum/moscow-musum-C.jpg" 
-image: "images-artists-works/moscow_museum/moscow-musum-C.jpg"
+bigtitle_img: "/images-artists-works/moscow_museum/moscow-musum-C.jpg" 
+image: "/images-artists-works/moscow_museum/moscow-musum-C.jpg"
 images-artists-works: "moscow-museum"
 ---
 
