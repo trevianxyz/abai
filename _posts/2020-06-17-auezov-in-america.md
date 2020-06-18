@@ -11,7 +11,7 @@ descrip: "Mukhtar​ Auezov the greatest Kazakh writer of the 20th century, made
 noshow_img: true
 bigtitle: true
 bigtitle_img: "/assets/images/publications/auezov-in-america/auezov_usa.png" 
-image: "/assets/images/publications/auezov-in-america/auezov_4.jpg"
+image: "/assets/images/publications/auezov-in-america/auezov_usa.png"
 ---
 {% include post-css.html %}
 
