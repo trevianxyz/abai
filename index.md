@@ -31,8 +31,7 @@ frequent_info:
 {% include slick-slider.html %}
 <hr>
 </div>
-<div class="container">
 {% include publications-center.html cat='publication' %}
-</div>
+<hr>
 {% include media-center.html %}
 <!--<a href="#"><img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/dailyabai.png" class="img-fluid index-banner-img" /></a>-->
