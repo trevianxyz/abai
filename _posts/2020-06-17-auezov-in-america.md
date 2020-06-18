@@ -93,4 +93,4 @@ Next year will mark the 60 year anniversary of Auezov’s death, and Auezov scho
 
 ![](assets/images/publications/auezov-in-america/auezov_7.png)
 
-![](assets/images/publications/auezov-in-america/auezov_8.png)
+![](assets/images/publications/auezov-in-america/auezov_8.png)  

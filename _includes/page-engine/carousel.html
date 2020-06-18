@@ -24,7 +24,7 @@
 
                 {% if carousel_slide.body %}
                   <p>
-                    {{ carousel_slide.body }}
+                    {{ carousel_slide.body | markdownify }}
                   </p>
                 {% endif %}
 
