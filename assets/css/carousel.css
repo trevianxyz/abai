@@ -20,28 +20,36 @@
   padding-right: 10px;
 }
 
+/* Responsive */
 @media (max-width: 768.98px) {
   .usa-hero-callout-alt {
     font-size: 20px;
-  }
-
-.usa-hero-callout {
-  margin-top: 50px; 
-  max-width: 40rem;
-  padding: .5rem;
-  padding-left: 10px;
-  padding-right: 10px;
 
   }
 
-.carousel-item.active {  
-  background-size: cover;
-  background-repeat: no-repeat;
- /* background-position: -890px center !important;*/
-  height: 450px;
-  }
-}
+  .usa-hero-callout {
+    margin-top: 50px;
+    max-width: 40rem;
+    padding: .5rem;
+    padding-left: 10px;
+    padding-right: 10px;
 
-.modal-open {
-  overflow: hidden;
+  }
+
+  .usa-hero-callout {
+    margin-top: 50px;
+    max-width: 40rem;
+    padding: .5rem;
+    padding-left: 10px;
+    padding-right: 10px;
+
+  }
+
+  .carousel-item.active {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: -890px center !important;
+    height: 450px;
+  }
+
 }
