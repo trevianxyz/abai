@@ -103,7 +103,7 @@
       <span>Publications</span>
     </h3>
   </div>
-  {% for post in posts %}
+  {% for post in posts offset:1 %}
   <article class="element-item {{ cat }} briefing-statement briefing-statement--results">
     <div class="briefing-statement__content">
       <div class="row align-items-center">
