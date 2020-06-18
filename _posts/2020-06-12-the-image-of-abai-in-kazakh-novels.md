@@ -7,7 +7,7 @@ author: "Gabriel McGuire"
 author_bio: "Gabriel McGuire is an Assistant Professor in the Department of Languages, Linguistics, and Literatures at Nazarbayev University. He holds a Ph.D. from the department of Folklore and Ethnomusicology at Indiana University, Bloomington. He teaches classes on world literature, folk tales, and the oral literature of Central Asia. His research interests include Soviet era Kazakh literature, oral epics and folk tales, and the interaction between oral and written genres of literature. His scholarship has been published in Ethnos, Central Asian Survey, and other journals."
 author_img: "assets/images/publications/mcguire/Gabriel_McGuiire.jpeg"
 categories: ['publication']
-descrip: "Mukhtar Auezov, in his classic novel _Abai Zholy_, suggested Kazakh oral poetry played just as important a role in Abai's maturation as an artist."
+descrip: "Mukhtar Auezov, in his classic novel Abai Zholy, suggested Kazakh oral poetry played just as important a role in Abai's maturation as an artist."
 noshow_img: true
 bigtitle: true
 bigtitle_img: "/assets/images/publications/mcguire/Mukhtar_Auezov.jpeg"
@@ -40,7 +40,7 @@ img {
 
 </style>
 
-**Abai, Auezov, and Kazakh Oral Literature: Popular accounts of Abai's life and work often stress his love of Pushkin and his readings of philosophers like Socrates and Spinoza. Yet Mukhtar Auezov, in his classic novel _Abai Zholy_, suggested Kazakh oral poetry played just as important a role in Abai's maturation as an artist._**[^1]
+**Abai, Auezov, and Kazakh Oral Literature: Popular accounts of Abai's life and work often stress his love of Pushkin and his readings of philosophers like Socrates and Spinoza. Yet Mukhtar Auezov, in his classic novel _Abai Zholy_, suggested Kazakh oral poetry played just as important a role in Abai's maturation as an artist.**[^1]
 
 Near the middle of the Kazakh children’s novel __Mening Atym Qozha__, the book’s protagonist tries to write a poem expressing his love for his classmate Zhanar, only to be struck by an uncomfortable suspicion that his words are somehow not his own. He searches his memory, and suddenly realizes he has been quoting one of Abai’s poems. Qozha is horrified by this discovery, and begins to cross out the words he had ‘stolen’ from Abai. Suddenly, however, he pauses, and thinks again:
 

@@ -7,16 +7,16 @@
   <div class="col px-0">
     <img src="{{ image.filename }}" class="img-thumbnail rounded mx-auto slick-slider-img"
       data-img="{{ image.filename }}">
-</div>
+  </div>
   {% endfor %}
+</div>
 
 <div id="moscowModal_id" class="modal" style="z-index: 10000;">
   <span class="close cursor" onclick="closeModal()">&times;</span>
   <div class="modal-content">
-    <img id="imgMoscowmuseum" src="" alt="modal image" />
+    <img id="imgMoscowmuseum" class="pt-2" src="" alt="modal image" />
     <figcaption id="modal-cap" class="p-2"></figcaption>
   </div>
-  {% include img-sliders/moscow-museum-script.html %}
-</div>
 </div>
  
+{% include img-sliders/moscow-museum-script.html %}

@@ -1,18 +1,18 @@
 <script>
-  var captions = {
-    {
-      site.data.captions | jsonify
-    }
-  };
+  var captions = {{ site.data.captions-museum | jsonify }};
 
-  $('.img-thumbnail').on('click', function (e) {
-    openModal(e.target.dataset.img);
-  })
+  $(document).ready( function() {
+    $('.img-thumbnail').on('click', function (e) {
+      openModal(e.target.dataset.img);
+    })
+  });
 
   function openModal(img) {
     $('#imgMoscowmuseum').attr('src', img);
     captions.forEach(function (c) {
+      // console.log('checking file ' + c.filename + " against img " + img);
       if (img.includes(c.filename)) {
+        // console.log('match found');
         $('#modal-cap').html(c.caption);
       }
     })
@@ -27,3 +27,18 @@
     $('#moscowModal_id').hide();
   }
 </script>
+
+<style>
+  .modal {
+    background-color: #000000A0;
+  }
+
+  .modal-content {
+    box-shadow: -3px 3px 10px #000000;
+    margin-top: 2em;
+  }
+
+  .close {
+    top: calc(1em + 10px);
+  }
+</style>
