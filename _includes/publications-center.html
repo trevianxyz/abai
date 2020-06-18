@@ -29,8 +29,22 @@
     color: #293340 !important;
   }
 
+   .publications-center-container {
+   display: block !important;
+   margin-left: auto !important;
+   margin-right: auto !important;
+   }
+
+  .publications-center__title a {
+  text-align: left;
+  padding-left: 10px; 
+  color: #000;
+  text-decoration: underline;
+  text-decoration-color: #6c5ce7;
+  }
+
   @media (min-width: 700px) {
-    article .briefing-statement__title a {
+    article .publications-center__title a {
       font-size: 2.5rem;
     }
   }
@@ -74,6 +88,7 @@
   .preview-descrip {
     margin-left: 10px;
   }
+
 </style>
 
 {% assign cat = include.cat %}
@@ -83,7 +98,7 @@
 {% assign posts = category[1] %}
 {% endif %}
 {% endfor %}
-<div class="usa-width-one-whole">
+<div class="w-75 publications-center-container">
   <div>
     <h3 class="fancy">
       <span>Publications</span>
@@ -99,8 +114,8 @@
             class="img-fluid news_thumbnail mx-auto align-self-center" alt="Image" />
         </div>
         <div class="col-sm-12 col-md-8 media_center">
-          <h2 class="briefing-statement__title_allnews">
-            <a class="media-link" href="{{ post.permalink }}" target="_blank" title="{{ post.title}}">
+          <h2 class="publications-center__title text-left">
+            <a class="media-link" href="{{ post.permalink }}" title="{{ post.title}}">
               {{ post.title }}
             </a>
           </h2>
