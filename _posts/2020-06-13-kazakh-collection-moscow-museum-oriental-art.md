@@ -95,12 +95,6 @@ Kazakh ornaments represent a single complex system of images, formed on the basi
   <div class="post-img-caption">3452 III small bag for storage of utensils ayak-ka. Mid-XX, felt, velvet, golden threads, applique -2 фото
   </div>
 </div>
- 
-<div class="align-center m-3">
-  <img src="/images-artists-works/moscow_museum/moscow-musum-4.jpg">
-  <div class="post-img-caption">2287 III Kasteev Abylkhan, “Interior of the yurt”
-  </div>
-</div>
 
 <div class="align-center m-3">
   <img src="/images-artists-works/moscow_museum/moscow-musum-4.jpg">
