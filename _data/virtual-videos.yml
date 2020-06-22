@@ -1,7 +1,12 @@
 contents:
   - title: The Mausoleum of Khoja Ahmed Yasawi
     src: 'https://tengri-khan.fra1.cdn.digitaloceanspaces.com/full-yasawi-turkestan.mp4'
+    href: 'https://tengri-khan.fra1.cdn.digitaloceanspaces.com/full-yasawi-turkestan.mp4'
     filters:
       - title: "topic"
-        values:
-          - "Cradle of the Turkic World"
+  - title: Kazakh Yurt 360
+    src: 'assets/images/kz/embus-yurt-360.png'
+    href: '/multimedia/virtual-gallery/kazakh-yurt-360'
+    filters:
+      - title: "topic"
+

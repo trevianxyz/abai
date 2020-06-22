@@ -43,6 +43,53 @@ function activate(e) {
     
 }
 
+function constructTooltipText(sel) {
+    let text = sel.toString();
+    let twText = text;
+
+    if (text.length > 170) {
+        twText = text.slice(0, 170);
+        twText = twText + "…";
+    }
+
+    twText = encodeURI(twText);
+    discText = encodeURI(text);
+
+    return `<a href="https://twitter.com/intent/tweet?text=%22${twText}%22%20%0A%0A%E2%80%94Abai%20Kunanbaiuly,%20%22Book%20of%20Words%22%0A%0AFor%20more,%20go%20to%20http%3A//abaicenter.com/about-abai/book-of-words"><i class="fab fa-twitter"></i></a> | ` + 
+        '<a href="/discover?text=' + discText + '"><i class="fas fa-edit"></i></a>';
+}
+
+function constructTooltip(node, sel) {
+    node.dataset.activeTooltip = "true";
+    node.dataset.toggle = "tooltip";
+    node.dataset.html = "true";
+    node.dataset.trigger = "manual";
+    node.dataset.placement = "top";
+    node.dataset.title = constructTooltipText(sel);
+}
+
+function killSelection() {
+    console.log("blank selection, killing tooltips");
+    document.querySelectorAll('[data-active-tooltip="true"]')
+        .forEach((e) => {
+            e.dataset.activeTooltip = "false";
+            e.dataset.title = "";
+        });
+    $('[data-toggle="tooltip"]').tooltip('dispose');
+}
+
+function handleNewSelection(sel) {
+    let parent = sel.anchorNode.parentNode;
+
+    constructTooltip(parent, sel);
+    
+    $('[data-active-tooltip="true"]').tooltip('hide')
+        .attr('data-original-title', constructTooltipText(sel))
+        .tooltip('show'); 
+    
+
+}
+
 function animateCSS(element, animationName, callback) {
     var node;
 
@@ -101,7 +148,20 @@ var cb = function() {
         })
     })
 
-    //document.addEventListener
+    let selection;
+
+    document.onselectionchange = function() {
+        console.log('new selection made');
+
+        selection = document.getSelection();
+
+        if (selection.toString() === "") {
+            killSelection();
+        } else {
+            handleNewSelection(selection);
+        }
+        
+    };
 };
   
 if (
