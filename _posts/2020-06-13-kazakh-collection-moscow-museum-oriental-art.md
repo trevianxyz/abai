@@ -53,8 +53,6 @@ The collection of decorative and applied art, including felt and jewelry, in the
 
 Today, the collection of the State Museum of Oriental Art contains more than 300 Kazakh silver jewelry pieces from the XIX-XX centuries from various regions, but predominantly the Western and Northern regions. Some of these pieces include traditional rings, bracelets, earrings, temple pendants, buttons and patch plaques on clothing, pectoral jewelry,; jewelry for the headdresses and saukele, braid pendants (often decorated with coins), belt buckles, and amulets. In the 1960s, a part of the jewelry collection was transferred by order of the Council of Ministers of the Kazakh SSR from the funds of the Central Museum of Kazakhstan.
 
-{% include img-sliders/moscow-museum.html %}
-
 Products of Kazakh jewelers are very original, as seen by the ornaments and execution of technique, the laconism of decoration, and the distinguished forms, which make them very recognizable. These typical features are still preserved to this day. The quantity and quality of jewelry, the level of jewelers’ craftsmanship, and the materials used spoke to the welfare and wealth of the family. Each detail of the jewelry was carefully finished using embossing, engraving, false grains, enamel inserts. Jewelry was designed to protect the owners from evil spirits, to protect against disease, or to promote prosperity and fertility in the family. Kazakhs, as well as other peoples of the East and Central Asia, have the idea that jewelry pendants can scare away the bad spirits. The form, materials, and ornamentation of jewelry mattered therefore. Silver - the material of a majority of ornaments - helped to increase the wealth of the family and had purification functions. Carnelian, as well as its imitations such as glass and red paste, were shielded from the evil eye.
 
 The forms of jewelry and their ornaments go back to ancient cults, as they were also attributed magical properties. Many are solar signs, such as circles, spirals, crosses, rhombuses, as well as bird beaks, claws, and lamb horns. Protective forces were given to objects of triangular shape. The collection of the Museum of Oriental Art contains triangular amulets – tumars inside which a prayer from the Koran, written on paper, was placed.
@@ -68,6 +66,18 @@ The museum’s collection of felt products and lint-free weaving items is small.
 The most important material in Kazakh culture is felt. Both the yurt and its interior décor were made of felt. Milled wool contained laconic contrasting colors and large traditional patterns, such as lamb horns, geometric figures with curls (sometimes taking anthropomorphic forms), and the tree of life.
 Several felt floor carpets called syrmak (_сырмак_) were made in mosaic technique and stitched with thick laces that can be dated to the period of 1920 to 1960. The name syrmak comes from the technique of quilting _(syru (сыру)_ means in Kazakh - "sewing").
 
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-1.jpg">
+  <div class="post-img-caption">
+2154 III Syrmak (Сырмак)
+  </div>
+</div>
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-2.jpg">
+  <div class="post-img-caption">2287 III Kasteev Abylkhan, “Interior of the yurt”
+  </div>
+</div>
+
 Author's felt carpets tekemet (_текемет_) from the 1960-1970s were made by the traditional method of winding-and-driving (pressing-rolling) patterns of multi-coloured wool into the background felt. This technique does not involve complex small and clear patterns.
 
 The collection includes several tus-kiyiz (_тускииз_), which are large embroidered wall panels dating back to different periods - but specifically from the end of XIX century to 1960s. Tus-kiyiz display the excellency/ craftmanship of the national embroidery art with a variety of ornaments. Kazakh embroidery is distinguished by tambour stitchwork, performed with a hook and needle.
@@ -80,17 +90,67 @@ Lint-free weaving is represented in the form of carpets and decorative author's 
 
 Kazakh ornaments represent a single complex system of images, formed on the basis of ancient ideas about the surrounding world and reflecting the authentic culture of the people. These ornaments, which take the form of zoomorphic, vegetal, and geometric symbols are found in all kinds of decorative and applied art. Concise, but expressive ornaments are not lost in the past, but they are still actively used by modern masters. An example of bringing tradition into the modern day can be found with a male felt headdress from the museum collection, which was created by an unknown master in the 2000s.
 
-<!--
-2154 III Syrmak (Сырмак)
-2287 III Kasteev Abylkhan, “Interior of the yurt” 
-3450 Tus-kiyiz (туcкииз), Kazakhstan, end of XIX century
-3452 III small bag for storage of utensils ayak-ka. Mid-XX, felt, velvet, golden threads, applique -2 фото
-6379 III Felt rug Tekemet (Текемет) Author: Stybaeva K., Chimkent, 1960-1971 
-7897 III Tus-kiyiz (туcкииз), Author: Jiimbaeva, 1913
-7899 III Tus-kiyiz (туcкииз), Author: Bekturanova, 1900
-8014 III (49023) кп Mother-in-law ring kudagi juzik (кудаги жузик ), Western Kazakhstan, Mangystau, XIX century
-9225 III Men belt, Southern Kazakhstan, Taldy-Kurgan region, XIX century 
-49060 кп Amulet, end of XIX century
-A detail of pectoral jewelry onirdjiek (онирджиек), Western Kazakhstan, first quarter of XX century
-Rings, Western Kazakhstan, first quarter of XX century
--->
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-3.jpg">
+  <div class="post-img-caption">3452 III small bag for storage of utensils ayak-ka. Mid-XX, felt, velvet, golden threads, applique -2 фото
+  </div>
+</div>
+ 
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-4.jpg">
+  <div class="post-img-caption">2287 III Kasteev Abylkhan, “Interior of the yurt”
+  </div>
+</div>
+
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-4.jpg">
+  <div class="post-img-caption">3450 Tus-kiyiz (туcкииз), Kazakhstan, end of XIX century</div>
+</div>
+
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-5.jpg">
+  <div class="post-img-caption">6379 III Felt rug Tekemet (Текемет) Author: Stybaeva K., Chimkent, 1960-1971 
+  </div>
+</div>
+
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-6.jpg">
+  <div class="post-img-caption">7897 III Tus-kiyiz (туcкииз), Author: Jiimbaeva, 1913
+</div>
+</div>
+
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-7.jpg">
+  <div class="post-img-caption">7899 III Tus-kiyiz (туcкииз), Author: Bekturanova, 1900
+</div>
+</div>
+
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-8.jpg">
+  <div class="post-img-caption">8014 III (49023) кп Mother-in-law ring kudagi juzik (кудаги жузик ), Western Kazakhstan, Mangystau, XIX century
+</div>
+</div>
+
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-9.jpg">
+  <div class="post-img-caption">9225 III Men belt, Southern Kazakhstan, Taldy-Kurgan region, XIX century
+</div>
+</div>
+
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-A.jpg">
+  <div class="post-img-caption">49060 кп Amulet, end of XIX century
+</div>
+</div>
+
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-B.jpg">
+  <div class="post-img-caption">A detail of pectoral jewelry onirdjiek (онирджиек), Western Kazakhstan, first quarter of XX century
+</div>
+</div>
+
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-C.jpg">
+  <div class="post-img-caption"> 
+</div>
+</div>
