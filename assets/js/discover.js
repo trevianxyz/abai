@@ -69,7 +69,11 @@ function cb() {
         })
     );
 
-
+    document.querySelector('.disc-btn-addtext').addEventListener('click', function(e) {
+        document.getElementById('disc-results').classList.add('disc-results-addtext-open');
+        document.getElementById('disc-addtext').classList.remove('d-none');
+        document.getElementById('disc-addtext-btn-submit').addEventListener('click', () => addNewQuote(c));
+    });
 
     // var c = document.getElementById('disc-img');
     // setDPI(c, 192);
@@ -109,3 +113,45 @@ if (
     document.addEventListener("DOMContentLoaded", cb);
 }
 
+// Handles adding a new quote from the addtext dialog.
+// The most impure function I've ever written.
+function addNewQuote(c) {
+    let newQuote = document.getElementById('disc-addtext-input').value;
+
+    if (newQuote === undefined || newQuote === null || newQuote.length < 1 || newQuote === "") {
+        return;
+    }
+
+    let res = document.getElementById('disc-results');
+    let fq = document.querySelector('.disc-result.is-first')
+    let nq = getQuoteMarkup(newQuote);
+
+    res.insertBefore(nq, fq);
+
+    fq.classList.remove('is-first');
+    nq.classList.add('is-first');
+
+    c.text = newQuote;
+
+    clearActives()
+    nq.classList.add('disc-result-active');
+
+    nq.addEventListener('click', function(e) {
+        c.text = this.firstElementChild.innerText;
+        this.classList.contains('disc-result-active') ? clearActives() : (clearActives(), this.classList.add('disc-result-active'));
+    });
+
+    document.getElementById('disc-results').classList.remove('disc-results-addtext-open');
+    document.getElementById('disc-addtext').classList.add('d-none');
+}
+
+function getQuoteMarkup(text) {
+    m = document.createElement('div');
+    m.classList.add('disc-result');
+    m.dataset.addedResult = true;
+    m.innerHTML = `<div class="disc-result-text">
+                        "${text}"
+                    </div>`;
+
+    return m;
+}
