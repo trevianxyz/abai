@@ -40,7 +40,7 @@ img {
   display: block; 
   margin-left: auto; 
   margin-right: auto; 
-  max-height: 500px;
+  max-height: 400px;
   width: auto; 
 }
 
@@ -57,7 +57,30 @@ Products of Kazakh jewelers are very original, as seen by the ornaments and exec
 
 The forms of jewelry and their ornaments go back to ancient cults, as they were also attributed magical properties. Many are solar signs, such as circles, spirals, crosses, rhombuses, as well as bird beaks, claws, and lamb horns. Protective forces were given to objects of triangular shape. The collection of the Museum of Oriental Art contains triangular amulets – tumars inside which a prayer from the Koran, written on paper, was placed.
 
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-A.jpg">
+  <div class="post-img-caption">49060 кп Amulet, end of XIX century
+</div>
+</div>
+
 The museum collection has a large number of rings, many of which are decorated with inserts of cornelian, glass, and paste. It’s interesting to examine the shape of the massive mother-in-law ring – kudagi juzik (_кудаги жузик_). Wearing the ring on two fingers at once symbolized the unity of the two beginnings. Such rings were usually given by the bride's parents to her future mother-in-law for the protection of the young daughter-in-law and to promote a good attitude toward her. 
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-8.jpg">
+  <div class="post-img-caption">8014 III (49023) кп Mother-in-law ring kudagi juzik (кудаги жузик ), Western Kazakhstan, Mangystau, XIX century
+</div>
+</div>
+
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-9.jpg">
+  <div class="post-img-caption">9225 III Men belt, Southern Kazakhstan, Taldy-Kurgan region, XIX century
+</div>
+</div>
+
+<div class="align-center m-3">
+  <img src="/images-artists-works/moscow_museum/moscow-musum-B.jpg">
+  <div class="post-img-caption">A detail of pectoral jewelry onirdjiek (онирджиек), Western Kazakhstan, first quarter of XX century
+</div>
+</div>
 
 The Kazakhs consider earrings to be the oldest amulet. Women wear earrings all their life, and the form can be complicated or simplified. Rings and earrings are an obligatory part of the bride's dowry. During a wedding, a girl could wear up to ten kilograms of jewelry.
 
@@ -82,20 +105,6 @@ Author's felt carpets tekemet (_текемет_) from the 1960-1970s were made b
 
 The collection includes several tus-kiyiz (_тускииз_), which are large embroidered wall panels dating back to different periods - but specifically from the end of XIX century to 1960s. Tus-kiyiz display the excellency/ craftmanship of the national embroidery art with a variety of ornaments. Kazakh embroidery is distinguished by tambour stitchwork, performed with a hook and needle.
 
-A great variety of small objects in the collection, including bags made of felt and lint-free weaving were widely used as well. For example, a small bag for the storage of utensils, an ayak-kap (_аяк-кап_) (mid XX century), is made of wool, velvet, and felt in the technique of applique and using gold threads. The patterns decorating the bag are traditional, such as large horn-shaped curls and triangles along the perimeter.
-
-There is a decorative, and at the same time very practical, function of the strips, known as bau (_бау_), with which the poles of the yurt were fixed together. The strips were decorated with ornaments woven from cotton-based wool threads. The same technique is applied for manufacturing a woven tape tangysh (_тангыш_), which is a narrow woolen ribbon used to tie the lattice of the yurt. These items belong to the first half of XX century.
-
-Lint-free weaving is represented in the form of carpets and decorative author's blankets of the middle of the last century. Smooth, lint-free carpets (_apasha_) with stripes of stylized floral and geometric patterns are an important decoration of the yurt. "Apasha" (_Апаша_) is translated from Kazakh as "motley, striped". The Museum of Oriental Art has several such carpets dating to as late as the 1900s up to the 1960s, made in Alma-Ata and Chimkent regions.
-
-Kazakh ornaments represent a single complex system of images, formed on the basis of ancient ideas about the surrounding world and reflecting the authentic culture of the people. These ornaments, which take the form of zoomorphic, vegetal, and geometric symbols are found in all kinds of decorative and applied art. Concise, but expressive ornaments are not lost in the past, but they are still actively used by modern masters. An example of bringing tradition into the modern day can be found with a male felt headdress from the museum collection, which was created by an unknown master in the 2000s.
-
-<div class="align-center m-3">
-  <img src="/images-artists-works/moscow_museum/moscow-musum-3.jpg">
-  <div class="post-img-caption">3452 III small bag for storage of utensils ayak-ka. Mid-XX, felt, velvet, golden threads, applique -2 фото
-  </div>
-</div>
-
 <div class="align-center m-3">
   <img src="/images-artists-works/moscow_museum/moscow-musum-4.jpg">
   <div class="post-img-caption">3450 Tus-kiyiz (туcкииз), Kazakhstan, end of XIX century</div>
@@ -119,29 +128,20 @@ Kazakh ornaments represent a single complex system of images, formed on the basi
 </div>
 </div>
 
-<div class="align-center m-3">
-  <img src="/images-artists-works/moscow_museum/moscow-musum-8.jpg">
-  <div class="post-img-caption">8014 III (49023) кп Mother-in-law ring kudagi juzik (кудаги жузик ), Western Kazakhstan, Mangystau, XIX century
-</div>
-</div>
+A great variety of small objects in the collection, including bags made of felt and lint-free weaving were widely used as well. For example, a small bag for the storage of utensils, an ayak-kap (_аяк-кап_) (mid XX century), is made of wool, velvet, and felt in the technique of applique and using gold threads. The patterns decorating the bag are traditional, such as large horn-shaped curls and triangles along the perimeter.
+
 
 <div class="align-center m-3">
-  <img src="/images-artists-works/moscow_museum/moscow-musum-9.jpg">
-  <div class="post-img-caption">9225 III Men belt, Southern Kazakhstan, Taldy-Kurgan region, XIX century
-</div>
-</div>
-
-<div class="align-center m-3">
-  <img src="/images-artists-works/moscow_museum/moscow-musum-A.jpg">
-  <div class="post-img-caption">49060 кп Amulet, end of XIX century
-</div>
+  <img src="/images-artists-works/moscow_museum/moscow-musum-3.jpg">
+  <div class="post-img-caption">3452 III small bag for storage of utensils ayak-ka. Mid-XX, felt, velvet, golden threads, applique -2 фото
+  </div>
 </div>
 
-<div class="align-center m-3">
-  <img src="/images-artists-works/moscow_museum/moscow-musum-B.jpg">
-  <div class="post-img-caption">A detail of pectoral jewelry onirdjiek (онирджиек), Western Kazakhstan, first quarter of XX century
-</div>
-</div>
+There is a decorative, and at the same time very practical, function of the strips, known as bau (_бау_), with which the poles of the yurt were fixed together. The strips were decorated with ornaments woven from cotton-based wool threads. The same technique is applied for manufacturing a woven tape tangysh (_тангыш_), which is a narrow woolen ribbon used to tie the lattice of the yurt. These items belong to the first half of XX century.
+
+Lint-free weaving is represented in the form of carpets and decorative author's blankets of the middle of the last century. Smooth, lint-free carpets (_apasha_) with stripes of stylized floral and geometric patterns are an important decoration of the yurt. "Apasha" (_Апаша_) is translated from Kazakh as "motley, striped". The Museum of Oriental Art has several such carpets dating to as late as the 1900s up to the 1960s, made in Alma-Ata and Chimkent regions.
+
+Kazakh ornaments represent a single complex system of images, formed on the basis of ancient ideas about the surrounding world and reflecting the authentic culture of the people. These ornaments, which take the form of zoomorphic, vegetal, and geometric symbols are found in all kinds of decorative and applied art. Concise, but expressive ornaments are not lost in the past, but they are still actively used by modern masters. An example of bringing tradition into the modern day can be found with a male felt headdress from the museum collection, which was created by an unknown master in the 2000s.
 
 <div class="align-center m-3">
   <img src="/images-artists-works/moscow_museum/moscow-musum-C.jpg">
