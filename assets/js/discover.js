@@ -4,7 +4,12 @@ class Canvas {
 
     constructor(elem) {
         this._elem = typeof elem == 'string' ? document.getElementById(elem) : elem;
+
         this._ctx = this._elem.getContext('2d');
+        this._ctx.imageSmoothingEnabled = false;
+        this._ctx.webkitImageSmoothingEnabled = false;
+        this._ctx.mozImageSmoothingEnabled = false;
+
         this._text = "";
     }
 
@@ -14,7 +19,14 @@ class Canvas {
 
     set bg(img) {
         this._bg = typeof img == 'string' ? document.getElementById(img) : img;
-
+        
+        // handle dpi
+        // this will break for images by file
+        // handle this shit before you implement that
+        let scaleFactor = document.getElementById(img).width / document.getElementById('disc-img').width;
+        this._elem.width = Math.ceil(this._elem.width * scaleFactor);
+        this._elem.height = Math.ceil(this._elem.height * scaleFactor);
+  
         let s = this._bg.dataset.textRect;
         let a = s.split(', ');
         a = a.map((n) => parseInt(n));
@@ -104,15 +116,6 @@ function clearActives() {
     document.querySelectorAll('.disc-result-active').forEach( (e) => e.classList.remove('disc-result-active'));
 }
 
-if (
-    document.readyState === "complete" ||
-    (document.readyState !== "loading" && !document.documentElement.doScroll)
-) {
-    cb();
-} else {
-    document.addEventListener("DOMContentLoaded", cb);
-}
-
 // Handles adding a new quote from the addtext dialog.
 // The most impure function I've ever written.
 function addNewQuote(c) {
@@ -155,3 +158,5 @@ function getQuoteMarkup(text) {
 
     return m;
 }
+
+window.addEventListener('load', cb);
