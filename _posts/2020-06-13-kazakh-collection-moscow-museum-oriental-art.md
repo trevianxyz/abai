@@ -74,7 +74,7 @@ Several felt floor carpets called syrmak (_сырмак_) were made in mosaic te
 </div>
 <div class="align-center m-3">
   <img src="/images-artists-works/moscow_museum/moscow-musum-2.jpg">
-  <div class="post-img-caption">2287 III Kasteev Abylkhan, “Interior of the yurt”
+  <div class="post-img-caption">
   </div>
 </div>
 
@@ -151,6 +151,6 @@ Kazakh ornaments represent a single complex system of images, formed on the basi
 
 <div class="align-center m-3">
   <img src="/images-artists-works/moscow_museum/moscow-musum-C.jpg">
-  <div class="post-img-caption"> 
+  <div class="post-img-caption"> 2287 III Kasteev Abylkhan, “Interior of the yurt”
 </div>
 </div>
