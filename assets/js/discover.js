@@ -11,6 +11,9 @@ class Canvas {
         this._ctx.mozImageSmoothingEnabled = false;
 
         this._text = "";
+
+        this._ctx.strokeStyle = 'black';
+        this._ctx.fillStyle = 'white';
     }
 
     get bg() {
@@ -55,21 +58,50 @@ class Canvas {
         this._ctx.drawImage(this._bg, 0, 0);
 
         this._ctx.strokeStyle = 'white';
-        this._ctx.beginPath();
-        this._ctx.rect(...this._textRectArr);
-        this._ctx.stroke();
+        // this._ctx.beginPath();
+        // this._ctx.rect(...this._textRectArr);
+        // this._ctx.stroke();
 
-        this._ctx.font = "18px Arial";
+        this._ctx.shadowOffsetX = -5;
+        this._ctx.shadowOffsetY = 5;
+        this._ctx.shadowColor = "rgba(0, 0, 0, 0.75)";
+        this._ctx.shadowBlur = 4;  
+
+        this._fontSize = 60;
+        this._ctx.font = "60px Arial";
         this._ctx.fillStyle = "white";
        
-        this._ctx.fillText(this._text, this._textRect.x, this._textRect.y + 18);
+        this.drawText();
     }
 
+    drawText() {
+        var words = this._text.split(' ');
+        var line = '';
+        
+        var x = this._textRect.x;
+        var y = this._textRect.y + this._fontSize;
+        var w = this._textRect.x + this._textRect.w;
+        var lineHeight = this._fontSize + 5;
+        
+        for (var n = 0; n < words.length; n++) {
+            var testLine = line + words[n] + ' ';
+            var metrics = this._ctx.measureText(testLine);
+            var testWidth = metrics.width;
+            if (testWidth > w && n > 0) {
+                //this._ctx.strokeText(line, x, y);
+                this._ctx.fillText(line, x, y);
+                line = words[n] + ' ';
+                y += lineHeight;
+            }
+            else {
+                line = testLine;
+            }
+        }
+        //this._ctx.strokeText(line, x, y);
+        this._ctx.fillText(line, x, y);
+    }
+     
 }
-
-
-
-
 
 function cb() {
     var c = new Canvas('disc-img');
@@ -87,30 +119,7 @@ function cb() {
         document.getElementById('disc-addtext-btn-submit').addEventListener('click', () => addNewQuote(c));
     });
 
-    // var c = document.getElementById('disc-img');
-    // setDPI(c, 192);
-    // var ctx = c.getContext('2d');
-    // var img = document.getElementById('img1');
-    // ctx.drawImage(img, 10, 10);
-    // ctx.fillStyle = "blue";
-    // ctx.fillRect(0, 0, c.width, c.height);
-    // ctx.font = "18px Arial";
-    // ctx.fillStyle = "black";
-    // ctx.fillText("You are a little brick in the wall of the world. Find your place in it!", 20, 50);
 }
-
-// function setDPI(canvas, dpi) {
-//     // Set up CSS size.
-//     canvas.style.width = canvas.style.width || canvas.width + 'px';
-//     canvas.style.height = canvas.style.height || canvas.height + 'px';
-
-//     // Resize canvas and scale future draws.
-//     var scaleFactor = dpi / 96;
-//     canvas.width = Math.ceil(canvas.width * scaleFactor);
-//     canvas.height = Math.ceil(canvas.height * scaleFactor);
-//     var ctx = canvas.getContext('2d');
-//     ctx.scale(scaleFactor, scaleFactor);
-// }
 
 function clearActives() {
     document.querySelectorAll('.disc-result-active').forEach( (e) => e.classList.remove('disc-result-active'));
