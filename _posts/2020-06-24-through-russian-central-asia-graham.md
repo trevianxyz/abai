@@ -1,5 +1,5 @@
 ---
-permalink: /through-russian-central-asia-graham
+permalink: '/through-russian-central-asia-graham'
 layout: post
 title: "'Through Russian Central Asia' by Stephen Graham"
 author: "H.E. Erzhan Kazykhanov"
