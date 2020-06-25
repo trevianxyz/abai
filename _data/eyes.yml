@@ -1,10 +1,16 @@
 contents:
+  - title: "'Through Russian Central Asia' by Stephen Graham"
+    image: assets/images/western-eyes/graham/scan3.jpg
+    href: 'through-russian-central-asia-graham'
+    publication: Abai Center
+    author: "H.E. Erzhan Kazykhanov"
+    date:  '1916'
   - title: "'Turkistan' by Eugene Schuyler"
     image: assets/images/western-eyes/schuyler/turkistan.jpeg
     href: '/turkistan-eugene-schuyler'
     publication: Abai Center
     author: "H.E. Erzhan Kazykhanov"
-    date:  
+    date:  '1876'
   - title: The Sons of the Steppe
     image: assets/images/steppe_man.png
     href: 'https://abaicenter.nyc3.cdn.digitaloceanspaces.com/pubs/The%20sons%20of%20the%20Steppe.pdf'
