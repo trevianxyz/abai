@@ -1,11 +1,11 @@
 ---
 permalink: /poetry-contest-gallery
 layout: page
-title: 'Abai Video Poetry Contest Gallery'
+title: 'Abai Poetry Video Gallery'
 image: /assets/images/abai_video_contest.png
-descrip: "We appreciate everyone's submission to the Abai poetry reading video contest."
+descrip: "We appreciate everyone's submission to the Abai poetry reading video celebration."
 ---
-[Enter the Contest](/poetry-video-submission)
+[Submit a Video](/poetry-video-submission)
 
 <div class="row">
 {% for item in site.data.video-contest.contents %}
