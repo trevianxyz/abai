@@ -37,7 +37,7 @@ img {
 </style>
 <em>Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov.</em>
 
-![](assets/images/western-eyes/graham/cover.jpg
+![](/assets/images/western-eyes/graham/cover.jpg)
 
 As we continue exploring the writings of Western travelers who visited Kazakh soil, we would like to draw your attention to the book entitled "Through Russian Central Asia" written by British journalist, travel-writer and novelist Stephen Graham (1884-1975) prior to the World War I. 
 
