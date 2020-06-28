@@ -17,9 +17,6 @@ frequent_info:
 
 <!--{% include collapsetabs.html %}-->
 {% include page-engine.html %}
-<div class="col my-lg-5">
-<a href="/kazakhstan-through-eyes-of-western-travelers"><img src="/assets/images/eyes_western_travelers.png" class="img-fluid index-banner-img" /></a>
-</div>
 {% include jumbo-western-eyes.html %}
 <a href="/poetry-video-submission"><img src="/assets/images/poetry_reading_jumbo.png" class="img-fluid index-banner-img" /></a>
  <div class="container"> 
