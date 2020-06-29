@@ -18,7 +18,7 @@ frequent_info:
 <!--{% include collapsetabs.html %}-->
 {% include page-engine.html %}
 {% include jumbo-western-eyes.html %}
-<a href="/poetry-video-submission"><img src="/assets/images/poetry_reading_jumbo.png" class="img-fluid index-banner-img" /></a>
+<!--<a href="/poetry-video-submission"><img src="/assets/images/poetry_reading_jumbo.png" class="img-fluid index-banner-img" /></a>-->
  <div class="container"> 
    <h2>{{ "abai through Artists' Eyes" | upcase }}</h2> 
   <p>Abai Kunanbaiuly is one of the most inspiring figures in Kazakh art.
