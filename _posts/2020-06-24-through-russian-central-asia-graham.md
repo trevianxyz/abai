@@ -8,7 +8,7 @@ date: 2020-06-24
 descrip: "Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov."
 noshow_img: true
 bigtitle: true
-bigtitle_img: "/assets/images/western-eyes/graham/cover.jpg"
+bigtitle_img: "/assets/images/western-eyes/graham/scan2.png"
 image: "/assets/images/western-eyes/graham/cover.jpg"
 author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
 western-eyes: true
