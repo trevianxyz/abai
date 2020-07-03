@@ -4,14 +4,14 @@ layout: post
 title: "Journey of Thomas Atkinson"
 author: "H.E. Erzhan Kazykhanov"
 author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33b7a5077aa48a22c62cba01db4f95be/Ambassador_Erzhan_Kazykhanov.jpg"
-date: 2020-06-25
+date: 2020-07-03
 descrip: "Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov."
 noshow_img: true
 bigtitle: true
 bigtitle_img: "/assets/images/western-eyes/atkinson/western_siberia_atkinsons.jpeg"
 image: "/assets/images/western-eyes/atkinson/western_siberia_atkinsons.jpeg"
 author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
-western-eyes: true
+categories: ['publication']
 ---
 
 {% include post-css.html %}
@@ -60,3 +60,4 @@ John Massey Stewart's 2018 book **"Thomas, Atkinson & Alatau: The Atkinsons' Adv
 Nearly all the material in these chapters is extracted from Thomas and Lucy’s travel books and Thomas’ diaries, now held by the Royal Geographical Society in London. Much of it has been published before, although not in quite as much detail. We hope that by reading these accounts inspired by previous two writings, readers will get a more in-depth understanding of Kazakh history and culture depicted by a pair of the greatest travelers of their time - Thomas and Lucy Atkinson.
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/1911604309/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1911604309&linkCode=as2&tag=kazakhworld-20&linkId=9c520549891adaf897f4e19f35fe32db"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1911604309&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=kazakhworld-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=kazakhworld-20&l=am2&o=1&a=1911604309" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> 
+ 
