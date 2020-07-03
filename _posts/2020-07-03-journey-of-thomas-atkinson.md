@@ -11,7 +11,7 @@ bigtitle: true
 bigtitle_img: "/assets/images/western-eyes/atkinson/western_siberia_atkinsons.jpeg"
 image: "/assets/images/western-eyes/atkinson/western_siberia_atkinsons.jpeg"
 author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
-categories: ['publication']
+western-eyes: true
 ---
 
 {% include post-css.html %}
