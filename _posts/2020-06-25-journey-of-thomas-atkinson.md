@@ -37,7 +37,7 @@ img {
 
 <em>Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov.</em>
 
-As the COVID19 pandemic changes the way we interact and stay at  home orders have been implemented, many have found this to be an extraordinary time to learn and understand new cultures, concepts and phenomena from the comfort of their homes.
+As the COVID-19 pandemic changes the way we interact and stay at  home orders have been implemented, many have found this to be an extraordinary time to learn and understand new cultures, concepts and phenomena from the comfort of their homes.
 
 And as the international community confronts new risks associated with travel, some  might be curious what travel was like in the times well before globalization and modern conveniences.  We suggest reading some historic accounts of an incredible journey through Siberia undertaken by the English architect and artist Thomas Atkinson (1799-1861). 
 
