@@ -8,8 +8,8 @@ date: 2020-07-03
 descrip: "Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov."
 noshow_img: true
 bigtitle: true
-bigtitle_img: "/assets/images/western-eyes/atkinson/western_siberia_atkinsons.jpeg"
-image: "/assets/images/western-eyes/atkinson/western_siberia_atkinsons.jpeg"
+bigtitle_img: "/assets/images/western-eyes/atkinson/atkinson_kazakh_brides.jpg"
+image: "/assets/images/western-eyes/atkinson/atkinson_zaisa_lake.jpg"
 author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
 western-eyes: true
 ---
@@ -41,11 +41,17 @@ As the COVID-19 pandemic changes the way we interact and stay at  home orders ha
 
 And as the international community confronts new risks associated with travel, some  might be curious what travel was like in the times well before globalization and modern conveniences.  We suggest reading some historic accounts of an incredible journey through Siberia undertaken by the English architect and artist Thomas Atkinson (1799-1861). 
 
+![](assets/images/western-eyes/atkinson/western_siberia_atkinsons.jpeg)
+
 The author traveled nearly forty thousand miles, almost a third on horseback. Atkinson provides a vivid account of adventures and misadventures in a frozen and often barren landscape, including numerous close brushes with death from both natural and unnatural causes. 
 
 He goes into great detail about the populated regions of Siberia, most never visited by Westerners, including the customs and life of its people. The first edition of his account was published in 1858 in London by Hurst and Blackett. It was called "Oriental and western Siberia: a narrative of seven years' explorations and adventures in Siberia, Mongolia the Kirghis steppes, Chinese Tartary, and part of Central Asia". 
 
-![](assets/images/western-eyes/atkinson/western_siberia_atkinsons.jpeg)
+![](assets/images/western-eyes/atkinson/atkinson_zaisa_lake.jpg)
+<br>
+![](assets/images/western-eyes/atkinson/atkinson_kazakh_brides.jpg)
+<br>
+![](assets/images/western-eyes/atkinson/atkinson_yurt.jpg)
 
 The contemporary accounts of Thomas Atkinsons' writings include a fascinating publication entitled **"South to the Great Steppe: The Travels of Thomas and Lucy Atkinson in Eastern Kazakhstan, 1847-1852"** by Nick Fielding. It was published in London in 2015. This publication was initiated by the Ambassador of Kazakhstan to the Court of St James Erzhan Kazykhanov and sponsored by the British - Kazakh Society.
 
