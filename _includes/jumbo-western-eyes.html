@@ -9,7 +9,7 @@ font-family: 'MuseoModerno', cursive;
  .west-eyes-container {
    height: 400px;
    width: auto; 
-   background-position: 250px top;
+   background-position: right top;
  };
  
 
@@ -18,23 +18,23 @@ font-family: 'MuseoModerno', cursive;
  .west-eyes-container {
    height: 200px;
    width: auto; 
-   background-position: 0px top;
-   background-image: none;
  }
 
 .west-eyes-p {
   display: none;
 }
 
+.west-eye-col {
+  background-image: none !important;
+}
+
 }
 
 </style>
-
-<div class="container-fluid west-eyes-container"
-  style="background-image: url({{ page.bigtitle_img }});
- background-repeat: no-repeat; background-size: 100%;">
+ <div class="container-fluid" style="background-color: #F8EFBA;">
+<div class="row">
  <div class="col-sm-12 col-md-6 p-4"> 
-<div class="card w-sm-100 w-md-25 west-eyes-div" style="border: solid 3px #ffa801; background-color: #17a2b8; overflow: visible;">
+<div class="card w-sm-100 w-md-25 west-eyes-div" style="border: solid 3px #ffa801; background-color: #17a2b8;">
   <div class="card-body">
   <h2 class="text-white m-0 westyeys">Kazakhstan & Central Asia</h2>
   <h3 class="m-0 text-center text-white westyeys" style="font-weight: bolder; background-color: #192a56;">Through the Eyes
@@ -47,6 +47,10 @@ font-family: 'MuseoModerno', cursive;
     href="/kazakhstan-through-eyes-of-western-travelers" role="button">Read More</a>
 </p>
   </div>
+</div>
+</div>
+<div class="col-md-6 p-4 west-eye-col" style="background-image: url({{ page.bigtitle_img }});
+ background-repeat: no-repeat; background-size: 100%;">
 </div>
 </div>
 </div>
