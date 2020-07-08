@@ -19,6 +19,10 @@ western-eyes: true
   .post-bigtitle > div > h1 {
     font-size: 5.2rem;
   }
+ 
+   .post-bigtitle {
+     background-position: center left
+   }
 
   ul:not(.usa-sidenav-list) > li {
     list-style-type: "– ";
@@ -37,7 +41,7 @@ img {
 
 <em>Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov.</em>
 
-As we continue exploring the writings of Western travelers who visited Kazakh soil in the nineteenth century, we would like to draw the attention of our readers to a  book published by Herbert Wood in 1876. He was a geographer and major in the Royal Engineers who accompanied an expedition under the auspices of the Imperial Russian Geographical Society to examine the river Amu Darya (or Oxus) and the region around Lake Aral in 1874.
+As we continue exploring the writings of Western travelers who visited Kazakh soil in the nineteenth century, we would like to draw the attention of our readers to a book published by **Herbert Wood** in 1876. He was a geographer and major in the Royal Engineers who accompanied an expedition under the auspices of the Imperial Russian Geographical Society to examine the river Amu Darya (or Oxus) and the region around Lake Aral in 1874.
 
 ![](assets/images/western-eyes/aral_sea/wood.jpeg)
 
