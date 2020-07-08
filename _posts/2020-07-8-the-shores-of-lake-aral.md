@@ -67,3 +67,6 @@ Major Woods then continued by adding that in historical times many rivers contri
 Based on these reasons, Woods explained that the lake degenerated from an extensive and tolerably deep body of water, possessed of a copious overflow,  to a shallow pool, which at certain historical epochs was shallower still, or even perhaps dried up sufficiently to have caused its practical disappearance from the map. 
 
 Centuries later, Lake Aral is still one of the most fascinating topics that researchers from all over the world continue to study with a strong scientific interest. For those willing to learn more about this important subject, we suggest reading this useful volume. 
+
+
+_A reprint of [The Shores of Lake Aral](https://amzn.to/3iIGuph) can be ordered._ 
