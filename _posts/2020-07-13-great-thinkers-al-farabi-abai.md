@@ -4,8 +4,8 @@ layout: post
 title: "The great thinkers of Al-Farabi and Abai: a comprehension of their heritage"
 author: "Professor Kuralay Baizakova"
 author_img: "/assets/images/publications/baizakova/baizakova.jpeg"
-date: 2020-07-08
-descrip: "Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov."
+date: 2020-07-13
+descrip: "Many refer to Kazakhstan as “young.” But the reality is that it has a rich history and tradition of philosophy and poetry that continues to influence today."
 noshow_img: true
 bigtitle: true
 bigtitle_img: "/assets/images/publications/baizakova/great-thinkers.jpeg"
@@ -22,7 +22,7 @@ categories: ['publication']
   }
  
    .post-bigtitle {
-     background-position: center left
+     background-position: bottom -300;
    }
 
   ul:not(.usa-sidenav-list) > li {
