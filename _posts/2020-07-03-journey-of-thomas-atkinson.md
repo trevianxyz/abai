@@ -68,3 +68,5 @@ Nearly all the material in these chapters is extracted from Thomas and Lucy’s 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/1911604309/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1911604309&linkCode=as2&tag=kazakhworld-20&linkId=9c520549891adaf897f4e19f35fe32db"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1911604309&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=kazakhworld-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=kazakhworld-20&l=am2&o=1&a=1911604309" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> 
  
+
+[Oriental and western Siberia: a narrative of seven years' explorations and adventure](https://amzn.to/31Wymvq)
