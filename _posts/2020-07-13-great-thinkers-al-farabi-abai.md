@@ -22,7 +22,8 @@ categories: ['publication']
   }
  
    .post-bigtitle {
-     background-position: bottom -300;
+    background-size: contain;
+    background-position: left;
    }
 
   ul:not(.usa-sidenav-list) > li {
