@@ -5,7 +5,7 @@ title: "The Great Game: The Struggle for Empire in Central Asia"
 author: "H.E. Erzhan Kazykhanov"
 author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33b7a5077aa48a22c62cba01db4f95be/Ambassador_Erzhan_Kazykhanov.jpg"
 date: 2020-07-15
-descrip: "Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov."
+descrip: "Ambassador Kazykhanov introduces readers to British historian and author Peter Hopkirk's seminal book on the Great Steppe."
 noshow_img: true
 bigtitle: true
 bigtitle_img: "/assets/images/western-eyes/hopkirk/hopkirk-great-game.jpeg"
