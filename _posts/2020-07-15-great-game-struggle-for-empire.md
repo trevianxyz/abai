@@ -75,3 +75,5 @@ Unlike other volumes of that time, Hopkirk's accounts do not focus extensively o
 [^302]: page 302
 
 These and many other accounts would certainly enrich anyone's knowledge interested in the study of the Central Asian region and world history overall. We hope that our readers enjoy this volume as much as the rest of the vibrant academic community studying these historic periods in detail.
+
+_Readers may acquire "The Great Game: The Struggle for Empire in Central Asia" [here](https://amzn.to/32jqPag)._
