@@ -24,7 +24,7 @@ western-eyes: true
     }
 
     img.book {
-        max-width: 85%;
+        max-width: 65%;
         margin: 10px auto;
         display: block;
     }
