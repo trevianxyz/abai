@@ -1,4 +1,10 @@
 contents:
+  - title: "Through Asia by Sven Hedin"
+    image: false
+    href: '/through-asia-sven-hedin'
+    publication: Abai Center
+    author: "H.E. Erzhan Kazykhanov"
+    date:  '1898'
   - title: "The Great Game: The Struggle for Empire in Central Asia"
     image: "https://images.ctfassets.net/3u75lz35gn9w/3fjO81Xfuszunn72Ak5xii/f1bf575352af51386a1dae94d3b2b47d/hopkirk_great_game_thumbnail.png"
     href: '/great-game-struggle-for-empire'
