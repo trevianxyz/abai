@@ -7,8 +7,8 @@ author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33
 date: 2020-07-15
 descrip: "Ambassador Kazykhanov introduces readers to Swedish explorer Sven Hedin's expedition through Central asia."
 noshow_img: true
-bigtitle: true
-bigtitle_img: "/assets/images/western-eyes/hopkirk/hopkirk-great-game.jpeg"
+bigtitle: false
+bigtitle_img: ""
 image: "/assets/images/western-eyes/hopkirk/hopkirk-great-game.jpeg"
 author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
 western-eyes: true
@@ -16,13 +16,15 @@ western-eyes: true
 
 <em>Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov<em>
 
+![Hedin portrait](/assets/images/western-eyes/hedin/hedin.png)
+
 Sven Anders Hedin (19 February 1865 – 26 November 1952) was a Swedish geographer, topographer, explorer, photographer, travel writer and illustrator of his own works. Hedin's expedition notes laid the foundations for a precise mapping of Central Asia. He was one of the first European scientific explorers to employ indigenous scientists and research assistants on his four expeditions to the region between 1893 and 1935.
 
 Sven Hedin was born in Stockholm, the son of Ludwig Hedin, Chief Architect of Stockholm. When he was 15 years old Hedin witnessed the triumphal return of the Swedish Arctic explorer Adolf Erik Nordenskiöld after his first navigation of the Northern Sea Route.
 
 In his two volume work "Through Asia" of 1898, published in London and dedicated to His Royal Highness The Prince of Wales, Sven Hedin provides a resume of Central Asia exploration by saying that "a new era is approaching in the historical development of geographical discovery. The pioneers will soon have played their part; the "white patches" on the maps of the continents are gradually decreasing; our knowledge of physical conditions of the oceans is every year becoming more complete. The pioneers of the past, who declared the way through increasing danger and difficulty, have been followed by explorers of the present day, examining in detail the surface of the earth and its restless life, always finding new gaps to fill, new problems to solve. Although many regions have already been the object of detailed investigation, there are several still remaining in which the pioneer has not yet finished his work. This is particularly the case with the interior of Asia which has long been neglected… It was with the view of contributing my little to the knowledge of the geography of Central Asia that I set out my journey which this book describes"[^1]. 
 
-IMG: BOOK
+![the book 'Through Asia'](/assets/images/western-eyes/hedin/book.png)
 
 Hedin's work represents incredibly detailed accounts of his journey through Asia. We would like to draw the attention of our readers to his description of Kazakh steppes. He says that "between the river Ural, the Caspian Sea, Lake Aral, the Syr Darya, and the Irtysh stretches the vast level plain of the Kazakh steppe. Thinly inhabited by Kazakh nomads, the steppe is also the home of a few species of animals, such as wolves, foxes, antelopes, hares, etc.,  and there too certain prickly steppe plants struggle against the inclement conditions of the region. Where there is sufficient moisture, kamish or reeds grow in great quantities; and even the dried sandy wastes are diversified by the tufted bashes of saksaul (Anabasis Ammodendron), often attaining six or seven feet in height. The roots, which are excessively hard, provide the chief fuel to the Kazakhs,  and are collected during the autumn for winter use. At nearly every aul, you see big stacks of them, and we frequently met large caravans conveying nothing else"[^2].
 
@@ -33,6 +35,8 @@ According to Hedin, they love to call themselves kaisak, i.e. brave fighting men
 What is incredible is how Hedin catches the very essence of  Kazakh feelings towards the vast steppe they lived in. He says that "they cherish a devoted love for their desolate steppe, where their forefathers lived the life of freedom, and find it beautiful and varied, although the stranger seeks in vain for an object on which to rest his eye. It is true that like the sea, the steppe is grand and impressive"[^4].  
 
 > "they cherish a devoted love for their desolate steppe, where their forefathers lived the life of freedom, and find it beautiful and varied, although the stranger seeks in vain for an object on which to rest his eye. It is true that like the sea, the steppe is grand and impressive".
+
+![the Kazakh steppe](/assets/images/western-eyes/hedin/steppe.png)
 
 Today, travelers across the globe are keen to visit Kazakhstan during the spring time to take advantage of the good weather and experience the country's  natural beauty firsthand. Interestingly, in his 1898 account, Hedin also says that during the spring season, the air is perfumed with delicious scent of flowers, for vegetation develops with incredible rapidity. 
 
