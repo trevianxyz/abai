@@ -9,7 +9,7 @@ descrip: "Ambassador Kazykhanov introduces readers to Swedish explorer Sven Hedi
 noshow_img: true
 bigtitle: false
 bigtitle_img: ""
-image: "/assets/images/western-eyes/hopkirk/hopkirk-great-game.jpeg"
+image: "/assets/images/western-eyes/hedin/hedin_thumbnail.png"
 author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
 western-eyes: true
 ---
