@@ -90,10 +90,6 @@ MacGahan also very accurately describes the nomadic way of life of the Kazakhs. 
 
 To anybody acquainted with their habits of life, MacGahan explains, there does not seem to be the slightest system in their movements. They have a system nevertheless, concludes the author and continues further by saying that every tribe and every aul follow year after year exactly the same itinerary, pursuing the same paths, stopping at the same wells as their ancestors did a thousand years ago; and thus many auls whose inhabitants winter together, are hundreds of miles apart in the summer. The regularity and exactitude of their movements is such that you can predict to a day where, in a circuit of several hundreds miles, any aul will be at any season of the year. A map of the desert, showing all the routes of the different auls, if it could be made, would represent a network of paths meeting, crossing, intersecting each other…
 
-<div class="post-inline-img float-left m-3" style="height: 400px;">
-  <img src="/assets/images/western-eyes/macgahan/5-trophy.jpeg">
-</div>
-
 Not only he accurately describes the movements of auls, but also shares some insight of Kazakh daily routine. He says that in the morning, first, the sheep, goats, and camels were milked before being sent off to the desert to pasture. Then the carpets and felts were taken out and beaten, and re-arranged in their places, together with the other household implements[^4].
 
 In addition to describing household routines, MacGahan also shares his personal stories and feelings about living among the Kazakh people. In his own words, MacGahan would remark that his sojourn with the Kazakhs left a most favorable impression upon him. "I have always found them kind, hospitable and honest. I spent a whole month amongst them; travelling with them, eating with them, and sleeping in their tents. And I had along with me all this time horses, arms, and equipments, which would be to them a prize of considerable value. Yet never did I meet anything but kindness; I never lost a pin's worth; and often a Kazakh has galloped for or five miles after me to restore some little thing I had left behind"[^5].
