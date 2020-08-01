@@ -6,7 +6,7 @@ author: "H.E. Erzhan Kazykhanov"
 author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33b7a5077aa48a22c62cba01db4f95be/Ambassador_Erzhan_Kazykhanov.jpg"
 author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
 date: 2020-08-01
-descrip: "TKTKTKTKTKKTK"
+descrip: "In 1873, journalist Januarius MacGahan traveled throughout Central Asia on horseback. His brilliant descriptions of the beauty of the steppe and the generosity of the nomadic people, coupled with the beautiful illustrations, make this book vital and interesting."
 noshow_img: true
 bigtitle: true
 bigtitle_img: "/assets/images/western-eyes/macgahan/encampment-crop.jpeg"
