@@ -1,7 +1,4 @@
 .usa-hero .carousel-item {
-  /* background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center; */
   height: 500px;
 }
 
@@ -9,11 +6,7 @@
   padding: 3rem 0;
 }
 
-/* for testing */
-/* 487eb0 */
-
 .usa-hero .carousel-item {
-  background-image: linear-gradient(to right, #487eb0, #487eb0, #487eb0, #487eb0, #487eb0, #487eb0, #487eb000, #487eb000, #487eb0, #487eb0), url("/assets/images/western-eyes/macgahan/interior-kibitka-crop.jpeg");
   background-position-x: 85%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -58,7 +51,6 @@
   .carousel-item.active {
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: -890px center !important;
     height: 450px;
   }
 
