@@ -2,11 +2,6 @@
 
 {% assign num_slides = data.pages.size %}
 
-<!--<div class="container index-section">
-<h1 class="fancy">
-  <span class="index-section ml-5">Initiatives</span>
-</h1>
-</div>-->
 
 <div id="myCarousel" class="usa-hero carousel slide" data-ride="carousel">
     {% if num_slides > 1 %}
@@ -21,7 +16,7 @@
     <div class="carousel-inner">
         {% assign counter_slide = 0 %}
         {% for carousel_slide in data.pages %}
-        <div class="carousel-item{% if counter_slide == 0 %} active{% endif %}" style="background-image: url({% include util/url.html url=carousel_slide.image %});">
+        <div class="carousel-item{% if counter_slide == 0 %} active{% endif %}">
 
             <div class="usa-grid" style="margin-left: auto;">
                 <div class="card text-white bg-dark my-5" style="width: 30rem; background-color: rgba(0, 0, 0, 0.6) !important;">

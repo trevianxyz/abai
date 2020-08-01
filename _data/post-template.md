@@ -12,6 +12,8 @@ bigtitle: true
 bigtitle_img: ""
 image: "" # for opengraph
 carousel_img: "" # for carousel
+carousel_title: "" # optional override for carousel title, defaults to above title
+carousel_button_text: "" # optional button text for carousel, defaults to "Read More"
 western-eyes: true # to add to western eyes list, edit `_data/eyes.yml`
 ---
 

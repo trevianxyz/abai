@@ -1,12 +1,15 @@
 .usa-hero .carousel-item {
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
   height: 500px;
 }
 
 .usa-hero .carousel-item .container {
   padding: 3rem 0;
+}
+
+.usa-hero .carousel-item {
+  background-position-x: 85%;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .active {
@@ -48,7 +51,6 @@
   .carousel-item.active {
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: -890px center !important;
     height: 450px;
   }
 
