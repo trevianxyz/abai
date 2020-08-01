@@ -12,7 +12,7 @@ bigtitle: true
 bigtitle_img: ""
 image: "" # for opengraph
 carousel_img: "" # for carousel
-western-eyes: true
+western-eyes: true # to add to western eyes list, edit `_data/eyes.yml`
 ---
 
 <style>
