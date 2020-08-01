@@ -5,7 +5,7 @@ title: "Campaigning on the Oxus and the Fall of Khiva by J.A. MacGahan, Correspo
 author: "H.E. Erzhan Kazykhanov"
 author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33b7a5077aa48a22c62cba01db4f95be/Ambassador_Erzhan_Kazykhanov.jpg"
 author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
-date: 2020-07-31
+date: 2020-08-01
 descrip: "TKTKTKTKTKKTK"
 noshow_img: true
 bigtitle: true
