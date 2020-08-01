@@ -5,7 +5,7 @@ title: "Campaigning on the Oxus and the Fall of Khiva by J.A. MacGahan, Correspo
 author: "H.E. Erzhan Kazykhanov"
 author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33b7a5077aa48a22c62cba01db4f95be/Ambassador_Erzhan_Kazykhanov.jpg"
 author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
-date: 2020-07-31
+date: 2020-08-01
 descrip: "In 1873, journalist Januarius MacGahan traveled throughout Central Asia on horseback. His brilliant descriptions of the beauty of the steppe and the generosity of the nomadic people, coupled with the beautiful illustrations, make this book vital and interesting."
 noshow_img: true
 bigtitle: true
@@ -94,7 +94,7 @@ Not only he accurately describes the movements of auls, but also shares some ins
 
 In addition to describing household routines, MacGahan also shares his personal stories and feelings about living among the Kazakh people. In his own words, MacGahan would remark that his sojourn with the Kazakhs left a most favorable impression upon him. "I have always found them kind, hospitable and honest. I spent a whole month amongst them; travelling with them, eating with them, and sleeping in their tents. And I had along with me all this time horses, arms, and equipments, which would be to them a prize of considerable value. Yet never did I meet anything but kindness; I never lost a pin's worth; and often a Kazakh has galloped for or five miles after me to restore some little thing I had left behind"[^5].
 
-> "The Kazakhs possess to a remarkable degree     
+> "The Kazakhs possess to a remarkable degree      
 > of the qualities of honesty, virtue and hospitality"
 
 Besides enticing stories so skillfully told by MacGahan, we are sure that our readers will enjoy looking at the beautiful illustrations made by prominent Russian war artist Vasily Vereshchagin, whom MacGahan met during his journey to Central Asia and became friends with. The story of MacGahan himself is anything but ordinary and so is his journey through the heart of Eurasia - Kazakh steppes.
