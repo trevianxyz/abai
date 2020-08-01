@@ -1,56 +1,51 @@
-{% assign num_slides = section.carousel_slides.size %}
-{% assign counter_indicators = 0 %}
+<!-- style="background-image: url({% include util/url.html url=carousel_slide.image %});" -->
 
-<div id="myCarousel" class="usa-hero carousel slide" data-ride="carousel">
-    {% if num_slides > 1 %}
-      <ol class="carousel-indicators">
-        {% for carousel_slide in section.carousel_slides %}
-          <li data-target="#myCarousel" data-slide-to="{{ counter_indicators }}" class="jackCarousel"></li>
-          {% assign counter_indicators = counter_indicators | plus: 1 %}
-        {% endfor %}
-      </ol>
-    {% endif %}
+{% for post in site.posts limit:1 %}
+
+{% comment %}
+  This is not a real loop. It grabs the most recent post and renders a carousel slide for it.
+{% endcomment %}
+
+<style>
+  .carousel-item.active {
+    background-image: linear-gradient(to right, #487eb0, #487eb0, #487eb0, #487eb0, #487eb0, #487eb0, #487eb000, #487eb000, #487eb0, #487eb0), url({{ post.carousel_img }});
+  }
+
+  @media (max-width: 768.98px) {
+    .carousel-item.active {
+      background-image: url({{ post.carousel_img }});
+    }
+  }
+</style>
+
+<div id="myCarousel" class="usa-hero carousel" data-ride="carousel">
     <div class="carousel-inner">
-      {% assign counter_slide = 0 %}
-      {% for carousel_slide in section.carousel_slides %}
-        <div class="carousel-item {% if counter_slide == 0 %}active{% endif %}" style="background-image:url({{ carousel_slide.image.url }});">
+
+      <div class="carousel-item active" >
 
           <div class="container">
             <div class="usa-grid col-md-6 text-center mb-6">
               <div class="usa-hero-callout usa-section-dark carousel">
                 <h2 locale="{{ page.locale }}">
-                  <span class="usa-hero-callout-alt">{{ carousel_slide.title }}</span>
+                  <span class="usa-hero-callout-alt">{% if post.carousel_title %}{{ post.carousel_title }}{% else %}{{ post.title }}{% endif %}</span>
                 </h2>
 
-                {% if carousel_slide.body %}
+                {% if post.descrip %}
                   <p>
-                    {{ carousel_slide.body | markdownify }}
+                    {{ post.descrip | markdownify }}
                   </p>
                 {% endif %}
 
-                {% if carousel_slide.button_text %}
-                <a href="{{ carousel_slide.button_url | prepend: site.baseurl }}" type="button" class="btn btn-primary btn-sm">
-                  {{ carousel_slide.button_text }}
+                <a href="{{ post.permalink | prepend: site.baseurl }}" type="button" class="btn btn-primary btn-sm">
+                  {% if post.carousel_button_text %} {{ post.carousel_button_text }}{% else %}Read More{% endif %}
                 </a>
-                {% endif %}
 
               </div>
             </div>
           </div>
 
         </div>
-        {% assign counter_slide = counter_slide | plus: 1 %}
-      {% endfor %}
     </div>
-
-    {% if num_slides > 1 %}
-      <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    {% endif %}
   </div>
+
+  {% endfor %}

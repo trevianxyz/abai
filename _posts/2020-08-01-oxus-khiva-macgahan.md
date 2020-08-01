@@ -11,7 +11,8 @@ noshow_img: true
 bigtitle: true
 bigtitle_img: "/assets/images/western-eyes/macgahan/encampment-crop.jpeg"
 image: "/assets/images/western-eyes/macgahan/macgahan-thumb.png"
-carousel_img: "/assets/images/western-eyes/macgahan/3-interior-kibitka.jpeg"
+carousel_img: "/assets/images/western-eyes/macgahan/interior-kibitka-crop.jpeg"
+carousel_title: "Campaigning on the Oxus and the Fall of Khiva"
 western-eyes: true
 ---
 
