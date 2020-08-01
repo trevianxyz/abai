@@ -1,7 +1,11 @@
 {% assign num_slides = section.carousel_slides.size %}
 {% assign counter_indicators = 0 %}
 
-<div id="myCarousel" class="usa-hero carousel slide" data-ride="carousel">
+
+<!-- gradient color: #487eb0 -->
+<!-- style="background-image: url({% include util/url.html url=carousel_slide.image %});" -->
+
+<div id="myCarousel" class="usa-hero carousel" data-ride="carousel">
     {% if num_slides > 1 %}
       <ol class="carousel-indicators">
         {% for carousel_slide in section.carousel_slides %}
@@ -13,7 +17,7 @@
     <div class="carousel-inner">
       {% assign counter_slide = 0 %}
       {% for carousel_slide in section.carousel_slides %}
-        <div class="carousel-item {% if counter_slide == 0 %}active{% endif %}" style="background-image:url({{ carousel_slide.image.url }});">
+        <div class="carousel-item {% if counter_slide == 0 %}active{% endif %}">
 
           <div class="container">
             <div class="usa-grid col-md-6 text-center mb-6">
