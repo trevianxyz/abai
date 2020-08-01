@@ -66,7 +66,7 @@ MacGahan's vivid articles from the front lines describing the stunning defeat of
 
 When the war ended, he interviewed French leader Léon Gambetta and Victor Hugo. In 1871 MacGahan was assigned as the Herald's correspondent to St. Petersburg where he also learned Russian language.
 
-In 1873 MacGahan travels to Central Asia on a horseback. In the preface of his book, MacGahan thanks his good friend Eugene Schuyler for the assistance rendered on his way to Central Asia. Avid readers of the Abai Center will remember that Schuyler was a prominent U.S. diplomat and acted as a charge d'affaires of the United States to St. Petersburg from where he traveled all the way to Turkestan and shared his observations along the way.
+In 1873 MacGahan travels to Central Asia on a horseback. In the preface of his book, MacGahan thanks his good friend Eugene Schuyler for the assistance rendered on his way to Central Asia. Avid readers of the Abai Center will remember that Schuyler was a prominent U.S. diplomat and acted as a charge d'affaires of the United States to St. Petersburg from where he traveled all the way to Turkestan and shared [his observations](https://abaicenter.com/turkistan-eugene-schuyler) along the way.
 
 Beyond doubt, many Western travelers of late 1800s have shared their studies of Syr Darya. Amongst them, MacGahan's depiction perhaps is the most flamboyant one. He says, "the Syr is the most eccentric of rivers, as changeable as the moon, without the regularity of that planet. It is a very vagabond of a river, and thinks no more of changing its course, of picking up its bed and walking off eight or ten miles with it, than does one of its Kazakhs, who inhabit its banks"[^1].
 
