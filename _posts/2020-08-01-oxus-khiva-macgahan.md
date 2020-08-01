@@ -9,8 +9,8 @@ date: 2020-08-01
 descrip: "TKTKTKTKTKKT"
 noshow_img: true
 bigtitle: true
-bigtitle_img: "TKTKTK"
-image: "thumbnail TKTKTKTK"
+bigtitle_img: "/assets/images/western-eyes/macgahan/encampment-crop.jpeg"
+image: "/assets/images/western-eyes/macgahan/macgahan-thumb.png"
 western-eyes: true
 ---
 
