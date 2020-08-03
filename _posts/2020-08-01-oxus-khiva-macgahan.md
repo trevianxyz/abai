@@ -50,7 +50,7 @@ western-eyes: true
 
 *Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov*
 
-<img class="f portrait" src="/assets/images/western-eyes/macgahan/macgahan-portrait.png" alt="Hedin portrait">
+<img class="f portrait" src="/assets/images/western-eyes/macgahan/macgahan-portrait.png" alt="MacGahan portrait">
 
 This week we would like to recommend reading a beautiful volume on "Campaigning on the Oxus and the Fall of Khiva" written by Januarius Aloysius MacGahan (June 12, 1844 – June 9, 1878), who was an American journalist and war correspondent working for the New York Herald and the London Daily News.
 
