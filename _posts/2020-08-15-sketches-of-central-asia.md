@@ -12,8 +12,6 @@ bigtitle: true
 bigtitle_img: "/assets/images/western-eyes/vambery/samarkand.jpg"
 image: "/assets/images/western-eyes/vambery/samarkand.jpg" # for opengraph
 carousel_img: "/assets/images/western-eyes/vambery/dervishes-crop.jpeg" # for carousel
-carousel_title: "" # optional override for carousel title, defaults to above title
-carousel_button_text: "" # optional button text for carousel, defaults to "Read More"
 western-eyes: true # to add to western eyes list, edit `_data/eyes.yml`
 ---
 
