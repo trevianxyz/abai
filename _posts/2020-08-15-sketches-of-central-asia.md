@@ -57,11 +57,20 @@ In 1846, he went to Pressburg, where he remained the three years. Later he studi
 
 After spending about a year in Constantinople, he published a German-Turkish dictionary in 1858. Later, he also published various other linguistic works.
 
+<div class="post-inline-img float-left m-3" style="height: 350px;">
+  <img src="/assets/images/western-eyes/vambery/vambery-dervish.jpg">
+  <small>Vambery in dervish dress.<br>Public domain, courtesy of <a href="https://commons.wikimedia.org/wiki/File:Armin-vambery-in-dervish-dress.jpg" target="_blank">Wikimedia Commons</a>.</small>
+</div>
+
 Returning to Budapest in 1861, he received a stipend of a thousand florins from the academy, and in the autumn of the same year, disguised as a Sunni dervish, and under the name of Reshit Efendi, he set out from Constantinople. His route lay from Trebizond on the Black Sea to Tehran in Persia, where he joined a band of pilgrims returning from Mecca. He spent several months traveling with them across Central Iran. He then went to Shiraz, through Ispahan, and in June, 1863, through Central Asia.
 
 Throughout this time, he succeeded in maintaining his disguise as "Reshit Efendi". This was the first successful journey of its kind undertaken by a European; and since it was necessary to avoid suspicion, Vámbéry could not take even fragmentary notes, unless by stealth.
 
 After a long and perilous journey he arrived back at Pest in May 1864. He went to London to arrange the English language publication of his book about the travels. "Travels in Central Asia" and its Hungarian counterpart "Közép-ázsiai utazás" were published in 1865.
+
+<div class="post-inline-img float-right m-3">
+  <img src="/assets/images/western-eyes/vambery/travels-in-central-asia-frontispiece.png">
+</div>
 
 Thanks to his travels, Vámbéry became an internationally renowned celebrity writer. He became acquainted with members of British elite and diplomatic corps. The Ambassador of Austria to the Court of St. James gave him a letter of recommendation to the Emperor, who received him in an audience and contributed to Vámbéry's international success by granting him professorship in the Royal University of Pest.
 
@@ -77,6 +86,10 @@ Describing the literature in Central Asia, Vámbéry famously says that "the dwe
 
 > The dwellers in a Kazakh tent are more disposed to poetry than members of a polished society in Paris and London, must surprise no one.
 
+<div class="post-inline-img float-left m-3">
+  <img src="/assets/images/western-eyes/vambery/1-dervishes.jpeg">
+</div>
+
 Among us, Vámbéry continues, (it is only over a certain age that poetry indicates herself more or less), there are only certain individuals that linger round the Castilian fountains. In Central Asia, those bowed down by age, as well as youthful lovers, passionately affect poetry, the warrior equally with the shepherd, the priest as well as layman - each one attempts the composition of poetry or devises tales; and if this attempt is probably not successful in every instance, still, nevertheless, the habit of even listening to the compositions of others may be said to be universal.
 
 Speaking of Kazakh literature, Vámbéry retells the Tale of Kugaul about one Kazakh named Buruzgay[^4].
@@ -88,6 +101,11 @@ To date, one of the most valuable accounts that he provides are manners and race
 In their dress, Vámbéry explains, Kazakhs can be distinguished from the rest of the nomadic tribes and settlers: in Central Asia, mostly by their head - gear. The men wear, in summer, a felt hat (*kalpak*); in winter, a cap (*tumak*), with fur covered with cloth; the back-flaps of which protect the neck and ears. Besides these, they have still a little fur cap (*koreysh*), which, however, is employed more for in-door use. The women wear a sheokele, which is distinguished in that that is more conical and allows the veil to fall not before, but down the back to the loins.
 
 The hair, Vámbéry points out, is dressed in different fashion. The Kazakh women, he says, plait the hair in eight thin plaits, four on either side. They cover their heads with a *letshek*, in cloth, which covers head and neck[^6].
+
+<div class="post-inline-img float-right m-3">
+  <img src="/assets/images/western-eyes/vambery/2-mosque.jpeg">
+</div>
+
 
 The religion, as he explains, is almost universally the Mohameddan; still, in a very lax condition, which is the case with nearly all nomadic tribes in connexion with Islam.[^7] Before and after the Arabians came to Central Asia, Vámbéry says, the Kazakhs professed Shamanism, and it is not to be wondered at, considering the little influence which the teachers of Mohammed could maintain there, that much of the early faith remains there now, and out of a whole tribe, which consists of many hundred tents, there are often one or two persons among the chiefs who can read the Koran a little. Vámbéry notes that they call themselves Mohammedans, but prayers, fasts and other religious acts could rarely be observed by them. Whilst describing this, Vámbéry also describes various superstitions of the people he meets. He says in particular that "each individual part of the tent, each utensil, has some superstition in connexion with it, which is strictly observed in pitching a tent, in milking, cooking, spinning and weaving far more than the laws of Islam, which are never particularly taken to heart"[^8].
 
