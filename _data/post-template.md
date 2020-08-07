@@ -7,7 +7,7 @@ author_img: ""
 author_bio: ""
 date:
 descrip: "" # for opengraph and carousel
-noshow_img: true
+noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
 bigtitle_img: ""
 image: "" # for opengraph
