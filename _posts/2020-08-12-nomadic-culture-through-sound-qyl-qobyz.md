@@ -6,7 +6,7 @@ author: "Megan Rancier"
 author_img: "/assets/images/publications/nomadic-sound/rancier.jpg"
 author_bio: "Dr. Megan Rancier received her Ph.D. in ethnomusicology from the University of California, Los Angeles in 2009. Her research focuses on Central Asia (specifically Kazakhstan) and the intersections between musical instruments, traditional and popular music, and national identity narratives. She has done fieldwork projects in Almaty and Nur-Sultan, Kazakhstan supported by the Title VIII Research Scholar Program, a Fulbright IIE fellowship, and a short-term travel grant from the National Council for Eurasian and East European Research (NCEEER). Her work has been published in the journals <i>Review of Middle East Studies</i>, <i>Popular Music and Society</i>, <i>The Yearbook for Traditional Music</i>, and <i>Ethnomusicology</i>. In 2018, her co-edited volume <i>Turkic Soundscapes: From Shamanic Sounds to Hip-Hop</i> was published by Routledge. Since joining the BGSU College of Musical Arts in 2011, Dr. Rancier has taught undergraduate courses on music cultures of the world and a graduate course on the history and literature of ethnomusicology, in addition to directing the Music of the Balkans ensemble."
 date: 2020-08-12
-descrip: "TKTKTK" # for opengraph and carousel
+descrip: "The qyl-qobyz, a Kazakh folk instrument, provides unique insight into Kazakhstan's nomadic history and culture. Ethnomusicologist Megan Rancier writes on the instrument's past and relevance today." # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
 bigtitle_img: "/assets/images/publications/nomadic-sound/korkyt.jpg"
