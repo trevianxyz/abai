@@ -5,7 +5,7 @@ title: "Sketches of Central Asia by Ármin Vámbéry"
 author: "H.E. Erzhan Kazykhanov"
 author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33b7a5077aa48a22c62cba01db4f95be/Ambassador_Erzhan_Kazykhanov.jpg"
 author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
-date: 2020-08-03 # MUST CHANGE TO 15 AUGUST BEFORE POSTING
+date: 2020-08-15 # MUST CHANGE TO 15 AUGUST BEFORE POSTING
 descrip: "" # for opengraph and carousel
 noshow_img: true
 bigtitle: true
@@ -115,7 +115,7 @@ Of food which is peculiar to the Kazakh he names *Suru*, which consists of smoke
 
 Memoirs of Vámbéry so beautifully put together in "Travels in Central Asia" would be another remarkable journey to 1831 Kazakh steppes that we recommend our readers to embark on. From personal characteristics and traits to lifestyle and cuisine, from poetry to literature, to religion and faith - this book provides an informative, engaging and detailed account that can rarely be found.
 
-[^1]: Mandler, David. “Introduction to Arminius Vambéry.” *Shofar*, vol. 25, no. 3, 2007, pp. 1–31. JSTOR, [www.jstor.org/stable/42944333](www.jstor.org/stable/42944333). Accessed 3 Aug. 2020.
+[^1]: Mandler, David. “Introduction to Arminius Vambéry.” *Shofar*, vol. 25, no. 3, 2007, pp. 1–31. [JSTOR](www.jstor.org/stable/42944333),. Accessed 3 Aug. 2020.
 [^2]: Preface
 [^3]: p. 340
 [^4]: p. 363
