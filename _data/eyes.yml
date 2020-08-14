@@ -1,4 +1,10 @@
 contents:
+  - title: "Sketches of Central Asia by Ármin Vámbéry"
+    image: '/assets/images/western-eyes/vambery/vambery-thumb.png'
+    href: '/sketches-of-central-asia'
+    publication: Abai Center
+    author: 'H.E. Erzhan Kazykhanov'
+    date: '1865'
   - title: "Campaigning on the Oxus and the Fall of Khiva by J.A. MacGahan"
     image: "/assets/images/western-eyes/macgahan/macgahan-thumb.png"
     href: '/oxus-khiva-macgahan'
@@ -52,13 +58,13 @@ contents:
     href: 'https://abaicenter.nyc3.cdn.digitaloceanspaces.com/pubs/mountains_of_turkestan.pdf'
     publication: The Geographical Journal
     author: Ellsworth Huntington
-    date: January 1, 1905 
+    date: January 1, 1905
   - title: Meeting Place of Empires
     image:
     href: 'https://abaicenter.nyc3.cdn.digitaloceanspaces.com/pubs/meeting_place_of_empires.pdf'
     publication: Blackwood’s Edinburgh Magazine
-    author:  
-    date: December 1880 
+    author:
+    date: December 1880
   - title: The Steppes of the Irtish
     image: "assets/images/kirghis.png"
     href: 'https://abaicenter.nyc3.cdn.digitaloceanspaces.com/kennan-steppes-of-irtish.pdf'
