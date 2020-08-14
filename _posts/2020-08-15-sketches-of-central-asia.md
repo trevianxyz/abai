@@ -6,13 +6,14 @@ author: "H.E. Erzhan Kazykhanov"
 author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33b7a5077aa48a22c62cba01db4f95be/Ambassador_Erzhan_Kazykhanov.jpg"
 author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
 date: 2020-08-15 # MUST CHANGE TO 15 AUGUST BEFORE POSTING
-descrip: "" # for opengraph and carousel
+descrip: "Describing the literature in Central Asia, Vámbéry famously says that 'the dwellers in a Kazakh tent are more disposed to poetry than members of a polished society in Paris and London, must surprise no one'" # for opengraph and carousel
 noshow_img: true
 bigtitle: true
 bigtitle_img: "/assets/images/western-eyes/vambery/samarkand.jpg"
 image: "/assets/images/western-eyes/vambery/samarkand.jpg" # for opengraph
 carousel_img: "/assets/images/western-eyes/vambery/dervishes-crop.jpeg" # for carousel
 western-eyes: true # to add to western eyes list, edit `_data/eyes.yml`
+categories: ['publication']
 ---
 
 <style>
