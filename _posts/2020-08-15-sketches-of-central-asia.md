@@ -57,8 +57,8 @@ In 1846, he went to Pressburg, where he remained the three years. Later he studi
 
 After spending about a year in Constantinople, he published a German-Turkish dictionary in 1858. Later, he also published various other linguistic works.
 
-<div class="post-inline-img float-left m-3" style="height: 350px;">
-  <img src="/assets/images/western-eyes/vambery/vambery-dervish.jpg">
+<div class="post-inline-img float-left m-5" style="height: 365px;">
+  <img src="/assets/images/western-eyes/vambery/vambery-dervish.jpg"><br>
   <small>Vambery in dervish dress.<br>Public domain, courtesy of <a href="https://commons.wikimedia.org/wiki/File:Armin-vambery-in-dervish-dress.jpg" target="_blank">Wikimedia Commons</a>.</small>
 </div>
 
