@@ -2,7 +2,7 @@
 permalink: '/great-thinkers-al-farabi-abai'
 layout: post
 title: "The great thinkers of Al-Farabi and Abai: a comprehension of their heritage"
-author: "Professor Kuralay Baizakova"
+author: "Kuralay Baizakova"
 author_img: "/assets/images/publications/baizakova/baizakova.jpeg"
 date: 2020-07-13
 descrip: "Many refer to Kazakhstan as “young.” But the reality is that it has a rich history and tradition of philosophy and poetry that continues to influence today."
@@ -10,7 +10,7 @@ noshow_img: true
 bigtitle: true
 bigtitle_img: "/assets/images/publications/baizakova/great-thinkers.jpeg"
 image: "/assets/images/publications/baizakova/great-thinkers.jpeg"
-author_bio: "By Professor Kuralay Baizakova, Head of the European and NATO Resource Centers at al-Farabi Kazakh National University in Almaty."
+author_bio: "Professor Kuralay Baizakova is Head of the European and NATO Resource Centers at al-Farabi Kazakh National University in Almaty."
 categories: ['publication']
 ---
 
