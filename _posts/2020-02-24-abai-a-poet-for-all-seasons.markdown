@@ -59,7 +59,7 @@ blockquote > p > sup {
 
  </style>
 
-By PROFESSOR [{{ page.author | upcase }}](#author)
+By {{ page.author }}
 
 ## Life
 Abai Kunanbaev, the great thinker, enlightener, poet, and composer of the Kazakh people, was born on August 10, 1845 in the Genghis mountains of the Semipalatinsk region[^1]. His father, Kunanbai Uskenbaev, was a highly influential elder of the Tobykty Clan, part of the Middle Juz. Abai was educated at home by a mullah, later in the Semipalatinsk madrasah (medrese), and in a Russian school. He studied the Holy Koran, foreign languages, including Arab and Farsi, and read the works of Eastern poets and scientists such as Firdousi, Navoi, and Avicenna. Although a deeply religious man, Abai has also been praised as Kazakhstan’s supreme enlightener.
