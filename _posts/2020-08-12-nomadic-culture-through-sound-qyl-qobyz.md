@@ -14,6 +14,7 @@ image: "/assets/images/publications/nomadic-sound/korkyt.jpg" # for opengraph
 carousel_img: "/assets/images/publications/nomadic-sound/korkyt.jpg" # for carousel
 carousel_title: "Connecting to Kazakh nomadic culture through sound: the <i>qyl-qobyz</i>"
 western-eyes: true # to add to western eyes list, edit `_data/eyes.yml`
+categories: ['publication']
 ---
 
 <style>
