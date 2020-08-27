@@ -51,7 +51,7 @@ There are important data on the costume of early Turks of the 7<sup>th</sup>-10<
 In important ways, this material supplements evidence derived from well-dated monuments of Chinese Sogdians in the second half of the 6<sup>th</sup> century CE, from Early Tang burial figurines (*mingqi*) of the 7<sup>th</sup>-8<sup>th</sup> centuries (Yatsenko 2009), and evidence from wall paintings of the mid-7<sup>th</sup> century in the "Hall of the Ambassadors" in Samarkand/Afrasiab (Yatsenko 2004). The new data also supplement that derived from analysis of early stone statues (see, e.g., Kubarev 1984; Baiar and Erdenebaatar 1999; Ermolenko 2004)[^1] and from the remains of authentic clothes in tombs (Kubarev 2005, pp. 26-56; cf. Kubarev 2000, pp. 81-88). These sources provide information almost exclusively about male costume. Personages who themselves may not be Turks may nonetheless sport costume with elements that suggest Turkic ethnicity. We see this in Sogdian (Yatsenko 2006, pp. 239, 240, 282) and Early Magyar/Hungarian depictions of the second half of the 9<sup>th</sup> century (Bokii and Pletneva 1988, Fig. 5.1; Komar 2008, p. 216), where it seems the interest is in emphasizing prestige elements of costume, and in the case of the Magyars it is a matter of borrowing Turkish iconography. It is important first of all to establish which elements of numerous details of silhouette, cut and décor were accentuated. In so doing, we make the a priori assumption that the elements of costume emphasized in Turkic petroglyphs may well differ from those in official court wall painting (Samarkand/Afrasiab), on coins, or in the examples from China. While these latter sources would seem to focus on the elites, the petroglyphs may often embody representations and values of ordinary nomads.
 
 <figure>
-    <img src="/assets/images/publications/costume/image--000.jpg" alt="">
+    <img src="/assets/images/publications/costume/image--000.jpg" alt="Figure 1: Cone-shaped headdresses">
     <figcaption></figcaption>
 </figure>
 
@@ -60,7 +60,7 @@ FIG 1
 One of the first distinctions between the depictions in petroglyphs and those on coins, murals and mortuary beds is the emphasis in the former on the individuals' heads. In depictions of various types, headdresses and hair-dos (believed to be a receptacle of the soul and the most important distinguishing feature of an adult male) were of special significance for both creators and viewers. A cone-shaped headdress is the most popular type: high ones (Tsagaan Salaa IV, NW Mongolia; Jetysu/Semirech'e, SE Kazakhstan; Northern Tuva)\[Fig. 1.2-3, 6-8\][^2] and lower ones (from the Jetysu to the middle Syr Darya region) [Fig. 1.1, 4-5]. Occasionally (from Jetysu up to the middle Syr Darya), the lower edge is turned up and has a turned-up flap [Fig. 1.4 lower]. Such a cap used to be made both of dense felt (such depictions of headdresses with standing crowns are known in Jetysu and other districts to the east) and softer fabrics (Northern Tuva; Tsagaan Salaa IV) [Figs. 1.1; 6.7]. Hats with flaps to protect the ears in winter were another widely spread type. These flaps are usually depicted as projecting out and upwards from both sides [Fig. 2.1-3]. Images of them have been found at Tuekta, Russian Altai, in Tuva at Elte-Kizhig and at Jetysu.
 
 <figure>
-    <img src="/assets/images/publications/costume/image--001.jpg" alt="">
+    <img src="/assets/images/publications/costume/image--001.jpg" alt="Figure 2: Hats with ear flaps and low cylinder-shaped hats">
     <figcaption></figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ FIG 2
 Diadems of fabrics with long drooping ends were repeatedly depicted on metal appliqués in the territory of the Khazar Qaghanate (Verkhnii Saltov, catacomb 40; Subbotitsy, grave 2) [Fig. 3.3, 4]. Diadems have the image of the moon above the forehead (the coins of Chach tuduns) or a trefoil (a horseman bronze amulet from the environs of Minusinsk) [Fig. 3.1, 5]. They are much more modest in décor than crowns of qaghans, such as in the Bilge Qaghan burial of 735 CE (Bahar 2002) [Fig. 3.6]. A low cylinder-shaped hat [Fig. 2.4, 5] is shown on coins from Chach and in the depiction of the epic hero on the Khazar ladle pot found at Kotskii Gorodok in the lower Ob' River, western Siberia.[^3]
 
 <figure>
-    <img src="/assets/images/publications/costume/image--002.jpg" alt="">
+    <img src="/assets/images/publications/costume/image--002.jpg" alt="Figure 3: Diadems and crowns">
     <figcaption></figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Other types are known from single depictions: a wide-brimmed hat (Tsagaan Salaa 
 We see a very interesting cap on a tudun of Chach (group 6, type 4/1) [Fig. 4.2], the back part of which depicts a grotesque mask of a baldheaded old man with a big nose and a long narrow beard. The numismatists from Tashkent with insufficient cause think that it recalls a helmet with an elephant which crowns Graeco-Bactrian rulers on their coins. A headdress of a warrior-standard-bearer could be decorated with two long vertical feathers (Eshkiolmes, Jetysu) [Fig. 4.8]. Sometimes, during special rituals naked men performed in masks of wolves, which were sacred, originally totemic animals for Turks, as attested in texts of the Zhoushu and the Bugut stele (Kliashtornyi and Livshits 1978, p. 57) and many later materials (petroglyphs at Zhungylshek I in the middle Syr Darya basin) [Fig. 4.9].
 
 <figure>
-    <img src="/assets/images/publications/costume/image--003.jpg" alt="">
+    <img src="/assets/images/publications/costume/image--003.jpg" alt="Figure 4: Headdresses of various types">
     <figcaption></figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ FIG 4
 Evidently, several long plaits joined together at the upper and lower parts formed the most widespread type of a hair�do for noble men (Sook-Tyt, Chagan River; Abadzhai, both Russian Altai) [Figs. 5.1; 8.2]. 72 On rare occasions long plaits were divided into two bunches at the sides of the head (a mourning Turk in the wall painting of the Buddha's Parinirvana, Kizil, Maya Cave [site 3, no. 224]; Chagan River, Russian Altai) [Figs. 7.3; 8.6c]. The plaits might be bound at the top only (Russian Altai) [Fig. 5.2], or interwoven with only the ends divided (Kogaly in Jetysu) [Fig. 5.8]. A clear example of the long plaits divided into two bunches at the sides of the head is in the depiction of the old man on the belt buckle in Hungarian grave no. 2 from Subbotitsy, Kirovograd region of Ukraine) [Fig. 5.3]. Wearing of several short plaits was also very popular (Sulek, Khakasia [Appelgren-Kivalo 1931]; Jetysu) [Figs. 5.4; 6.2].
 
 <figure>
-    <img src="/assets/images/publications/costume/image--004.jpg" alt="">
+    <img src="/assets/images/publications/costume/image--004.jpg" alt="Figure 5: Hair-dos">
     <figcaption></figcaption>
 </figure>
 
@@ -98,7 +98,7 @@ FIG 5
 Sometimes, locks of short or long hair were combed to the sides leaving a small knot at the forehead (Chach coins, group 2, types 4-5 [Shagalov and Kuznetsov 2006, pp. 308-09] and group 3, type 1/1) [Fig. 5.7]. Rarely, locks of hair were spun around a vertically fixed comb (?) as we can see in the depiction of the spear-bearer at Tsagaan Salaa II, Mongolia [Fig. 5.6]. A frontal forelock on a shaven head was, evidently a very rare variant (see only the statue from Taarbol near Arig-Bazhi in Tuva (Evtiukhova 1952, p. 82, Fig. 18); it is known only in isolated cases for nomads of Kazakhstan in the Scythian period and early nomadic Magyars/ Hungarians (cf. Ermolenko and Kurmankulov 2011). Common people wore their hair cut short and combed to the back (Sook-Tyt, Russian Altai) [Fig. 5.5]. A small beard is depicted rather episodically, but long, narrow and practically horizontal moustaches quite often. It was probably an object of pride and special care for the elite. In the opinion of Liubov' N. Ermolenko, starting at the end of the 7th to beginning of the 8th century CE some Turkic groups adopted the fashion of wearing, in addition to a moustache, a very small, barely visible beard under the lower lip as a mark of prestige (Ermolenko and Kurmankulov 2012, p. 107) . However, it can be seen primarily on statues.
 
 <figure>
-    <img src="/assets/images/publications/costume/image--005.jpg" alt="">
+    <img src="/assets/images/publications/costume/image--005.jpg" alt="Figure 6: The silhouette and cut of clothes">
     <figcaption></figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ FIG 6
 As for the clothing, only on rare occasions was the cut accentuated with lines on caftans and trousers as at Eshkiolmes, Jetysu [Fig. 6.6] or only on trousers (Tarskii, catacomb 6, Northern Ossetia) [Fig. 3.2]. The long-sleeved coats (probably with lateral cuts) are usually found in depictions of walking personages (but cf. the horsemen at Orta-Sargol, Tuva) [Fig. 6.1]. At times they have a deep wrap over to the left (Zhaltyrak-Tash, Kyrgyzstan) [Fig. 6.5]. Long cloaks, open in the front, which were worn thrown over one's shoulders were, evidently, close-fitting in the waist (Kuldzhabasy, Jetysu) [Fig. 6.4]. A deep wrapping over to the left was marked for them only occasionally (in Kyrgyzstan) [Fig. 6.5]. More often shorter caftans can be seen. Sometimes, vegetal or geometrical patterns on textiles were drawn in detail (the ladle pot from Kotskii Gorodok; Tsagaan Salaa II in Mongolia) [Figs. 2.4; 5.6]. The waistline (often very narrow) was accentuated with a belt (Russian Altai, including the Chagan River, and Kyrgyzstan) [Figs. 5.2; 6.2,3 and 5]; the shoulder line was also strongly emphasized, but less often [Fig. 5.1-2] (in Hyrlets, Bulgaria, shoulders are covered with a cape-pelerine). A narrow waist was a very important element of the proper appearance for a warrior in Scythian times (Yatsenko 2006, p. 101). In fewer cases (for common people) the waistline was not accentuated at all [Fig. 5.5].
 
 <figure>
-    <img src="/assets/images/publications/costume/image--006.jpg" alt="">
+    <img src="/assets/images/publications/costume/image--006.jpg" alt="Figure 7: The long shirts and square insets on the breast">
     <figcaption></figcaption>
 </figure>
 
@@ -116,7 +116,7 @@ FIG 7
 Two lapels at the sides of short or long caftans were first marked in the 2nd-4th centuries CE on terracottas in Iranian-speaking Khotan (Xinjiang), then in the Kucha Oasis. Turks of the First Qaghanate (551-603), documented in Chinese depictions, almost without exception do not wear caftans (Yatsenko 2009). However, from the 7th century, two-lapel clothing begins to spread among them (Yatsenko 2006, pp. 252�53, 282�83), even though it is rare in depictions on the territory of the western Khazar Qaghanate. It is significant that, when on silver coins of old Khorasmian design from the lower Syr Darya basin issued by the Oguz ruler Jabuya in the second quarter of the 9th century there appear new elements in the costume of the "Khorasmian horseman" on the reverse, these elements reflect a local Turkic reality -- namely, a caftan with two small lapels (with buttons made of fabric at their ends) [Fig. 6.7]. One additional element denoting Turkic costume in these coin depictions is a thick torque, which replaces a previously worn necklace. Long upper garments -- shirts that are not open in the front (evidently with lateral cuts in the hem) -- are reliably documented in the Abadzhai Valley near the Chagan River in the Russian Altai. There are two square pieces of fabric (?) sewn in front on the breast part of warriors' clothing [Fig. 7.1, 2].4 The dancer on the early 9th�century saber from Zevakino has a shorter tunic (to the knees) worn closed. Its collar is vertically cut and the long sleeves during the dance allowed to hang loose [Fig. 7.5]. On the image of a man from Kichiku-Bom in the Russian Altai [Fig. 7.4] for some reason the artist attempted to depict two garments worn closed, one over the other. The outer one is knee-length and has a decorative border along the side seams and the edge of the hem and side slits and possibly an attached cape; the inner one is a shirt tucked into the trousers with turned down collar.
 
 <figure>
-    <img src="/assets/images/publications/costume/image--007.jpg" alt="">
+    <img src="/assets/images/publications/costume/image--007.jpg" alt="Figure 8: Trousers and footwear">
     <figcaption></figcaption>
 </figure>
 
@@ -125,7 +125,7 @@ FIG 8
 Men's trousers were often worn over footwear; sometimes they were bell-bottomed (Subbotitsy, Eshkiolmes [Figs. 3.4, lower right; 8.5]. Very wide trousers are exceptional -- so far they are known only at Bayan Zhurek (in Jetysu) [Fig. 8.12]. There are depictions of completely quilted trousers analogous to those of the Pazyryk Culture (in the Russian Altai) [Fig. 5.2]. As to the types of footwear, ankle boots [Fig. 8.2,4,11] and shoes [8.8a,c, 9] are present in approximately equal proportions. Unlike on statues and wall paintings, we see very few trustworthy depictions of high boots in petroglyphs (Abadzhai in the Russian Altai) [Fig. 8.1]. In Chinese images of the Early Turks, low shoes were more prestigious (Yatsenko 2009); cf. the prestigious image on the Mungut-Khyas stele, western Mongolia [Fig. 8.11]. Shoes with long stockings were used in the Russian Altai (Abadzhai near the Chagan River) [Fig. 8.10]. On the Khazar reliquary from Talovyi II, lower Don basin, barrow 3/1, we see shoes with narrow pointed toe boxes and with tongues at the instep [Fig. 8.9]; for a horseman from Mongolia (Tsagaan Salaa IV) the length of shoe toes was up to 30 cm [Fig. 4.1]. Only in the northern Altai does one apparently see on occasion belts of black fabric (Yatsenko 2009, Fig. 6.8, 9) with two hanging ends [Fig. 7.5] or with an end which divides into three ribbons [Fig. 5.2].
 
 <figure>
-    <img src="/assets/images/publications/costume/image--008.jpg" alt="">
+    <img src="/assets/images/publications/costume/image--008.jpg" alt="Figure 9: Female costume">
     <figcaption></figcaption>
 </figure>
 
@@ -136,7 +136,7 @@ Women's costume was seldom depicted in detail. We see a silhouette of a lady hol
 The headwear (with three large projections) of elite women could resemble a narrow diadem with some sort of scaly covering (the Umai Goddess in Kudyrge); in all likelihood, the modest height of the main part of the headdress is to be explained by the schematic nature of the depiction. There is also a well-known, more massive cone-shaped headdress with three large projections and a cap band (a turned-up flap) (worn by a wife of the tudun-governor, on Chach coins, group 2, type 4) [Fig. 9.4]. On the more detailed depictions, the lower border of a headdress with such pointed "horns"may be decorated by a tooth-like band. The image of Umai (and her female counterpart as well, the woman from Suttuu-Bulak) accentuates narrow joined eyebrows and an oval face [Fig. 9.1]. Probably it is a female warrior depicted on the ladle from Kotskii Gorodok [Fig. 9.5], with short plaits tucked under the collar of the caftan before battle, her clothes no different than those of her male counterpart (Yatsenko 2006, pp. 340-41). Her sex is determined only by the hairdo, the two comparatively short but thick braids tucked under the collar.7 The important attribute of a woman from a ruling family was probably a gold necklace with a pendant on a lower part [Fig. 9.4]. Umai in Kudyrge apparently wears ankle boots with turned-down socks.
 
 <figure>
-    <img src="/assets/images/publications/costume/image--009.jpg" alt="">
+    <img src="/assets/images/publications/costume/image--009.jpg" alt="Figure 10: Sogdian personage on a Turkic-type statue from Zavkhan aimag, NW Mongolia.">
     <figcaption></figcaption>
 </figure>
 
@@ -149,7 +149,7 @@ On the whole, the appearance of costume on petroglyphs, coins and metalwork diff
 Another interesting subject is the comparison of the costume of the early Turks and that of the tribes of the Tashtyk Culture in Khakasia, who lived to the north of their Xinjiang-Mongolian motherland in the 2nd century BCE � 5th century CE.9 From the later stages of their history we have an important series of detailed carvings whose rendition of details of costume has frequently attracted considerable attention. These include first of all the engraved wooden plaques found in crypt no. 1 near Tepsei Mountain in 1968 (Griaznov 1971), ones found near Tasheba Riva (Podolsky 1998), and the petroglyphs near Oshkol Lake (Pankova 2012). Svetlana V. Pankova concludes that the "Tashtyk peoples" were Turkic speakers, to a considerable degree basing her opinion on the "closeness" of their male hair-dos and the presence in their art of a series of parallels in Xinjiang (Pankova 2011, pp. 25�26).
 
 <figure>
-    <img src="/assets/images/publications/costume/image--010.jpg" alt="">
+    <img src="/assets/images/publications/costume/image--010.jpg" alt="Figure 11: Pre-Turkic Tashtyk Culture female costume in Khakasia">
     <figcaption></figcaption>
 </figure>
 
@@ -158,7 +158,7 @@ FIG 11
 Unfortunately, all the basic and clearly defined elements of Tashtyk costume which are the most important indices of ethno-cultural identity do not confirm this hypothesis. On the contrary, they are more likely unique and have no close analogies among the early Turks who replaced the "Tashtyk peoples." Tashtyk women have hair-dos of a Chinese type with decorated coverings on the crown in the form of a M�bius ring made of birch bark [Fig. 11.3] (sometimes two long pins inserted in the coiffure are also visible [Fig. 11.1]). Their dresses have a relatively short train (which probably appeared among the Hephthalites, the enemies of the Turks, in the Amu Darya region and later in Western Europe) but absent covering shawls, belts worn high under the bust with a series of decorative pendants (Azbelev 2009) [Fig. 11.1�2, 8], and capes [Fig. 11.1�2] etc. In general the decorative motifs of Tashtyk textiles are foreign to those ot the early Turks in the cases where they are depicted with adequate detail [see, e.g., Fig. 11.2]. In contrast to the Turks, the men have shorter braids which are woven together (including those where the locks are bound at the back of the head and at the tip) [Fig. 12.10, 12], there is no emphasis on the moustaches, there are very short haircuts, as though shaped with a bowl and with a horizontal edge [Fig. 12.6, 13], their hairdos may have a knot on the crown and be fixed with a pin [Fig. 12.4�5, 14] and with curls at the temples at Yibat II (Vadetskaia 1986, Pl. IX.35) [Fig. 12.15], and finally they may have low and rather wide conic caps (Podolsky 1998, Fig. 1b). In contrast to the early Turks, in the dress of the "Tashtyk peoples" the projecting borders of the hems of the short caftans are meticulously emphasized [Fig. 12.6�9] (Pankova 2005, Fig. 7), but in contrast, the characteristically unfastened outer dress which they in fact wore is not emphasized (cf.. Vadetskaia 1986, pp. 137�38). (This is difficult to explain merely by the dominance among the former of depictions in profile.) In depictions of the early Turks, detailing of the face and of the upper part of the body is not emphasized. [Fig. 12.1�5].
 
 <figure>
-    <img src="/assets/images/publications/costume/image--011.jpg" alt="">
+    <img src="/assets/images/publications/costume/image--011.jpg" alt="Figure 12: Pre-Turkic Tashtyk Culture male costume in Khakasia">
     <figcaption></figcaption>
 </figure>
 
