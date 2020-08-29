@@ -4,14 +4,14 @@ layout: post
 title: "Some Observations on Depictions of Early Turkic Costume"
 author: "Sergey A. Yatsenko"
 author_img: "/assets/images/publications/costume/yatsenko.jpeg"
-author_bio: "Sergey Yatzenko, Professor of History at Russian State Humanities University. A graduate of Rostov State University (now South Federal University), Fac. of History, Dep. of. Ancient and Medieval History (1981), with a specialization in the archaeology of the early nomads and in the costume history. Professor of the Dep. of History and Theory of Culture since 2009. Post-doctoral Dissertation – December 2002, RSUH (Costume of the Ancient Iranian-Speaking Peoples and the Methods of Its Historic and Cultural Reconstruction). It was published as a monograph: 'Costume of Ancient Eurasia (the Iranian-Speaking Peoples)'. Moscow: Vostochnaya literatura, 2006 (in Russian)."
+author_bio: "Sergey Yatsenko, Professor of History at Russian State Humanities University. A graduate of Rostov State University (now South Federal University), Fac. of History, Dep. of. Ancient and Medieval History (1981), with a specialization in the archaeology of the early nomads and in the costume history. Professor of the Dep. of History and Theory of Culture since 2009. Post-doctoral Dissertation – December 2002, RSUH (Costume of the Ancient Iranian-Speaking Peoples and the Methods of Its Historic and Cultural Reconstruction). It was published as a monograph: 'Costume of Ancient Eurasia (the Iranian-Speaking Peoples)'. Moscow: Vostochnaya literatura, 2006 (in Russian)."
 date: 2020-08-28
-descrip: "" # for opengraph and carousel
+descrip: "Historian Sergey Yatsenko analyses new information and artifacts on historical dress and fashion, while painting a vivid portrait of historical Turkic culture." # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
 bigtitle_img: "/assets/images/publications/costume/title-img.jpg"
 image: "/assets/images/publications/costume/title-img.jpg" # for opengraph
-carousel_img: "" # for carousel
+carousel_img: "/assets/images/publications/costume/title-img.jpg" # for carousel
 ---
 
 <style>
