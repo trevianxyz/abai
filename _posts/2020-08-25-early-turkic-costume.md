@@ -2,6 +2,7 @@
 permalink: '/early-turkic-costume'
 layout: post
 title: "Some Observations on Depictions of Early Turkic Costume"
+categories: ['publication']
 author: "Sergey A. Yatsenko"
 author_img: "/assets/images/publications/costume/yatsenko.jpeg"
 author_bio: "Sergey Yatsenko, Professor of History at Russian State Humanities University. A graduate of Rostov State University (now South Federal University), Fac. of History, Dep. of. Ancient and Medieval History (1981), with a specialization in the archaeology of the early nomads and in the costume history. Professor of the Dep. of History and Theory of Culture since 2009. Post-doctoral Dissertation – December 2002, RSUH (Costume of the Ancient Iranian-Speaking Peoples and the Methods of Its Historic and Cultural Reconstruction). It was published as a monograph: 'Costume of Ancient Eurasia (the Iranian-Speaking Peoples)'. Moscow: Vostochnaya literatura, 2006 (in Russian)."
@@ -12,7 +13,6 @@ bigtitle: true
 bigtitle_img: "/assets/images/publications/costume/title-img.jpg"
 image: "/assets/images/publications/costume/title-img.jpg" # for opengraph
 carousel_img: "/assets/images/publications/costume/title-img.jpg" # for carousel
-categories: ['publication']
 ---
 
 <style>

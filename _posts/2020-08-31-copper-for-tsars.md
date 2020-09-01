@@ -3,6 +3,7 @@ permalink: '/copper-for-tsars'
 layout: post
 title: "In the Kirghiz Steppes by J.W. Wardell"
 author: "H.E. Erzhan Kazykhanov"
+categories: ['publication']
 author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33b7a5077aa48a22c62cba01db4f95be/Ambassador_Erzhan_Kazykhanov.jpg"
 author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
 date: 2020-08-31
