@@ -6,12 +6,12 @@ author: "H.E. Erzhan Kazykhanov"
 author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33b7a5077aa48a22c62cba01db4f95be/Ambassador_Erzhan_Kazykhanov.jpg"
 author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
 date: 2020-08-31
-descrip: "" # for opengraph and carousel
+descrip: "John Wardell, one of the last Englishmen to visit Kazakhstan before the rise of the Soviet Union, tells the story of his life in the steppe and his experience with Kazakh history and culture." # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
-bigtitle_img: ""
-image: "" # for opengraph
-carousel_img: "" # for carousel
+bigtitle_img: "/assets/images/publications/copper/kazaks-and-wood.jpeg"
+image: "/assets/images/publications/copper/cover.png" # for opengraph
+carousel_img: "/assets/images/publications/copper/cover.png" # for carousel
 western-eyes: true # to add to western eyes list, edit `_data/eyes.yml`
 ---
 
@@ -38,18 +38,11 @@ western-eyes: true # to add to western eyes list, edit `_data/eyes.yml`
         margin: 10px auto;
         display: block;
     }
-
-    blockquote {
-        text-align: center;
-        font-size: 1.2em;
-        color: #cc5500;
-        font-style: italic;
-    }
 </style>
 
 *Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov*
 
-<img class="book" src="/assets/images/publications/copper/book.png">
+<img class="book" src="/assets/images/publications/copper/cover.png">
 
 Avid readers of the Abai Center are well acquainted with the works of Western scholars and journalists who travelled across the Kazakh steppes from 1800s to 1900s. This volume by John Wilford Wardell presents our readers with a unique opportunity to take a glimpse into a bygone era beyond the nomadic heritage.
 
@@ -59,9 +52,19 @@ Years later after his travels, Wardell notes, "As I was one of the last Englishm
 
 [^1]: p. 15
 
+
+<div class="post-inline-img float-left m-3" style="height: 350px;">
+  <img src="/assets/images/publications/copper/mine-deed.jpeg">
+</div>
+
 The Spassky group of mining properties, Wardell explains, in two camps of which he was to live for five years, was situated in the old province of Akmolinsk, except for the new camp of 1916, which was just within the old province of Semipalatinsk, but now all for camps are in the province of Karaganda. The main camp and smelting works were at Spassky Zavod  where Wardell lived for the first two years.
 
 The author shares that Spassky had a population of about 3000 of whom perhaps two thirds were Kazakhs, and the total population of three camps approximated to a similar number.  The main inhabitants of these four villages, according to Wardell, with the exception of a few traders who lived at Serechka (over the Creek) in Spassky, were employed by the Company, so that work was found for about 300 Russians and 1500 Kazakhs. The British staff, which numbered eighteen in 1914, was reduced by war and other circumstances to fourteen in 1915, ten in 1918 and eight in 1919.
+
+
+<div class="post-inline-img float-right m-3" style="height: 350px;">
+  <img src="/assets/images/publications/copper/clarence-and-wife.jpeg">
+</div>
 
 Soon after Wardell's move to Spassky, his wife joins him and they fully settle down in their new abode, growing accustomed to the new life and surroundings of the camp. Together they purchase a horse and name it Ginger and below are some illustrations of Wardell's spouse riding around the Spassky area. The author recalls this experience saying that "fresh from the English landscape, it took us some time to get used to the lack of trees in the Spassky area, but when we did become accustomed to the steppes - and it is marvelous how soon this became a fascination…"[^2].
 
@@ -83,6 +86,10 @@ Wardell enjoyed his time in Akmolinsk as well as the social life there that incl
 
 Akmolinsk, Wardell notes, stands in the great agricultural plain on the north bank of Ishim and had a population of ten thousand people at that time. The great Byzantine cathedral stood in the middle of the huge square in the center of the town, and around three sides of the square were public buildings, private houses, two or three hotels and a theater which was an opera house or a concert hall on occasion. Along the south side of the square there were shops and behind this was the bazaar, a large open space surrounded by shops and warehouses. Opposite the bazaar, Wardell says, was a third open space in which stood two mosques.
 
+<div class="post-inline-img float-left m-3" style="height: 350px;">
+  <img src="/assets/images/publications/copper/spassky-map.jpeg">
+</div>
+
 Wardell also describes other properties of the company. For example, he notes that the Atbasar properties of the company were situated about 500 miles to the west of Oospensky mine and comprised copper mine at Djezkazgan and colliery at Baikanoor, both of which were well developed and were already producing ore and coal, and reduction and smelting plants in very early stages of Karsakpai. The carbonate copper ore in this mine, Wardell explains, is very reach and the deposit is known to contain at least three million tons[^3].
 
 [^3]: p. 84
@@ -90,6 +97,11 @@ Wardell also describes other properties of the company. For example, he notes th
 Interestingly, Wardell shares not only his observations of the Spassky area and work-related findings, but also takes time to get acquainted with the local population by studying history and traditions of Kazakh people. In his book, he says that the name Kazakh mean "wanderer". He also explains their origins saying that "Kazakhs have been divided into three hordes, which wandered over more or less defined areas and carried tribal names which indicated their origins. The Great and Little Hordes inhabited the districts east of Lake Balkhash and west of the Sea of Aral respectively, and the Middle Horde, which is now most numerous, occupied the country between. The Kazakhs of the Great and Middle Hordes are of Kirat and Naiman tribes respectively"[^4].
 
 [^4]: p. 87
+
+
+<div class="post-inline-img float-right m-3" style="height: 350px;">
+  <img src="/assets/images/publications/copper/kazaks-and-wood.jpeg">
+</div>
 
 According to Wardell, as a race the Kazakhs are adventurous and free spirited, and like all of the nomads they do not take kindly to being settled in one place. They are good natured and hospitable with friends and peacefully disposed towards stranger. They are extremely fond of children. He also adds that "altered political and economic conditions during the past forty years will have modified these characteristics somewhat, but the personalities inherited by the Kazakhs through countless centuries cannot be greatly altered by such a short period of change"[^5].
 
