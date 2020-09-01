@@ -12,6 +12,7 @@ bigtitle: true
 bigtitle_img: "/assets/images/publications/costume/title-img.jpg"
 image: "/assets/images/publications/costume/title-img.jpg" # for opengraph
 carousel_img: "/assets/images/publications/costume/title-img.jpg" # for carousel
+categories: ['publication']
 ---
 
 <style>
