@@ -13,7 +13,6 @@ bigtitle_img: "/assets/images/western-eyes/vambery/samarkand.jpg"
 image: "/assets/images/western-eyes/vambery/samarkand.jpg" # for opengraph
 carousel_img: "/assets/images/western-eyes/vambery/dervishes-crop.jpeg" # for carousel
 western-eyes: true # to add to western eyes list, edit `_data/eyes.yml`
-categories: ['publication']
 ---
 
 <style>
