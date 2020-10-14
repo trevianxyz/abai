@@ -57,6 +57,8 @@ western-eyes: true # to add to western eyes list, edit `_data/eyes.yml`
     }
 </style>
 
+*Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov*
+
 <img class="book" src="/assets/images/publications/lansdell/book.png" alt="Chinese Central Asia book jacket">
 
 The previous issue on the Abai Center focused on Henry Lansdell's 1885 book entitled "Russian Central Asia" where he spoke of his observations made during his travels through the Kazakh steppes.
