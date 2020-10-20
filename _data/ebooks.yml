@@ -1,14 +1,7 @@
 contents:
-  - title: "Peoples of the USSR by Anna Louise Strong"
-    image: "/assets/images/publications/strong/book.png"
-    href: "/peoples-of-ussr"
-    publication: Abai Center
-    author: 'H.E. Erzhan Kazykhanov'
-    date: '1944'
-    woman-traveler: true
-  - title: "Chinese Central Asia by Henry Lansdell"
-    image: "/assets/images/publications/lansdell/book.png"
-    href: "/chinese-central-asia"
-    publication: Abai Center
-    author: 'H.E. Erzhan Kazykhanov'
-    date: '1893'
+  - title: "Anthologies of Contemporary Kazakh Literature"
+    image: "https://abaicenter.com/assets/images/kazakh-poetry.jpg"
+    href: "/anthologies-of-contemporary-kazakh-literature"
+    publication: Cambridge University Press
+    author: 'Contemporary Authors'
+    date: '2019'
