@@ -15,10 +15,7 @@ carousel_img: "/assets/images/ebooks/return_sage.png" # for carousel
 western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
 ---
 
-<p class="rtl">The artistic representation of history is more scientific and 
-truthful than a historical one. The art of poetry penetrates 
-to the very essence of the matter, while an exact 
-account gives you a mere list of details.<p>
+<p class="rtl">The artistic representation of history is more scientific and truthful than a historical one. The art of poetry penetrates to the very essence of the matter, while an exact account gives you a mere list of details.<p>
 _Aristotle_
 
 CHAPTER ONE
