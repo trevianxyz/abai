@@ -3,10 +3,10 @@ permalink: '/return-of-the-sage'
 layout: post
 title: "Return of the Sage"
 author: "Anuar Alimzhanov"
-author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33b7a5077aa48a22c62cba01db4f95be/Ambassador_Erzhan_Kazykhanov.jpg"
+author_img: "https://i.livelib.ru/auface/338977/o/75ee/Anuar_Alimzhanov.jpg"
 author_bio: "Anuar Alimzhanov was a Soviet and Kazakh writer wrote in Russian, a well-known publicist, a public figure. He served on the Council of the Republics of the Supreme Council of the USSR."
 date: 2020-10-20
-descrip: "" # for opengraph and carousel
+descrip: "“Return of the Sage” is the novelization of the life, discoveries, writings, and ruminations of Abu Nasr al-Farabi, the towering intellectual figure in the Middle Ages who was known as the Aristotle of Central Asia and the Middle East." # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
 bigtitle_img: "/assets/images/ebooks/return_sage.png"
