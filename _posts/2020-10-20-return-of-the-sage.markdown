@@ -4,7 +4,7 @@ layout: post
 title: "Return of the Sage"
 author: "H.E. Erzhan Kazykhanov"
 author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33b7a5077aa48a22c62cba01db4f95be/Ambassador_Erzhan_Kazykhanov.jpg"
-author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
+author_bio: ""
 date: 2020-10-20
 descrip:  # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
@@ -18,14 +18,7 @@ western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
 <p class="rtl">The artistic representation of history is more scientific and truthful than a historical one. The art of poetry penetrates to the very essence of the matter, while an exact account gives you a mere list of details.<p>
 Aristotle
 
-
 CHAPTER ONE
-The artistic representation of history is more scientific and 
-truthful than a historical one. The art of poetry penetrates 
-to the very essence of the matter, while an exact 
-account gives you a mere list of details.
-Aristotle
-
 
 The garden was never inhabited. In the daytime, even the birds fell silent. It was only in the morning or in the cool of the evening when a breeze blew in from the distant mountains to the green pains of Ghutakha that the birds would recommence their blithe, careless chatter. The gardener had only been there a week after having arrived from quite distant parts, and for him, the most enchanting moment came in the early morning hours before dawn when the tender turtledoves engaged in their mysterious conversation of love. The gardener opened his eyes, washed his face with cold stream water, and before getting to work, picked up his kipchagi. While plucking the strings, he listened for the chatter of the birds and sank into a reverie.
 
