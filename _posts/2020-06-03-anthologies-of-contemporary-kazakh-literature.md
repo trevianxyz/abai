@@ -5,7 +5,6 @@ title: "Anthologies of Contemporary Kazakh Literature"
 author: Cambridge University Press
 date: 2020-06-03
 descrip: Two new anthologies of Kazakh poetry and prose, translated into English for the first time.
-categories: ['publication']
 bigtitle: false
 bigtitle_img: "/assets/images/kazakh-poetry.jpg"
 image: "/assets/images/kazakh-poetry.jpg"
