@@ -2,11 +2,11 @@
 permalink: '/return-of-the-sage'
 layout: post
 title: "Return of the Sage"
-author: "H.E. Erzhan Kazykhanov"
+author: "Anuar Alimzhanov"
 author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33b7a5077aa48a22c62cba01db4f95be/Ambassador_Erzhan_Kazykhanov.jpg"
-author_bio: ""
+author_bio: "Anuar Alimzhanov was a Soviet and Kazakh writer wrote in Russian, a well-known publicist, a public figure. He served on the Council of the Republics of the Supreme Council of the USSR."
 date: 2020-10-20
-descrip:  # for opengraph and carousel
+descrip: "" # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
 bigtitle_img: "/assets/images/ebooks/return_sage.png"
