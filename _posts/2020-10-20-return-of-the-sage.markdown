@@ -9,16 +9,13 @@ date: 2020-10-20
 descrip:  # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
-bigtitle_img: "/assets\images\ebooks\return_sage.png"
-image: "/assets\images\ebooks\return_sage.png" # for opengraph
-carousel_img: "/\assets\images\ebooks\return_sage.png" # for carousel
-western-eyes: true # to add to western eyes list, edit `_data/eyes.yml`
+bigtitle_img: "/assets/images/ebooks/return_sage.png"
+image: "/assets/images/ebooks/return_sage.png" # for opengraph
+carousel_img: "/assets/images/ebooks/return_sage.png" # for carousel
+western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
 ---
 
-The artistic representation of history is more scientific and 
-truthful than a historical one. The art of poetry penetrates 
-to the very essence of the matter, while an exact 
-account gives you a mere list of details.
+<p class="rtl">The artistic representation of history is more scientific and truthful than a historical one. The art of poetry penetrates to the very essence of the matter, while an exact account gives you a mere list of details.<p>
 _Aristotle_
 
 CHAPTER ONE
