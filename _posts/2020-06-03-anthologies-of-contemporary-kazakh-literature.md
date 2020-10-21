@@ -21,9 +21,6 @@ image: "/assets/images/kazakh-poetry.jpg"
         text-align: center;
     }
 
-    h2 {
-        margin-bottom: 
-    }
 </style>
 
 ## Contemporary Kazakh Literature: POETRY
