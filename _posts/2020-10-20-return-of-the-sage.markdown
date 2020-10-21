@@ -16,7 +16,8 @@ western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
 ---
 
 <p class="rtl">The artistic representation of history is more scientific and truthful than a historical one. The art of poetry penetrates to the very essence of the matter, while an exact account gives you a mere list of details.<p>
-_Aristotle_
+Aristotle
+
 
 CHAPTER ONE
 The artistic representation of history is more scientific and 
@@ -25,53 +26,80 @@ to the very essence of the matter, while an exact
 account gives you a mere list of details.
 Aristotle
 
+
 The garden was never inhabited. In the daytime, even the birds fell silent. It was only in the morning or in the cool of the evening when a breeze blew in from the distant mountains to the green pains of Ghutakha that the birds would recommence their blithe, careless chatter. The gardener had only been there a week after having arrived from quite distant parts, and for him, the most enchanting moment came in the early morning hours before dawn when the tender turtledoves engaged in their mysterious conversation of love. The gardener opened his eyes, washed his face with cold stream water, and before getting to work, picked up his kipchagi. While plucking the strings, he listened for the chatter of the birds and sank into a reverie.
+
 The singing of the birds frequently made his return to his -long-standing wish to write a book about music. As he tried to catch each varying tone and timbre, he strove to carefully analyze every birdsong. He wrote down his ideas on music, developing both a history and theory, but one needed much time to bind scattered thoughts into an organized work. It was also crucial for one to study up on those grains of wisdom in ancient Greek and Hindu writings on the science of music and musical instruments.
+
 In his youth in Otrar, then a peaceful place, he spent days in its extensive libraries where he often dreamt of becoming a musician. His wish came true. Both slaves and their masters came to admire his musical prowess. He had even created his own instrument and called it the kipchagi. Young Otrarians loved the throaty sound of the two-string instrument that in skilled hands could reproduce the songs of Kipchak steppe and the sound of the wild horses’ hooves upon it, and while his father’s warriors loved his music, they respected him as much for his keen eye in shooting and his courage in fighting.
-Never did he part from his kipchagi, in the strings of which were preserved the restless voices of his faraway land, and which evoked memories of the past, his youth, the beautiful girls of the steppe, their songs at bonfires, as well as his tribe’s wild warrior dances on moonlit summer nights. Yet, the thought of completing the book brought with it the anxious premonition that this incessantly bittersweet yearning that conjured those memories would cease too, and that fear kept him postponing his work. 
+
+Never did he part from his kipchagi, in the strings of which were preserved the restless voices of his faraway land, and which evoked memories of the past, his youth, the beautiful girls of the steppe, their songs at bonfires, as well as his tribe’s wild warrior dances on moonlit summer nights. Yet, the thought of completing the book brought with it the anxious premonition that this incessantly bittersweet yearning that conjured those memories would cease too, and that fear kept him postponing his work.
+
 As for the birdsongs, they reminded him of the birds in Otrar during his youth. He had seen them in the gardens of Djend and Sygnak, in the groves of Taraz. These memories of his homeland often evoked wistful homesickness that of late gave him no respite wheresoever he went. It was a rather natural feeling for a man who spent many years traveling through foreign lands in search of Кnowledge. He had walked thousands of miles down many paths, and he visited every town on the Great Silk Road. He had read many books and numerous manuscripts by sagacious philosophers, historians, geographers, travelers, poets, and scientists of various Arab, Persian, Hindu, Greek backgrounds.
 Learning languages had been his pastime since he was young. Often had he surprised his father by chatting with Arab or Persian merchants, or Greek winemakers. One could only but wonder how it was they got to Otrar.
+
 Now, his bountiful memory kept revisiting one vision after another, selected out of the kaleidoscope of his past, and binding them with a thin but unbreakable thread; he tried to dispel the bothersome melancholy memories by hastening back to his work or to Socrates in the Dialogues of Plato.
+
 And yet, however early he rose, it seemed as though there was never enough time to ponder nor work on his book. Hours fled by in the blink of an eye as he plunged into mathematical problems or, while following Aristotelian logic of the Poetics or Metaphysics, mechanically translated them into Arabic.
+
 He hid the manuscripts he studied into a canvas bag only when the heat of the day fell upon the entire green plain. It was when the birds hiding in the foliage fell silent, and the bees went to work. This was also when the shack owner, the watchman who also was the mirab, the man in charge of irrigation, came back after watering the vineyard and rose plantation. This time he brought a rose branch and a basket filled with juicy plums.
+
 The gardener greeted the mirab and shared his tea. Then he went into the garden in order not to disturb the mirab’s rest, and walk amid the rosebushes. Now he was Мaster of the garden.
 It was a young garden. One had to watch every seedling, especially the rose bushes. Roses like these did not grow even in the gardens of the Samanids. In time, they would become like the trees in the gardens of Southern India or here in Syria with huge red flowers. Each tiny stalk would become the trunk of a sturdy shrub with an innumerable plethora of rosebuds.
+
 The rose butter made of these flowers had long been prized in bazaars of the East. These mighty bushes with their huge flowers would provide cool shade and fill the air with their fragrance one day, but for now, they were still quite small.
+
 As usual, he went to inspect the bushes before the noon heat, looking for damaged branches or pests. Perhaps, it was time to call the servants to harvest flowers.
-Here and there, carefully, watchful of the thorns, he would open a bush and enjoy its fragrant scent. 
-As in all of the valleys of the Barada River, roses came in endless varieties. Each had an aroma all its own, though they were planted at the same time in the same soil. It led him to think about the origin of plants’ varieties, about the mystery of the seed and its underlying structure. But these thoughts were not organized into a system; long observations and experimentations were needed to draw conclusions about the nature of plants. They would, however, be of use in the future. For now, he devoted his brief lunch to his tract on Science Categories. He strove to reach a strict demarcation between all the sciences known to him.
-Finally, the sun leaned to the west, and the gardener headed for the vineyards. Rapt in thought, he proceeded to cut off the dried branches, slowly making his way along the shady side of the lush wall of green, when he noticed two dust-covered horsemen dismount at the far gate. One stayed behind to guard the horses, while the other headed into the garden. He wore a long abah, with a light-colored turban, wrapped in the manner of young warriors from Damascus. Beneath his eyes, the lower part of his face was covered with a soft white cloth. 
+
+Here and there, carefully, watchful of the thorns, he would open a bush and enjoy its fragrant scent. As in all of the valleys of the Barada River, roses came in endless varieties. Each had an aroma all its own, though they were planted at the same time in the same soil. It led him to think about the origin of plants’ varieties, about the mystery of the seed and its underlying structure. But these thoughts were not organized into a system; long observations and experimentations were needed to draw conclusions about the nature of plants. They would, however, be of use in the future. For now, he devoted his brief lunch to his tract on Science Categories. He strove to reach a strict demarcation between all the sciences known to him.
+
+Finally, the sun leaned to the west, and the gardener headed for the vineyards. Rapt in thought, he proceeded to cut off the dried branches, slowly making his way along the shady side of the lush wall of green, when he noticed two dust-covered horsemen dismount at the far gate. One stayed behind to guard the horses, while the other headed into the garden. He wore a long abah, with a light-colored turban, wrapped in the manner of young warriors from Damascus. Beneath his eyes, the lower part of his face was covered with a soft white cloth.
+
 Noticing him, the man, perhaps somewhat startled, paused momentarily as if in reflection and then looking upon the odd, slightly hunched over figure of the gardener, decisively strode toward him.
+
 The sudden arrival of the stranger did not disturb the gardener. He calmly went on with his work. He carefully deposited the pruned dry branches in the shade of the plum trees that grew amid the rows of grapes next to the bolt of brushwood that he had collected yesterday. Usually, he would take the brushwood every other day to the bazaar in a village close by and trade it for a few copper coins, enough to buy salt and flatbread. Last time, however, the mirab – his landlord of sorts – had taken the whole bolt and went off to sell it himself.
+
 “That is our simple work,” he said. “Since you honored me and we are sharing everything, then I have to do some work, too.”
 The mirab came back at night. He had gone to the Great Bazaar in Damascus. He produced a package of thick paper. It was a letter from the Chaldean who lived in a large stone house a block away from the city’s Little Gate. The Chaldean, a book lover, reported that a caravan had arrived from Baalbek, carrying a valuable package from a merchant he knew – two old Greek books. He wondered if these would be of interest to one so honored by all learned men in Baghdad, Damascus, Amman, and Jerusalem, the esteemed Abu Nasr?
+
 The gardener was puzzled. How did the Chaldean know he was here? He had left the city a month ago and told no one. He was in hiding from the Caliph’s spies. Most importantly, he did not want evil rumors to hurt his beloved. Who could have known of his flight from the Caliph, his trip to Bokhara, and back to Damascus? He had hardly any friends left. In the last few months, he felt as if he were in a desert even when among people.
 At one time, he had plenty of friends in Caliph’s court. They were by his side while he composed odes to the Caliph of Baghdad, to the Sultan of Damascus, and honoring Allah taught others, exhorting them to obey Islam.
+
 All that was in the past with the caliphs and emirs alike. Carried away by the kingdom of knowledge, the world around him grew empty once he deigned to question the teachings of the Prophet.
+
 But then what kept him in Damascus? He could hardly admit it to himself…
+
 The mirab who had brought the letter told him he had been seized at the bazaar and taken by force to the Chaldean’s house, where without a word, he was handed the letter.
+
 The message alarmed Abu Nasr. At the same time, he could not pass up the opportunity to leaf through the old books it described. For three days, he had been wondering whether he should go out to town. Concealing oneself from spying eyes was a futile endeavor one way or another. And then there was the chance to see his love if but once more!
-Could the old Chaldean have found out about him from the rose plantation’s landlord? But how would he know that his gardener is the exile from Otrar who was addressed by scholars as the Sage of Farab? No, the owner was far from that world. He was beholden to his wealth and desires of the flesh. As for the mirab, he did not even know his real name, nor ever showed interest in his past. The mirab was a man of few words, with one thought on his mind – the timely watering of every little seedling, bush, and flower.
-Few strangers visited. The trees were not tall yet and provided little shade. Thus, the garden drew little attention either from its owner or from flower buyers. The owner had not built any structures. In the summer heat, he would leave for another garden, old and shady, about twenty miles from here, on the banks of Barada River at the bottom of Hemron,  where the air was fresher and cooler. There he had built a summer palace with pools and houses for his servants and courtiers. This garden he ignored, and hardly ever sent his servants or court officials.
-As the mirab said, the first plentiful harvest was coming, and in about three days, the slaves would arrive to pick the fruit. Perhaps the stranger had been sent by the master himself or by the manager of his gardens, wheat fields, cotton plantations, and fig groves? Abu Nasr wondered.
+
+Could the old Chaldean have found out about him from the rose plantation’s landlord? But how would he know that his gardener is the exile from Otrar who was addressed by scholars as the Sage of Farab? No, the owner was far from that world. He was beholden to his wealth and desires of the flesh. As for the mirab, he did not even know his real name, nor ever showed interest in his past. 
+
+The mirab was a man of few words, with one thought on his mind – the timely watering of every little seedling, bush, and flower.
+Few strangers visited. The trees were not tall yet and provided little shade. Thus, the garden drew little attention either from its owner or from flower buyers. The owner had not built any structures. In the summer heat, he would leave for another garden, old and shady, about twenty miles from here, on the banks of Barada River at the bottom of Hemron,  where the air was fresher and cooler. There he had built a summer palace with pools and houses for his servants and courtiers. 
+
+This garden he ignored, and hardly ever sent his servants or court officials. As the mirab said, the first plentiful harvest was coming, and in about three days, the slaves would arrive to pick the fruit. Perhaps the stranger had been sent by the master himself or by the manager of his gardens, wheat fields, cotton plantations, and fig groves? Abu Nasr wondered.
+
 One way or another, the stranger was the first person to come by after he heard from the Chaldean. This worried the gardener. Once the fruit pickers and their overseers arrived, he would not have time or space for the seclusion and quiet necessary to work on his treatise categorizing the sciences, and on which he had been working for years, albeit not without interruptions.
+
 The book was to be in five parts and drew close to completion. Still, each definition had yet to be pored over, and the narrative was made as straightforward as possible, the evidence rendered precisely. He needed to double-check his arguments and conclusions on logic, to expand the third part on mathematics, on the stars, on gravity.
 
 As the gardener cut away the dry twigs and freed the green stalks from the dead weight, his mind went back to his notes. He kept finding lines and words that belabored the idea or obscured its meaning. He needed to get rid of them carefully so that the thoughts could evolve lightly and freely, much like these stalks when rid of dead twigs. The bag which contained his notes, a reed qalam, and vials of ink lay next to his kipchagi, which always had to be kept in the shade to keep it from desiccating. Abu Nasr tossed a cut twig into the pile of brush, quickly covered the bag with leaves, and, straightening up, glanced at the stranger.
+
 
 The stranger’s face was covered by a white cloth, as were the faces of many travelers and warriors in these hot lands. Only the eyes shone. A cape of expensive Baghdad cloth draped the unknown visitor whose hands carried a small bundle and a pitcher. Lightly the stranger stepped over the ditch. The stride was light – not heavy like that of a man. He could recognize that stride among a thousand others! Then he saw the eyes. Her eyes! She tore the cover off her face, and it was she!
 
 “I found you!”
 
-He was almost ready to run to her like a smitten adolescent, but he did not move. One could not even tell by his expression whether he was glad or upset. He was unchanged. Happiness and joy flooded her eyes, and while her desire to leap into his arms seemed irresistible, yet he did not stir. 
+He was almost ready to run to her like a smitten adolescent, but he did not move. One could not even tell by his expression whether he was glad or upset. He was unchanged. Happiness and joy flooded her eyes, and while her desire to leap into his arms seemed irresistible, yet he did not stir.
 
 Giving her an almost indiscernible bow, he greeted her with restraint and unperturbed, invited her to sit in the shade. He removed the strap from which hung the pruning knife and, laying them aside, went to wash his hands in the irrigation ditch.
-“What worries you, hanum? Is all quiet in town?”
-His voice sounded unnaturally hoarse.
+“What worries you, hanum? Is all quiet in town?” His voice sounded unnaturally hoarse.
 
 “My love was stronger than me… I found you again.”
 
-She looked into his lean face, firm lips, trimmed black mustache, and thick beard.
+She looked into his lean face, firm lips, trimmed black mustache, and thick beard. 
+
 Outwardly he had not changed…the same long cloth coat, the same soft calfskin boots, with slightly arched toes, a white turban on his head. As he straightened, she noticed a slight slouch, or perhaps she simply failed to observe it before? Maybe it was from fatigue or from working on his treatises.
 
 He wiped his hands and tied his old belt strap with a small sheath for the knife… still the same clean white shirt and loose pants of sturdy cloth…
@@ -80,11 +108,11 @@ The observant eye of a woman could not miss the graying hairs of his mustache an
 
 “The past is a reservoir of memories. If it remains pristine, it always gives strength to the imagination and helps preserve the beauty of tender feelings,” said he, laying a small rug for her.
 
-“Was not our love such a fount?” He sensed a note of despair in her voice. 
+“Was not our love such a fount?” He sensed a note of despair in her voice.
 
 “Why do you sound so cold?” she went on. “Did your mother deprive you of tenderness? Had your father not instilled kindness in you? How may moonlit nights have passed since last we saw one another!”
 
-“Whosoever is not reared by his father, will be reared by time,” he said enigmatically. 
+“Whosoever is not reared by his father, will be reared by time,” he said enigmatically.
 
 She regarded him closely as if meaning to ask a question, but she did not. Instead, she untied her bundle and produced soft white flatbread, dried dates, and a pitcher of wine.
 
@@ -106,8 +134,7 @@ Did you not know that Love can be mocked? Whether it comes from the steppes or f
 
 He spoke quietly, trying to drown out his pain. He not so much lectured her as tried to convince himself. He realized he had no way out. He loved her and would love her all his life. He had loved her since he was young, from the time she had first come to Baghdad as well as later when they met again in Damascus. Afterward, he traveled to Bokhara and the Samanids. Now, he was back in Damascus, brought back by the callings of his heart. Yet cold reason told him that if he surrendered to love, another passion would die- that of the quest for knowledge. The fire of love might win. He was not afraid of obscurity and death. He was more worried that he would not be able to finish his work or leave behind his words of counsel. But who needed his knowledge or his counsel? Could this sacrifice be too great? She spoke truthfully, after all, his Banu. She would follow him anywhere and would reject the sweet things of life that were showered upon her by wealth and beauty.
 
-How beautiful you are, my Banu! Oh Lord Creator, give me strength! Where is that line 
-between human desire and one’s duty to reason?
+How beautiful you are, my Banu! Oh Lord Creator, give me strength! Where is that line between human desire and one’s duty to reason?
 
 He accepted the glass of wine from her, and after a sip, put it back. Despite his age, Abu Nasr was still full of energy. He could go back to Baghdad with Banu, ask the Caliph for protection, and become his court scholar. However, that would once again make him an obedient slave to his desires.
 
@@ -123,7 +150,9 @@ So what did Socrates say to Callicles then? He thought to himself in despair as 
 
 “You once said knowledge alone is eternal,” said Banu. “Yet, does it not also perish with its possessor? Wise men say that love is eternal as well since it is the continuation of life and a pledge to posterity. Man is not a stranger to passion, and knowledge is not acquired without passion either…”
 
+
 “As always, you do not relent,” Abu Nasr interrupted. “Your words betray a thirst for knowledge and the yearnings of developing reason. You would make an honorable student and a good philosopher. However, though it appears our discourse is on one and the same thing, it is not, and we speak in different tongues. You speak of love, passion, and the desires with which our Creator had endowed us along with all living things. I speak of the infinite and eternal love of the beatific, the beatific that is infinite discovery enriching the mind and expanding knowledge. Knowledge is timeless and is what makes us human. It richly rewards not only the inventor. Its mysteries, however, are contradictory to those mysteries of love on which you speak, my beautiful Banu.”
+
 
 “You called me ‘my beautiful!’ Thanks be to Almighty Allah! None that are wise lack the knowledge of love’s sweetness. Let my love be the way you see it. Do not reject it. We discovered it together, did we not? Love may vary, but I have but one that is my own, and I fear no torment for it.”
 
