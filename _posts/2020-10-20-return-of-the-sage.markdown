@@ -9,7 +9,7 @@ date: 2020-10-20
 descrip: "“Return of the Sage” is the novelization of the life, discoveries, writings, and ruminations of Abu Nasr al-Farabi, the towering intellectual figure in the Middle Ages who was known as the Aristotle of Central Asia and the Middle East." # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
-bigtitle_img: "/assets/images/ebooks/return_sage.png"
+bigtitle_img: "https://s1.livelib.ru/boocover/1000704710/200/546c/Anuar_Alimzhanov__Vozvraschenie_Uchitelya.jpg"
 image: "/assets/images/ebooks/return_sage.png" # for opengraph
 carousel_img: "/assets/images/ebooks/return_sage.png" # for carousel
 western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
