@@ -48,7 +48,7 @@ western-eyes: true # to add to western eyes list, edit `_data/eyes.yml`
 
 *Courtesy of Personal Library of Ambassador of Kazakhstan to the United States of America H.E. Erzhan Kazykhanov*
 
-## AUTHOR IMG
+<img class="portrait" src="/assets/images/publications/lattimore/lattimore.jpg" alt="Eleanor Holgate Lattimore headshot">
 
 Eleanor Holgate Lattimore was born in Evanston, Illinois, where her father was on the faculty North-Western University.
 
@@ -58,7 +58,7 @@ In 1926 she married Owen Lattimore, and has accompanied her husband on his many 
 
 In her book entitled “Turkestan Reunion” published by Hurt and Blackett, Ltd. in 1934 in London, Eleanor Lattimore shares her memories of Kazakh hospitality and friendliness.
 
-## BOOK
+<img class="book" src="/assets/images/publications/lattimore/book.jpg" alt="Turkestan Reunion book jacket">
 
 During their travels through Central Asia, Eleanor and her husband encountered Kazakhs who lived in the mountains. The author notes that “these Kazakhs of the Tien Shan live in the winter in the protected fastness of the high mountains, in the spring  and summer moving farther and farther down towards the plains as the upper pastures are exhausted. All of their life is conditioned by the welfare of their flocks, but in June that life is prosperous and easy” .
 
