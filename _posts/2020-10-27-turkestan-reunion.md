@@ -6,7 +6,7 @@ author: "H.E. Erzhan Kazykhanov"
 author_img: "https://images.ctfassets.net/3u75lz35gn9w/3q4ArYET6bbezgtAY4AH1T/33b7a5077aa48a22c62cba01db4f95be/Ambassador_Erzhan_Kazykhanov.jpg"
 author_bio: "Ambassador Kazykhanov is one of Kazakhstan’s most experienced diplomats. Prior to his appointment as the Ambassador to the U.S., Ambassador Kazykhanov served as Foreign Minister and Ambassador to the United Kingdom of Great Britain & Northern Ireland."
 date: 2020-10-27
-descrip: "TKTKTKTKTKTKTK" # for opengraph and carousel
+descrip: "In the 1930s, educator and author Eleanor Holgate Lattimore traveled throughout Central Asia. In her book 'Turkestan Reunion,' she provides an unique perspective on the nomadic life of the steppe from the point of view of a Western woman traveler." # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: false
 image: "/assets/images/publications/lattimore/book.jpg" # for opengraph
