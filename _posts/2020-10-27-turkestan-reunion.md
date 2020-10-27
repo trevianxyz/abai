@@ -9,8 +9,8 @@ date: 2020-10-27
 descrip: "TKTKTKTKTKTKTK" # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: false
-image: "/assets/images/publications/TKTKTKT" # for opengraph
-carousel_img: "/assets/images/publications/TKTKTKTK" # for carousel
+image: "/assets/images/publications/lattimore/book.jpg" # for opengraph
+carousel_img: "/assets/images/publications/lattimore/book.jpg" # for carousel
 western-eyes: true # to add to western eyes list, edit `_data/eyes.yml`
 ---
 
