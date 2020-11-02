@@ -12,7 +12,6 @@ bigtitle: false
 image: "/assets/images/publications/lattimore/book.jpg" # for opengraph
 carousel_img: "/assets/images/publications/lattimore/book.jpg" # for carousel
 western-eyes: true # to add to western eyes list, edit `_data/eyes.yml`
-categories: ['publication']
 ---
 
 <style>
