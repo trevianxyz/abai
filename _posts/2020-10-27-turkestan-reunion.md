@@ -50,9 +50,9 @@ western-eyes: true # to add to western eyes list, edit `_data/eyes.yml`
 
 <img class="portrait" src="/assets/images/publications/lattimore/lattimore.jpg" alt="Eleanor Holgate Lattimore headshot">
 
-Eleanor Holgate Lattimore was born in Evanston, Illinois, where her father was on the faculty North-Western University.
+Eleanor Holgate Lattimore was born in Evanston, Illinois, where her father was on the faculty Northwestern University.
 
-After graduating from North-Western University, Lattimore taught school in St. Louis and later organized girls’ clubs and camps for the Y.W.C.A in the North West. In 1921 she travelled in China with her parents. After two years in New York she returned to Beijing in 1924 where she taught for a year in Chinese schools and later became secretary of the Peking Institute of Fine Arts.
+After graduating from Northwestern, Lattimore taught school in St. Louis and later organized girls’ clubs and camps for the Y.W.C.A in the North West. In 1921 she travelled in China with her parents. After two years in New York she returned to Beijing in 1924 where she taught for a year in Chinese schools and later became secretary of the Peking Institute of Fine Arts.
 
 In 1926 she married Owen Lattimore, and has accompanied her husband on his many journeys in the exciting and little known lands beyond the Great Wall of China.
 
