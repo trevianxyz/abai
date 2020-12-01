@@ -63,11 +63,8 @@ Alma-Ata, capital of Kazakhstan, is now a large modern city in a beautiful situa
 Mount Kok-Tybech, that Kathleen says can be reached by cable car, offers stunning panoramic views of the whole city. When sharing this, the author emphasizes that originally Alma Ata started as a small trading post, the Kazakh settlement of Almaty.  
 
 ![](assets/images/western-eyes/kok_tobe.jpeg)<br>
-
-<div class="row">
-<p class="mx-auto text-center">Image: Kok Tobe, Almaty</p><br>
-<p class="mx-auto text-center">Photo credit: viewkazakhstan.com</p>
-</div>
+<div class="text-center">Image: Kok Tobe, Almaty</div>
+<div class=" text-center">Photo credit: viewkazakhstan.com</div>
 
 Kathleen also touches upon the city’s history and shares accounts where much of  Almaty (before fort Vierney) was destroyed by a severe earthquake in 1887 after which only small wooden buildings were erected and the town declined. She also notes that by the end of that century Vierney was mainly used as a place for exile for political prisoners. 
 
