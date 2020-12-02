@@ -39,8 +39,8 @@
 
 .usa-logo a div {
   display: block;
-  font-size: 6.5rem;
-  margin-left: 100px;
+  font-size: 5rem;
+  margin-left: 140px;
   line-height: 22px;
   margin-top: 5%;
 }
@@ -96,20 +96,16 @@ span.quote {
 @media (max-width: 767.98px) {
 
   .usa-navbar {
-    height: auto !important;
+    height: auto !important;  
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     border: 0;
     }
 
-div.main-text {
-  padding: 10px;
-}
-
   .usa-logo a div {
     margin-left: 0px;
-    font-size: 3.5rem;
+    font-size: 3.2rem;
     margin-top: 0px;
   }
 
