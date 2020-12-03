@@ -68,6 +68,14 @@ span.quote {
   padding: 30px;
 }
 
+.main-text {
+  font-weight: bolder;
+}
+
+.univ-logo {
+  padding: 10px;
+}
+
 /* Large Screens */
 @media (min-width: 951px) {
   .usa-header-extended .usa-logo {
@@ -104,9 +112,15 @@ span.quote {
     }
 
   .usa-logo a div {
-    margin-left: 0px;
-    font-size: 3.2rem;
     margin-top: 0px;
+    margin-left: 50px;
+    font-size: 2.7rem;
+  }
+
+  .univ-logo {
+   height: 30px;
+   width: auto;
+   padding: 3px;
   }
 
 }
