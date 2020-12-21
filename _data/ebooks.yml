@@ -1,4 +1,16 @@
 contents:
+  - title: "Artists of Modern Kazakhstan"
+    image: "/assets/images/ebooks/artists_modern _kazakhstan.png"
+    href: "https://abaicenter.nyc3.cdn.digitaloceanspaces.com/pubs/ARTISTS%20OF%20MODERN%20QAZAQSTAN_%5Bspreads%5D.pdf"
+    publication: 
+    author: 'Paul Michael Taylor'
+    date: '2020'
+  - title: "Kazakhstan’s Crafts and Creative Economy: Proceedings of an International Symposium"
+    image: "/assets/images/ebooks/craft_economy.PNG"
+    href: "https://7facets.fra1.cdn.digitaloceanspaces.com/books/Kazakhstan_s_Crafts_and_Creative_Economy.pdf"
+    publication: 
+    author: 'Paul Michael Taylor'
+    date: '2020'
   - title: "Anthologies of Contemporary Kazakh Literature"
     image: "https://abaicenter.com/assets/images/kazakh-poetry.jpg"
     href: "/anthologies-of-contemporary-kazakh-literature"
@@ -11,9 +23,4 @@ contents:
     publication: 
     author: 'Anuar Alimzhanov'
     date: ''
-  - title: "Kazakhstan’s Crafts and Creative Economy: Proceedings of an International Symposium"
-    image: "/assets/images/ebooks/craft_economy.PNG"
-    href: "https://7facets.fra1.cdn.digitaloceanspaces.com/books/Kazakhstan_s_Crafts_and_Creative_Economy.pdf"
-    publication: 
-    author: 'Paul Michael Taylor'
-    date: '2020'
+
