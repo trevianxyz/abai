@@ -1,0 +1,7 @@
+url: "http://localhost:4000"
+baseurl: ""
+
+exclude:
+  - .idea/
+  - .sass-cache/
+  - _site/
