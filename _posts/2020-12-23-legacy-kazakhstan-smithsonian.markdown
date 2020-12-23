@@ -51,6 +51,12 @@ categories: ['publication']
         margin-left: auto;
         margin-right: auto;
     }
+
+    img[src*="#creative"] {
+   width: auto !important;
+   height:400px !important;
+}
+
 </style>
 
 When asked by the Embassy of Kazakhstan to contribute an article about
@@ -155,7 +161,7 @@ institutions, the Smithsonian and the Kasteyev State Museum of Arts. The
 book is now fully available online
 [here](https://www.academia.edu/43867373/Kazakhstan_s_Crafts_and_Creative_Economy_Proceedings_of_an_International_Symposium).
 
-> ![](/assets/images/publications/pmtaylor/image2.jpeg)
+> ![](/assets/images/publications/pmtaylor/image2.jpeg#creative)
 > Figure 2*. Kazakhstan's Crafts and Creative Economy: Proceedings of an
 > International Symposium* (Taylor and Shalabayeva, 2020).
 
@@ -249,9 +255,9 @@ Kazakhstan's museums had first been formalized by our joint, successful
 application for an IPAM grant in 2006, whose then-expressed aims were
 modest but potentially long-lasting:
 
-> 1\. To develop the capacity, within our respective institutions, for
-> sharing our collections-based research using digital technologies.\
-> \
+> 1. To develop the capacity, within our respective institutions, for
+> sharing our collections-based research using digital technologies.
+
 > 2. To explore the collaborative construction of virtual exhibits, and
 > other means of disseminating information, about the ethnography and
 > material culture of Kazakhstan. The development of such web-based
