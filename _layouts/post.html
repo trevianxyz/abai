@@ -79,7 +79,7 @@ layout: default
    <h3>{{ page.author }}</h3>
     <div id="authorbio"></div>
      <p class="lead">
-      {{ page.author_bio }}
+      {{ page.author_bio | markdownify }}
       </p>
     </div>
     <div class="col-sm-12 col-md-6 align-middle">

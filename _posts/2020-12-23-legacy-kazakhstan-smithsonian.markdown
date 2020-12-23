@@ -9,8 +9,8 @@ date: 2020-12-23
 descrip: "Dr. Paul Michael Taylor writes of the collaboration between Kazakhstan & The Smithsonian's Asian Cultural History Program (ACHP)." # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
-image: "" # for opengraph
-carousel_img: "/assets/images/publications/pmtaylor/image5.jpeg" # for carousel
+bigtitle_img: "/assets/images/publications/pmtaylor/models-wearing-some-of-the-Kazakhstani-wearable-craft-fashion-designs-at-the.png" # for opengraph
+carousel_img: "/assets/images/publications/pmtaylor/models-wearing-some-of-the-Kazakhstani-wearable-craft-fashion-designs-at-the.png" # for carousel
 western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
 categories: ['publication']
 ---
