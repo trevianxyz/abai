@@ -54,7 +54,7 @@ categories: ['publication']
 
     img[src*="#creative"] {
    width: auto !important;
-   height:400px !important;
+   height: 450px !important;
 }
 
 </style>
@@ -110,7 +110,7 @@ Museum. The internationally known event is organized each year by an
 active and experienced group of volunteers, the Smithsonian Women's
 Committee.
 
-![](/assets/images/publications/pmtaylor/image1.tif)
+![](/assets/images/publications/pmtaylor/figure1.jpg)
 
 > Figure 1. Artisans from Kazakhstan, who showed their \"wearable
 > craft\" art at the Smithsonian Craft2Wear Show, Oct. 3-5. From left:
@@ -255,18 +255,9 @@ Kazakhstan's museums had first been formalized by our joint, successful
 application for an IPAM grant in 2006, whose then-expressed aims were
 modest but potentially long-lasting:
 
-> 1. To develop the capacity, within our respective institutions, for
-> sharing our collections-based research using digital technologies.
+1. To develop the capacity, within our respective institutions, for sharing our collections-based research using digital technologies.
 
-> 2. To explore the collaborative construction of virtual exhibits, and
-> other means of disseminating information, about the ethnography and
-> material culture of Kazakhstan. The development of such web-based
-> exhibits and educational resource materials would assist educators and
-> students in understanding the ethnography, traditions, and material
-> heritage of Kazakhstan. Alongside other specialized scholarly
-> publications, these products can constitute an important means by
-> which we bring research (and new perspectives) in this relatively
-> little-known field to the public.
+2. To explore the collaborative construction of virtual exhibits, and other means of disseminating information, about the ethnography and material culture of Kazakhstan. The development of such web-based exhibits and educational resource materials would assist educators and students in understanding the ethnography, traditions, and material heritage of Kazakhstan. Alongside other specialized scholarly publications, these products can constitute an important means by which we bring research (and new perspectives) in this relatively little-known field to the public.
 
 Our successful grant application, seeking only the funds for a single
 exchange visit of one staff member from each museum to the other's
@@ -367,7 +358,7 @@ opportunity to develop the project and hold a very successful launch
 event in Washington during the visit of the President of Kazakhstan to
 that city in April 2010.
 
-![](/assets/images/publications/pmtaylor/image4.tif) 
+![](/assets/images/publications/pmtaylor/valikhanov_website.png) 
 
 > Figure 4. Homepage (in April 2010) of the online publication, launched
 > April 10, 2010, *Discover Kazakhstan: The Expeditions of Chokan
