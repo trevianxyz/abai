@@ -4,7 +4,7 @@ layout: post
 title: "The Legacy of an International Partnership: Kazakhstan and the Smithsonian"
 author: "Paul Michael Taylor"
 author_img: "https://naturalhistory.si.edu/sites/default/files/styles/profile/public/media/image/paulmichaeltaylor2_2.jpg?itok=PclpRGjS"
-author_bio: "Paul Michael Taylor**, a research anthropologist at the Smithsonian's National Museum of Natural History, is director of that museum's Asian Cultural History Program, and serves as Curator of Asian, European, and Middle Eastern Ethnology. He is the author of numerous books, scholarly articles, and online works about the ethnobiology, ethnography, art and material culture of Asia, and about the history of museums and anthropology. Contact: taylorp@si.edu"
+author_bio: "Paul Michael Taylor, a research anthropologist at the Smithsonian's National Museum of Natural History, is director of that museum's Asian Cultural History Program, and serves as Curator of Asian, European, and Middle Eastern Ethnology. He is the author of numerous books, scholarly articles, and online works about the ethnobiology, ethnography, art and material culture of Asia, and about the history of museums and anthropology. Contact: taylorp@si.edu"
 date: 2020-12-23
 descrip: "Dr. Paul Michael Taylor writes of the collaboration between Kazakhstan & The Smithsonian's Asian Cultural History Program (ACHP)." # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
