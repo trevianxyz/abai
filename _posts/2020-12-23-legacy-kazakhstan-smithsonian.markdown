@@ -4,7 +4,7 @@ layout: post
 title: "The Legacy of an International Partnership: Kazakhstan and the Smithsonian"
 author: "Paul Michael Taylor"
 author_img: "https://naturalhistory.si.edu/sites/default/files/styles/profile/public/media/image/paulmichaeltaylor2_2.jpg?itok=PclpRGjS"
-author_bio: "Paul Michael Taylor**, a research anthropologist at the Smithsonian's National Museum of Natural History, is director of that museum's Asian Cultural History Program, and serves as Curator of Asian, European, and Middle Eastern Ethnology. He is the author of numerous books, scholarly articles, and online works about the ethnobiology, ethnography, art and material culture of Asia, and about the history of museums and anthropology. [Contact](mailto:taylorp@si.edu)"
+author_bio: "Paul Michael Taylor**, a research anthropologist at the Smithsonian's National Museum of Natural History, is director of that museum's Asian Cultural History Program, and serves as Curator of Asian, European, and Middle Eastern Ethnology. He is the author of numerous books, scholarly articles, and online works about the ethnobiology, ethnography, art and material culture of Asia, and about the history of museums and anthropology. Contact: taylorp@si.edu"
 date: 2020-12-23
 descrip: "Dr. Paul Michael Taylor writes of the collaboration between Kazakhstan & The Smithsonian's Asian Cultural History Program (ACHP)." # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
@@ -110,7 +110,7 @@ Museum. The internationally known event is organized each year by an
 active and experienced group of volunteers, the Smithsonian Women's
 Committee.
 
-![](/assets/images/publications/pmtaylor/figure1.jpg)
+![](/assets/images/publications/pmtaylor/Figure_1.jpg)
 
 > Figure 1. Artisans from Kazakhstan, who showed their \"wearable
 > craft\" art at the Smithsonian Craft2Wear Show, Oct. 3-5. From left:
@@ -208,7 +208,7 @@ Syrlybayeva, Nurzhamal Nurfeizova. The symposium was later made
 available online
 [here](https://www.youtube.com/watch?v=-ZM1zDHCVW8&list=PL__mMoD16eH3np-sZHH_O6dtcGEkXbB83&index=32).
 
-![](/assets/images/publications/pmtaylor/image3.tif) 
+![](/assets/images/publications/pmtaylor/figure3.jpg) 
 
 > Figure 3. Scholars gathered for the *Kazakhstan's Crafts and Creative
 > Economy* Symposium at the Smithsonian Craft2Wear Show. Left to right:
