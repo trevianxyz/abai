@@ -330,7 +330,7 @@ later when the opportunity arose to carry out that project.
 Kazakhstan's Museums**
 
 Though at this writing (2020) a recent removal of research websites from
-Smithsonian sites has made our Valikhanov webite temporarily
+Smithsonian sites has made our Valikhanov website temporarily
 inaccessible (accept in archived form)[^5], the formation and launch of
 the Valikhanov website provides a very good example of a museum
 partnership.
