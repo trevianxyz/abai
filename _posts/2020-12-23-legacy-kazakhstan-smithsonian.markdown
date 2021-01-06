@@ -581,7 +581,7 @@ Kazakhstani institutions, including the Abai Center itself.
 M. Koller, for their assistance with and comments on an earlier version
 of this paper.
 
-![](media/image7.jpeg){width="2.8401093613298336in" height="2.84375in"}
+![](media/image7.jpeg)
 
 **References cited**
 

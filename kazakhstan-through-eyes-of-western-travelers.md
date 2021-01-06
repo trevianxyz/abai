@@ -13,8 +13,6 @@ text-decoration-color: #a29bfe !important;
 text-decoration-style: solid !important;
 font-weight: bold;
 }
-
-
 </style>
 
 {% assign articles = site.data.eyes.contents %}
@@ -23,7 +21,7 @@ font-weight: bold;
 <div class="row align-items-center">
     <div class="col-sm-12 col-md-4 media_center">
     {% if item.image %}
-    <a class="media-link" href="{{ item.href }}" target="_blank" title="{{ item.title }}">  <img src="{{ item.image }}" class="img-fluid news_thumbnail mx-auto" alt="Image" /></a>
+    <a class="media-link" href="{{ item.href }}" title="{{ item.title }}">  <img src="{{ item.image }}" class="img-fluid news_thumbnail mx-auto" alt="Image" /></a>
     {% else %}
     <img src="assets/images/pen_quill.png" class="img-fluid news_thumbnail mx-auto" alt="Image" />
     {% endif %}
@@ -33,7 +31,7 @@ font-weight: bold;
 <div class="align-middle">
  {% assign article_id = item.title | slugify %}
     <h2 class="briefing-statement__title_allnews mt-0" id="{{ article_id }}">
-    <a class="media-link" href="{{ item.href }}" target="_blank" title="{{ item.title }}" >
+    <a class="media-link" href="{{ item.href }}" title="{{ item.title }}" >
     {{ item.title }}
     </a>
     </h2>
