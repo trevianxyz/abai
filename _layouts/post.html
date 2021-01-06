@@ -18,27 +18,24 @@ layout: default
 </aside>
 
 <main id="main-content" class="main-content">
-
-  <div class="styleguide-content usa-content">
-  
-    <header class="{% if page.bigtitle %}post-bigtitle" style="background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url({{ page.bigtitle_img }}){% endif %}">
-      <div>
-        <h1 id="{{ post.title | slugify }}">{{ page.title }}</h1>
-        <p class="site-subheading">
-        {% if page.author %}<a href="#authorbio"
-          style="{% if page.bigtitle %} color: #fff {% else %} color: #000 {% endif %}">{{ page.author }}</a> |
-          {% endif %}{{ page.date | date_to_string }}
-        </p>
-      </div>
-    </header>
+<div class="styleguide-content usa-content">
+<header class="{% if page.bigtitle %}post-bigtitle" style="background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url({{ page.bigtitle_img }}){% endif %}">
+  <div>
+    <h1 id="{{ post.title | slugify }}">{{ page.title }}</h1>
+    <p class="site-subheading">
+    {% if page.author %}<a href="#authorbio"
+      style="{% if page.bigtitle %} color: #fff {% else %} color: #000 {% endif %}">{{ page.author }}</a> |
+      {% endif %}{{ page.date | date_to_string }}
+    </p>
+  </div>
+</header>
     
-  {% for post in site.data.contentful.spaces.Emb.posts %}
-    {% if post.title == page.title %}
+{% for post in site.data.contentful.spaces.Emb.posts %}
+  {% if post.title == page.title %}
 
 {% if page.noshow_img == true %}
     {{ post.body | markdownify }}
 {% else %}
-
       {% if post.album.url %}
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
@@ -65,8 +62,8 @@ layout: default
   {% endif %}
 {% endif %}
 
-    {% endif %}
-  {% endfor %}
+  {% endif %}
+{% endfor %}
 
 <div class="container">   
   {{ content | markdownify }}
@@ -89,27 +86,24 @@ layout: default
 {% endunless %}
 
 </div>
+
 {% if page.western-eyes == true %}
 <div class="d-flex justify-content-around styleguide-content usa-content text-center">
   <a class="media-link" href="{{ '/kazakhstan-through-eyes-of-western-travelers' | prepend: site.baseurl }}"
-    title="Home" aria-label="Return to homepage" style="color: #0071bc;">Return to Kazakhstan through Eyes of Western
+    title="Home" aria-label="Return to Western Eyes" style="color: #0071bc;">Kazakhstan through Eyes of Western
     Travelers</a>
 </div>
 {% endif %}
 
-{% if page.categories == "publication" %}
+{% if page.categories == '[publication]' %}
 <div class="d-flex justify-content-around styleguide-content usa-content text-center">
-  <a class="media-link" href="{{ '/kazakhstan-through-eyes-of-western-travelers' | prepend: site.baseurl }}"
-    title="Home" aria-label="Return to homepage" style="color: #0071bc;">Kazakhstan through Eyes of Western
-    Travelers</a>
+  <a class="link" href="{{ '/publications' | prepend: site.baseurl }}"
+    title="Home" aria-label="Return to Publications" style="color: #0071bc;">Publications</a>
 </div>
 {% endif %}
 
 <div class="d-flex justify-content-around styleguide-content usa-content">
-  <a class="media-link" href="{{ '/' | prepend: site.baseurl }}" title="Home" aria-label="Return to homepage"
+<a class="media-link" href="{{ '/' | prepend: site.baseurl }}" title="Home" aria-label="Return to homepage"
     style="color: #0071bc;">Return to Homepage</a>
 </div>
-
-  </div>
-
 </main>

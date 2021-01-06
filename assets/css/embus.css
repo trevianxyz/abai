@@ -616,7 +616,7 @@ body > footer {
 
 .site-subheading span,
 .site-subheading a {
-  color: #5b616b !important;
+  color: #5b616b;
   display: inline-block;
   font-size: 1.3rem;
   font-weight: 400;
