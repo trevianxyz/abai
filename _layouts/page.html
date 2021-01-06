@@ -38,14 +38,21 @@ layout: default
 
   </div>
 
-{% if page.title contains 'Eyes' %}
+{% if page.title contains 'Western' %}
 <div class="d-flex justify-content-around styleguide-content usa-content text-center">
   <a class="media-link" href="{{ '/publications' | prepend: site.baseurl }}"
-    title="Home" aria-label="go to publications" style="color: #0071bc;">Publications</a>
+    title="Publications" aria-label="go to publications" style="color: #0071bc;">Publications</a>
+</div>
+{% elsif page.title contains "Center Series" %}
+
+{% else %}
+<div class="d-flex justify-content-around styleguide-content usa-content text-center">
+  <a class="media-link" href="{{ '/kazakhstan-through-eyes-of-western-travelers' | prepend: site.baseurl }}"
+    title="Western Eyes" aria-label="Return to Western Eyes" style="color: #0071bc;">Kazakhstan through Eyes of Western
+    Travelers</a>
 </div>
 {% endif %}
-
-<div class="d-flex justify-content-around styleguide-content usa-content">
+<div class="d-flex justify-content-around styleguide-content usa-content text-center">
   <a class="media-link" href="{{ '/' | prepend: site.baseurl }}" title="Home" aria-label="Return to homepage" style="color: #0071bc;">Return to Homepage</a>
 </div>
 

@@ -20,9 +20,13 @@ font-weight: bold;
     <a href="{%if item.href %} {{ item.href }} {% else %} {% endif %}" target="_blank">
 <h2 class="media-link">{{ item.title }}</h2>
   <div class="usa-embed-container" aria-label="16:9">
+  {% if item.format == 'video' %}
   <video class="card-img-top" autoplay controls playsinline="playsinline" muted="muted">
   <source src="{{ item.src }}" muted="muted" loop="loop" type="video/mp4">
   </video>
+  {% else %}
+  <img src="{{ item.src }}"/>
+  {% endif %}
   </div></a>
   </div>
 </div>
