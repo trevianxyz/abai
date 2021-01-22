@@ -9,6 +9,7 @@ date: 2021-01-21
 descrip: "Women wielded decisive power, control and influence within the traditional family structure of nomadic people of the Great Steppe. Exclusive to the Abai Center, Inga Stasevich, Central Asia expert at Peter the Great Museum of Anthropology in St. Petersburg,  " # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
+image: "/assets/images/publications/stasevich/wives_of_Biys_judges_seidlitz_1883.png"
 bigtitle_img: "/assets/images/publications/stasevich/wives_of_Biys_judges_seidlitz_1883.png" # for opengraph
 carousel_img: "/assets/images/publications/stasevich/wives_of_Biys_judges_seidlitz_1883.png" # for carousel
 western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
