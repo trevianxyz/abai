@@ -148,3 +148,6 @@ Throughout her life, a woman accompanies her children and is a caring mother, sh
 
 > ![](/assets/images/publications/stasevich/Married_woman_festive_dress_Kyzyl-Kum_Desert_Pelts_1914.png#festivedress)
 > Married woman in a festive dress (Kyzyl-Kum Desert, Jizzakh district, V.D. Pelts, 1914)
+
+
+<p class="small"><em>All images are reproduced here with a written permission of the Peter the Great Museum of Anthropology and Ethnography (the Kunstkamera). No further reproduction by third parties is possible without proper authorization from the museum.</em></p>
