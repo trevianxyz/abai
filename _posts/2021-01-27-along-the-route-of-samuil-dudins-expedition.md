@@ -38,10 +38,12 @@ categories: ['publication']
     }
 
     blockquote {
-        text-align: center;
-        font-size: 1.2em;
-        color: #cc5500;
+        text-align: left;
+        font-size: .9em;
+        color: #40407a;
         font-style: italic;
+        margin-left: 2%;
+        margin-right: 5%;
     }
 
 img {
@@ -50,42 +52,52 @@ img {
     margin-right: auto;
 }
 
-img[src*="#wives_biys"] {
+img[src*="#1"] {
    width: auto;
    height: 400px;
 }
 
-img[src*="#groomfam"] {
+img[src*="#2"] {
    width: auto;
    height: 400px;
 }
 
-img[src*="#Kazakhgirls"] {
+img[src*="#3"] {
    width: auto;
    height: 400px;
 }
 
-img[src*="#headdress"] {
+img[src*="#4"] {
    width: auto;
    height: 400px;
 }
 
-img[src*="#wealthy"] {
+img[src*="#5"] {
    width: auto;
    height: 400px;
 }
 
-img[src*="#cradle"] {
+img[src*="#6"] {
    width: auto;
    height: 400px;
 }
 
-img[src*="#homedress"] {
+img[src*="#7"] {
    width: auto;
    height: 400px;
 }
 
-img[src*="#festive"] {
+img[src*="#8"] {
+   width: auto;
+   height: 400px;
+}
+
+img[src*="#9"] {
+   width: auto;
+   height: 400px;
+}
+
+img[src*="#10"] {
    width: auto;
    height: 400px;
 }
@@ -112,7 +124,7 @@ visited the Semirechenskaya region, Tarbagatai, and Eastern Turkestan.
 On this expedition, Dudin was entrusted with pictorial and photographic
 representation.[^1] A few years later, Dudin, together with Sergei
 Oldenburg, went on two consecutive expeditions to Chinese Turkestan
-(1909-1910 and 1914-1915). [^2]
+(1909-1910 and 1914-1915).[^2]
 
 In 1899, Dudin visited the Kazakhs of the Akmola, Semipalatinsk, and
 Semirechye regions.[^3] Kunstkamera researchers Valeriia Prishchepova
@@ -155,7 +167,7 @@ clothing for winter are a covered coat (*ishik*) and a sheepskin coat
 (*ton*); the latter was worn over a coat (*shekpen*) made of homespun
 cloth (see Photo 2).
 
-![](/assets/images/publications/dudin/2.png){width="6.550597112860892in" height="6.5in"}
+![](/assets/images/publications/dudin/2.png#2)
 
 **Traditional Clothing**
 
@@ -171,7 +183,7 @@ housed a fire-starter, flint, and other tools needed by a nomad (see
 Photo 3). On the other side of the belt hung a pouch with a knife and a
 pouch with bullets and gunpowder.
 
-![](/assets/images/publications/dudin/4.png){width="6.24in" height="4.35in"}
+![](/assets/images/publications/dudin/4.png#4)
 
 Dudin also depicted the *kalpak*, a man's headdress popular not only
 among the Kazakhs but also among the Kyrgyz.[^11] The *kalpak* was made
@@ -201,14 +213,14 @@ clothing from that era was made from a wide variety of local Central
 Asian and Russian fabrics, as well as British, Indian, and Iranian
 textiles that were imported into the region.
 
-![](/assets/images/publications/dudin/6.png){width="5.27in" height="8.04in"}
+![](/assets/images/publications/dudin/6.png#6) 
 
-![](/assets/images/publications/dudin/7.png){width="6.27in" height="5.74in"}
+![](/assets/images/publications/dudin/7.png#7) 
 
 Photo 6 shows a Kazakh family in their yurt. Numerous felt trunk covers
 (*karshyn*) serve as a picturesque background.
 
-![](/assets/images/publications/dudin/10.png){width="6.27in" height="6.17in"}
+![](/assets/images/publications/dudin/10.png#10) 
 
 **In and beyond the Yurt**
 
@@ -245,13 +257,13 @@ steppe reeds wrapped with multicolored wool). Felt also reigned supreme
 in the interior decoration of the yurt, serving as the base for numerous
 carpets, storage bags, and chest covers (see Photo 10).
 
-![](/assets/images/publications/dudin/11.png){width="6.27in" height="5.71in"}
+![](/assets/images/publications/dudin/11.png#11) 
 
-![](/assets/images/publications/dudin/12.png){width="6.27in" height="6.23in"}
+![](/assets/images/publications/dudin/12.png#12) 
 
-![](/assets/images/publications/dudin/13.png){width="6.27in" height="3.59in"}
+![](/assets/images/publications/dudin/13.png#13) 
 
-![](/assets/images/publications/dudin/14.png){width="6.27in" height="5.68in"}
+![](/assets/images/publications/dudin/14.png#14) 
 
 **Felt Art and Embroidery**
 
@@ -300,11 +312,11 @@ main background and then quilted and stitched along the contour of the
 pattern. Photo 13 depicts a felt storage bag *ayak kap* that is
 decorated with embroidery and felt appliqué.
 
-![](/assets/images/publications/dudin/15.png){width="3.25in" height="5.8in"}
+![](/assets/images/publications/dudin/15.png#15) 
 
-![](/assets/images/publications/dudin/16.png){width="4.69in" height="8.34in"}
+![](/assets/images/publications/dudin/16.png#16) 
 
-![](/assets/images/publications/dudin/17.png){width="4.74in" height="8.19in"}
+![](/assets/images/publications/dudin/17.png#17) 
 
 In the paper on Kazakh ornamentation,[^18] Dudin shared his thoughts
 about embroidery, which, in his opinion, appeared later than the art of
@@ -327,7 +339,7 @@ this article. However, anyone interested in the history of the Kazakhs
 at the end of the 19th century can explore Samuil Dudin's photographic
 collection on the [Kunstkamera website](https://www.kunstkamera.ru/en/).
 
-![](/assets/images/publications/dudin/18.png){width="6.55in" height="4.959722222222222in"}
+![](/assets/images/publications/dudin/18.png#18) 
 
 [^1]: Valeriia Prishchepova, "K 150-letiiu so dnia rozhdeniia S.M.
     Dudina---khudozhnika, etnografa (po materialam MAE RAN)" \[For the
@@ -337,8 +349,7 @@ collection on the [Kunstkamera website](https://www.kunstkamera.ru/en/).
     https://anthropologie.kunstkamera.ru/files/pdf/015online/prischepova2.pdf,
     accessed January 25, 2021.
 
-[^2]:  E. Rezvan, "Samuil Dudin---fotograf, khudozhnik i etnograf: (materialy ekspeditsii v Kazakhstan v 1899 i 1920): \[katalog fotovystavki\]" \[Samuil Dudin---Photographer, Artist, and Ethnographer (Materials of Expeditions to Kazakhstan in 1899 and 1920): \[Photo Exhibition Catalog\]\] (MAE RAS, 2010), p. 107.
-    ====================================================================================================================================================================================================================================================================================================================
+[^2]:  E. Rezvan, "Samuil Dudin---fotograf, khudozhnik i etnograf: (materialy ekspeditsii v Kazakhstan v 1899 i 1920): \[katalog fotovystavki\]" \[Samuil Dudin---Photographer, Artist, and Ethnographer (Materials of Expeditions to Kazakhstan in 1899 and 1920): \[Photo Exhibition Catalog\]\] (MAE RAS, 2010), p. 107. 
 
 [^3]: E. Rezvan, "Zerkalo s pamiat'iu serdtsa: Kazakhstan v tvorcheskom
     nasledii Dudina S.M." \[The Mirror with the Memory of the Heart:
@@ -346,8 +357,7 @@ collection on the [Kunstkamera website](https://www.kunstkamera.ru/en/).
     19 (2009): 51-54, 52.
 
 [^4]:  Rezvan, "Samuil Dudin," p. 110.
-    ===============================
-
+ 
 [^5]: S. Dudin, "Kirgizskiī ornament" \[Kyrgyz Ornament\], *Vostok* 5
     (1925): 120-172, 172.
 
