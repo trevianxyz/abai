@@ -167,7 +167,18 @@ clothing for winter are a covered coat (*ishik*) and a sheepskin coat
 (*ton*); the latter was worn over a coat (*shekpen*) made of homespun
 cloth (see Photo 2).
 
-![](/assets/images/publications/dudin/2.png#2)
+| ![](/assets/images/publications/dudin/image2.png#2) | ![](/assets/images/publications/dudin/image3.png#3)  | Cool |
+| ------------- |:-------------:| -----:|
+| Photograph 1. Kazakh men costume.
+S.M. Dudin. 1899, Kazakhstan, 
+Semipalatinsk Oblast.
+MAE RAS  | right-aligned | $1600 |
+ 
+
+
+
+
+
 
 **Traditional Clothing**
 
