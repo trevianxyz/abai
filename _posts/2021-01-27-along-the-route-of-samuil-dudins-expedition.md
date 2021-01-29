@@ -5,7 +5,7 @@ title: "Along the Route of Samuil Dudin’s Expedition"
 author: "Snezhana Atanova"
 author_img: "/assets/images/publications/dudin/atanova_author.jpg"
 author_bio: "Snezhana Atanova, research fellow in material culture and history, Department of Central Asia, Caucasus, Volga and Ural Regions, Institute of Oriental Studies of the Russian Academy of Science. Her areas of expertise include material culture and cultural heritage of Central Asia."
-date: 2021-01-27
+date: 2021-01-01
 descrip: "Samuil Dudin (1863-1929) made his first trip to the Great Steppe in 1891 on the Orkhon expedition on study of Mongolian antiquities. Dudin made keen documentation and photographs of Kazakh culture, community, lifestyle and art of the late 19th century." # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
@@ -13,7 +13,7 @@ image: "/assets/images/publications/dudin/1.png"
 bigtitle_img: "/assets/images/publications/dudin/1.png" # for opengraph
 carousel_img: "/assets/images/publications/dudin/1.png" # for carousel
 western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
-categories: ['publication']
+categories: 
 ---
 
 <style>
@@ -119,12 +119,12 @@ img[src*="#10"] {
 
 </style>
 
-*The author would like to thank the Kunstkamera Museum for permission to
+<p class="small"> The author would like to thank the Kunstkamera Museum for permission to
 use the photos of Samuil Dudin in this article. All images are
 reproduced here with the written permission of the Peter the Great
 Museum of Anthropology and Ethnography (the Kunstkamera). No further
 reproduction by third parties is possible without proper authorization
-from the museum.*
+from the museum.</p>
 
 A talented ethnographer, photographer, traveler, collector, artist, and
 researcher of the history and culture of Central Asia, Samuil Dudin
@@ -182,12 +182,16 @@ clothing for winter are a covered coat (*ishik*) and a sheepskin coat
 (*ton*); the latter was worn over a coat (*shekpen*) made of homespun
 cloth (see Photo 2).
 
-| ![](/assets/images/publications/dudin/image2.png#image2) Photograph 1 Kazakh men costume. S.M. Dudin. 1899, Kazakhstan, MAE RAS Semipalatinsk Oblast ©МАЭ РАН 2021 | ![](/assets/images/publications/dudin/image3.png#image3) Photo 2. Kazakh men costume. S.M. Dudin. 1899.
-Kazakhstan, Semipalatinsk Oblast MAE RAS | Photo 2. Kazakh men costume.
-S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast. MAE RAS ©МАЭ РАН 2021 |
-| :------------- | :------------- | 
-| |
- 
+<div class="images-group">
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/image2.png#image2" class="figure-img img-fluid rounded" alt="Kazakh men costume.">
+    <figcaption class="figure-caption">figure 1. Kazakh men costume. S.M. Dudin. 1899, Kazakhstan, MAE RAS Semipalatinsk Oblast ©МАЭ РАН 2021</figcaption>
+</figure>
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/image3.png#image3" class="figure-img img-fluid rounded" alt="Kazakh men costume.">
+    <figcaption class="figure-caption">figure 2. Kazakh men costume. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast MAE RAS ©МАЭ РАН 2021 </figcaption>
+</figure> 
+</div>
  
 **Traditional Clothing**
 
@@ -203,7 +207,16 @@ housed a fire-starter, flint, and other tools needed by a nomad (see
 Photo 3). On the other side of the belt hung a pouch with a knife and a
 pouch with bullets and gunpowder.
 
-![](/assets/images/publications/dudin/4.png#4)
+<div class="images-group">
+  <div class="p-2">
+    <figure class="figure">
+        <img src="/assets/images/publications/dudin/3.png#3" class="figure-img img-fluid rounded" alt="Two belts kise and kalpak.">
+        <figcaption class="figure-caption">figure 3. Two belts kise and kalpak.
+S.M. Dudin. 1899. 
+Kazakhstan. MAE RAS ©МАЭ РАН 2021</figcaption>
+    </figure>
+   </div>
+</div>
 
 Dudin also depicted the *kalpak*, a man's headdress popular not only
 among the Kazakhs but also among the Kyrgyz.[^11] The *kalpak* was made
@@ -233,12 +246,18 @@ clothing from that era was made from a wide variety of local Central
 Asian and Russian fabrics, as well as British, Indian, and Iranian
 textiles that were imported into the region.
 
-![](/assets/images/publications/dudin/6.png#6) 
 
-![](/assets/images/publications/dudin/7.png#7) 
+<div class="images-group">
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/5.png#5" class="figure-img img-fluid rounded" alt="Kazakh family in their yurt. Numerous felt trunk covers.">
+    <figcaption class="figure-caption">figure 6. A Kazakh family in their yurt. Numerous felt trunk covers.</figcaption>
+</figure>
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/7.png#7" class="figure-img img-fluid rounded" alt="Karshyn serve as a picturesque background.">
+    <figcaption class="figure-caption">figure 7. Karshyn serve as a picturesque background. ©МАЭ РАН 2021 </figcaption>
+</figure> 
+</div>
 
-Photo 6 shows a Kazakh family in their yurt. Numerous felt trunk covers
-(*karshyn*) serve as a picturesque background.
 
 ![](/assets/images/publications/dudin/10.png#10) 
 
