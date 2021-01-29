@@ -18,27 +18,10 @@ categories:
 
 <style>
 
-thead th, thead td {
-background-color: white;
-}
-
-div.post-inline-img {
-    display: inline;
-    width: content;
-    height: 225px;
-}
-
-img.portrait {
-    height: 350px;
-    max-width: 100%;
-    margin: 10px auto;
+img {
     display: block;
-}
-
-img.book {
-    max-width: 65%;
-    margin: 10px auto;
-    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 blockquote {
@@ -50,13 +33,6 @@ blockquote {
     margin-right: 5%;
 }
 
-img {
-display: block;
-margin-left: auto;
-margin-right: auto;
-}
-
-
 img[src*="#image2"] {
    width: auto;
    height: 400px;
@@ -67,64 +43,39 @@ img[src*="#image3"] {
    height: 400px;
 }
 
-img[src*="#1"] {
-   width: auto;
-   height: 400px;
-}
-
-img[src*="#2"] {
-   width: auto;
-   height: 400px;
-}
-
 img[src*="#3"] {
    width: auto;
    height: 400px;
 }
 
-img[src*="#4"] {
+img[src*="#11"] {
    width: auto;
    height: 400px;
 }
 
-img[src*="#5"] {
+img[src*="#12"] {
    width: auto;
    height: 400px;
 }
 
-img[src*="#6"] {
+img[src*="#13"] {
    width: auto;
    height: 400px;
 }
 
-img[src*="#7"] {
-   width: auto;
-   height: 400px;
-}
-
-img[src*="#8"] {
-   width: auto;
-   height: 400px;
-}
-
-img[src*="#9"] {
-   width: auto;
-   height: 400px;
-}
-
-img[src*="#10"] {
+img[src*="#14"] {
    width: auto;
    height: 400px;
 }
 
 </style>
 
-<p class="small"> The author would like to thank the Kunstkamera Museum for permission to
+<p class="small"><em>The author would like to thank the Kunstkamera Museum for permission to
 use the photos of Samuil Dudin in this article. All images are
 reproduced here with the written permission of the Peter the Great
 Museum of Anthropology and Ethnography (the Kunstkamera). No further
 reproduction by third parties is possible without proper authorization
-from the museum.</p>
+from the museum.</em></p>
 
 A talented ethnographer, photographer, traveler, collector, artist, and
 researcher of the history and culture of Central Asia, Samuil Dudin
@@ -248,18 +199,19 @@ textiles that were imported into the region.
 
 
 <div class="images-group">
+<div>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/5.png#5" class="figure-img img-fluid rounded" alt="Kazakh family in their yurt. Numerous felt trunk covers.">
-    <figcaption class="figure-caption">figure 6. A Kazakh family in their yurt. Numerous felt trunk covers.</figcaption>
+    <img src="/assets/images/publications/dudin/5.png" class="figure-img img-fluid rounded" alt="Kazakh family in their yurt. Numerous felt trunk covers.">
+    <figcaption class="figure-caption">photo 5. A Kazakh family in their yurt. Numerous felt trunk covers. ©МАЭ РАН 2021</figcaption>
 </figure>
+</div>
+<div>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/7.png#7" class="figure-img img-fluid rounded" alt="Karshyn serve as a picturesque background.">
-    <figcaption class="figure-caption">figure 7. Karshyn serve as a picturesque background. ©МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/10.png" class="figure-img img-fluid rounded" alt="Karshyn serve as a picturesque background.">
+    <figcaption class="figure-caption">photo 6. Karshyn serve as a picturesque background. ©МАЭ РАН 2021 </figcaption>
 </figure> 
 </div>
-
-
-![](/assets/images/publications/dudin/10.png#10) 
+</div>
 
 **In and beyond the Yurt**
 
@@ -296,13 +248,23 @@ steppe reeds wrapped with multicolored wool). Felt also reigned supreme
 in the interior decoration of the yurt, serving as the base for numerous
 carpets, storage bags, and chest covers (see Photo 10).
 
-![](/assets/images/publications/dudin/11.png#11) 
+<div class="images-group">
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/6.png" class="figure-img img-fluid rounded" alt=".">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure>
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/8.png" class="figure-img img-fluid rounded" alt=".">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure>
+</div>
 
-![](/assets/images/publications/dudin/12.png#12) 
-
-![](/assets/images/publications/dudin/13.png#13) 
-
-![](/assets/images/publications/dudin/14.png#14) 
+<div class="images-group">
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/9.png" class="figure-img img-fluid rounded" alt=".">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure> 
+</div>
 
 **Felt Art and Embroidery**
 
@@ -351,11 +313,28 @@ main background and then quilted and stitched along the contour of the
 pattern. Photo 13 depicts a felt storage bag *ayak kap* that is
 decorated with embroidery and felt appliqué.
 
-![](/assets/images/publications/dudin/15.png#15) 
 
-![](/assets/images/publications/dudin/16.png#16) 
+<div class="images-group">
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/11.png#11" class="figure-img img-fluid rounded" alt="Kazakh.">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure>
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/12.png#12" class="figure-img img-fluid rounded" alt="Kazakh men costume.">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure> 
+</div>
 
-![](/assets/images/publications/dudin/17.png#17) 
+<div class="images-group">
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/13.png#13" class="figure-img img-fluid rounded" alt=".">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure>
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/14.png#14" class="figure-img img-fluid rounded" alt=".">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure> 
+</div>
 
 In the paper on Kazakh ornamentation,[^18] Dudin shared his thoughts
 about embroidery, which, in his opinion, appeared later than the art of
@@ -378,7 +357,10 @@ this article. However, anyone interested in the history of the Kazakhs
 at the end of the 19th century can explore Samuil Dudin's photographic
 collection on the [Kunstkamera website](https://www.kunstkamera.ru/en/).
 
-![](/assets/images/publications/dudin/18.png#18) 
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/18.png#18" class="figure-img img-fluid rounded" alt=".">
+    <figcaption class="figure-caption">©МАЭ РАН 2021</figcaption>
+</figure>
 
 [^1]: Valeriia Prishchepova, "K 150-letiiu so dnia rozhdeniia S.M. Dudina---khudozhnika, etnografa (po materialam MAE RAN)" For the 150th Anniversary of the Birth of Dudin S. M.---Artist and Ethnographer (Based on the Materials of the MAE RAS),[Antropologicheskiī](https://anthropologie.kunstkamera.ru/files/pdf/015online/prischepova2.pdf) forum online 15, pp. 608-649,accessed January 25, 2021.
 
