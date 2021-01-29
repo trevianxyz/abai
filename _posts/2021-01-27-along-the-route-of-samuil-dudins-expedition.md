@@ -14,6 +14,7 @@ bigtitle_img: "/assets/images/publications/dudin/1.png" # for opengraph
 carousel_img: "/assets/images/publications/dudin/1.png" # for carousel
 western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
 categories: 
+modalId: "dudin"
 ---
 
 <style>
@@ -43,6 +44,13 @@ img[src*="#image3"] {
    height: 400px;
 }
 
+
+img[src*="#1"] {
+   width: auto;
+   height: 400px;
+}
+
+
 img[src*="#3"] {
    width: auto;
    height: 400px;
@@ -64,6 +72,11 @@ img[src*="#13"] {
 }
 
 img[src*="#14"] {
+   width: auto;
+   height: 400px;
+}
+
+img[src*="#4"] {
    width: auto;
    height: 400px;
 }
@@ -197,19 +210,23 @@ clothing from that era was made from a wide variety of local Central
 Asian and Russian fabrics, as well as British, Indian, and Iranian
 textiles that were imported into the region.
 
-
+<div class="container">
 <div class="images-group">
 <div>
-<figure class="figure">
-    <img src="/assets/images/publications/dudin/5.png" class="figure-img img-fluid rounded" alt="Kazakh family in their yurt. Numerous felt trunk covers.">
-    <figcaption class="figure-caption">photo 5. A Kazakh family in their yurt. Numerous felt trunk covers. ©МАЭ РАН 2021</figcaption>
-</figure>
+<img src="/assets/images/publications/dudin/4.png#4" class="figure-img img-thumbnail rounded" alt="borik was trimmed with fur.">
+<figcaption class="figure-caption">photo 4. Girls' headwear (borik) was trimmed with fur. ©МАЭ РАН 2021</figcaption>
 </div>
-<div>
-<figure class="figure">
-    <img src="/assets/images/publications/dudin/10.png" class="figure-img img-fluid rounded" alt="Karshyn serve as a picturesque background.">
-    <figcaption class="figure-caption">photo 6. Karshyn serve as a picturesque background. ©МАЭ РАН 2021 </figcaption>
-</figure> 
+</div>
+
+<div class="images-group">
+<div class="m-1">
+<img src="/assets/images/publications/dudin/5.png" class="figure-img img-fluid rounded" alt="Kazakh family in their yurt. Numerous felt trunk covers.">
+<figcaption class="figure-caption">photo 5. A Kazakh family in their yurt. Numerous felt trunk covers. ©МАЭ РАН 2021</figcaption>
+</div>
+<div class="m-1">
+<img src="/assets/images/publications/dudin/1.png" class="figure-img img-fluid rounded" alt="Karshyn serve as a picturesque background.">
+<figcaption class="figure-caption">photo 6. Karshyn serve as a picturesque background. ©МАЭ РАН 2021 </figcaption>
+</div>
 </div>
 </div>
 
@@ -261,8 +278,12 @@ carpets, storage bags, and chest covers (see Photo 10).
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/9.png" class="figure-img img-fluid rounded" alt=".">
-    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/9.png" class="figure-img img-fluid rounded" alt="Wrapping the yurt in felt.">
+    <figcaption class="figure-caption">Photo 9. Wrapping the yurt in felt. S.M. Dudin. 1899, Kazakhstan, Ashchisu river. MAE RAS ©МАЭ РАН 2021 </figcaption>
+</figure> 
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/10.png" class="figure-img img-fluid rounded" alt="A group of women and children in a bai yurt.">
+    <figcaption class="figure-caption">Photo 10. A group of women and children in a bai yurt. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast (Saumal-kul). MAE RAS ©МАЭ РАН 2021</figcaption>
 </figure> 
 </div>
 
@@ -332,7 +353,7 @@ decorated with embroidery and felt appliqué.
 </figure>
 <figure class="figure">
     <img src="/assets/images/publications/dudin/14.png#14" class="figure-img img-fluid rounded" alt=".">
-    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+    <figcaption class="figure-caption"> Photograph 14. Shalbar. S.M. Dudin,1899. Northeastern Kazakhstan. MAE RAS ©МАЭ РАН 2021 </figcaption>
 </figure> 
 </div>
 
@@ -357,10 +378,13 @@ this article. However, anyone interested in the history of the Kazakhs
 at the end of the 19th century can explore Samuil Dudin's photographic
 collection on the [Kunstkamera website](https://www.kunstkamera.ru/en/).
 
+
+<div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/18.png#18" class="figure-img img-fluid rounded" alt=".">
-    <figcaption class="figure-caption">©МАЭ РАН 2021</figcaption>
-</figure>
+    <img src="/assets/images/publications/dudin/14.png#14" class="figure-img img-fluid rounded" alt="Shalbar">
+    <figcaption class="figure-caption"> Photo 14. Shalbar. S.M. Dudin,1899. Northeastern Kazakhstan. MAE RAS ©МАЭ РАН 2021 </figcaption>
+</figure> 
+</div>
 
 [^1]: Valeriia Prishchepova, "K 150-letiiu so dnia rozhdeniia S.M. Dudina---khudozhnika, etnografa (po materialam MAE RAN)" For the 150th Anniversary of the Birth of Dudin S. M.---Artist and Ethnographer (Based on the Materials of the MAE RAS),[Antropologicheskiī](https://anthropologie.kunstkamera.ru/files/pdf/015online/prischepova2.pdf) forum online 15, pp. 608-649,accessed January 25, 2021.
 
