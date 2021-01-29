@@ -280,22 +280,22 @@ carpets, storage bags, and chest covers (see Photo 10).
 <div class="images-group">
 <figure class="figure">
     <img src="/assets/images/publications/dudin/6.png" class="figure-img img-fluid rounded" alt=".">
-    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+    <figcaption class="figure-caption">photo 7. ©МАЭ РАН 2021 </figcaption>
 </figure>
 <figure class="figure">
     <img src="/assets/images/publications/dudin/8.png" class="figure-img img-fluid rounded" alt=".">
-    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+    <figcaption class="figure-caption">photo 8. ©МАЭ РАН 2021 </figcaption>
 </figure>
 </div>
 
 <div class="images-group">
 <figure class="figure">
     <img src="/assets/images/publications/dudin/9.png" class="figure-img img-fluid rounded" alt="Wrapping the yurt in felt.">
-    <figcaption class="figure-caption">Photo 9. Wrapping the yurt in felt. S.M. Dudin. 1899, Kazakhstan, Ashchisu river. MAE RAS ©МАЭ РАН 2021 </figcaption>
+    <figcaption class="figure-caption">photo 9. Wrapping the yurt in felt. S.M. Dudin. 1899, Kazakhstan, Ashchisu river. MAE RAS ©МАЭ РАН 2021 </figcaption>
 </figure> 
 <figure class="figure">
     <img src="/assets/images/publications/dudin/10.png" class="figure-img img-fluid rounded" alt="A group of women and children in a bai yurt.">
-    <figcaption class="figure-caption">Photo 10. A group of women and children in a bai yurt. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast (Saumal-kul). MAE RAS ©МАЭ РАН 2021</figcaption>
+    <figcaption class="figure-caption">photo 10. A group of women and children in a bai yurt. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast (Saumal-kul). MAE RAS ©МАЭ РАН 2021</figcaption>
 </figure> 
 </div>
 
@@ -350,18 +350,18 @@ decorated with embroidery and felt appliqué.
 <div class="images-group">
 <figure class="figure">
     <img src="/assets/images/publications/dudin/11.png#11" class="figure-img img-fluid rounded" alt="Kazakh.">
-    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+    <figcaption class="figure-caption">photo 11. ©МАЭ РАН 2021 </figcaption>
 </figure>
 <figure class="figure">
     <img src="/assets/images/publications/dudin/12.png#12" class="figure-img img-fluid rounded" alt="Kazakh men costume.">
-    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+    <figcaption class="figure-caption">photo 12. ©МАЭ РАН 2021 </figcaption>
 </figure> 
 </div>
 
 <div class="images-group">
 <figure class="figure">
     <img src="/assets/images/publications/dudin/13.png#13" class="figure-img img-fluid rounded" alt=".">
-    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+    <figcaption class="figure-caption">photo 13. МАЭ РАН 2021 </figcaption>
 </figure>
 </div>
 
@@ -390,7 +390,7 @@ collection on the [Kunstkamera website](https://www.kunstkamera.ru/en/).
 <div class="images-group">
 <figure class="figure">
     <img src="/assets/images/publications/dudin/14.png#14" class="figure-img img-fluid rounded" alt="Shalbar">
-    <figcaption class="figure-caption"> Photo 14. Shalbar. S.M. Dudin,1899. Northeastern Kazakhstan. MAE RAS ©МАЭ РАН 2021 </figcaption>
+    <figcaption class="figure-caption">photo 14. Shalbar. S.M. Dudin,1899. Northeastern Kazakhstan. MAE RAS ©МАЭ РАН 2021 </figcaption>
 </figure> 
 </div>
 
