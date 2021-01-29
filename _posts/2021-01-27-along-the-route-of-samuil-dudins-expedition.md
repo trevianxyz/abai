@@ -21,12 +21,7 @@ categories:
 thead th, thead td {
 background-color: white;
 }
-
-div.post-inline-img {
-    display: inline;
-    width: content;
-    height: 225px;
-}
+ 
 
 img.portrait {
     height: 350px;
@@ -67,55 +62,11 @@ img[src*="#image3"] {
    height: 400px;
 }
 
-img[src*="#1"] {
-   width: auto;
-   height: 400px;
-}
-
-img[src*="#2"] {
-   width: auto;
-   height: 400px;
-}
-
 img[src*="#3"] {
    width: auto;
    height: 400px;
 }
-
-img[src*="#4"] {
-   width: auto;
-   height: 400px;
-}
-
-img[src*="#5"] {
-   width: auto;
-   height: 400px;
-}
-
-img[src*="#6"] {
-   width: auto;
-   height: 400px;
-}
-
-img[src*="#7"] {
-   width: auto;
-   height: 400px;
-}
-
-img[src*="#8"] {
-   width: auto;
-   height: 400px;
-}
-
-img[src*="#9"] {
-   width: auto;
-   height: 400px;
-}
-
-img[src*="#10"] {
-   width: auto;
-   height: 400px;
-}
+ 
 
 </style>
 
@@ -248,18 +199,19 @@ textiles that were imported into the region.
 
 
 <div class="images-group">
+<div>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/5.png#5" class="figure-img img-fluid rounded" alt="Kazakh family in their yurt. Numerous felt trunk covers.">
-    <figcaption class="figure-caption">figure 6. A Kazakh family in their yurt. Numerous felt trunk covers.</figcaption>
+    <img src="/assets/images/publications/dudin/5.png" class="figure-img img-fluid rounded" alt="Kazakh family in their yurt. Numerous felt trunk covers.">
+    <figcaption class="figure-caption">photo 5. A Kazakh family in their yurt. Numerous felt trunk covers. ©МАЭ РАН 2021</figcaption>
 </figure>
+</div>
+<div>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/7.png#7" class="figure-img img-fluid rounded" alt="Karshyn serve as a picturesque background.">
-    <figcaption class="figure-caption">figure 7. Karshyn serve as a picturesque background. ©МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/10.png" class="figure-img img-fluid rounded" alt="Karshyn serve as a picturesque background.">
+    <figcaption class="figure-caption">photo 6. Karshyn serve as a picturesque background. ©МАЭ РАН 2021 </figcaption>
 </figure> 
 </div>
-
-
-![](/assets/images/publications/dudin/10.png#10) 
+</div>
 
 **In and beyond the Yurt**
 
