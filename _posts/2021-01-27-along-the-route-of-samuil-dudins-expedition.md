@@ -18,38 +18,53 @@ categories: ['publication']
 
 <style>
 
-    div.post-inline-img {
-        display: inline;
-        width: content;
-        height: 225px;
-    }
+thead th, thead td {
+background-color: white;
+}
 
-    img.portrait {
-        height: 350px;
-        max-width: 100%;
-        margin: 10px auto;
-        display: block;
-    }
+div.post-inline-img {
+    display: inline;
+    width: content;
+    height: 225px;
+}
 
-    img.book {
-        max-width: 65%;
-        margin: 10px auto;
-        display: block;
-    }
+img.portrait {
+    height: 350px;
+    max-width: 100%;
+    margin: 10px auto;
+    display: block;
+}
 
-    blockquote {
-        text-align: left;
-        font-size: .9em;
-        color: #40407a;
-        font-style: italic;
-        margin-left: 2%;
-        margin-right: 5%;
-    }
+img.book {
+    max-width: 65%;
+    margin: 10px auto;
+    display: block;
+}
+
+blockquote {
+    text-align: left;
+    font-size: .9em;
+    color: #40407a;
+    font-style: italic;
+    margin-left: 2%;
+    margin-right: 5%;
+}
 
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+img[src*="#image2"] {
+   width: auto;
+   height: 400px;
+}
+
+img[src*="#image3"] {
+   width: auto;
+   height: 400px;
 }
 
 img[src*="#1"] {
@@ -167,19 +182,13 @@ clothing for winter are a covered coat (*ishik*) and a sheepskin coat
 (*ton*); the latter was worn over a coat (*shekpen*) made of homespun
 cloth (see Photo 2).
 
-| ![](/assets/images/publications/dudin/image2.png#2) | ![](/assets/images/publications/dudin/image3.png#3)  | Cool |
-| ------------- |:-------------:| -----:|
-| Photograph 1. Kazakh men costume.
-S.M. Dudin. 1899, Kazakhstan, 
-Semipalatinsk Oblast.
-MAE RAS  | right-aligned | $1600 |
+| ![](/assets/images/publications/dudin/image2.png#image2) Photograph 1 Kazakh men costume. S.M. Dudin. 1899, Kazakhstan, MAE RAS Semipalatinsk Oblast ©МАЭ РАН 2021 | ![](/assets/images/publications/dudin/image3.png#image3) Photo 2. Kazakh men costume. S.M. Dudin. 1899.
+Kazakhstan, Semipalatinsk Oblast MAE RAS | Photo 2. Kazakh men costume.
+S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast. MAE RAS ©МАЭ РАН 2021 |
+| :------------- | :------------- | 
+| |
  
-
-
-
-
-
-
+ 
 **Traditional Clothing**
 
 The leather *kise* with which the upper gown (*shapan*) was belted (see
@@ -352,13 +361,7 @@ collection on the [Kunstkamera website](https://www.kunstkamera.ru/en/).
 
 ![](/assets/images/publications/dudin/18.png#18) 
 
-[^1]: Valeriia Prishchepova, "K 150-letiiu so dnia rozhdeniia S.M.
-    Dudina---khudozhnika, etnografa (po materialam MAE RAN)" \[For the
-    150th Anniversary of the Birth of Dudin S. M.---Artist and
-    Ethnographer (Based on the Materials of the MAE RAS)\],
-    *Antropologicheskiī forum online* 15, pp. 608-649,
-    https://anthropologie.kunstkamera.ru/files/pdf/015online/prischepova2.pdf,
-    accessed January 25, 2021.
+[^1]: Valeriia Prishchepova, "K 150-letiiu so dnia rozhdeniia S.M. Dudina---khudozhnika, etnografa (po materialam MAE RAN)" For the 150th Anniversary of the Birth of Dudin S. M.---Artist and Ethnographer (Based on the Materials of the MAE RAS),[Antropologicheskiī](https://anthropologie.kunstkamera.ru/files/pdf/015online/prischepova2.pdf) forum online 15, pp. 608-649,accessed January 25, 2021.
 
 [^2]:  E. Rezvan, "Samuil Dudin---fotograf, khudozhnik i etnograf: (materialy ekspeditsii v Kazakhstan v 1899 i 1920): \[katalog fotovystavki\]" \[Samuil Dudin---Photographer, Artist, and Ethnographer (Materials of Expeditions to Kazakhstan in 1899 and 1920): \[Photo Exhibition Catalog\]\] (MAE RAS, 2010), p. 107. 
 
@@ -367,7 +370,7 @@ collection on the [Kunstkamera website](https://www.kunstkamera.ru/en/).
     Kazakhstan in the Creative Heritage of S.M. Dudin\], *Konsul* 4, no.
     19 (2009): 51-54, 52.
 
-[^4]:  Rezvan, "Samuil Dudin," p. 110.
+[^4]: Rezvan, "Samuil Dudin," p. 110.
  
 [^5]: S. Dudin, "Kirgizskiī ornament" \[Kyrgyz Ornament\], *Vostok* 5
     (1925): 120-172, 172.
