@@ -326,9 +326,19 @@ a.fa-2x {
    color: gray !important; 
  }
  
+ .images-group {
+  display: flex;
+  flex-direction: row;
+}
 
 /* Responsive */
 @media (max-width: 767.98px) {
+
+.images-group {
+  display: flex;
+  flex-direction: column;
+}
+
 
  embed.western-eyes-pdf {
    height: 400px;
