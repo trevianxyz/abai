@@ -329,6 +329,7 @@ a.fa-2x {
  .images-group {
   display: flex;
   flex-direction: row;
+  justify-content: center;
 }
 
 /* Responsive */
@@ -337,6 +338,7 @@ a.fa-2x {
 .images-group {
   display: flex;
   flex-direction: column;
+
 }
 
 

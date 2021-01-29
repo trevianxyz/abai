@@ -81,6 +81,16 @@ img[src*="#4"] {
    height: 400px;
 }
 
+img[src*="#5"] {
+   width: auto;
+   height: 350px;
+}
+
+img[src*="#6"] {
+   width: auto;
+   height: 300px;
+}
+
 </style>
 
 <p class="small"><em>The author would like to thank the Kunstkamera Museum for permission to
@@ -211,23 +221,25 @@ Asian and Russian fabrics, as well as British, Indian, and Iranian
 textiles that were imported into the region.
 
 <div class="container">
-<div class="images-group">
-<div>
-<img src="/assets/images/publications/dudin/4.png#4" class="figure-img img-thumbnail rounded" alt="borik was trimmed with fur.">
-<figcaption class="figure-caption">photo 4. Girls' headwear (borik) was trimmed with fur. ©МАЭ РАН 2021</figcaption>
-</div>
+    <div class="images-group">
+        <div class="col-sm-12 col-md-6">  
+    <img src="/assets/images/publications/dudin/4.png#4" class="figure-img img-fluid rounded" alt="borik was trimmed with fur.">
+    <figcaption class="figure-caption">photo 4. Girls' headwear (borik) was trimmed with fur. ©МАЭ РАН 2021</figcaption>
+    </div>
+        <div class="col-sm-12 col-md-6">
+    <img src="/assets/images/publications/dudin/5.png" class="figure-img img-fluid rounded" alt="Kazakh family in their yurt. Numerous felt trunk covers.">
+    <figcaption class="figure-caption">photo 5. A Kazakh family in their yurt. Numerous felt trunk covers. ©МАЭ РАН 2021</figcaption>
+    </div>
 </div>
 
 <div class="images-group">
-<div class="m-1">
-<img src="/assets/images/publications/dudin/5.png" class="figure-img img-fluid rounded" alt="Kazakh family in their yurt. Numerous felt trunk covers.">
-<figcaption class="figure-caption">photo 5. A Kazakh family in their yurt. Numerous felt trunk covers. ©МАЭ РАН 2021</figcaption>
-</div>
-<div class="m-1">
-<img src="/assets/images/publications/dudin/1.png" class="figure-img img-fluid rounded" alt="Karshyn serve as a picturesque background.">
-<figcaption class="figure-caption">photo 6. Karshyn serve as a picturesque background. ©МАЭ РАН 2021 </figcaption>
-</div>
-</div>
+    <div class="m-1">
+        <figure class="figure">
+    <img src="/assets/images/publications/dudin/1.png#1" class="figure-img img-fluid rounded" alt="Karshyn serve as a picturesque background.">
+    <figcaption class="figure-caption">photo 6. Karshyn serve as a picturesque background. ©МАЭ РАН 2021 </figcaption>
+    </figure>
+    </div>
+    </div>
 </div>
 
 **In and beyond the Yurt**
@@ -351,10 +363,6 @@ decorated with embroidery and felt appliqué.
     <img src="/assets/images/publications/dudin/13.png#13" class="figure-img img-fluid rounded" alt=".">
     <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
 </figure>
-<figure class="figure">
-    <img src="/assets/images/publications/dudin/14.png#14" class="figure-img img-fluid rounded" alt=".">
-    <figcaption class="figure-caption"> Photograph 14. Shalbar. S.M. Dudin,1899. Northeastern Kazakhstan. MAE RAS ©МАЭ РАН 2021 </figcaption>
-</figure> 
 </div>
 
 In the paper on Kazakh ornamentation,[^18] Dudin shared his thoughts
