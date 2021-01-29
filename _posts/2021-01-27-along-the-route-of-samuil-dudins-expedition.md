@@ -18,22 +18,10 @@ categories:
 
 <style>
 
-thead th, thead td {
-background-color: white;
-}
- 
-
-img.portrait {
-    height: 350px;
-    max-width: 100%;
-    margin: 10px auto;
+img {
     display: block;
-}
-
-img.book {
-    max-width: 65%;
-    margin: 10px auto;
-    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 blockquote {
@@ -82,12 +70,12 @@ img[src*="#14"] {
 
 </style>
 
-<p class="small"> The author would like to thank the Kunstkamera Museum for permission to
+<p class="small"><em>The author would like to thank the Kunstkamera Museum for permission to
 use the photos of Samuil Dudin in this article. All images are
 reproduced here with the written permission of the Peter the Great
 Museum of Anthropology and Ethnography (the Kunstkamera). No further
 reproduction by third parties is possible without proper authorization
-from the museum.</p>
+from the museum.</em></p>
 
 A talented ethnographer, photographer, traveler, collector, artist, and
 researcher of the history and culture of Central Asia, Samuil Dudin
@@ -262,22 +250,18 @@ carpets, storage bags, and chest covers (see Photo 10).
 
 <div class="images-group">
 <figure class="figure">
-    <img src="//assets/images/publications/dudin/11.png#11" class="figure-img img-fluid rounded" alt="Kazakh.">
+    <img src="/assets/images/publications/dudin/6.png" class="figure-img img-fluid rounded" alt=".">
     <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
 </figure>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/12.png#12" class="figure-img img-fluid rounded" alt="Kazakh men costume.">
+    <img src="/assets/images/publications/dudin/8.png" class="figure-img img-fluid rounded" alt=".">
     <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
-</figure> 
+</figure>
 </div>
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/13.png#13" class="figure-img img-fluid rounded" alt=".">
-    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
-</figure>
-<figure class="figure">
-    <img src="/assets/images/publications/dudin/14.png#14" class="figure-img img-fluid rounded" alt=".">
+    <img src="/assets/images/publications/dudin/9.png" class="figure-img img-fluid rounded" alt=".">
     <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
 </figure> 
 </div>
@@ -329,17 +313,25 @@ main background and then quilted and stitched along the contour of the
 pattern. Photo 13 depicts a felt storage bag *ayak kap* that is
 decorated with embroidery and felt appliqué.
 
+
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/15.png" class="figure-img img-fluid rounded" alt=".">
+    <img src="/assets/images/publications/dudin/11.png#11" class="figure-img img-fluid rounded" alt="Kazakh.">
     <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
 </figure>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/16.png" class="figure-img img-fluid rounded" alt=".">
+    <img src="/assets/images/publications/dudin/12.png#12" class="figure-img img-fluid rounded" alt="Kazakh men costume.">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure> 
+</div>
+
+<div class="images-group">
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/13.png#13" class="figure-img img-fluid rounded" alt=".">
     <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
 </figure>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/17.png" class="figure-img img-fluid rounded" alt=".">
+    <img src="/assets/images/publications/dudin/14.png#14" class="figure-img img-fluid rounded" alt=".">
     <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
 </figure> 
 </div>
