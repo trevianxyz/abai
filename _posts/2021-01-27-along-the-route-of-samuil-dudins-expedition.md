@@ -45,13 +45,6 @@ blockquote {
     margin-right: 5%;
 }
 
-img {
-display: block;
-margin-left: auto;
-margin-right: auto;
-}
-
-
 img[src*="#image2"] {
    width: auto;
    height: 400px;
@@ -66,7 +59,26 @@ img[src*="#3"] {
    width: auto;
    height: 400px;
 }
- 
+
+img[src*="#11"] {
+   width: auto;
+   height: 400px;
+}
+
+img[src*="#12"] {
+   width: auto;
+   height: 400px;
+}
+
+img[src*="#13"] {
+   width: auto;
+   height: 400px;
+}
+
+img[src*="#14"] {
+   width: auto;
+   height: 400px;
+}
 
 </style>
 
@@ -248,13 +260,27 @@ steppe reeds wrapped with multicolored wool). Felt also reigned supreme
 in the interior decoration of the yurt, serving as the base for numerous
 carpets, storage bags, and chest covers (see Photo 10).
 
-![](/assets/images/publications/dudin/11.png#11) 
+<div class="images-group">
+<figure class="figure">
+    <img src="//assets/images/publications/dudin/11.png#11" class="figure-img img-fluid rounded" alt="Kazakh.">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure>
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/12.png#12" class="figure-img img-fluid rounded" alt="Kazakh men costume.">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure> 
+</div>
 
-![](/assets/images/publications/dudin/12.png#12) 
-
-![](/assets/images/publications/dudin/13.png#13) 
-
-![](/assets/images/publications/dudin/14.png#14) 
+<div class="images-group">
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/13.png#13" class="figure-img img-fluid rounded" alt=".">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure>
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/14.png#14" class="figure-img img-fluid rounded" alt=".">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure> 
+</div>
 
 **Felt Art and Embroidery**
 
@@ -303,11 +329,20 @@ main background and then quilted and stitched along the contour of the
 pattern. Photo 13 depicts a felt storage bag *ayak kap* that is
 decorated with embroidery and felt appliqué.
 
-![](/assets/images/publications/dudin/15.png#15) 
-
-![](/assets/images/publications/dudin/16.png#16) 
-
-![](/assets/images/publications/dudin/17.png#17) 
+<div class="images-group">
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/15.png" class="figure-img img-fluid rounded" alt=".">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure>
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/16.png" class="figure-img img-fluid rounded" alt=".">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure>
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/17.png" class="figure-img img-fluid rounded" alt=".">
+    <figcaption class="figure-caption"> ©МАЭ РАН 2021 </figcaption>
+</figure> 
+</div>
 
 In the paper on Kazakh ornamentation,[^18] Dudin shared his thoughts
 about embroidery, which, in his opinion, appeared later than the art of
@@ -330,7 +365,10 @@ this article. However, anyone interested in the history of the Kazakhs
 at the end of the 19th century can explore Samuil Dudin's photographic
 collection on the [Kunstkamera website](https://www.kunstkamera.ru/en/).
 
-![](/assets/images/publications/dudin/18.png#18) 
+<figure class="figure">
+    <img src="/assets/images/publications/dudin/18.png#18" class="figure-img img-fluid rounded" alt=".">
+    <figcaption class="figure-caption">©МАЭ РАН 2021</figcaption>
+</figure>
 
 [^1]: Valeriia Prishchepova, "K 150-letiiu so dnia rozhdeniia S.M. Dudina---khudozhnika, etnografa (po materialam MAE RAN)" For the 150th Anniversary of the Birth of Dudin S. M.---Artist and Ethnographer (Based on the Materials of the MAE RAS),[Antropologicheskiī](https://anthropologie.kunstkamera.ru/files/pdf/015online/prischepova2.pdf) forum online 15, pp. 608-649,accessed January 25, 2021.
 
