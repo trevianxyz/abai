@@ -108,39 +108,4 @@ layout: default
 </div>
 </main>
 
-{% unless include.no-modal %}
-
-<div id="{{ page.modalId }}" class="modal" style="z-index: 10000;">
-    <span class="close cursor" onclick="closeModal()">&times;</span>
-    <div class="modal-content">
-        <img id="img-modal-{{ page.modalId }}" src="" alt="modal image" />
-        <figcaption id="modal-cap" class="p-2"></figcaption>
-    </div>
-</div>
-
-<script>
-
-    $('.img-thumbnail').on('click', function (e) {
-        openModal(e.target.dataset.img);
-    })
-
-    function openModal(img) {
-        $('#{{ page.modalId }}').attr('src', img);
-        captions.forEach(function (c) {
-            if (img.includes(c.filename)) {
-                $('#modal-cap').html(c.caption);
-            }
-        })
-
-        $('#img-modal-{{ page.modalId }}').show();
-        $('html').addClass('modal-open');
-
-    }
-
-    function closeModal() {
-        $('html').removeClass('modal-open');
-        $('#img-modal-{{ page.modalId }}').hide();
-    }
-</script>
-
-{% endunless %}
+ 

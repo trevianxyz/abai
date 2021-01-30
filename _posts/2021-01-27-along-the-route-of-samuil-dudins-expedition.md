@@ -14,10 +14,12 @@ bigtitle_img: "/assets/images/publications/dudin/1.png" # for opengraph
 carousel_img: "/assets/images/publications/dudin/1.png" # for carousel
 western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
 categories: 
-modalId: "dudin"
+modalId: dudin
 ---
 
 <style>
+
+    
 
 img {
     display: block;
@@ -91,6 +93,17 @@ img[src*="#6"] {
    height: 300px;
 }
 
+.zoom {
+  transition: transform .2s; /* Animation */
+  width: auto;
+  max-height: 400px;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(2.0); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
 </style>
 
 <p class="small"><em>The author would like to thank the Kunstkamera Museum for permission to
@@ -158,12 +171,12 @@ cloth (see Photo 2).
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/image2.png#image2" class="figure-img img-fluid rounded" alt="Kazakh men costume.">
-    <figcaption class="figure-caption">figure 1. Kazakh men costume. S.M. Dudin. 1899, Kazakhstan, MAE RAS Semipalatinsk Oblast ©МАЭ РАН 2021</figcaption>
+    <img src="/assets/images/publications/dudin/image2.png#image2" class="figure-img zoom img-fluid rounded" alt="Kazakh men costume.">
+    <figcaption class="figure-caption">Photo 1. Kazakh men costume. S.M. Dudin. 1899, Kazakhstan, MAE RAS Semipalatinsk Oblast ©МАЭ РАН 2021</figcaption>
 </figure>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/image3.png#image3" class="figure-img img-fluid rounded" alt="Kazakh men costume.">
-    <figcaption class="figure-caption">figure 2. Kazakh men costume. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast MAE RAS ©МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/image3.png#image3" class="figure-img zoom img-fluid rounded" alt="Kazakh men costume.">
+    <figcaption class="figure-caption">Photo 2. Kazakh men costume. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast MAE RAS ©МАЭ РАН 2021 </figcaption>
 </figure> 
 </div>
  
@@ -184,10 +197,8 @@ pouch with bullets and gunpowder.
 <div class="images-group">
   <div class="p-2">
     <figure class="figure">
-        <img src="/assets/images/publications/dudin/3.png#3" class="figure-img img-fluid rounded" alt="Two belts kise and kalpak.">
-        <figcaption class="figure-caption">figure 3. Two belts kise and kalpak.
-S.M. Dudin. 1899. 
-Kazakhstan. MAE RAS ©МАЭ РАН 2021</figcaption>
+        <img src="/assets/images/publications/dudin/3.png#3" class="figure-img zoom img-fluid rounded" alt="Two belts kise and kalpak.">
+        <figcaption class="figure-caption">Photo 3. Two belts kise and kalpak.S.M. Dudin. 1899. Kazakhstan. MAE RAS ©МАЭ РАН 2021</figcaption>
     </figure>
    </div>
 </div>
@@ -223,20 +234,20 @@ textiles that were imported into the region.
 <div class="container">
     <div class="images-group">
         <div class="col-sm-12 col-md-6">  
-    <img src="/assets/images/publications/dudin/4.png#4" class="figure-img img-fluid rounded" alt="borik was trimmed with fur.">
-    <figcaption class="figure-caption">photo 4. Girls' headwear (borik) was trimmed with fur. ©МАЭ РАН 2021</figcaption>
+    <img src="/assets/images/publications/dudin/4.png#4" class="figure-img zoom img-fluid rounded" alt="borik was trimmed with fur.">
+    <figcaption class="figure-caption">Photo 4. Girls' headwear (borik) was trimmed with fur. ©МАЭ РАН 2021</figcaption>
     </div>
         <div class="col-sm-12 col-md-6">
-    <img src="/assets/images/publications/dudin/5.png" class="figure-img img-fluid rounded" alt="Kazakh family in their yurt. Numerous felt trunk covers.">
-    <figcaption class="figure-caption">photo 5. A Kazakh family in their yurt. Numerous felt trunk covers. ©МАЭ РАН 2021</figcaption>
+    <img src="/assets/images/publications/dudin/5.png" class="figure-img zoom img-fluid rounded" alt="Kazakh family in their yurt. Numerous felt trunk covers.">
+    <figcaption class="figure-caption">Photo 5. A Kazakh family in their yurt. Numerous felt trunk covers. ©МАЭ РАН 2021</figcaption>
     </div>
 </div>
 
 <div class="images-group">
     <div class="m-1">
         <figure class="figure">
-    <img src="/assets/images/publications/dudin/1.png#1" class="figure-img img-fluid rounded" alt="Karshyn serve as a picturesque background.">
-    <figcaption class="figure-caption">photo 6. Karshyn serve as a picturesque background. ©МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/1.png#1" class="figure-img zoom img-fluid rounded" alt="Karshyn serve as a picturesque background.">
+    <figcaption class="figure-caption">Photo 6. Karshyn serve as a picturesque background. ©МАЭ РАН 2021 </figcaption>
     </figure>
     </div>
     </div>
@@ -279,23 +290,25 @@ carpets, storage bags, and chest covers (see Photo 10).
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/6.png" class="figure-img img-fluid rounded" alt=".">
-    <figcaption class="figure-caption">photo 7. ©МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/6.png" class="figure-img zoom img-fluid rounded" alt=".">
+    <figcaption class="figure-caption">Photo 7. A group of girls during the aul movement. S.M. Dudin. 1899. 
+Kazakhstan, Semipalatinsk Oblast. ©МАЭ РАН 2021 </figcaption>
 </figure>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/8.png" class="figure-img img-fluid rounded" alt=".">
-    <figcaption class="figure-caption">photo 8. ©МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/8.png" class="figure-img zoom img-fluid rounded" alt=".">
+    <figcaption class="figure-caption">Photo 8. Tunduk purchase at Koyandinsk-Botovsk fair. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast. ©МАЭ РАН 2021
+ </figcaption>
 </figure>
 </div>
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/9.png" class="figure-img img-fluid rounded" alt="Wrapping the yurt in felt.">
-    <figcaption class="figure-caption">photo 9. Wrapping the yurt in felt. S.M. Dudin. 1899, Kazakhstan, Ashchisu river. MAE RAS ©МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/9.png" class="figure-img zoom img-fluid rounded" alt="Wrapping the yurt in felt.">
+    <figcaption class="figure-caption">Photo 9. Wrapping the yurt in felt. S.M. Dudin. 1899, Kazakhstan, Ashchisu river. MAE RAS ©МАЭ РАН 2021 </figcaption>
 </figure> 
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/10.png" class="figure-img img-fluid rounded" alt="A group of women and children in a bai yurt.">
-    <figcaption class="figure-caption">photo 10. A group of women and children in a bai yurt. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast (Saumal-kul). MAE RAS ©МАЭ РАН 2021</figcaption>
+    <img src="/assets/images/publications/dudin/10.png" class="figure-img zoom img-fluid rounded" alt="A group of women and children in a bai yurt.">
+    <figcaption class="figure-caption">Photo 10. A group of women and children in a bai yurt. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast (Saumal-kul). MAE RAS ©МАЭ РАН 2021</figcaption>
 </figure> 
 </div>
 
@@ -349,19 +362,20 @@ decorated with embroidery and felt appliqué.
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/11.png#11" class="figure-img img-fluid rounded" alt="Kazakh.">
-    <figcaption class="figure-caption">photo 11. ©МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/11.png#11" class="figure-img zoom img-fluid rounded" alt="Syrmak">
+    <figcaption class="figure-caption">Photo 11. Syrmak.S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast ©МАЭ РАН 2021 </figcaption>
 </figure>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/12.png#12" class="figure-img img-fluid rounded" alt="Kazakh men costume.">
-    <figcaption class="figure-caption">photo 12. ©МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/12.png#12" class="figure-img zoom img-fluid rounded" alt="Felt door.">
+    <figcaption class="figure-caption">Photo 12. Felt door. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast. ©МАЭ РАН 2021
+ ©МАЭ РАН 2021 </figcaption>
 </figure> 
 </div>
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/13.png#13" class="figure-img img-fluid rounded" alt=".">
-    <figcaption class="figure-caption">photo 13. МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/13.png#13" class="figure-img zoom img-fluid rounded" alt="Ayak kap">
+    <figcaption class="figure-caption">Photo 13. Ayak kap. S.M. Dudin. 1899. Kazakhstan, Semirechie. ©МАЭ РАН 2021 </figcaption>
 </figure>
 </div>
 
@@ -386,11 +400,10 @@ this article. However, anyone interested in the history of the Kazakhs
 at the end of the 19th century can explore Samuil Dudin's photographic
 collection on the [Kunstkamera website](https://www.kunstkamera.ru/en/).
 
-
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/14.png#14" class="figure-img img-fluid rounded" alt="Shalbar">
-    <figcaption class="figure-caption">photo 14. Shalbar. S.M. Dudin,1899. Northeastern Kazakhstan. MAE RAS ©МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/14.png#14" class="figure-img zoom img-fluid rounded" alt="Shalbar">
+    <figcaption class="figure-caption">Photo 14. Shalbar. S.M. Dudin,1899. Northeastern Kazakhstan. MAE RAS ©МАЭ РАН 2021 </figcaption>
 </figure> 
 </div>
 
