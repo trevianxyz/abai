@@ -157,7 +157,7 @@ decorative-applied arts of the Kazakhs of the late 19th century.
 
 In the photographs of Samuil Dudin, we see a lot of everyday clothes for
 men, women, and children. Men's attire included unique elements: a
-winter hat known as *tymak* (Russian: *malakhai*) [^8] and a leather
+winter hat known as *tymak* (Russian: *malakhai*)[^8] and a leather
 belt called *kise* (see [Photo 1](#photo1)). The *tymak* was made from felt, fox
 fur, or astrakhan. This headdress was worn in the 20th century,
 especially by shepherds in winter pastures. Other necessary items of
@@ -168,7 +168,7 @@ cloth (see [Photo 2](#photo2)).
 <div class="images-group">
 <figure class="figure">
     <img src="/assets/images/publications/dudin/image2.png#image2" id="photo1" class="figure-img zoom img-fluid rounded" alt="Kazakh men's clothing">
-    <figcaption class="figure-caption">Photo 1. Kazakh men costume. S.M. Dudin. 1899, Kazakhstan, MAE RAS Semipalatinsk Oblast ©МАЭ РАН 2021</figcaption>
+    <figcaption class="figure-caption">Photograph 1. Kazakh men costume. S.M. Dudin. 1899, Kazakhstan, Semipalatinsk Oblast. ©МАЭ РАН 2021</figcaption>
 </figure>
 <figure class="figure">
     <img src="/assets/images/publications/dudin/image3.png#image3" id="photo2" class="figure-img zoom img-fluid rounded" alt="Kazakh men clothing">
