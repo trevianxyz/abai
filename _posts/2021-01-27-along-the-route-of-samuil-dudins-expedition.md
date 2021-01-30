@@ -10,7 +10,7 @@ descrip: "Samuil Dudin (1863-1929) made his first trip to the Great Steppe in 18
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
 image: "/assets/images/publications/dudin/1.png"
-bigtitle_img: "/assets/images/publications/dudin/1.png" # for opengraph
+bigtitle_img: "/assets/images/publications/dudin/7.png" # for opengraph
 carousel_img: "/assets/images/publications/dudin/1.png" # for carousel
 western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
 categories: ['publication']
@@ -42,12 +42,6 @@ img[src*="#image2"] {
 }
 
 img[src*="#image3"] {
-   width: auto;
-   height: 400px;
-}
-
-
-img[src*="#1"] {
    width: auto;
    height: 400px;
 }
