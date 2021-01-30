@@ -290,7 +290,7 @@ carpets, storage bags, and chest covers (see Photo 10).
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/6.png" class="figure-img zoom img-fluid rounded" alt=".">
+    <img src="/assets/images/publications/dudin/7.png" class="figure-img zoom img-fluid rounded" alt=".">
     <figcaption class="figure-caption">Photo 7. A group of girls during the aul movement. S.M. Dudin. 1899. 
 Kazakhstan, Semipalatinsk Oblast. ©МАЭ РАН 2021 </figcaption>
 </figure>
