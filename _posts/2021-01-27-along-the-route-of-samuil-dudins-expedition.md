@@ -280,11 +280,13 @@ carpets, storage bags, and chest covers (see Photo 10).
 <div class="images-group">
 <figure class="figure">
     <img src="/assets/images/publications/dudin/6.png" class="figure-img img-fluid rounded" alt=".">
-    <figcaption class="figure-caption">photo 7. ©МАЭ РАН 2021 </figcaption>
+    <figcaption class="figure-caption">Photograph 7. A group of girls during the aul movement. S.M. Dudin. 1899. 
+Kazakhstan, Semipalatinsk Oblast. ©МАЭ РАН 2021 </figcaption>
 </figure>
 <figure class="figure">
     <img src="/assets/images/publications/dudin/8.png" class="figure-img img-fluid rounded" alt=".">
-    <figcaption class="figure-caption">photo 8. ©МАЭ РАН 2021 </figcaption>
+    <figcaption class="figure-caption">Photograph 8. Tunduk purchase at Koyandinsk-Botovsk fair. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast. ©МАЭ РАН 2021
+ </figcaption>
 </figure>
 </div>
 
@@ -349,19 +351,20 @@ decorated with embroidery and felt appliqué.
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/11.png#11" class="figure-img img-fluid rounded" alt="Kazakh.">
-    <figcaption class="figure-caption">photo 11. ©МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/11.png#11" class="figure-img img-fluid rounded" alt="Syrmak">
+    <figcaption class="figure-caption">Photograph 11. Syrmak.S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast ©МАЭ РАН 2021 </figcaption>
 </figure>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/12.png#12" class="figure-img img-fluid rounded" alt="Kazakh men costume.">
-    <figcaption class="figure-caption">photo 12. ©МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/12.png#12" class="figure-img img-fluid rounded" alt="Felt door.">
+    <figcaption class="figure-caption">Photograph 12. Felt door. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast. ©МАЭ РАН 2021
+ ©МАЭ РАН 2021 </figcaption>
 </figure> 
 </div>
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/13.png#13" class="figure-img img-fluid rounded" alt=".">
-    <figcaption class="figure-caption">photo 13. МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/13.png#13" class="figure-img img-fluid rounded" alt="Ayak kap">
+    <figcaption class="figure-caption">Photograph 13. Ayak kap. S.M. Dudin. 1899. Kazakhstan, Semirechie. ©МАЭ РАН 2021 </figcaption>
 </figure>
 </div>
 
@@ -385,7 +388,6 @@ is reflected in the photographs of Samuil Dudin is outside the scope of
 this article. However, anyone interested in the history of the Kazakhs
 at the end of the 19th century can explore Samuil Dudin's photographic
 collection on the [Kunstkamera website](https://www.kunstkamera.ru/en/).
-
 
 <div class="images-group">
 <figure class="figure">
