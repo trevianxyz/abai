@@ -93,15 +93,12 @@ img[src*="#6"] {
    height: 300px;
 }
 
-.zoom {
-  transition: transform .2s; /* Animation */
-  width: auto;
-  max-height: 400px;
-  margin: 0 auto;
+figure {
+    margin: 5px; 
 }
 
-.zoom:hover {
-  transform: scale(2.0); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+.author-image {
+   height: 300px;  
 }
 
 </style>
@@ -171,11 +168,11 @@ cloth (see Photo 2).
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/image2.png#image2" class="figure-img zoom img-fluid rounded" alt="Kazakh men costume.">
+    <img src="/assets/images/publications/dudin/image2.png#image2" class="figure-img zoom img-fluid rounded" alt="Kazakh men's clothing">
     <figcaption class="figure-caption">Photo 1. Kazakh men costume. S.M. Dudin. 1899, Kazakhstan, MAE RAS Semipalatinsk Oblast ©МАЭ РАН 2021</figcaption>
 </figure>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/image3.png#image3" class="figure-img zoom img-fluid rounded" alt="Kazakh men costume.">
+    <img src="/assets/images/publications/dudin/image3.png#image3" class="figure-img zoom img-fluid rounded" alt="Kazakh men clothing">
     <figcaption class="figure-caption">Photo 2. Kazakh men costume. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast MAE RAS ©МАЭ РАН 2021 </figcaption>
 </figure> 
 </div>
@@ -233,11 +230,11 @@ textiles that were imported into the region.
 
 <div class="container">
     <div class="images-group">
-        <div class="col-sm-12 col-md-6">  
+        <div class="col-sm-12 col-md-4">  
     <img src="/assets/images/publications/dudin/4.png#4" class="figure-img zoom img-fluid rounded" alt="borik was trimmed with fur.">
     <figcaption class="figure-caption">Photo 4. Girls' headwear (borik) was trimmed with fur. ©МАЭ РАН 2021</figcaption>
     </div>
-        <div class="col-sm-12 col-md-6">
+        <div class="col-sm-12 col-md-8">
     <img src="/assets/images/publications/dudin/5.png" class="figure-img zoom img-fluid rounded" alt="Kazakh family in their yurt. Numerous felt trunk covers.">
     <figcaption class="figure-caption">Photo 5. A Kazakh family in their yurt. Numerous felt trunk covers. ©МАЭ РАН 2021</figcaption>
     </div>
@@ -253,7 +250,7 @@ textiles that were imported into the region.
     </div>
 </div>
 
-**In and beyond the Yurt**
+**In and Beyond the Yurt**
 
 The mobility of the Kazakhs influenced their culture and crafts. A whole
 series of photographs by Dudin, including "A group of girls during the
