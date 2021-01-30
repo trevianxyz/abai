@@ -25,15 +25,6 @@ img {
     margin-right: auto;
 }
 
-blockquote {
-    text-align: left;
-    font-size: .9em;
-    color: #40407a;
-    font-style: italic;
-    margin-left: 2%;
-    margin-right: 5%;
-}
-
 img[src*="#image2"] {
    width: auto;
    height: 400px;
@@ -93,9 +84,28 @@ figure {
    height: 300px;  
 }
 
+em {
+    text-decoration: underline;
+    text-decoration-color: purple;
+}
+
+.no-decoration {
+    text-decoration: none;
+}
+
+blockquote {
+    text-align: left;
+    font-size: .9em;
+    color: #40407a;
+    font-style: italic;
+    margin-left: 2%;
+    margin-right: 5%;
+    text-decoration: none !important;
+}
+
 </style>
 
-<p class="small ml-3"><em>The author would like to thank the Kunstkamera Museum for permission to
+<p class="small ml-3"><em class="no-decoration">The author would like to thank the Kunstkamera Museum for permission to
 use the photos of Samuil Dudin in this article. All images are
 reproduced here with the written permission of the Peter the Great
 Museum of Anthropology and Ethnography (the Kunstkamera). No further
@@ -104,7 +114,7 @@ from the museum.</em></p>
 
 A talented ethnographer, photographer, traveler, collector, artist, and
 researcher of the history and culture of Central Asia, Samuil Dudin
-(1863-1929) made his first trip to the region in 1891. Dudin was a
+(1863-1929) made his first expedition in 1891. Dudin was a
 participant in the Orkhon expedition and was involved in a study of
 Mongolian antiquities led by the scholar Vasily Radlov, who played a
 huge role in the young ethnographer's fate. Radlov contributed not only
@@ -125,8 +135,7 @@ Chakchansky (Shakshak, 33 1⁄4 versts) to the Cossack village of Bayanaul
 (24 versts).[^4]
 
 The researcher captured his trip to the Kazakh steppes in immortal
-photos. Moreover, based on photographs, as well as on his drawings,
-drawings on paper, and "information from the Kazakhs,"[^5] Dudin
+photos. Moreover, based on photographs, as well as on his drawings, drawings on paper, and "information from the Kazakhs,"[^5] Dudin
 prepared several publications devoted to the decorative and applied arts
 of Central Asia: "Kyrgyz ornament" (*Kirgizskiī ornament*), "Carpets of
 Central Asia" (*Kovrovye izdeliia Sredneī Azii*), "Woodcarving by
@@ -143,7 +152,7 @@ photos---unlike the politicized ones in the "Turkestan
 Album"[^7]---genuine ethnographic value. Indeed, this photo collection
 should be designated as an ethnographic companion to the life of
 Kazakhs, primarily those who lived in the Semipalatinsk region. This
-photographic companion depicts the clothing, occupations, and
+photographic companion depicts the clothing, daily occupations, and
 decorative-applied arts of the Kazakhs of the late 19th century.
 
 **Traditional Clothing**
@@ -192,9 +201,7 @@ pouch with bullets and gunpowder.
    </div>
 </div>
 
-Dudin also depicted the *kalpak*, a man's headdress popular not only
-among the Kazakhs but also among the Kyrgyz.[^11] The *kalpak* was made
-of thin felt and its color helped to identify its owner: the rich chose
+Dudin also depicted the kalpak, a man’s headdress popular among the Kazakhs and the Kyrgyz[^11]. The *kalpak* was made of thin felt and its color helped to identify its owner: the rich chose
 snow-white *kalpaks*, while the poor wore black, gray, and brown ones.
 The *kalpak* was decorated with embroidery and patches of colored cloth.
 The Kazakh nobility wore *kalpaks* of velvet richly decorated with silk
@@ -218,25 +225,25 @@ During this period, Russian cotton fabrics, which at first were more
 expensive than local ones, began to penetrate the region. As a result,
 clothing from that era was made from a wide variety of local Central
 Asian and Russian fabrics, as well as British, Indian, and Iranian
-textiles that were imported into the region.
+textiles that were imported into the region. Photo 6 shows a Kazakh family in their yurt. Numerous felt trunk covers (karshyn) serve as a picturesque background.
 
 <div class="container">
     <div class="images-group">
         <div class="col-sm-12 col-md-4">  
-    <img src="/assets/images/publications/dudin/4.png#4" class="figure-img zoom img-fluid rounded" alt="borik was trimmed with fur.">
-    <figcaption class="figure-caption">Photo 4. Girls' headwear (borik) was trimmed with fur. ©МАЭ РАН 2021</figcaption>
+    <img src="/assets/images/publications/dudin/4.png#4" class="figure-img zoom img-fluid rounded" alt="Kazakh girl costume.">
+    <figcaption class="figure-caption">Photo 4. Kazakh girl costume. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast. ©МАЭ РАН 2021</figcaption>
     </div>
         <div class="col-sm-12 col-md-8">
-    <img src="/assets/images/publications/dudin/5.png" class="figure-img zoom img-fluid rounded" alt="Kazakh family in their yurt. Numerous felt trunk covers.">
-    <figcaption class="figure-caption">Photo 5. A Kazakh family in their yurt. Numerous felt trunk covers. ©МАЭ РАН 2021</figcaption>
+    <img src="/assets/images/publications/dudin/5.png" class="figure-img zoom img-fluid rounded" alt="Kazakh women">
+    <figcaption class="figure-caption">Photo 5. Kazakh women. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast (Saumal-Kul). ©МАЭ РАН 2021</figcaption>
     </div>
 </div>
 
 <div class="images-group">
     <div class="m-1">
         <figure class="figure">
-    <img src="/assets/images/publications/dudin/1.png#1" class="figure-img zoom img-fluid rounded" alt="Karshyn serve as a picturesque background.">
-    <figcaption class="figure-caption">Photo 6. Karshyn serve as a picturesque background. ©МАЭ РАН 2021 </figcaption>
+    <img src="/assets/images/publications/dudin/1.png#1" class="figure-img zoom img-fluid rounded" alt="Bay and his wife..">
+    <figcaption class="figure-caption">Photo 6. Bay and his wife. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast (Saumal-Kul). ©МАЭ РАН 2021 </figcaption>
     </figure>
     </div>
     </div>
@@ -310,7 +317,7 @@ steppe nomads, which had been gradually declining under the influence of
 "common European culture."[^16] He described the craftsmanship of the
 peoples of Central Asia in vivid detail:
 
-> *The love for colors and flair for them, the love for ornamental
+> The love for colors and flair for them, the love for ornamental
 > decoration of household items and the richness of this decoration are
 > peculiar to the peoples of Central Asia. In the past, this tendency
 > was undoubtedly revealed with greater force and on a larger scale than
@@ -330,7 +337,7 @@ peoples of Central Asia in vivid detail:
 > of them is clear to me: it is the fact that the Kyrgyz more fully
 > preserved the nomadic way of life; almost nothing has changed in their
 > way of life, despite all the impacts of cultures of neighboring
-> nationalities*.[^17]
+> nationalities.[^17]
 
 To support his conclusions, Dudin referred to photographs of the felt
 carpets *syrmak* (see Photo 11) and *tekemet*, the storage bags *ayak
@@ -377,7 +384,7 @@ needlework: tambour, plain, and cross stitch.
 As the researcher noted, stylized plant ornamentation prevails in the
 embroidery. We can see it on the black velvet of elegant pants known as
 *kesteli jalbar* (see Photo 14). Only wealthy Kazakhs could afford such
-pants. Another type of men's pants, z*hargak shalbar*, were made of
+pants. Another type of men's pants, *zhargak shalbar*, were made of
 finely wrought yellow or red suede, embroidered with silk thread and
 patterned braid, and decorated with fur. The pants were similar in their
 cut, but differed in their material of manufacture. For example, winter
@@ -387,7 +394,7 @@ The full extent of the huge cultural heritage of the Kazakh people that
 is reflected in the photographs of Samuil Dudin is outside the scope of
 this article. However, anyone interested in the history of the Kazakhs
 at the end of the 19th century can explore Samuil Dudin's photographic
-collection on the [Kunstkamera website](https://www.kunstkamera.ru/en/).
+collection on the [Kunstkamera website.](https://www.kunstkamera.ru/en/)
 
 <div class="images-group">
 <figure class="figure">
