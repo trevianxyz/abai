@@ -105,8 +105,7 @@ blockquote {
 
 </style>
 
-<p class="small ml-3"><em class="no-decoration">The author would like to thank the Kunstkamera Museum for permission to
-use the photos of Samuil Dudin in this article. All images are
+<p class="small ml-3"><em class="no-decoration">The author would like to thank the Kunstkamera Museum for permission to use the photos of Samuil Dudin in this article. All images are
 reproduced here with the written permission of the Peter the Great
 Museum of Anthropology and Ethnography (the Kunstkamera). No further
 reproduction by third parties is possible without proper authorization
@@ -135,8 +134,7 @@ Chakchansky (Shakshak, 33 1⁄4 versts) to the Cossack village of Bayanaul
 (24 versts).[^4]
 
 The researcher captured his trip to the Kazakh steppes in immortal
-photos. Moreover, based on photographs, as well as on his drawings, drawings on paper, and "information from the Kazakhs,"[^5] Dudin
-prepared several publications devoted to the decorative and applied arts
+photos. Moreover, based on photographs, as well as on his drawings, drawings on paper, and "information from the Kazakhs,"[^5] Dudin prepared several publications devoted to the decorative and applied arts
 of Central Asia: "Kyrgyz ornament" (*Kirgizskiī ornament*), "Carpets of
 Central Asia" (*Kovrovye izdeliia Sredneī Azii*), "Woodcarving by
 Kyrgyz" (*Rez'ba po derevu u Kirgiz*), and "Central Asian Carpets"
@@ -160,42 +158,41 @@ decorative-applied arts of the Kazakhs of the late 19th century.
 In the photographs of Samuil Dudin, we see a lot of everyday clothes for
 men, women, and children. Men's attire included unique elements: a
 winter hat known as *tymak* (Russian: *malakhai*) [^8] and a leather
-belt called *kise* (see Photo 1). The *tymak* was made from felt, fox
+belt called *kise* (see [Photo 1](#photo1)). The *tymak* was made from felt, fox
 fur, or astrakhan. This headdress was worn in the 20th century,
 especially by shepherds in winter pastures. Other necessary items of
 clothing for winter are a covered coat (*ishik*) and a sheepskin coat
 (*ton*); the latter was worn over a coat (*shekpen*) made of homespun
-cloth (see Photo 2).
+cloth (see [Photo 2](#photo2)).
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/image2.png#image2" class="figure-img zoom img-fluid rounded" alt="Kazakh men's clothing">
+    <img src="/assets/images/publications/dudin/image2.png#image2" id="photo1" class="figure-img zoom img-fluid rounded" alt="Kazakh men's clothing">
     <figcaption class="figure-caption">Photo 1. Kazakh men costume. S.M. Dudin. 1899, Kazakhstan, MAE RAS Semipalatinsk Oblast ©МАЭ РАН 2021</figcaption>
 </figure>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/image3.png#image3" class="figure-img zoom img-fluid rounded" alt="Kazakh men clothing">
+    <img src="/assets/images/publications/dudin/image3.png#image3" id="photo2" class="figure-img zoom img-fluid rounded" alt="Kazakh men clothing">
     <figcaption class="figure-caption">Photo 2. Kazakh men costume. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast MAE RAS ©МАЭ РАН 2021 </figcaption>
 </figure> 
 </div>
  
 **Traditional Clothing**
 
-The leather *kise* with which the upper gown (*shapan*) was belted (see
-Photo 1) acquired an exclusively decorative character by the end of the
+The leather *kise* with which the upper gown (*shapan*) was belted (see [Photo 1](#photo1)) acquired an exclusively decorative character by the end of the
 19th century, as Chokan Valikhanov has noted.[^9] *Kise* was replaced by
-the cotton belt *belbeu*[^10] (see Photo 2). The leather *kise*, a
+the cotton belt *belbeu*[^10] (see [Photo 1](#photo1)). The leather *kise*, a
 distinctive element of Kazakh dress, was decorated with embossing and
 figured overlays encrusted with silver and semi-precious stones. The
 *kise* was not merely decorative; a semi-circular bag with a flap
 (*kalta* or *kise*) was attached to the belt using special pendants and
 housed a fire-starter, flint, and other tools needed by a nomad (see
-Photo 3). On the other side of the belt hung a pouch with a knife and a
+[Photo 3](#photo3)). On the other side of the belt hung a pouch with a knife and a
 pouch with bullets and gunpowder.
 
 <div class="images-group">
   <div class="p-2">
     <figure class="figure">
-        <img src="/assets/images/publications/dudin/3.png#3" class="figure-img zoom img-fluid rounded" alt="Two belts kise and kalpak.">
+        <img src="/assets/images/publications/dudin/3.png#3" id="photo3" class="figure-img zoom img-fluid rounded" alt="Two belts kise and kalpak.">
         <figcaption class="figure-caption">Photo 3. Two belts kise and kalpak.S.M. Dudin. 1899. Kazakhstan. MAE RAS ©МАЭ РАН 2021</figcaption>
     </figure>
    </div>
@@ -210,31 +207,31 @@ and gold thread embroidery.
 The upper coat (*shapan*) was also worn by women, together with a long
 dress (*koilek*). Ruffles, which were very fashionable in the 19^th^
 century, were used to decorate the dresses of girls and young women.
-Girls' headwear (*borik*) was trimmed with fur (see Photo 4). Unlike
+Girls' headwear (*borik*) was trimmed with fur (see [Photo 4](#photo4)). Unlike
 similar men's headdresses, fur was sewn to young women's *borik* only on
 the outside.
 
-The following photograph (Photo 5) shows the girls in tunic-like
+The following photograph [Photo 5](#photo5) shows the girls in tunic-like
 *koilek* dresses made of printed chintz of Russian manufacture. The
 oldest woman wears a camisole and a headdress *kimeshek* of white
 calico. Similar *kimeshek* with modest embroidery were worn by women
 over the age of 40. One of the girls put on her head a *shapan* trimmed
-with colorful adras fabric (see Photo 5).
+with colorful adras fabric (see [Photo 5](#photo5)).
 
 During this period, Russian cotton fabrics, which at first were more
 expensive than local ones, began to penetrate the region. As a result,
 clothing from that era was made from a wide variety of local Central
 Asian and Russian fabrics, as well as British, Indian, and Iranian
-textiles that were imported into the region. Photo 6 shows a Kazakh family in their yurt. Numerous felt trunk covers (karshyn) serve as a picturesque background.
+textiles that were imported into the region. [Photo 6](#photo6) shows a Kazakh family in their yurt. Numerous felt trunk covers (karshyn) serve as a picturesque background.
 
 <div class="container">
     <div class="images-group">
         <div class="col-sm-12 col-md-4">  
-    <img src="/assets/images/publications/dudin/4.png#4" class="figure-img zoom img-fluid rounded" alt="Kazakh girl costume.">
+    <img src="/assets/images/publications/dudin/4.png#4" id="photo4" class="figure-img zoom img-fluid rounded" alt="Kazakh girl costume.">
     <figcaption class="figure-caption">Photo 4. Kazakh girl costume. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast. ©МАЭ РАН 2021</figcaption>
     </div>
         <div class="col-sm-12 col-md-8">
-    <img src="/assets/images/publications/dudin/5.png" class="figure-img zoom img-fluid rounded" alt="Kazakh women">
+    <img src="/assets/images/publications/dudin/5.png" id="photo5" class="figure-img zoom img-fluid rounded" alt="Kazakh women">
     <figcaption class="figure-caption">Photo 5. Kazakh women. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast (Saumal-Kul). ©МАЭ РАН 2021</figcaption>
     </div>
 </div>
@@ -242,7 +239,7 @@ textiles that were imported into the region. Photo 6 shows a Kazakh family in th
 <div class="images-group">
     <div class="m-1">
         <figure class="figure">
-    <img src="/assets/images/publications/dudin/1.png#1" class="figure-img zoom img-fluid rounded" alt="Bay and his wife..">
+    <img src="/assets/images/publications/dudin/1.png#1" id="photo6" class="figure-img zoom img-fluid rounded" alt="Bay and his wife..">
     <figcaption class="figure-caption">Photo 6. Bay and his wife. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast (Saumal-Kul). ©МАЭ РАН 2021 </figcaption>
     </figure>
     </div>
@@ -253,7 +250,7 @@ textiles that were imported into the region. Photo 6 shows a Kazakh family in th
 
 The mobility of the Kazakhs influenced their culture and crafts. A whole
 series of photographs by Dudin, including "A group of girls during the
-a*ul* movement" (Photo 7), clearly demonstrate the mobility of
+a*ul* movement" ([Photo 7](#photo7)), clearly demonstrate the mobility of
 19th-century Kazakh nomads, offering us insight not only into their
 daily lives, but also into the surrounding landscape.
 
@@ -269,29 +266,29 @@ Dudin paid much attention to the yurts: their "movable
 architecture,"[^13] assembly, felt coverings, and interior decorations.
 He also photographed certain elements of the mobile dwelling---namely
 *changarak*, *kerege,* and *tunduk*[^14]---and explored how these yurt
-parts were purchased. Photo 8 shows the purchase of a *tunduk* at the
+parts were purchased. [Photo 8](#photo8) shows the purchase of a *tunduk* at the
 famous Kuyanda-Botov Fair. The fair took place for a month each year,
 from May 25 to June 25, between 1848 and 1930 in the valley of the river
 Taldy. The annual fair can be described as international: many traders
 and buyers from Kazakhstan, Siberia, the Urals, Central Asia, and China
 came to participate.[^15]
 
-Photo 9 shows how the women assembled the yurt and covered the wooden
+[Photo 9](#photo9) shows how the women assembled the yurt and covered the wooden
 frame with felt. In winter, the yurt was wrapped with double felt, earth
 or snow was put on the bottom, and *kerege* (lattice walls) were put on
 the outside between this double layer and the *koshma* with *chiy* (thin
 steppe reeds wrapped with multicolored wool). Felt also reigned supreme
 in the interior decoration of the yurt, serving as the base for numerous
-carpets, storage bags, and chest covers (see Photo 10).
+carpets, storage bags, and chest covers (see [Photo 10](#photo10)).
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/7.png" class="figure-img zoom img-fluid rounded" alt=".">
+    <img src="/assets/images/publications/dudin/7.png" id="photo7" class="figure-img zoom img-fluid rounded" alt=".">
     <figcaption class="figure-caption">Photo 7. A group of girls during the aul movement. S.M. Dudin. 1899. 
 Kazakhstan, Semipalatinsk Oblast. ©МАЭ РАН 2021 </figcaption>
 </figure>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/8.png" class="figure-img zoom img-fluid rounded" alt=".">
+    <img src="/assets/images/publications/dudin/8.png" id="photo8" class="figure-img zoom img-fluid rounded" alt=".">
     <figcaption class="figure-caption">Photo 8. Tunduk purchase at Koyandinsk-Botovsk fair. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast. ©МАЭ РАН 2021
  </figcaption>
 </figure>
@@ -299,11 +296,11 @@ Kazakhstan, Semipalatinsk Oblast. ©МАЭ РАН 2021 </figcaption>
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/9.png" class="figure-img zoom img-fluid rounded" alt="Wrapping the yurt in felt.">
+    <img src="/assets/images/publications/dudin/9.png" id="photo9" class="figure-img zoom img-fluid rounded" alt="Wrapping the yurt in felt.">
     <figcaption class="figure-caption">Photo 9. Wrapping the yurt in felt. S.M. Dudin. 1899, Kazakhstan, Ashchisu river. MAE RAS ©МАЭ РАН 2021 </figcaption>
 </figure> 
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/10.png" class="figure-img zoom img-fluid rounded" alt="A group of women and children in a bai yurt.">
+    <img src="/assets/images/publications/dudin/10.png" id="photo10" class="figure-img zoom img-fluid rounded" alt="A group of women and children in a bai yurt.">
     <figcaption class="figure-caption">Photo 10. A group of women and children in a bai yurt. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast (Saumal-kul). MAE RAS ©МАЭ РАН 2021</figcaption>
 </figure> 
 </div>
@@ -340,29 +337,28 @@ peoples of Central Asia in vivid detail:
 > nationalities.[^17]
 
 To support his conclusions, Dudin referred to photographs of the felt
-carpets *syrmak* (see Photo 11) and *tekemet*, the storage bags *ayak
+carpets *syrmak* (see [Photo 11](#photo11)) and *tekemet*, the storage bags *ayak
 kap*, and other felt and leather items. These artisanal pieces served as
 the interior and exterior decoration for a yurt, like a felt door
-curtain (Photo 12).
+curtain ([Photo 12](#photo12)).
 
 It is interesting to note the similarity of the ornament on the
 different felt works, which is reminiscent of the tree of life. This
 highly stylized tree made of animal horns, where the lower part is like
 the roots of ancestors and the upper part the future generations of a
 large Kazakh family. The ornament on the felt rug *syrmak* and felt door
-(see Photos 11 and 12) is inlaid; the pattern was superimposed on the
+(see Photos [11](#photo11) and [12](#photo12)) is inlaid; the pattern was superimposed on the
 main background and then quilted and stitched along the contour of the
-pattern. Photo 13 depicts a felt storage bag *ayak kap* that is
+pattern. [Photo 13](#photo13) depicts a felt storage bag *ayak kap* that is
 decorated with embroidery and felt appliqué.
-
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/11.png#11" class="figure-img zoom img-fluid rounded" alt="Syrmak">
+    <img src="/assets/images/publications/dudin/11.png#11" id="photo11" class="figure-img zoom img-fluid rounded" alt="Syrmak">
     <figcaption class="figure-caption">Photo 11. Syrmak.S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast ©МАЭ РАН 2021 </figcaption>
 </figure>
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/12.png#12" class="figure-img zoom img-fluid rounded" alt="Felt door.">
+    <img src="/assets/images/publications/dudin/12.png#12" id="photo12" class="figure-img zoom img-fluid rounded" alt="Felt door.">
     <figcaption class="figure-caption">Photo 12. Felt door. S.M. Dudin. 1899. Kazakhstan, Semipalatinsk Oblast. ©МАЭ РАН 2021
  ©МАЭ РАН 2021 </figcaption>
 </figure> 
@@ -370,7 +366,7 @@ decorated with embroidery and felt appliqué.
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/13.png#13" class="figure-img zoom img-fluid rounded" alt="Ayak kap">
+    <img src="/assets/images/publications/dudin/13.png#13" id="photo13" class="figure-img zoom img-fluid rounded" alt="Ayak kap">
     <figcaption class="figure-caption">Photo 13. Ayak kap. S.M. Dudin. 1899. Kazakhstan, Semirechie. ©МАЭ РАН 2021 </figcaption>
 </figure>
 </div>
@@ -383,7 +379,7 @@ needlework: tambour, plain, and cross stitch.
 
 As the researcher noted, stylized plant ornamentation prevails in the
 embroidery. We can see it on the black velvet of elegant pants known as
-*kesteli jalbar* (see Photo 14). Only wealthy Kazakhs could afford such
+*kesteli jalbar* (see [Photo 14](#photo14)). Only wealthy Kazakhs could afford such
 pants. Another type of men's pants, *zhargak shalbar*, were made of
 finely wrought yellow or red suede, embroidered with silk thread and
 patterned braid, and decorated with fur. The pants were similar in their
@@ -398,7 +394,7 @@ collection on the [Kunstkamera website.](https://www.kunstkamera.ru/en/)
 
 <div class="images-group">
 <figure class="figure">
-    <img src="/assets/images/publications/dudin/14.png#14" class="figure-img zoom img-fluid rounded" alt="Shalbar">
+    <img src="/assets/images/publications/dudin/14.png#14" id="photo14" class="figure-img zoom img-fluid rounded" alt="Shalbar">
     <figcaption class="figure-caption">Photo 14. Shalbar. S.M. Dudin,1899. Northeastern Kazakhstan. MAE RAS ©МАЭ РАН 2021 </figcaption>
 </figure> 
 </div>
