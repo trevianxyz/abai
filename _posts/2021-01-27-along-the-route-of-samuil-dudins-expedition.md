@@ -19,8 +19,6 @@ modalId: dudin
 
 <style>
 
-    
-
 img {
     display: block;
     margin-left: auto;
@@ -97,7 +95,7 @@ figure {
 
 </style>
 
-<p class="small"><em>The author would like to thank the Kunstkamera Museum for permission to
+<p class="small ml-3"><em>The author would like to thank the Kunstkamera Museum for permission to
 use the photos of Samuil Dudin in this article. All images are
 reproduced here with the written permission of the Peter the Great
 Museum of Anthropology and Ethnography (the Kunstkamera). No further
