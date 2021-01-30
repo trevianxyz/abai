@@ -5,7 +5,7 @@ title: "Along the Route of Samuil Dudin’s Expedition"
 author: "Snezhana Atanova"
 author_img: "/assets/images/publications/dudin/atanova_author.jpg"
 author_bio: "Snezhana Atanova, research fellow in material culture and history, Department of Central Asia, Caucasus, Volga and Ural Regions, Institute of Oriental Studies of the Russian Academy of Science. Her areas of expertise include material culture and cultural heritage of Central Asia."
-date: 2021-01-01
+date: 2021-01-29
 descrip: "Samuil Dudin (1863-1929) made his first trip to the Great Steppe in 1891 on the Orkhon expedition on study of Mongolian antiquities. Dudin made keen documentation and photographs of Kazakh culture, community, lifestyle and art of the late 19th century." # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
@@ -13,7 +13,7 @@ image: "/assets/images/publications/dudin/1.png"
 bigtitle_img: "/assets/images/publications/dudin/1.png" # for opengraph
 carousel_img: "/assets/images/publications/dudin/1.png" # for carousel
 western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
-categories: 
+categories: ['publication']
 modalId: dudin
 ---
 
