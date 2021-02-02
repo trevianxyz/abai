@@ -110,18 +110,10 @@ Museum. The internationally known event is organized each year by an
 active and experienced group of volunteers, the Smithsonian Women's
 Committee.
 
-![](/assets/images/publications/pmtaylor/Figure_1.jpg)
+![](/assets/images/publications/pmtaylor/Figure_1.jpg){:.zoom .figure-img .img-fluid .rounded}
 
-> Figure 1. Artisans from Kazakhstan, who showed their \"wearable
-> craft\" art at the Smithsonian Craft2Wear Show, Oct. 3-5. From left:
-> Serik Rysbekov, Ulbossyn Daulenova, Gulmira Terlikbayeva (Gulmira
-> Ualihan), Aizhan Bekkulova (4th from left, head of the Union of
-> Artisans), Talshyn Koken (Talshyn Kokenova), with (6th from left)
-> their and our Washington-based friend Dr. Tokjan Balderston, then (7th
-> from left) Serikkaliy Kokenov (Сериккали Кокенов), Ikramzhan Rafikov
-> (Ikram Rafikov), Dulat Ashimov, Serzhan Bashirov, and (squatting at
-> center, front) Iliya Kazakov. Participating artist (jeweler) Almas
-> Mustafayev (Almas Serikuly) was absent from this photo
+{:.image-caption}
+Figure 1. Artisans from Kazakhstan, who showed their \"wearable craft\" art at the Smithsonian Craft2Wear Show, Oct. 3-5. From left: Serik Rysbekov, Ulbossyn Daulenova, Gulmira Terlikbayeva (Gulmira Ualihan), Aizhan Bekkulova (4th from left, head of the Union of Artisans), Talshyn Koken (Talshyn Kokenova), with (6th from left) their and our Washington-based friend Dr. Tokjan Balderston, then (7th from left) Serikkaliy Kokenov (Сериккали Кокенов), Ikramzhan Rafikov (Ikram Rafikov), Dulat Ashimov, Serzhan Bashirov, and (squatting at center, front) Iliya Kazakov. Participating artist (jeweler) Almas Mustafayev (Almas Serikuly) was absent from this photo.
 
 The Craft2Wear Show's many visitors formed a large potential audience
 for teaching about crafts of Kazakhstan, though they would surely also
@@ -161,9 +153,10 @@ institutions, the Smithsonian and the Kasteyev State Museum of Arts. The
 book is now fully available online
 [here](https://www.academia.edu/43867373/Kazakhstan_s_Crafts_and_Creative_Economy_Proceedings_of_an_International_Symposium).
 
-> ![](/assets/images/publications/pmtaylor/image2.jpeg#creative)
-> Figure 2*. Kazakhstan's Crafts and Creative Economy: Proceedings of an
-> International Symposium* (Taylor and Shalabayeva, 2020).
+![](/assets/images/publications/pmtaylor/image2.jpeg#creative){:.zoom .figure-img .img-fluid .rounded}
+
+{:.image-caption}
+Figure 2*. Kazakhstan's Crafts and Creative Economy: Proceedings of an International Symposium* (Taylor and Shalabayeva, 2020).
 
 Our Washington symposium was designed to bring together researchers from
 both institutions, with five speakers from each museum presenting, at
@@ -208,15 +201,17 @@ Syrlybayeva, Nurzhamal Nurfeizova. The symposium was later made
 available online
 [here](https://www.youtube.com/watch?v=-ZM1zDHCVW8&list=PL__mMoD16eH3np-sZHH_O6dtcGEkXbB83&index=32).
 
-![](/assets/images/publications/pmtaylor/figure3.jpg) 
 
-> Figure 3. Scholars gathered for the *Kazakhstan's Crafts and Creative
-> Economy* Symposium at the Smithsonian Craft2Wear Show. Left to right:
-> \[from Smithsonian:\] Adam Grode \[from Kasteyev:\] Katerina
-> Reznikova, Oxana Tanskaya, Gulaim Zhumabekova, Clara Isabaeva, and
-> (Director) Gulmira Shalabayeva); \[then from SI:\] Paul Michael
-> Taylor, Jasper Waugh-Quasebarth, Robert Pontsioen, Supamas Snitwongse,
-> Jared Koller, and Evan Wainright.
+![](/assets/images/publications/pmtaylor/figure3.jpg){:.zoom .figure-img .img-fluid .rounded}
+
+{:.image-caption} 
+Figure 3. Scholars gathered for the *Kazakhstan's Crafts and Creative
+Economy* Symposium at the Smithsonian Craft2Wear Show. Left to right:
+\[from Smithsonian:\] Adam Grode \[from Kasteyev:\] Katerina
+Reznikova, Oxana Tanskaya, Gulaim Zhumabekova, Clara Isabaeva, and
+(Director) Gulmira Shalabayeva); \[then from SI:\] Paul Michael
+Taylor, Jasper Waugh-Quasebarth, Robert Pontsioen, Supamas Snitwongse,
+Jared Koller, and Evan Wainright.
 
 Participants and visitors to the annual Craft2Wear show could thus not
 only attend the symposium on Kazakhstan's crafts but also see the
@@ -358,11 +353,11 @@ opportunity to develop the project and hold a very successful launch
 event in Washington during the visit of the President of Kazakhstan to
 that city in April 2010.
 
-![](/assets/images/publications/pmtaylor/valikhanov_website.png) 
+![](/assets/images/publications/pmtaylor/valikhanov_website.png){:.zoom .figure-img .img-fluid .rounded}
 
-> Figure 4. Homepage (in April 2010) of the online publication, launched
-> April 10, 2010, *Discover Kazakhstan: The Expeditions of Chokan
-> Valikhanov*.
+{:.image-caption} 
+Figure 4. Homepage (in April 2010) of the online publication, launched
+April 10, 2010, *Discover Kazakhstan: The Expeditions of Chokan Valikhanov*.
 
 Though this online publication has been temporarily archived for
 replacement at a new host institution later, it has been a useful
@@ -498,14 +493,10 @@ publication and seminars, Americans and many other international
 audiences have surely developed a much deeper and broader understanding
 of and admiration for Kazakhstan's heritage.
 
-![](/assets/images/publications/pmtaylor/image5.jpeg)
+![](/assets/images/publications/pmtaylor/image5.jpeg){:.zoom .figure-img .img-fluid .rounded}
 
-Figure 5. Musicians of the Presidential Orchestra of the Republic of
-Kazakhstan perform at the Smithsonian Institution's Kogod Courtyard,
-Washington, D.C., April 10, 2010, at the launch of the online
-publication *Discover Kazakhstan: The Expeditions of Chokan Valikhanov*
-also celebrating the launch of the Washington Kazakhstan Festival, April
-10 -- December 31, 2010
+{:.image-caption}
+Figure 5. Musicians of the Presidential Orchestra of the Republic of Kazakhstan perform at the Smithsonian Institution's Kogod Courtyard, Washington, D.C., April 10, 2010, at the launch of the online publication *Discover Kazakhstan: The Expeditions of Chokan Valikhanov* also celebrating the launch of the Washington Kazakhstan Festival, April 10 -- December 31, 2010
 
 **Artists of Kazakhstan, and Into the Future.**
 
@@ -523,10 +514,10 @@ short biography of each artist alongside a small sampling of artworks
 each had created, for our selection of preeminent living artists of
 Kazakhstan.
 
-![](/assets/images/publications/pmtaylor/image6.png) 
+![](/assets/images/publications/pmtaylor/image6.png){:.zoom .figure-img .img-fluid .rounded}
 
-Figure 6. *Artists of Modern Kazakhstan* (Andrey Khazbulatov.and Paul
-Michael Taylor,\editors, 2018.)
+{:.image-caption} 
+Figure 6. *Artists of Modern Kazakhstan* (Andrey Khazbulatov.and Paul Michael Taylor,\editors, 2018.)
 
 We recognized that any one book of modest size can only include a small
 portion of the vast artistic productivity within this rapidly growing
@@ -581,7 +572,7 @@ Kazakhstani institutions, including the Abai Center itself.
 M. Koller, for their assistance with and comments on an earlier version
 of this paper.
 
-![](media/image7.jpeg)
+![](media/image7.jpeg){:.zoom .figure-img .img-fluid .rounded}
 
 **References cited**
 
