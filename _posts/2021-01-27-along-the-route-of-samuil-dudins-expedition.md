@@ -276,10 +276,7 @@ came to participate.[^15]
 [Photo 9](#photo9) shows how the women assembled the yurt and covered the wooden
 frame with felt. In winter, the yurt was wrapped with double felt, earth
 or snow was put on the bottom, and *kerege* (lattice walls) were put on
-the outside between this double layer and the *koshma* with *chiy* (thin
-steppe reeds wrapped with multicolored wool). Felt also reigned supreme
-in the interior decoration of the yurt, serving as the base for numerous
-carpets, storage bags, and chest covers (see [Photo 10](#photo10)).
+the outside. Felt also reigned supreme in the interior decoration of the yurt, serving as the base for numerous carpets, storage bags, and chest covers (see [Photo 10](#photo10)).
 
 <div class="images-group">
 <figure class="figure">
