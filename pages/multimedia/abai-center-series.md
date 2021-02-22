@@ -16,8 +16,8 @@ font-weight: bold;
 </style>
 
 {% for item in site.data.ac_series.contents %}
-<div class="row m-3 mb-5">
-  <div class="col-sm-12 col-md-8">
+<div class="row m-2 mb-5">
+  <div class="col-sm-12 col-md-9">
     <a href="{%if item.href %} {{ item.href }} {% else %} {% endif %}" target="_blank">
 <h2 class="media-link">{{ item.title }}</h2>
   <div class="usa-embed-container" aria-label="16:9">
