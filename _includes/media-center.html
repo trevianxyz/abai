@@ -37,7 +37,7 @@
     <div class="d-flex flex-row justify-content-center align-items-center">
 
       <div class="newsfeed">
-        {% assign sorted = site.data.contentful.spaces.Emb.posts | where: "deploy_topics", "cultureHistory" | reverse %}
+        {% assign sorted = site.data.contentful.spaces.Emb.posts | where: "categories_ozen", "cultureHistory" | reverse %}
         {% for news in sorted | limit: 5 %}
           <div class="row align-items-center">
             <div class="col-sm-12 col-md-4">
@@ -59,8 +59,8 @@
                 </time>
               </div>
             </div>
-          </div>
-          {% endfor %}
+          </div>  
+      {% endfor %}
 
           <div class="media-row">
             <hr />
