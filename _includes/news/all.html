@@ -70,7 +70,7 @@
 
 <div class="element-grid usa-width-one-whole">
   {% assign sorted = site.data.contentful.spaces.Emb.posts | where: "categories_ozen", "cultureHistory" | reverse %}
-  {% for news in sorted | limit: 5 %}
+  {% for news in sorted %}
    
       <article class="element-item {{ news_category }} briefing-statement briefing-statement--results">
         <div class="briefing-statement__content">
