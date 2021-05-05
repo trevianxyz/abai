@@ -27,6 +27,11 @@
     border-top: 4px solid DodgerBlue;
     top: 39%;
   }
+
+  .media-center-feed {
+    width: 100%;
+  }
+
 </style>
 
 <section class="usa-section usa-section-light usa-graphic_list mt-0 pt-0">
@@ -36,15 +41,15 @@
     </h3>
     <div class="d-flex flex-row justify-content-center align-items-center">
 
-      <div class="newsfeed">
+      <div class="media-center-feed">
         <div class="element-grid usa-width-one-whole">
           {% assign sorted = site.data.contentful.spaces.Emb.posts | where: "categories_ozen", "cultureHistory" | reverse %}
           {% for news in sorted %}
-           
-              <article class="element-item {{ news_category }} briefing-statement briefing-statement--results">
-                <div class="briefing-statement__content">
-                  <div class="d-flex flex-row align-items-center">
-                    <div class="col-sm-12 col-md-4 media_center">
+          
+          <article class="element-item briefing-statement briefing-statement--results">
+            <div class="briefing-statement__content">
+              <div class="row align-items-center">
+                <div class="col-sm-12 col-md-4 media_center text-center">
                     {% if news.image.url %}
                       <img src="{{ news.image.url }}" class="img-thumbnail news_thumbnail mx-auto" alt="Image" />
                     {% else %}
