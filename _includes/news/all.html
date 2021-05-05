@@ -68,13 +68,10 @@
   }
 </style>
 
-
 <div class="element-grid usa-width-one-whole">
-{% assign sorted = site.data.contentful.spaces.Emb.posts | reverse %}
+  {% assign sorted = site.data.contentful.spaces.Emb.posts | where: "categories_ozen", "cultureHistory" | reverse %}
   {% for news in sorted %}
-    {% if news && news.category %}
-        {% if news.deploy_topics == "cultureHistory" %}
-      {% assign news_category = news.category.first | slugify %}
+   
       <article class="element-item {{ news_category }} briefing-statement briefing-statement--results">
         <div class="briefing-statement__content">
           <div class="d-flex flex-row align-items-center">
@@ -100,7 +97,6 @@
           </div>
         </div>
       </article>
-      {% endif %}
-    {% endif %}
+ 
   {% endfor %}
 </div>

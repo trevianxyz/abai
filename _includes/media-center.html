@@ -37,30 +37,38 @@
     <div class="d-flex flex-row justify-content-center align-items-center">
 
       <div class="newsfeed">
-        {% assign sorted = site.data.contentful.spaces.Emb.posts | where: "deploy_topics", "cultureHistory" | reverse %}
-        {% for news in sorted | limit: 5 %}
-          <div class="row align-items-center">
-            <div class="col-sm-12 col-md-4">
-              {% if news.image.url %}
-              <img src="{{ news.image.url }}" class="img-fluid" alt="Image" />
-              {% else %}
-              <img src="/assets/images/kz/qazaqstan_seal.png" class="img-fluid" alt="Image" />
-              {% endif %}
-            </div>
-            <div class="col-sm-12 col-md-8">
-              <h3>
-                <a class="media-link media_center" href="{{ site.baseurl }}{{ news.source_url }}" target="_blank" title="{{ news.source_title }}">
-                  {{ news.title }}
-                </a>
-              </h3>
-              <div class="meta__date">
-                <time datetime="{{ news.date }}">
-                  {{ news.date | date: "%b %d, %C%y" }}
-                </time>
-              </div>
-            </div>
-          </div>
+        <div class="element-grid usa-width-one-whole">
+          {% assign sorted = site.data.contentful.spaces.Emb.posts | where: "categories_ozen", "cultureHistory" | reverse %}
+          {% for news in sorted %}
+           
+              <article class="element-item {{ news_category }} briefing-statement briefing-statement--results">
+                <div class="briefing-statement__content">
+                  <div class="d-flex flex-row align-items-center">
+                    <div class="col-sm-12 col-md-4 media_center">
+                    {% if news.image.url %}
+                      <img src="{{ news.image.url }}" class="img-thumbnail news_thumbnail mx-auto" alt="Image" />
+                    {% else %}
+                  <img src="https://abaicenter.nyc3.cdn.digitaloceanspaces.com/abai_purple-bust.png" class="img-thumbnail news_thumbnail mx-auto" alt="Image" />
+                    {% endif %}
+                    </div>
+                  <div class="col-sm-12 col-md-8 media_center" style="float: right;">
+                    <h2 class="briefing-statement__title_allnews" style="float: right;">
+                      <a class="media-link" href="{{ site.baseurl }}{{ news.source_url }}" target="_blank" title="{{ news.source_title }}" style="float: right;">
+                        {{ news.title }}
+                      </a>
+                    </h2>
+                    <div class="meta__date ml-md-5">
+                    <time datetime="{{ news.date }}">
+                      {{ news.date | date: "%b %d, %C%y" }}
+                    </time>
+                    </div>
+                  </div>
+                  </div>
+                </div>
+              </article>
+         
           {% endfor %}
+        </div>
 
           <div class="media-row">
             <hr />
