@@ -18,6 +18,46 @@ categories: ['publication']
 modalId:
 ---
 
+
+<style>
+
+figure {
+    margin: 5px; 
+}
+
+.author-image {
+   height: 300px;  
+}
+
+em {
+    text-decoration: underline;
+    text-decoration-color: purple;
+}
+
+.no-decoration {
+    text-decoration: none;
+}
+
+blockquote {
+    text-align: left;
+    font-size: .9em;
+    color: #40407a;
+    font-style: italic;
+    margin-left: 2%;
+    margin-right: 5%;
+    text-decoration: none !important;
+}
+
+@media (max-width: 767.98px) {
+
+header.bigtitle_img {
+    background-position: center top !important;
+}
+
+}
+
+</style>
+
 The Kazakh famine of 1930-33 ranks as one of the great crimes of the
 Stalinist regime and one of the defining events in modern Kazakh
 history. The crisis, which was sparked by Josef Stalin's program of
@@ -123,6 +163,18 @@ officials and local bureaucrats in the making of the disaster. Famine
 memorials have begun to begun to spring up across Kazakhstan, and
 Kazakhs seek to honor and commemorate their loved ones' legacies.
 
+
+![](assets/images/publications/cameron/hungry-steppe-cameron.jpeg)
+{:.float-right.block.align-middle}
+
+
+_Dr. Sarah Cameron's book, "The Hungry Steppe: Famine, Violence, and the Making of Soviet Kazakhstan" (Cornell University Press, 2018), examines one of the most heinous crimes of the Stalinist regime, the Kazakh famine of 1930–33. As part of a radical social engineering scheme, Josef Stalin sought to settle the Kazakh nomads and force them into collective farms._
+
+
+<br>
+<br>
+<br>
+
 **Bibliography of English-language Sources on the Kazakh Famine:**
 
 Cameron, Sarah. *The Hungry Steppe: Famine, Violence, and the Making of
@@ -154,13 +206,6 @@ Stalin.* Translated byJan Butler. New York, 2007.
 
 Wheatcroft, Stephen G., and R. W. Davies. *The Years of Hunger: Soviet
 Agriculture, 1931-1933.* New York, 2009.
-
-_Dr. Sarah Cameron's book, "The Hungry Steppe: Famine, Violence, and the Making of Soviet Kazakhstan" (Cornell University Press, 2018), examines one of the most heinous crimes of the Stalinist regime, the Kazakh famine of 1930–33. As part of a radical social engineering scheme, Josef Stalin sought to settle the Kazakh nomads and force them into collective farms._
-
-![](assets/images/publications/cameron/hungry-steppe-cameron.jpeg)
-{:.mx-auto.block.align-middle}
-
-
 
 
 [^1]: Parliamentary Assembly of Europe, "Commemorating the Victims of
