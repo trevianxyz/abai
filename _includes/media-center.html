@@ -44,8 +44,8 @@
       <div class="media-center-feed">
         <div class="element-grid usa-width-one-whole">
           {% assign sorted = site.data.contentful.spaces.Emb.posts | where: "categories_ozen", "cultureHistory" | reverse %}
-          {% for news in sorted %}
-          
+          {% for news in sorted limit:3 %}
+
           <article class="element-item briefing-statement briefing-statement--results">
             <div class="briefing-statement__content">
               <div class="row align-items-center">
@@ -71,7 +71,6 @@
                   </div>
                 </div>
               </article>
-         
           {% endfor %}
         </div>
 
