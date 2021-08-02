@@ -9,8 +9,8 @@ contents:
     href: "https://youtu.be/Vz_KAlbQDAk"
     publication:
     format: image
-  - title: "Kazakh Cinema with Peter Rollberg"
-    src: "assets/images/ac_series/COVER Peter Rollberg.jpg"
+  - title: "Kazakh Cinema with Dr. Peter Rollberg"
+    src: "assets/images/ac_series/acseries-peter-rollberg.jpg"
     href: https://onedrive.live.com/embed?cid=53F94FE00F0F022A&resid=53F94FE00F0F022A%21799&authkey=AFc2sR5l9k93kiw
-    publication:
-    format: img
+    publication: true
+    format: image
