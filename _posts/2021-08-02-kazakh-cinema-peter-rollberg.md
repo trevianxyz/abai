@@ -12,6 +12,7 @@ bigtitle: false
 image: "assets/images/ac_series/acseries-peter-rollberg.jpg"
 bigtitle_img: "assets/images/ac_series/acseries-peter-rollberg.jpg" # for opengraph
 carousel_img: "assets/images/ac_series/acseries-peter-rollberg.jpg" # for carousel
+no-carousel-fades: true
 western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
 categories: ['publication']
 modalId:
