@@ -25,6 +25,8 @@ font-weight: bold;
   <video class="card-img-top" autoplay controls playsinline="playsinline" muted="muted">
   <source src="{{ item.src }}" muted="muted" loop="loop" type="video/mp4">
   </video>
+ {% elsif item.format == 'iframe' %}
+  {{ item.src }}
   {% else %}
   <img src="{{ item.src }}"/>
   {% endif %}
