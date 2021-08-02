@@ -7,10 +7,20 @@
 {% endcomment %}
 
 <style>
+
+  {% if post.no-carousel-fades == true %}
+  .carousel-item.active {
+    background-image: url({{ post.carousel_img }});
+  }
+
+  {% else %}
+
   .carousel-item.active {
     background-image: linear-gradient(to right, #487eb0, #487eb0, #487eb0, #487eb0, #487eb0, #487eb0, #487eb0, #487eb0, #487eb0, #487eb0, #487eb0, #487eb000, #487eb000,
     #487eb000, #487eb0, #487eb0, #487eb0), url({{ post.carousel_img }});
   }
+
+  {% endif %}
 
   @media (max-width: 768.98px) {
     .carousel-item.active {

@@ -2,10 +2,15 @@ contents:
   - title: "Exploring Urban Culture Conversations with Dennis Keen"
     src: "https://abaicenter.nyc3.cdn.digitaloceanspaces.com/Dennis_Keen_v_2.mp4"
     href: "https://youtu.be/JqlcE6YWS2A"
-    publication: 
+    publication:
     format: video
   - title: "Music & National Identity Conversations with Megan Rancier"
     src: "assets/images/ac_series/megan_rancier.jpeg"
     href: "https://youtu.be/Vz_KAlbQDAk"
-    publication: 
+    publication:
+    format: image
+  - title: "Kazakh Cinema with Dr. Peter Rollberg"
+    src: "assets/images/ac_series/acseries-peter-rollberg.jpg"
+    href: https://onedrive.live.com/embed?cid=53F94FE00F0F022A&resid=53F94FE00F0F022A%21799&authkey=AFc2sR5l9k93kiw
+    publication: true
     format: image
