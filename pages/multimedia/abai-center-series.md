@@ -2,7 +2,7 @@
 layout: page
 title: Abai Center Series
 permalink: /abai-center-series
-image: /assets/images/ac_series/megan_rancier.jpeg 
+image: /assets/images/ac_series/acseries-peter-rollberg.jpg
 ---
 
 <style>
