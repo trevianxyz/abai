@@ -20,11 +20,6 @@ modalId:
 
 <div class="images-group">
   <div class="p-2">
-  <a href="https://1drv.ms/v/s!AioCDw_gT_lThh-ccspmNuF_IMNk" target="_blank">
-    <figure class="figure">
-        <img src="assets/images/ac_series/acseries-peter-rollberg.jpg" class="figure-img img-fluid rounded" alt="Two belts kise and kalpak.">
-        <figcaption class="figure-caption"></figcaption>
-    </figure>
-</a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/X0mevDD1aEU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
 </div>
