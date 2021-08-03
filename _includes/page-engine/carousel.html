@@ -9,8 +9,10 @@
 <style>
 
   {% if post.no-carousel-fades == true %}
+
   .carousel-item.active {
-    background-image: url({{ post.carousel_img }});
+    background-image: linear-gradient(to right, #487eb0, #487eb0, #487eb0, #487eb0, #487eb0, #487eb0, #487eb0, transparent, transparent, transparent, transparent, #487eb000, #487eb000,
+    #487eb000, transparent, transparent, #487eb0), url({{ post.carousel_img }});
   }
 
   {% else %}
