@@ -46,11 +46,15 @@
                     {{ post.descrip | markdownify }}
                   </p>
                 {% endif %}
-
+                {% if item.id %}
                 <a href="{{ post.permalink | prepend: site.baseurl }}" type="button" class="btn btn-primary btn-sm">
                   {% if post.carousel_button_text %} {{ post.carousel_button_text }}{% else %}Read More{% endif %}
                 </a>
-
+                {% else %}
+                <a href="{{ post.permalink | prepend: site.baseurl }}" type="button" class="btn btn-primary btn-sm">
+                  {% if post.carousel_button_text %} {{ post.carousel_button_text }}{% else %}Read More{% endif %}
+                </a>
+                {% endif %}
               </div>
             </div>
           </div>
