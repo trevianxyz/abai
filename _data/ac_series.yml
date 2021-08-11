@@ -2,15 +2,20 @@ contents:
   - title: "Exploring Urban Culture Conversations with Dennis Keen"
     src: "https://abaicenter.nyc3.cdn.digitaloceanspaces.com/Dennis_Keen_v_2.mp4"
     href: "https://youtu.be/JqlcE6YWS2A"
-    publication:
     format: video
+    id: keen
   - title: "Music & National Identity Conversations with Megan Rancier"
     src: "assets/images/ac_series/megan_rancier.jpeg"
     href: "https://youtu.be/Vz_KAlbQDAk"
-    publication:
     format: image
+    id: rancier
   - title: "Kazakh Cinema with Dr. Peter Rollberg"
     src: "assets/images/ac_series/acseries-peter-rollberg.jpg"
     href: "https://youtu.be/X0mevDD1aEU"
-    publication:
     format: image
+    id: rollberg
+  - title: "Sean McDaniel: Horses & Power on the Kazakh Steppe"
+    src: "assets/images/ac_series/Sean-McDaniel-abai-center-series.jpg"
+    href: "https://youtu.be/1cfhaNfYPqc"
+    format: image
+    id: mcdaniel
