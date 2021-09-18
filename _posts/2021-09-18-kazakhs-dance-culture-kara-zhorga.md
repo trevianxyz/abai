@@ -1,7 +1,7 @@
 ---
-permalink: /dance-abai
+permalink: /kazakhs-dance-culture-kara-zhorga
 layout: post
-title: "Dance Abai"
+title: "Kazakh Dance Culture and the Origins of Kara-Zhorga"
 author: "Anvara Sadykova"
 author_img:
 author_bio: "Senior Teacher at the Kazakh National Academy of
@@ -13,43 +13,29 @@ date: 2021-09-15
 descrip: "It is known that dance is a bodily expression of human feelings and emotions. Every nation has its own lexicography and distinguished style of dance. How things were with the development of Kazakh dance?"
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: false
-image: "https://astanatimes.com/wp-content/uploads/2021/09/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0-2021-09-14-%D0%B2-17.01.55-1320x858.png"
-bigtitle_img: "https://astanatimes.com/wp-content/uploads/2021/09/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0-2021-09-14-%D0%B2-17.01.55-1320x858.png" # for opengraph
-carousel_img: "https://astanatimes.com/wp-content/uploads/2021/09/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0-2021-09-14-%D0%B2-17.01.55-1320x858.png" # for carousel
+image: "https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture1.jpg"
+bigtitle_img: "https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture1.jpg" # for opengraph
+carousel_img: "https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture1.jpg" # for carousel
 no-carousel-fades: false
 western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
 categories: ['publication']
 modalId:
 ---
 
-#### **It is known that dance is a bodily expression of human feelings and emotions. Every nation has its own lexicography and distinguished style of dance. How things were with the development of Kazakh dance?** {#it-is-known-that-dance-is-a-bodily-expression-of-human-feelings-and-emotions-every-nation-has-its-own-lexicography-and-distinguished-style-of-dance-how-things-were-with-the-development-of-kazakh-da .stk-theme_16040__style_small_header .stk-reset .wp-exclude-emoji ce-tag="paragraph"}
+#### **It is known that dance is a bodily expression of human feelings and emotions. Every nation has its own lexicography and distinguished style of dance. How things were with the development of Kazakh dance?**
 
 In this interview, Anvara Sadykova, Senior Teacher at the Kazakh National Academy of Choreography, Nur-Sultan, and historical dance as well as the history of the world and national choreography, talks about the long history of bold and expressive Kazakh dances, how they mirrored the lives of the steppe nomads, expressed their feelings and even served as a social parody. A separate question that Anvara helps to investigate is the origins of the popular dance 'Kara Zhorga' (Black Pacer) which had been revived recently with astonishing popularity.
 
-**Interview with**
+**Interview with ANVARA SADYKOVA**
 
-**ANVARA SADYKOVA**
-
-Senior Teacher at the Kazakh National Academy of
-Choreography, situated in Nur-Sultan, the capital of Kazakhstan, teaches
-a number of core modules on the Kazakh dance, theory and methodology of
-teaching Kazakh and historical dance as well as the history of the world
-and national choreography.
-
-In the period from 2009 to 2021, Anvara staged more than 45
-choreographic compositions, including two ballets "Turan dala -- Kyran
-dala" (The Kazakh Land', 2017) and "[Zheltorangy turaly
-anyz](https://youtu.be/ZgMwNDu7zMU){.stk-reset}" (The Legend about
-Turanga, 2020).
+> In the period from 2009 to 2021, Anvara staged more than 45
+> choreographic compositions, including two ballets "Turan dala -- Kyran dala" (The Kazakh Land', 2017)
+> and "[Zheltorangy turaly anyz](https://youtu.be/ZgMwNDu7zMU)" (The Legend about Turanga, 2020).
 
 Anvara is passionate about promoting Kazakh national dance and
 choreography. She holds master-classes and lectures on Kazakh dance and
 gives seminars on the history of national choreography in Kazakhstan and
 abroad. 
-:::
-:::
-:::
-:::
 
 _This publication is part of the Abai Center Series. The Abai Center
 recognizes the legacy of Abai Kunanbaiuly, a great Kazakh poet,
@@ -59,16 +45,13 @@ space for articles and blogs via [The Abai Center](https://abaicenter.com/), as 
 as a welcoming host of events such as presentations and discussions on
 literature, arts, cinema, music, history, archeology, and anthropology._
 
-****Anvara, please tell us a little bit about your institution -- what
+**Anvara, please tell us a little bit about your institution -- what
 place does the study and teaching of Kazakh national dance take in the
 program of the Kazakh National Academy of Choreography in
-Nur-Sultan?![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAP+KeNJXAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII=){.stk-reset
-.stk-theme_16040__symbol_custom_image_1866407 .stk-icon
-.pk-lazyload}****
+Nur-Sultan?**
 
 First of all, I would like to point out that [The Kazakh National
-Academy of
-Choreography](https://balletacademy.edu.kz/en/home-en/){.stk-reset} is
+Academy of Choreography](https://balletacademy.edu.kz/en/home-en/) is
 the only higher educational institution in Central Asia with a full
 cycle of multi-level professional choreographic education. It was open
 in 2016 at the initiative of the First President of the Republic of
@@ -76,32 +59,26 @@ Kazakhstan Nursultan Nazarbayev. The Rector of the Academy is the
 People's Artist of Russia, a world-famous ballerina Altynai Abduahimovna
 Assylmuratova.
 
+![Shara Zhienkulova at the Kazakh dance lesson in the 1930s. Archive of
+the Museum of the National College of Choreography named after
+Seleznyov.](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture1.jpg){:.float-right }
+
 "Kazakh dance" as a discipline was introduced into the curriculum for
 the first time in 1965 by a professional Kazakh dancer, People's Artist
 of Kazakhstan, the legendary Shara Zhienkulova (1912 -- 1991). She
 published a number of books, including the book 'The Secret of
-Dance'[\[1\]](#_ftn1){.stk-reset} (1980), where she described Kazakh
+Dance'[\[1\]](#_ftn1) (1980), where she described Kazakh
 folk dances in great detail, supplementing it with the images of
 costumes and dance positions as well as musical notes. Shara's
 traditions at the Almaty Choreographic College named after A. Seleznev
 are successfully continued by her former student, an outstanding teacher
 of Kazakh dance, Gainikamal Beisenova.
 
-::: {.stk-grid ce-tag="grid"}
-::: {.stk-grid-col col-width="2" ce-tag="grid-col"}
-![Shara Zhienkulova at the Kazakh dance lesson in the 1930s. Archive of
-the Museum of the National College of Choreography named after
-Seleznyov.](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAP+KeNJXAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII=){.stk-image
-.stk-reset .wp-image-7225 .pk-lazyload width="541" height="803"}
-:::
+[READ MORE](https://voicesoncentralasia.org/did-the-kazakhs-have-their-own-dance-culture-and-what-are-the-origins-of-kara-zhorga-the-nations-favorite-dance/)
 
-::: {.stk-grid-col .stk-grid-col_last col-width="2" ce-tag="grid-col"}
-![*Gainikamal Beissenova in the 1960s. G. Beissenova's
-archives.*](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAP+KeNJXAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII=){.stk-image
-.stk-reset .wp-image-7232 .pk-lazyload width="359" height="591"}
-:::
-:::
 
+
+<!--
 ![*Shara Zhienkulova at the Kazakh dance lesson in the 1960s. Archive of
 the Museum of the National College of Choreography named after
 Seleznyov*](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAP+KeNJXAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII=){.stk-image
@@ -165,7 +142,7 @@ The first documentary evidence of dance is petroglyphs. There is a
 number of archaeological sites with petroglyphs in the territory of
 modern Kazakhstan, including the UNESCO protected [Archaeological
 Landscape of
-Tamgaly](https://whc.unesco.org/en/list/1145/gallery/&maxrows=27){.stk-reset}
+Tamgaly](https://whc.unesco.org/en/list/1145/gallery/&maxrows=27)
 (located 170 km northwest of Almaty) with over 5,000 petroglyphs (rock
 carvings), 'dating from the second half of the second millennium BC to
 the beginning of the 20th century'. Some of the rock carvings captured
@@ -188,13 +165,13 @@ life.
 
 The classification of the traditional Kazakh folk dances described by
 [A. K. Kulbekova et
-al.](https://files.eric.ed.gov/fulltext/EJ1115663.pdf){.stk-reset} is an
+al.](https://files.eric.ed.gov/fulltext/EJ1115663.pdf) is an
 illustration of the origins of the Kazakh dance which reflected the
 lives, activities, customs and beliefs of our ancestors:
 
 1\. Ritual and ceremonial dances; 2. Combative-hunting dances; 3. Work
 dances; 4. Household-imitative dances; 5. Festive and ceremonial dances;
-6. Mass-thematic dances.[\[2\]](#_ftn2){.stk-reset}
+6. Mass-thematic dances.[\[2\]](#_ftn2)
 
 A special place in the dance culture is occupied by the dancing art of
 **bakhsy** (shamans). Here I would like to recall Olzhas Suleimenov's
@@ -222,7 +199,7 @@ Let us have a look how certain movements of Kazak dance reflect the
 vision of the world. For example, in Kazakh dance there is a hand
 movement called "ainalma" -- the rotation of wrists.
 
-Moldakhmetova A.T. in her PhD thesis [\[3\]](#_ftn3){.stk-reset} quotes
+Moldakhmetova A.T. in her PhD thesis [\[3\]](#_ftn3) quotes
 the thought expressed by Zaurbekova and Djumanova: 'the movement of the
 hands of 'Ainalma' reflects the cult of the solar deity; the phenomenon
 circle in the structure of the nomadic worldview specifically expresses
@@ -231,10 +208,10 @@ life is thought of as a transition from one *mushel* to another, which
 meant a return to initial state, end and beginning of a new circle in
 life space at a qualitatively different level. This, figuratively, the
 structure of the unwinding spiral was the most important element of
-traditional thinking'.[\[4\]](#_ftn4){.stk-reset}
+traditional thinking'.[\[4\]](#_ftn4)
 
 For example, this dance '[Erke
-Kyz'](https://m.youtube.com/watch?v=35TKzDzSa2U){.stk-reset} represents
+Kyz'](https://m.youtube.com/watch?v=35TKzDzSa2U) represents
 the whole palette of the intricate rotations of the wrists which creates
 a beautiful pattern of the dance. Graceful movements of arms and wrists,
 typical for a female Kazakh dance, can be seen in this dance staged by a
@@ -242,7 +219,7 @@ wonderful choreographer, Zulfia Aubakirova. A. Shankibaeva, the art
 critic explains the meaning of this movement as follows: "one turn of
 the wrists, symbolizing the cycle of a full turnover of reception and
 return of heavenly well-being, having its deep philosophical meaning, is
-a distinctive feature of Kazakh dance'.[\[5\]](#_ftn5){.stk-reset}
+a distinctive feature of Kazakh dance'.[\[5\]](#_ftn5)
 
 ``{.stk-code style="--stk-embed-height-ratio:56.25%"}
 
@@ -254,7 +231,7 @@ This word is associated with the process of treatment by a Kazakh healer
 -- *bakhsy*, who guarded the patient around him, 'taking' his ailment,
 transferring it to himself, and in this sense, it would be more accurate
 to translate the word 'ainalayin' as 'I am ready to sacrifice myself in
-the name of saving you!'[\[6\]](#_ftn6){.stk-reset}
+the name of saving you!'[\[6\]](#_ftn6)
 
 As mentioned above, *bakhsy* in their rituals used the indispensable
 attributes of a circle and rotation around a person. The *Bakhsy*'s
@@ -283,7 +260,7 @@ etc.
 
 For example, you can see the dancers dancing in animal masks at the
 beginning of the [Seryler
-saltanaty](https://m.youtube.com/watch?v=K_Rz-eCQv44){.stk-reset} dance
+saltanaty](https://m.youtube.com/watch?v=K_Rz-eCQv44) dance
 performed by the students of Kazakh National Academy of Choreography
 (music by the folk ethnographic ensemble Khassak; choreography by Anvara
 Sadykova and Almat Shamshiev). The dance culture of Kazakh people was
@@ -306,7 +283,7 @@ who were known as the masters of dance art. For example, Berikbol
 Kopenov (1861-1932) -- a singer, dombra player, amateur artist,
 *kyuishi*, poet, dancer, nicknamed *Agash-ayak* ('wooden leg') -- was
 famous for his ability to dance on stilts. According to Abirov and
-Ismailov[\[7\]](#_ftn7){.stk-reset}, Kazakh researchers of dance
+Ismailov[\[7\]](#_ftn7), Kazakh researchers of dance
 history, Shashubai Koshkarbayev (1865-1952) -- a Kazakh *akyn*, poet and
 composer -- performed his songs to the accompaniment of an accordion and
 dombra.
@@ -434,17 +411,17 @@ shows the agility, dexterity, cheerful enthusiasm of a horseman who has
 completely mastered the art of horse riding. This dance was popular
 among the people in various versions and under various names: 'Kara
 Zhorga', 'Zhorgalau' (a ride on a pacer), 'Zhorgany elikteu' (imitation
-of a pacer)'.[\[8\]](#_ftn8){.stk-reset} They mention that the folk
+of a pacer)'.[\[8\]](#_ftn8) They mention that the folk
 melodies were performed on dombra and used as an accompaniment to the
 dances 'Kara Zhorga' and 'Bozaigyr'. In 1928, the dance 'Kara Zhorga'
 (recorded by Aktay Mamanov) was performed in Petropavlovsk on the stage
-of the People's House.[\[9\]](#_ftn9){.stk-reset}
+of the People's House.[\[9\]](#_ftn9)
 
 Further, Shara Zhienkulova in her book 'The Secret of Dance' (1980)
 describes the dance 'Kara Zhorga' as a 'group male dance \[that\]
 depicts an equestrian sport. The number of dancers can be four and more.
 Each performer holds a *kamcha* \[a whip\] in his right
-hand'.[\[10\]](#_ftn10){.stk-reset}
+hand'.[\[10\]](#_ftn10)
 
 D. Abirov in his later book 'History of Kazakh Dance' (1997) provides
 analysis of the movements of 'Kara Zhorga' as it was performed in the
@@ -455,7 +432,7 @@ riding -- sports games of young people on horseback. The choreographic
 text consisted of energetic jumps with waving a whip (*kamcha*) over the
 head, jumps with a back bend of the body, springy small bounces in
 place. The dance was designed to be performed by one
-person'.[\[11\]](#_ftn11){.stk-reset}
+person'.[\[11\]](#_ftn11)
 
 Both D. Abirov and A. Ismailov in the description of the dance 'Kara
 Zhorga' specifically presented such movements as 'zheldirme' (trotting),
@@ -473,14 +450,14 @@ steppe and mountains. Thanks to his horse, the Kazakh participated in
 battles, in all kinds of national games, on it he looked for pastures,
 escaped from disaster. The people admired the good horse. Obviously,
 therefore, in legends, heroic poems and legends, the people praised the
-horse as a faithful friend'.[\[12\]](#_ftn12){.stk-reset} 'Obviously,
+horse as a faithful friend'.[\[12\]](#_ftn12) 'Obviously,
 the birth of the dance 'Kara Zhorga' is associated with the observation
 of people at the unusual pace of the pacer, differing in trot or gallop
 from other horses. Fractional kicks of legs, rhythmic clatter of hooves,
 swaying from side to side of the head, bursts of mane, swaying of the
 croup created the impression of a dance. \[...\] .. Therefore, in the
 dance 'Kara Zhorga' we find movements reminiscent of a pacer's running
-and swaying shoulders.'[\[13\]](#_ftn13){.stk-reset}
+and swaying shoulders.'[\[13\]](#_ftn13)
 
 Based on these works of the classics of Kazakh choreography, we
 appreciate that the name of the dance 'Kara Zhorga' still meant a
@@ -526,7 +503,7 @@ who visited Kazakh lands as part of the expedition of the Russian
 Geographical Society in 1854 -- is an illustration of his opinion.
 Cheredeev 's sketch 'Yurt of the Sultan 'Davlet-Gerei' shows a Kazakh
 man dancing in a limited space, in the middle of the
-yurt.[\[14\]](#_ftn14){.stk-reset}
+yurt.[\[14\]](#_ftn14)
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEUAAP+KeNJXAAAAAXRSTlMAQObYZgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAASUVORK5CYII=){.stk-image
 .stk-reset .wp-image-7229 .pk-lazyload width="1019" height="769"}
@@ -542,9 +519,9 @@ that was actually known to our ancestors as 'Buyn bi'. It is especially
 noticeable in the dances performed by these two Kazakh gentlemen who are
 amazingly flexible and acrobatic regardless of their respectable age --
 [Orazbai
-Bodauhanuly](https://m.youtube.com/watch?v=VWseUWdE58g&feature=youtu.be){.stk-reset}
+Bodauhanuly](https://m.youtube.com/watch?v=VWseUWdE58g&feature=youtu.be)
 and [Shedet
-Maikanuly](https://m.youtube.com/watch?v=eBJ4ppe_5vE&feature=youtu.be){.stk-reset}.
+Maikanuly](https://m.youtube.com/watch?v=eBJ4ppe_5vE&feature=youtu.be).
 Do you know why they are so flexible and agile? Because they regularly
 stretched their joints by dancing 'Kara Zhorga', which our ancestors
 used to call 'Buyn bi'!
@@ -565,15 +542,15 @@ dance and its history and origins.**
 :::
 :::
 
-[\[1\]](#_ftnref1){.stk-reset} Zhienkulova, Shara, 1980, Tayna tanca
+[\[1\]](#_ftnref1) Zhienkulova, Shara, 1980, Tayna tanca
 \[Secret of dance\], Oner, Alma-Ata.
 
-[\[2\]](#_ftnref2){.stk-reset} Kulbekova, A.K. et al., 2016, The
+[\[2\]](#_ftnref2) Kulbekova, A.K. et al., 2016, The
 methodological framework of occupational training in culture and art
 high schools of Kazakhstan, in: International Journal of Environmental &
 Science Education, Vol. 11, No. 12, p. 5270.
 
-[\[3\]](#_ftnref3){.stk-reset} Мoldakhmetova, А.T., 2020,
+[\[3\]](#_ftnref3) Мoldakhmetova, А.T., 2020,
 Rezhissyorskaya interpretatciya kazakhskogo tanca v choreograficheskom
 iskusstve Kazakhstana konca ХХ -- nachala ХХI veka \[Producer's
 interpretation of Kazakh dance in the choreographic art of Kazakhstan at
@@ -581,40 +558,40 @@ the end of the XX -- beginning of the XXI century\], Kazakhskaya
 nacionalnaya akademiya iskusstv imeni Т.К. Zhurgenova, Almaty,
 Dissertaciya na soiskaniye akademicheskoy stepeni doktora PhD, p.42.
 
-[\[4\]](#_ftnref4){.stk-reset} Zaurbekova, L., Djumanova, G., Г., 2000,
+[\[4\]](#_ftnref4) Zaurbekova, L., Djumanova, G., Г., 2000,
 Mirovozzrenie kazakhov // sbornik. Traditcionnaya kultura kochevnikov
 \[Worldview of the Kazakhs// Collection. Traditional nomad culture\],
 Almaty: KazNAI imeni. Т. Zhurgenova, p. 57.
 
-[\[5\]](#_ftnref5){.stk-reset} Shankibaeva, A.B., 2011, Kazakhskaya
+[\[5\]](#_ftnref5) Shankibaeva, A.B., 2011, Kazakhskaya
 choreografiya: razvitie form I khudozgestvennyh sredstv. Monografiya
 \[Kazakh Choreography: development of forms and artistic means.
 Monography\], Almaty, p.66.
 
-[\[6\]](#_ftnref6){.stk-reset} Kairbekov, B.G., 2012, Natcionalnye
+[\[6\]](#_ftnref6) Kairbekov, B.G., 2012, Natcionalnye
 obychai I traditicii. Kazakhskiy etiket \[National customs and
 traditions. Kazakh etiquette\], Almaty, p.10.
 
-[\[7\]](#_ftnref7){.stk-reset} Abirov, D., Ismailov, A., 1961,
+[\[7\]](#_ftnref7) Abirov, D., Ismailov, A., 1961,
 Kazakhskie narodnye tancy \[Kazakh folk dances\], Alma-Ata, p.7.
 
-[\[8\]](#_ftnref8){.stk-reset} Abirov, D., Ismailov, A., 1961,
+[\[8\]](#_ftnref8) Abirov, D., Ismailov, A., 1961,
 Kazakhskie narodnye tancy \[Kazakh folk dances\], Alma-Ata, p.41.
 
-[\[9\]](#_ftnref9){.stk-reset} Ibid.:41.
+[\[9\]](#_ftnref9) Ibid.:41.
 
-[\[10\]](#_ftnref10){.stk-reset} Zhienkulova, Shara, 1980, Tayna tanca
+[\[10\]](#_ftnref10) Zhienkulova, Shara, 1980, Tayna tanca
 \[Secret of dance\], Oner, Alma-Ata, p. 58.
 
-[\[11\]](#_ftnref11){.stk-reset} Abirov, D., 1997, Istoriya Kazakhskogo
+[\[11\]](#_ftnref11) Abirov, D., 1997, Istoriya Kazakhskogo
 tanca. Uchebnoye posobie \[The History of Kazakh Dance. Tutorial\],
 Almaty, p. 22.
 
-[\[12\]](#_ftnref12){.stk-reset} Ibid.: 86.
+[\[12\]](#_ftnref12) Ibid.: 86.
 
-[\[13\]](#_ftnref13){.stk-reset} Ibid.: 87
+[\[13\]](#_ftnref13) Ibid.: 87
 
-[\[14\]](#_ftnref14){.stk-reset} Cheredeev, P., Vnutrennost kibitki
+[\[14\]](#_ftnref14) Cheredeev, P., Vnutrennost kibitki
 sultana Vnytrenney Kirgizskoy Ordy Devlet Gireya, In: Kazakhi: istoriya
 I kultura /rukovoditel projekta A. S. Bimendiev; glavnyi nauchnyi
 redactor К.Z. Uskenbay, Almaty, \[Inside the yurt of the Sultan of the
@@ -622,3 +599,4 @@ Inner Kirghiz Horde Devlet Giray//The Kazakhs: history and culture\],
 ABDI Company АК, 2013, pp. 288 -- 289. From the funds of the Astrakhan
 Regional Library named after N.K. Krupskaya.
 :::
+-->
