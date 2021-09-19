@@ -24,19 +24,26 @@ modalId:
 
 ### **It is known that dance is a bodily expression of human feelings and emotions. Every nation has its own lexicography and distinguished style of dance. How things were with the development of Kazakh dance?**
 
-#### In this interview, Anvara Sadykova, Senior Teacher at the Kazakh National Academy of Choreography, Nur-Sultan, and historical dance as well as the history of the world and national choreography, talks about the long history of bold and expressive Kazakh dances, how they mirrored the lives of the steppe nomads, expressed their feelings and even served as a social parody. A separate question that Anvara helps to investigate is the origins of the popular dance 'Kara Zhorga' (Black Pacer) which had been revived recently with astonishing popularity.
-
-**Interview with ANVARA SADYKOVA**
-
-
-<div class="block float-right bg-secondary">
-In the period from 2009 to 2021, Anvara staged more than 45 choreographic compositions, including two ballets "Turan dala -- Kyran dala" (The Kazakh Land', 2017) and  <a href="https://youtu.be/ZgMwNDu7zMU"> Zheltorangy turaly anyz</a> (The Legend about Turanga, 2020).
-
-Anvara is passionate about promoting Kazakh national dance and choreography. She holds master-classes and lectures on Kazakh dance and gives seminars on the history of national choreography in Kazakhstan and
-abroad. 
+<div class="d-inline-flex flex-column align-items-end float-right">
+<div class="w-50 p-3" style="background-color: #a29bfe;">
+<div class="media">
+  <div class="media-body">
+    <h5 class="mt-0 text-center">ANVARA SADYKOVA</h5>
+    <img class="justify-content-center align-self-center mr-3" src="https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture2-800x1028.jpg" alt="ANVARA SADYKOVA" width="auto" height="300px">
+   <p> In the period from 2009 to 2021, Anvara staged more than 45 choreographic compositions, including two ballets "Turan dala -- Kyran dala" (The Kazakh Land', 2017) and  <a href="https://youtu.be/ZgMwNDu7zMU"> Zheltorangy turaly anyz</a> (The Legend about Turanga, 2020).</p>
+   <p>Anvara is passionate about promoting Kazakh national dance and choreography. She holds master-classes and lectures on Kazakh dance and gives seminars on the history of national choreography in Kazakhstan and abroad.</p>
+  </div>
+</div>
+</div>
 </div>
 
-_This publication is part of the Abai Center Series. The Abai Center recognizes the legacy of Abai Kunanbaiuly, a great Kazakh poet, philosopher, and founder of written Kazakh literature, as well as the rich heritage of the Kazakh culture more broadly. It is both a virtual space for articles and blogs via [The Abai Center](https://abaicenter.com/), as well as a welcoming host of events such as presentations and discussions on literature, arts, cinema, music, history, archeology, and anthropology._
+<div class="inline-block">In this interview, Anvara Sadykova, Senior Teacher at the Kazakh National Academy of Choreography, Nur-Sultan, and historical dance as well as the history of the world and national choreography, talks about the long history of bold and expressive Kazakh dances, how they mirrored the lives of the steppe nomads, expressed their feelings and even served as a social parody. A separate question that Anvara helps to investigate is the origins of the popular dance 'Kara Zhorga' (Black Pacer) which had been revived recently with astonishing popularity.</div>
+
+<span class="">This publication is part of the Abai Center Series. The Abai Center recognizes the legacy of Abai Kunanbaiuly, a great Kazakh poet, philosopher, and founder of written Kazakh literature, as well as the rich heritage of the Kazakh culture more broadly. It is both a virtual space for articles and blogs via <a href="https://abaicenter.com/">The Abai Center</a>, as well as a welcoming host of events such as presentations and discussions on literature, arts, cinema, music, history, archeology, and anthropology.</span>
+
+---
+
+**Interview with ANVARA SADYKOVA**
 
 **Anvara, please tell us a little bit about your institution -- what place does the study and teaching of Kazakh national dance take in the program of the Kazakh National Academy of Choreography in Nur-Sultan?**<i class="fas fa-question-circle fa-1x" style="color: #7d5fff"></i>
 
@@ -170,45 +177,34 @@ universally performed under this name. We are convinced that, the today's dance 
 specifically defines the movement behaviour of the performer. The dancers actively engaged the joints of different parts of the body, particularly the joints of fingers, wrists, arms, shoulders as well as
 their knee-joints and ankles. Their performance was based on a momentary improvisation of a shaman who would express his feelings and emotions through his body movements.
 
-Analysing the nature of the dance movements, which we call 'Buyn bi', one can clearly trace its ancient origin, its connection with the *Bakhsy**  culture. Circular, sharp and expressive movements of the joints
-are a distinctive basic element of this dance. Through such plastic, one can see the ritual dance of **bakhsy*, whereby he communicated with the spirits. The other function also traced here is a healing one. Each element of '*Buyn bi* 'meant to awaken the body and increase blood circulation to increase the inner heat and energy to perform his shamanic rituals.
+Analysing the nature of the dance movements, which we call **'Buyn bi'**, one can clearly trace its ancient origin, its connection with the **Bakhsy**  culture. Circular, sharp and expressive movements of the joints are a distinctive basic element of this dance. Through such plastic, one can see the ritual dance of **bakhsy**, whereby he communicated with the spirits. The other function also traced here is a healing one. Each element of '**Buyn bi** 'meant to awaken the body and increase blood circulation to increase the inner heat and energy to perform his shamanic rituals.
 
 'Kara Zhorga' was known and danced by our ancestors as 'Buyn bi' -- 'the dance of joints' originated from Bakhsy culture and shamanism.
 
 This established lexicography of traditional dance movements passed into the culture of unique steppe performers, who conveyed different emotions through the musical accompaniment of *dombra*. The performer danced both in the yurt and in the open air. Arystan Shadetuly shared a very interesting observation during filming of the documentary 'Kazakh Dance': "The performer danced in the centre of the yurt. His 'stage' size was equal to one ram skin'. Therefore, the dominant steppe monoculture was vividly embodied in the dance genre as performed by a single dancer (although this does not at all deny the mass performance of dances).
 
-This watercolour sketch by Cheredeev -- the Russian artist-topographer,
-who visited Kazakh lands as part of the expedition of the Russian
-Geographical Society in 1854 -- is an illustration of his opinion.
-Cheredeev 's sketch 'Yurt of the Sultan 'Davlet-Gerei' shows a Kazakh
-man dancing in a limited space, in the middle of the
-yurt.[\[14\]](#_ftn14)
+This watercolour sketch by Cheredeev -- the Russian artist-topographer, who visited Kazakh lands as part of the expedition of the Russian Geographical Society in 1854 -- is an illustration of his opinion.
+Cheredeev 's sketch 'Yurt of the Sultan 'Davlet-Gerei' shows a Kazakh man dancing in a limited space, in the middle of the yurt.[\[14\]](#_ftn14)
 
 ![](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture17.jpg){: width="auto" height="600"}
 
-To summarise the origins of 'Kara Zhorga' which is well-known and
-popular today, I would like to reiterate my point that this dance was
-known and danced by our ancestors as 'Buyn bi' -- 'the dance of joints'
-originated from Bakhsy culture and shamanism. The 'Kara Zhorga' dance in
-interpretation of the Kazakh dance classics (D. Abirov, A. Ismailov) is
-primarily a 'black pacer dance' depicting a horseman prancing on pacers.
-I would say that the name 'Kara Zhorga' was 'borrowed' to name the dance
-that was actually known to our ancestors as 'Buyn bi'. It is especially
-noticeable in the dances performed by these two Kazakh gentlemen who are
-amazingly flexible and acrobatic regardless of their respectable age --
+To summarise the origins of 'Kara Zhorga' which is well-known and popular today, I would like to reiterate my point that this dance was known and danced by our ancestors as 'Buyn bi' -- 'the dance of joints' originated from Bakhsy culture and shamanism. The 'Kara Zhorga' dance in interpretation of the Kazakh dance classics (D. Abirov, A. Ismailov) is primarily a 'black pacer dance' depicting a horseman prancing on pacers. I would say that the name 'Kara Zhorga' was 'borrowed' to name the dance that was actually known to our ancestors as 'Buyn bi'. It is especially noticeable in the dances performed by these two Kazakh gentlemen who are amazingly flexible and acrobatic regardless of their respectable age --
 [Orazbai Bodauhanuly](https://m.youtube.com/watch?v=VWseUWdE58g&feature=youtu.be)
 and [Shedet Maikanuly](https://m.youtube.com/watch?v=eBJ4ppe_5vE&feature=youtu.be).
+
 Do you know why they are so flexible and agile? Because they regularly
 stretched their joints by dancing 'Kara Zhorga', which our ancestors
 used to call 'Buyn bi'!
 
-------------------------------------------------------------------------
+<div class="media">
+  <!--<img class="mr-3" src=".../64x64" alt="Generic placeholder image">-->
+  <div class="media-body">
+    <h5 class="mt-0"> By Rosa Vercoe</h5>
+    Rosa Vercoe is an independent dance researcher. She is based in St Albans (United Kingdom). She is passionate about promoting Central Asian art and culture in the United Kingdom. Her main interest lies in Uzbek dance and its history and origins.
+   </div>
+</div>
 
-## By Rosa Vercoe
-<h3>Rosa Vercoe is an independent dance researcher. She is based in St
-Albans (United Kingdom). She is passionate about promoting Central Asian
-art and culture in the United Kingdom. Her main interest lies in Uzbek
-dance and its history and origins.</h3>
+------------------------------------------------------------------------
 
 <div id="_ftn1"></div>
 **[1]** Zhienkulova, Shara, 1980, Tayna tanca \[Secret of dance\], Oner, Alma-Ata.
