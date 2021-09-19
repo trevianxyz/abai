@@ -1,0 +1,1 @@
+{"rule":"FIRST_OF_ALL","sentence":"^\\QTheir dances had, first of all, a sacred, ritual and ceremonial meaning related to Totem worship, hunting rituals, and rituals of male warriors with weapons preparing for battles.\\E$"}
