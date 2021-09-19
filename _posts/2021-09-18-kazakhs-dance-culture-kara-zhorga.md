@@ -24,12 +24,12 @@ modalId:
 
 ### **It is known that dance is a bodily expression of human feelings and emotions. Every nation has its own lexicography and distinguished style of dance. How things were with the development of Kazakh dance?**
 
-<div class="d-inline-flex flex-column align-items-end float-right">
-<div class="w-50 p-3" style="background-color: #a29bfe;">
-<div class="media">
+<div class="d-inline-flex col-6 flex-column align-items-end float-right">
+<div class="p-3" style="background-color: #a29bfe;">
+<div class="media float-right">
   <div class="media-body">
     <h5 class="mt-0 text-center">ANVARA SADYKOVA</h5>
-    <img class="justify-content-center align-self-center mr-3" src="https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture2-800x1028.jpg" alt="ANVARA SADYKOVA" width="auto" height="300px">
+    <img class="mx-auto float-right align-middle" src="https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture2-800x1028.jpg" alt="ANVARA SADYKOVA" width="auto" height="300px">
    <p> In the period from 2009 to 2021, Anvara staged more than 45 choreographic compositions, including two ballets "Turan dala -- Kyran dala" (The Kazakh Land', 2017) and  <a href="https://youtu.be/ZgMwNDu7zMU"> Zheltorangy turaly anyz</a> (The Legend about Turanga, 2020).</p>
    <p>Anvara is passionate about promoting Kazakh national dance and choreography. She holds master-classes and lectures on Kazakh dance and gives seminars on the history of national choreography in Kazakhstan and abroad.</p>
   </div>
