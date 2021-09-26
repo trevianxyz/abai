@@ -49,27 +49,23 @@ modalId:
 ### It is known that dance is a bodily expression of human feelings and emotions. Every nation has its own lexicography and distinguished style of dance. How things were with the development of Kazakh dance?
 
 <div class="m-2 callout-article">
-  <div class="callout-article-flex-contents" style="background-color: #a29bfe;">
-    <div class="">
+  <div class="callout-article-flex-contents p-3" style="background-color: #a29bfe;">
         <h4 class="mt-1 text-center">ANVARA SADYKOVA</h4>
-        <img class="mx-auto p-3 float-sm-none float-md-right align-middle" src="https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture2-800x1028.jpg" alt="ANVARA SADYKOVA" width="auto" height="300px">
-        <p> In the period from 2009 to 2021, Anvara staged more than 45 choreographic compositions, including two ballets "Turan dala -- Kyran dala" (The Kazakh Land', 2017) and <a href="https://youtu.be/ZgMwNDu7zMU"> Zheltorangy turaly anyz</a> (The Legend about Turanga, 2020).
+        <img class="mx-auto px-3 float-sm-none float-md-right align-middle" src="https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture2-800x1028.jpg" alt="ANVARA SADYKOVA" width="auto" height="300px">
+        <p class="px-1"> In the period from 2009 to 2021, Anvara staged more than 45 choreographic compositions, including two ballets "Turan dala -- Kyran dala" (The Kazakh Land', 2017) and <a href="https://youtu.be/ZgMwNDu7zMU"> Zheltorangy turaly anyz</a> (The Legend about Turanga, 2020).
         </p>
-        <p>Anvara is passionate about promoting Kazakh national dance and choreography. She holds master-classes and lectures on Kazakh dance and gives seminars on the history of national choreography in Kazakhstan and abroad.
+        <p class="px-1">Anvara is passionate about promoting Kazakh national dance and choreography. She holds master-classes and lectures on Kazakh dance and gives seminars on the history of national choreography in Kazakhstan and abroad.
         </p>
-    </div>
-      <p class="">In this interview, Anvara Sadykova, Senior Teacher at the Kazakh National Academy of Choreography, Nur-Sultan, and historical dance as well as the history of the world and national choreography, talks about the long history of bold and expressive Kazakh dances, how they mirrored the lives of the steppe nomads, expressed their feelings and even served as a social parody. A separate question that Anvara helps to investigate is the origins of the popular dance 'Kara Zhorga' (Black Pacer) which had been revived recently with astonishing popularity.
+      <p class="px-1">In this interview, Anvara Sadykova, Senior Teacher at the Kazakh National Academy of Choreography, Nur-Sultan, and historical dance as well as the history of the world and national choreography, talks about the long history of bold and expressive Kazakh dances, how they mirrored the lives of the steppe nomads, expressed their feelings and even served as a social parody. A separate question that Anvara helps to investigate is the origins of the popular dance 'Kara Zhorga' (Black Pacer) which had been revived recently with astonishing popularity.
     </p>
-</div>
+  </div>
 </div>
 
  <p class=""><em>This publication is part of the Abai Center Series. The Abai Center recognizes the legacy of Abai Kunanbaiuly, a great Kazakh poet, philosopher, and founder of written Kazakh literature, as well as the rich heritage of the Kazakh culture more broadly. It is both a virtual space for articles and blogs via <a href="https://abaicenter.com/">The Abai Center</a>, as well as a welcoming host of events such as presentations and discussions on literature, arts, cinema, music, history, archeology, and anthropology.</em></p>
 
 ---
 
-**Interview with ANVARA SADYKOVA**
-
-**Anvara, please tell us a little bit about your institution -- what place does the study and teaching of Kazakh national dance take in the program of the Kazakh National Academy of Choreography in Nur-Sultan?**<i class="fas fa-question-circle fa-1x" style="color: #7d5fff"></i>
+**Anvara, please tell us a little bit about your institution -- what place does the study and teaching of Kazakh national dance take in the program of the Kazakh National Academy of Choreography in Nur-Sultan?** <i class="fas fa-question-circle fa-1x" style="color: #7d5fff"></i>
 
 First of all, I would like to point out that [The Kazakh National Academy of Choreography](https://balletacademy.edu.kz/en/home-en/) is the only higher educational institution in Central Asia with a full cycle of multi-level professional choreographic education. It was open in 2016 at the initiative of the First President of the Republic of Kazakhstan Nursultan Nazarbayev. The Rector of the Academy is the
 People's Artist of Russia, a world-famous ballerina Altynai Abduahimovna Assylmuratova.
