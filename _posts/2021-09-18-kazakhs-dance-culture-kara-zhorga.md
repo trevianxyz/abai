@@ -18,49 +18,73 @@ categories: ['publication']
 modalId:
 ---
 
+<style>
+
+  .callout-article {
+
+  width: 50%;
+  float: right; 
+  }
+
+  .callout-article-flex-contents {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+  }
+
+@media (max-width: 767.98px) {
+
+  .callout-article {
+
+  width: 100%;
+  float: none;
+  }
+
+   }
+
+</style>
+
 #### An interview with Anvara Sadykova. 
 
 ### It is known that dance is a bodily expression of human feelings and emotions. Every nation has its own lexicography and distinguished style of dance. How things were with the development of Kazakh dance?
 
-<div class="w-50 float-right m-2">
-<div class="d-flex flex-column" style="background-color: #a29bfe;">
-  <div class="p-3">
-      <h5 class="mt-0 text-center">ANVARA SADYKOVA</h5>
-      <img class="mx-auto float-right align-middle" src="https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture2-800x1028.jpg" alt="ANVARA SADYKOVA" width="auto" height="300px">
-      <p> In the period from 2009 to 2021, Anvara staged more than 45 choreographic compositions, including two ballets "Turan dala -- Kyran dala" (The Kazakh Land', 2017) and <a href="https://youtu.be/ZgMwNDu7zMU"> Zheltorangy turaly anyz</a> (The Legend about Turanga, 2020).
-      </p>
-      <p>Anvara is passionate about promoting Kazakh national dance and choreography. She holds master-classes and lectures on Kazakh dance and gives seminars on the history of national choreography in Kazakhstan and abroad.
-      </p>
+<div class="m-2 callout-article">
+  <div class="callout-article-flex-contents p-3" style="background-color: #a29bfe;">
+        <h4 class="mt-1 text-center">ANVARA SADYKOVA</h4>
+        <img class="mx-auto px-3 float-sm-none float-md-right align-middle" src="https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture2-800x1028.jpg" alt="ANVARA SADYKOVA" width="auto" height="300px">
+        <p class="px-1"> In the period from 2009 to 2021, Anvara staged more than 45 choreographic compositions, including two ballets "Turan dala -- Kyran dala" (The Kazakh Land', 2017) and <a href="https://youtu.be/ZgMwNDu7zMU"> Zheltorangy turaly anyz</a> (The Legend about Turanga, 2020).
+        </p>
+        <p class="px-1">Anvara is passionate about promoting Kazakh national dance and choreography. She holds master-classes and lectures on Kazakh dance and gives seminars on the history of national choreography in Kazakhstan and abroad.
+        </p>
+      <p class="px-1">In this interview, Anvara Sadykova, Senior Teacher at the Kazakh National Academy of Choreography, Nur-Sultan, and historical dance as well as the history of the world and national choreography, talks about the long history of bold and expressive Kazakh dances, how they mirrored the lives of the steppe nomads, expressed their feelings and even served as a social parody. A separate question that Anvara helps to investigate is the origins of the popular dance 'Kara Zhorga' (Black Pacer) which had been revived recently with astonishing popularity.
+    </p>
   </div>
-  <div class="">
-      <p class="p-3">In this interview, Anvara Sadykova, Senior Teacher at the Kazakh National Academy of Choreography, Nur-Sultan, and historical dance as well as the history of the world and national choreography, talks about the long history of bold and expressive Kazakh dances, how they mirrored the lives of the steppe nomads, expressed their feelings and even served as a social parody. A separate question that Anvara helps to investigate is the origins of the popular dance 'Kara Zhorga' (Black Pacer) which had been revived recently with astonishing popularity.</p>
-  </div>
-</div>
 </div>
 
  <p class=""><em>This publication is part of the Abai Center Series. The Abai Center recognizes the legacy of Abai Kunanbaiuly, a great Kazakh poet, philosopher, and founder of written Kazakh literature, as well as the rich heritage of the Kazakh culture more broadly. It is both a virtual space for articles and blogs via <a href="https://abaicenter.com/">The Abai Center</a>, as well as a welcoming host of events such as presentations and discussions on literature, arts, cinema, music, history, archeology, and anthropology.</em></p>
 
 ---
 
-**Interview with ANVARA SADYKOVA**
-
-**Anvara, please tell us a little bit about your institution -- what place does the study and teaching of Kazakh national dance take in the program of the Kazakh National Academy of Choreography in Nur-Sultan?**<i class="fas fa-question-circle fa-1x" style="color: #7d5fff"></i>
+**Anvara, please tell us a little bit about your institution -- what place does the study and teaching of Kazakh national dance take in the program of the Kazakh National Academy of Choreography in Nur-Sultan?** <i class="fas fa-question-circle fa-1x" style="color: #7d5fff"></i>
 
 First of all, I would like to point out that [The Kazakh National Academy of Choreography](https://balletacademy.edu.kz/en/home-en/) is the only higher educational institution in Central Asia with a full cycle of multi-level professional choreographic education. It was open in 2016 at the initiative of the First President of the Republic of Kazakhstan Nursultan Nazarbayev. The Rector of the Academy is the
 People's Artist of Russia, a world-famous ballerina Altynai Abduahimovna Assylmuratova.
 
 "Kazakh dance" as a discipline was introduced into the curriculum for the first time in 1965 by a professional Kazakh dancer, People's Artist of Kazakhstan, the legendary Shara Zhienkulova (1912 -- 1991). She published a number of books, including the book 'The Secret of Dance'[\[1\]](#_ftn1) (1980), where she described Kazakh folk dances in great detail, supplementing it with the images of costumes and dance positions as well as musical notes. Shara's traditions at the Almaty Choreographic College named after A. Seleznev are successfully continued by her former student, an outstanding teacher of Kazakh dance, Gainikamal Beisenova.
 
+<div class="container">
 <div class="row">
   <div class="col">
     <img class="m-3" src="https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture1.jpg" alt="Card image cap">
-      <p class="card-text">Shara Zhienkulova at the Kazakh dance lesson in the 1930s. Archive of the Museum of the National College of Choreography named after Seleznyov.</p>
+      <p class="">Shara Zhienkulova at the Kazakh dance lesson in the 1930s. Archive of the Museum of the National College of Choreography named after Seleznyov.</p>
   </div>
   <div class="col">
     <img class="m-3" src="https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture3.png" alt="Card image cap">
-      <p class="card-text">Gainikamal Beissenova in the 1960s. G. Beissenova’s archives.</p>
+      <p class="">Gainikamal Beissenova in the 1960s. G. Beissenova’s archives.</p>
   </div>
 </div>
+</div>
+
 
 At the National Academy of Choreography, the class "Kazakh dance" is included into the professional education program from the 5th year of study and is taught for 3 years. At this level, our students study Kazakh dance as future professional performers, that is, ballet dancers and professional ensemble dancers. Further, undergraduate students study the theory and methodology of teaching Kazakh dance for two years, and then, at the Master's and Doctoral levels, the students study Kazakh dance from a research perspective. Classical ballet heritage, contemporary choreography and, of course, Kazakh dance make up the repertoire of the Kazakh National Academy of Choreography. I am pleased to say that in January 2021, we introduced the Handbook on Kazakh dance -- a collective work carried out by the members of the Laboratory of the Kazakh National Dance: professionals of performing arts, pedagogues, ballet masters, researchers and other experts working in the field of Kazakh national dance led by Toigan Izim, Aigul Tati, Aigul Kulbekova, Anvara Sadykova and Almat Shamshiev.
 
@@ -103,8 +127,10 @@ circle in the structure of the nomadic worldview specifically expresses the temp
 
 For example, this dance ['Erke Kyz'](https://m.youtube.com/watch?v=35TKzDzSa2U) represents the whole palette of the intricate rotations of the wrists which creates a beautiful pattern of the dance. Graceful movements of arms and wrists, typical for a female Kazakh dance, can be seen in this dance staged by a wonderful choreographer, Zulfia Aubakirova. A. Shankibaeva, the art critic explains the meaning of this movement as follows: "one turn of the wrists, symbolizing the cycle of a full turnover of reception and return of heavenly well-being, having its deep philosophical meaning, is a distinctive feature of Kazakh dance'.[\[5\]](#_ftn5)
 
-<div class="embed-responsive embed-responsive-1by1">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/35TKzDzSa2U" allowfullscreen></iframe>
+<div class="row">
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/35TKzDzSa2U" allowfullscreen></iframe>
+  </div>
 </div>
 
 In the Kazakh language there is the word **"aynalayin"** -- this is how Kazakhs call a person dear to their hearts, denoting their endless love for someone close. Kairbekov B. explains the meaning of this word as follows: _'In translation it sounds like 'I am circling around you!'. This word is associated with the process of treatment by a Kazakh healer -- **bakhsy**, who guarded the patient around him, 'taking' his ailment, transferring it to himself, and in this sense, it would be more accurate to translate the word 'ainalayin' as 'I am ready to sacrifice myself in the name of saving you!'_[\[6\]](#_ftn6)
