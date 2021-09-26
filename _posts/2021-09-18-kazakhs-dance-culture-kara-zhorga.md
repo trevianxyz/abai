@@ -2,11 +2,9 @@
 permalink: /kazakhs-dance-culture-kara-zhorga
 layout: post
 title: "Kazakh Dance Culture and the Origins of Kara-Zhorga"
-author: "Anvara Sadykova"
-author_img: "https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture2-800x1028.jpg"
-author_bio: "Senior Teacher at the Kazakh National Academy of
-Choreography, situated in Nur-Sultan, the capital of Kazakhstan, teaches a number of core modules on the Kazakh dance, theory and methodology of
-teaching Kazakh and historical dance as well as the history of the world and national choreography."
+author: "Rosa Vercoe"
+author_img: "https://www.soas.ac.uk/staffimg/faculty/ctranslations/img153267.jpg"
+author_bio: "Rosa Vercoe holds PG Diploma with Honours in Russian Language and Literature; MA in International Relations from Nottingham Trent University (2005); and MSc in Development Studies with Special Reference to Central Asia from SOAS, University of London (2014). Previously Rosa taught in academic and international establishments in Kazakhstan and The Netherlands. She also coordinated the EC TACIS-funded projects in Kazakhstan, Russia and Azerbaijan while working in the London-based NGO ‘Consumers International’. Her current research interests include regional development and the role of SCO and China’s One Belt One Road Strategy in Central Asia, particularly in Kazakhstan."
 date: 2021-09-15
 descrip: "It is known that dance is a bodily expression of human feelings and emotions. Every nation has its own lexicography and distinguished style of dance. How things were with the development of Kazakh dance?"
 noshow_img: true # i don't know what this is and i'm scared of it
@@ -19,6 +17,8 @@ western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
 categories: ['publication']
 modalId:
 ---
+
+#### An interview with Anvara Sadykova. 
 
 ### It is known that dance is a bodily expression of human feelings and emotions. Every nation has its own lexicography and distinguished style of dance. How things were with the development of Kazakh dance?
 
@@ -103,7 +103,7 @@ circle in the structure of the nomadic worldview specifically expresses the temp
 
 For example, this dance ['Erke Kyz'](https://m.youtube.com/watch?v=35TKzDzSa2U) represents the whole palette of the intricate rotations of the wrists which creates a beautiful pattern of the dance. Graceful movements of arms and wrists, typical for a female Kazakh dance, can be seen in this dance staged by a wonderful choreographer, Zulfia Aubakirova. A. Shankibaeva, the art critic explains the meaning of this movement as follows: "one turn of the wrists, symbolizing the cycle of a full turnover of reception and return of heavenly well-being, having its deep philosophical meaning, is a distinctive feature of Kazakh dance'.[\[5\]](#_ftn5)
 
-<div class="embed-responsive embed-responsive-16by9">
+<div class="embed-responsive embed-responsive-1by1">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/35TKzDzSa2U" allowfullscreen></iframe>
 </div>
 
