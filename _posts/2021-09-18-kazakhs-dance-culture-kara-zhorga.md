@@ -9,7 +9,7 @@ date: 2021-09-15
 descrip: "It is known that dance is a bodily expression of human feelings and emotions. Every nation has its own lexicography and distinguished style of dance. How things were with the development of Kazakh dance?"
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: false
-image: "https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture1.jpg"
+image: "/assets/images/dance/dance-img.png"
 bigtitle_img: "https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture1.jpg" # for opengraph
 carousel_img: "https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture16.jpg" # for carousel
 no-carousel-fades: false
@@ -23,7 +23,7 @@ modalId:
   .callout-article {
 
   width: 50%;
-  float: right; 
+  float: right;
   }
 
   .callout-article-flex-contents {
@@ -44,24 +44,23 @@ modalId:
 
 </style>
 
-#### An interview with Anvara Sadykova. 
+#### An interview with Anvara Sadykova.
 
 ### It is known that dance is a bodily expression of human feelings and emotions. Every nation has its own lexicography and distinguished style of dance. How things were with the development of Kazakh dance?
 
-<div class="m-2 callout-article">
-  <div class="callout-article-flex-contents p-3" style="background-color: #a29bfe;">
+<div class="m-1 callout-article">
+  <div class="callout-article-flex-contents px-2 pb-1" style="background-color: #a29bfe;">
         <h4 class="mt-1 text-center">ANVARA SADYKOVA</h4>
         <img class="mx-auto px-3 float-sm-none float-md-right align-middle" src="https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture2-800x1028.jpg" alt="ANVARA SADYKOVA" width="auto" height="300px">
         <p class="px-1"> In the period from 2009 to 2021, Anvara staged more than 45 choreographic compositions, including two ballets "Turan dala -- Kyran dala" (The Kazakh Land', 2017) and <a href="https://youtu.be/ZgMwNDu7zMU"> Zheltorangy turaly anyz</a> (The Legend about Turanga, 2020).
         </p>
         <p class="px-1">Anvara is passionate about promoting Kazakh national dance and choreography. She holds master-classes and lectures on Kazakh dance and gives seminars on the history of national choreography in Kazakhstan and abroad.
         </p>
-      <p class="px-1">In this interview, Anvara Sadykova, Senior Teacher at the Kazakh National Academy of Choreography, Nur-Sultan, and historical dance as well as the history of the world and national choreography, talks about the long history of bold and expressive Kazakh dances, how they mirrored the lives of the steppe nomads, expressed their feelings and even served as a social parody. A separate question that Anvara helps to investigate is the origins of the popular dance 'Kara Zhorga' (Black Pacer) which had been revived recently with astonishing popularity.
-    </p>
+      <p class="px-1 pb-0">In this interview, Anvara Sadykova, Senior Teacher at the Kazakh National Academy of Choreography, Nur-Sultan, and historical dance as well as the history of the world and national choreography, talks about the long history of bold and expressive Kazakh dances, how they mirrored the lives of the steppe nomads, expressed their feelings and even served as a social parody. A separate question that Anvara helps to investigate is the origins of the popular dance 'Kara Zhorga' (Black Pacer) which had been revived recently with astonishing popularity.</p>
   </div>
 </div>
 
- <p class=""><em>This publication is part of the Abai Center Series. The Abai Center recognizes the legacy of Abai Kunanbaiuly, a great Kazakh poet, philosopher, and founder of written Kazakh literature, as well as the rich heritage of the Kazakh culture more broadly. It is both a virtual space for articles and blogs via <a href="https://abaicenter.com/">The Abai Center</a>, as well as a welcoming host of events such as presentations and discussions on literature, arts, cinema, music, history, archeology, and anthropology.</em></p>
+ <p class="pb-1"><em>This publication is part of the Abai Center Series. The Abai Center recognizes the legacy of Abai Kunanbaiuly, a great Kazakh poet, philosopher, and founder of written Kazakh literature, as well as the rich heritage of the Kazakh culture more broadly. It is both a virtual space for articles and blogs via <a href="https://abaicenter.com/">The Abai Center</a>, as well as a welcoming host of events such as presentations and discussions on literature, arts, cinema, music, history, archeology, and anthropology.</em></p>
 
 ---
 
@@ -128,9 +127,11 @@ circle in the structure of the nomadic worldview specifically expresses the temp
 For example, this dance ['Erke Kyz'](https://m.youtube.com/watch?v=35TKzDzSa2U) represents the whole palette of the intricate rotations of the wrists which creates a beautiful pattern of the dance. Graceful movements of arms and wrists, typical for a female Kazakh dance, can be seen in this dance staged by a wonderful choreographer, Zulfia Aubakirova. A. Shankibaeva, the art critic explains the meaning of this movement as follows: "one turn of the wrists, symbolizing the cycle of a full turnover of reception and return of heavenly well-being, having its deep philosophical meaning, is a distinctive feature of Kazakh dance'.[\[5\]](#_ftn5)
 
 <div class="row">
+<div col-8>
   <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/35TKzDzSa2U" allowfullscreen></iframe>
   </div>
+ </div>
 </div>
 
 In the Kazakh language there is the word **"aynalayin"** -- this is how Kazakhs call a person dear to their hearts, denoting their endless love for someone close. Kairbekov B. explains the meaning of this word as follows: _'In translation it sounds like 'I am circling around you!'. This word is associated with the process of treatment by a Kazakh healer -- **bakhsy**, who guarded the patient around him, 'taking' his ailment, transferring it to himself, and in this sense, it would be more accurate to translate the word 'ainalayin' as 'I am ready to sacrifice myself in the name of saving you!'_[\[6\]](#_ftn6)
