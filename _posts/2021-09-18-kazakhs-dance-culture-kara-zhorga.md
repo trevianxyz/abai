@@ -10,7 +10,7 @@ descrip: "It is known that dance is a bodily expression of human feelings and em
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: false
 image: "/assets/images/dance/dance-img.png"
-bigtitle_img: "https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture1.jpg" # for opengraph
+bigtitle_img: "/assets/images/dance/dance-img.png" # for opengraph
 carousel_img: "https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture16.jpg" # for carousel
 no-carousel-fades: false
 western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
