@@ -35,7 +35,6 @@ modalId:
 @media (max-width: 767.98px) {
 
   .callout-article {
-
   width: 100%;
   float: none;
   }
@@ -71,6 +70,7 @@ People's Artist of Russia, a world-famous ballerina Altynai Abduahimovna Assylmu
 
 "Kazakh dance" as a discipline was introduced into the curriculum for the first time in 1965 by a professional Kazakh dancer, People's Artist of Kazakhstan, the legendary Shara Zhienkulova (1912 -- 1991). She published a number of books, including the book 'The Secret of Dance'[\[1\]](#_ftn1) (1980), where she described Kazakh folk dances in great detail, supplementing it with the images of costumes and dance positions as well as musical notes. Shara's traditions at the Almaty Choreographic College named after A. Seleznev are successfully continued by her former student, an outstanding teacher of Kazakh dance, Gainikamal Beisenova.
 
+
 <div class="container">
 <div class="row">
   <div class="col">
@@ -83,7 +83,6 @@ People's Artist of Russia, a world-famous ballerina Altynai Abduahimovna Assylmu
   </div>
 </div>
 </div>
-
 
 At the National Academy of Choreography, the class "Kazakh dance" is included into the professional education program from the 5th year of study and is taught for 3 years. At this level, our students study Kazakh dance as future professional performers, that is, ballet dancers and professional ensemble dancers. Further, undergraduate students study the theory and methodology of teaching Kazakh dance for two years, and then, at the Master's and Doctoral levels, the students study Kazakh dance from a research perspective. Classical ballet heritage, contemporary choreography and, of course, Kazakh dance make up the repertoire of the Kazakh National Academy of Choreography. I am pleased to say that in January 2021, we introduced the Handbook on Kazakh dance -- a collective work carried out by the members of the Laboratory of the Kazakh National Dance: professionals of performing arts, pedagogues, ballet masters, researchers and other experts working in the field of Kazakh national dance led by Toigan Izim, Aigul Tati, Aigul Kulbekova, Anvara Sadykova and Almat Shamshiev.
 
@@ -127,7 +126,7 @@ circle in the structure of the nomadic worldview specifically expresses the temp
 For example, this dance ['Erke Kyz'](https://m.youtube.com/watch?v=35TKzDzSa2U) represents the whole palette of the intricate rotations of the wrists which creates a beautiful pattern of the dance. Graceful movements of arms and wrists, typical for a female Kazakh dance, can be seen in this dance staged by a wonderful choreographer, Zulfia Aubakirova. A. Shankibaeva, the art critic explains the meaning of this movement as follows: "one turn of the wrists, symbolizing the cycle of a full turnover of reception and return of heavenly well-being, having its deep philosophical meaning, is a distinctive feature of Kazakh dance'.[\[5\]](#_ftn5)
 
 <div class="row">
-<div col-8>
+<div class="col-8">
   <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/35TKzDzSa2U" allowfullscreen></iframe>
   </div>
@@ -185,7 +184,15 @@ Uzbekali Dzhanibekov. And the performance of this dance among the people is prov
 
 Today the elements of the 'Buyn bi' dance are included in the main programme of the Kazakh male dance, as the section 'Buyn oinatu' -- 'The game of joints'.
 
-<iframe width="75%" height="500" src="https://www.youtube.com/embed/VWseUWdE58g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="row">
+<div class="col-8">
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VWseUWdE58g" allowfullscreen></iframe>
+  </div>
+ </div>
+</div>
+
 
 > _Orazbai Bodauhanuly dances Kara Zhorga_
 

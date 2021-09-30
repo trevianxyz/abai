@@ -38,8 +38,7 @@ header.bigtitle_img {
       {% endif %}{{ page.date | date_to_string }}
     </p>
   </div>
-</header>
-    
+</header> 
 {% for post in site.data.contentful.spaces.Emb.posts %}
   {% if post.title == page.title %}
 
@@ -68,7 +67,9 @@ header.bigtitle_img {
       <div class="usa-font-lead">
         <img src="{{ post.image.url }}" class="postimage inline-block p-3" alt="Image" />
       </div>
-      {{ post.body | markdownify }}
+      <div class="container">
+        {{ post.body | markdownify }}
+      </div>
   {% endif %}
 {% endif %}
 
