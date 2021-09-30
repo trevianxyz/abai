@@ -11,21 +11,7 @@ header.bigtitle_img {
  background-position: center center;
 }
 }
-</style>  
-
-<aside class="sidenav sticky">
-  <!--<ul class="usa-sidenav-list">
-    <li>
-      {% assign page_category = page.category | slugify | prepend: '/' %}
-      <a href="{{ page_category | prepend: site.baseurl }}">
-        <b data-info="page.category layout/topic">{{ page.category }}</b>
-      </a>
-      <ul class="usa-sidenav-list">
-        {% include nav/list-topic.html %}
-      </ul>
-    </li>
-  </ul>-->
-</aside> 
+</style>
 
 <main id="main-content" class="main-content">
 <div class="styleguide-content usa-content">
@@ -38,7 +24,8 @@ header.bigtitle_img {
       {% endif %}{{ page.date | date_to_string }}
     </p>
   </div>
-</header> 
+</header>
+
 {% for post in site.data.contentful.spaces.Emb.posts %}
   {% if post.title == page.title %}
 
@@ -76,14 +63,14 @@ header.bigtitle_img {
   {% endif %}
 {% endfor %}
 
-<div class="container">   
+<div class="container">
   {{ content | markdownify }}
 </div>
 <div id="author"></div>
 {% unless page.show_author_bottom == false %}
 <hr>
   <div class="row">
-  <div class="col-sm-12 col-md-6 align-middle">     
+  <div class="col-sm-12 col-md-6 align-middle">
    <h3>{{ page.author }}</h3>
     <div id="authorbio"></div>
      <p class="lead">
@@ -101,8 +88,7 @@ header.bigtitle_img {
 {% if page.western-eyes == true %}
 <div class="d-flex justify-content-around styleguide-content usa-content text-center">
   <a class="media-link" href="{{ '/kazakhstan-through-eyes-of-western-travelers' | prepend: site.baseurl }}"
-    title="Home" aria-label="Return to Western Eyes" style="color: #0071bc;">Kazakhstan through Eyes of Western
-    Travelers</a>
+    title="Home" aria-label="Return to Western Eyes" style="color: #0071bc;">Kazakhstan through Eyes of Western Travelers</a>
 </div>
 {% endif %}
 
@@ -118,5 +104,3 @@ header.bigtitle_img {
     style="color: #0071bc;">Return to Homepage</a>
 </div>
 </main>
-
- 

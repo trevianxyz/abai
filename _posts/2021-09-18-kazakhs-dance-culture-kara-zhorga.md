@@ -97,7 +97,7 @@ of the dance culture of our ancestors, but to say that there was no historically
 The longer I work in the field of Kazakh dance, the more I admire the wisdom of our people, the deepest knowledge of our ancestors who were able to leave us a great cultural heritage. Over the centuries, the body language of our folk dance has been formed -- expressive, beautiful, giving you the 'raw' material to work with, and to stage beautiful choreographic miniatures, compositions, ballets and dance scenes on completely different topics, embracing both the every-day reality and highly philosophical reflections. Such presence of various movements and themes of Kazakh dance could not appear from nowhere, without the
 fundamental basics!
 
-![](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture4.jpg){:.float-left .p-3 width="auto" height="600" }
+![](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture4.jpg){:.float-left .p-3 width="auto" height="auto" }
 > _Shara Zhienkulova at the Kazakh dance lesson in the 1960s. Archive of the Museum of the National_
 > _College of Choreography named after Seleznyov._
 
@@ -105,7 +105,7 @@ Unfortunately, the canonical forms of the oldest dances have not reached the pre
 
 The first documentary evidence of dance is petroglyphs. There is a number of archaeological sites with petroglyphs in the territory of modern Kazakhstan, including the UNESCO protected [Archaeological Landscape of Tamgaly](https://whc.unesco.org/en/list/1145/gallery/&maxrows=27) (located 170 km northwest of Almaty) with over 5,000 petroglyphs (rock carvings), 'dating from the second half of the second millennium BC to the beginning of the 20th century'. Some of the rock carvings captured the whole dance scenes of those ancient times. The majority of photos show clear images of animals; some petroglyphs show people's figures dancing solo and in the group.
 
-![Tamgaly dancing images. Photo credit: Dr Gaygysyzn Joraev](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture13.jpg){: width="auto" height="500"}
+![Tamgaly dancing images. Photo credit: Dr Gaygysyzn Joraev](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture13.jpg){: width="auto" height="auto"}
 > _Tamgaly dancing images._
 
 Our ancient ancestors used their flexible bodies as a natural means of expressing their feelings and acted as a means of communication. Their dances had, first of all, a sacred, ritual and ceremonial meaning related to Totem worship, hunting rituals, and rituals of male warriors with weapons preparing for battles. These sacred dances reflected the worldview of our ancestors, their sense and understanding of the surrounding world, natural phenomena, etc. The dance permeated all human life.
@@ -155,11 +155,11 @@ D. Abirov also mentions the names of folk dancers of the first quarter of the XX
 The name of Iskhak Byzhybayev is especially close to us. A unique chronicle has come down to us, where he performs the comic dance '**Nasybaishy**', surprising in its originality, at the folk-dance
 festival in 1936 in Moscow. The plot of the dance, colourful movements, which are sometimes striking in their complexity, are vivid evidence of the presence of a unique dance culture among Kazakh people.
 
-![](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture15.jpg){: width="auto" height="500" }
+![](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture15.jpg){: width="auto" height="auto" }
 > Dance "Nasybayshi" performed by Iskhak Byzhybayev at the folk-dance festival in Moscow, 1936. From 
 > Dauren Abirov's archives
 
-![Fragment from the movie "Blue Route". Aubakir Ismailov performing the dance "Kara Zhorga". 1968. From Anvara Sadykova's archives.](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture16.jpg){: width="auto" height="500" }
+![Fragment from the movie "Blue Route". Aubakir Ismailov performing the dance "Kara Zhorga". 1968. From Anvara Sadykova's archives.](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture16.jpg){: width="auto" height="auto" }
 
 The first national performers and choreographers led the way to the development of Kazakh stage dance by creating a number of wonderful choreographic works that later made up the golden fund of the national
 choreography. These are productions by Shara Zhienkulova, Aubakir Ismailov, Dauren Abirov, Yuri Kovalev, Zaurbek Raibayev, Bulat Ayukhanov, Mintay Tleubaev, Eldos Usin, Zhanat Baydaralin, Olga Vsevolodskaya-Golushkevich, Gainikamal Beisenova, Gulsaule Orumbaeva, Aigul Tati, etc.
