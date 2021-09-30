@@ -35,7 +35,6 @@ modalId:
 @media (max-width: 767.98px) {
 
   .callout-article {
-
   width: 100%;
   float: none;
   }
@@ -71,6 +70,7 @@ People's Artist of Russia, a world-famous ballerina Altynai Abduahimovna Assylmu
 
 "Kazakh dance" as a discipline was introduced into the curriculum for the first time in 1965 by a professional Kazakh dancer, People's Artist of Kazakhstan, the legendary Shara Zhienkulova (1912 -- 1991). She published a number of books, including the book 'The Secret of Dance'[\[1\]](#_ftn1) (1980), where she described Kazakh folk dances in great detail, supplementing it with the images of costumes and dance positions as well as musical notes. Shara's traditions at the Almaty Choreographic College named after A. Seleznev are successfully continued by her former student, an outstanding teacher of Kazakh dance, Gainikamal Beisenova.
 
+
 <div class="container">
 <div class="row">
   <div class="col">
@@ -83,7 +83,6 @@ People's Artist of Russia, a world-famous ballerina Altynai Abduahimovna Assylmu
   </div>
 </div>
 </div>
-
 
 At the National Academy of Choreography, the class "Kazakh dance" is included into the professional education program from the 5th year of study and is taught for 3 years. At this level, our students study Kazakh dance as future professional performers, that is, ballet dancers and professional ensemble dancers. Further, undergraduate students study the theory and methodology of teaching Kazakh dance for two years, and then, at the Master's and Doctoral levels, the students study Kazakh dance from a research perspective. Classical ballet heritage, contemporary choreography and, of course, Kazakh dance make up the repertoire of the Kazakh National Academy of Choreography. I am pleased to say that in January 2021, we introduced the Handbook on Kazakh dance -- a collective work carried out by the members of the Laboratory of the Kazakh National Dance: professionals of performing arts, pedagogues, ballet masters, researchers and other experts working in the field of Kazakh national dance led by Toigan Izim, Aigul Tati, Aigul Kulbekova, Anvara Sadykova and Almat Shamshiev.
 
@@ -98,7 +97,7 @@ of the dance culture of our ancestors, but to say that there was no historically
 The longer I work in the field of Kazakh dance, the more I admire the wisdom of our people, the deepest knowledge of our ancestors who were able to leave us a great cultural heritage. Over the centuries, the body language of our folk dance has been formed -- expressive, beautiful, giving you the 'raw' material to work with, and to stage beautiful choreographic miniatures, compositions, ballets and dance scenes on completely different topics, embracing both the every-day reality and highly philosophical reflections. Such presence of various movements and themes of Kazakh dance could not appear from nowhere, without the
 fundamental basics!
 
-![](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture4.jpg){:.float-left .p-3 width="auto" height="600" }
+![](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture4.jpg){:.float-left .p-3 width="auto" height="auto" }
 > _Shara Zhienkulova at the Kazakh dance lesson in the 1960s. Archive of the Museum of the National_
 > _College of Choreography named after Seleznyov._
 
@@ -106,7 +105,7 @@ Unfortunately, the canonical forms of the oldest dances have not reached the pre
 
 The first documentary evidence of dance is petroglyphs. There is a number of archaeological sites with petroglyphs in the territory of modern Kazakhstan, including the UNESCO protected [Archaeological Landscape of Tamgaly](https://whc.unesco.org/en/list/1145/gallery/&maxrows=27) (located 170 km northwest of Almaty) with over 5,000 petroglyphs (rock carvings), 'dating from the second half of the second millennium BC to the beginning of the 20th century'. Some of the rock carvings captured the whole dance scenes of those ancient times. The majority of photos show clear images of animals; some petroglyphs show people's figures dancing solo and in the group.
 
-![Tamgaly dancing images. Photo credit: Dr Gaygysyzn Joraev](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture13.jpg){: width="auto" height="500"}
+![Tamgaly dancing images. Photo credit: Dr Gaygysyzn Joraev](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture13.jpg){: width="auto" height="auto"}
 > _Tamgaly dancing images._
 
 Our ancient ancestors used their flexible bodies as a natural means of expressing their feelings and acted as a means of communication. Their dances had, first of all, a sacred, ritual and ceremonial meaning related to Totem worship, hunting rituals, and rituals of male warriors with weapons preparing for battles. These sacred dances reflected the worldview of our ancestors, their sense and understanding of the surrounding world, natural phenomena, etc. The dance permeated all human life.
@@ -127,7 +126,7 @@ circle in the structure of the nomadic worldview specifically expresses the temp
 For example, this dance ['Erke Kyz'](https://m.youtube.com/watch?v=35TKzDzSa2U) represents the whole palette of the intricate rotations of the wrists which creates a beautiful pattern of the dance. Graceful movements of arms and wrists, typical for a female Kazakh dance, can be seen in this dance staged by a wonderful choreographer, Zulfia Aubakirova. A. Shankibaeva, the art critic explains the meaning of this movement as follows: "one turn of the wrists, symbolizing the cycle of a full turnover of reception and return of heavenly well-being, having its deep philosophical meaning, is a distinctive feature of Kazakh dance'.[\[5\]](#_ftn5)
 
 <div class="row">
-<div col-8>
+<div class="col-8">
   <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/35TKzDzSa2U" allowfullscreen></iframe>
   </div>
@@ -156,11 +155,11 @@ D. Abirov also mentions the names of folk dancers of the first quarter of the XX
 The name of Iskhak Byzhybayev is especially close to us. A unique chronicle has come down to us, where he performs the comic dance '**Nasybaishy**', surprising in its originality, at the folk-dance
 festival in 1936 in Moscow. The plot of the dance, colourful movements, which are sometimes striking in their complexity, are vivid evidence of the presence of a unique dance culture among Kazakh people.
 
-![](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture15.jpg){: width="auto" height="500" }
+![](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture15.jpg){: width="auto" height="auto" }
 > Dance "Nasybayshi" performed by Iskhak Byzhybayev at the folk-dance festival in Moscow, 1936. From 
 > Dauren Abirov's archives
 
-![Fragment from the movie "Blue Route". Aubakir Ismailov performing the dance "Kara Zhorga". 1968. From Anvara Sadykova's archives.](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture16.jpg){: width="auto" height="500" }
+![Fragment from the movie "Blue Route". Aubakir Ismailov performing the dance "Kara Zhorga". 1968. From Anvara Sadykova's archives.](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture16.jpg){: width="auto" height="auto" }
 
 The first national performers and choreographers led the way to the development of Kazakh stage dance by creating a number of wonderful choreographic works that later made up the golden fund of the national
 choreography. These are productions by Shara Zhienkulova, Aubakir Ismailov, Dauren Abirov, Yuri Kovalev, Zaurbek Raibayev, Bulat Ayukhanov, Mintay Tleubaev, Eldos Usin, Zhanat Baydaralin, Olga Vsevolodskaya-Golushkevich, Gainikamal Beisenova, Gulsaule Orumbaeva, Aigul Tati, etc.
@@ -185,7 +184,15 @@ Uzbekali Dzhanibekov. And the performance of this dance among the people is prov
 
 Today the elements of the 'Buyn bi' dance are included in the main programme of the Kazakh male dance, as the section 'Buyn oinatu' -- 'The game of joints'.
 
-<iframe width="75%" height="500" src="https://www.youtube.com/embed/VWseUWdE58g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="row">
+<div class="col-8">
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VWseUWdE58g" allowfullscreen></iframe>
+  </div>
+ </div>
+</div>
+
 
 > _Orazbai Bodauhanuly dances Kara Zhorga_
 
