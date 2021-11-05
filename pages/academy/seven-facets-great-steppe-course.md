@@ -38,8 +38,7 @@ The member-instructor ratio is 5:1 to provide a personalized learning experience
     ga-label="webdev"
     ga-category="requestSyllabus"
     data-toggle="modal"
-    data-target="#modal--requestSyllabus--webdev"
->
+    data-target="#modal--requestSyllabus--webdev">
     <i class="fas fa-cloud-download-alt"></i> Download Syllabus
 </a> -->
 </h4>
@@ -48,159 +47,59 @@ The member-instructor ratio is 5:1 to provide a personalized learning experience
 <li class="list-group-item d-flex justify-content-between lh-condensed">
     <div>
     <h5 class="my-0">
-        Structure & Style
+Elbasy's Call to Action
     </h5>
     <div class="series-outline-details text-muted pt-2">
-        Build a landing page focusing on best practices using HTML5, CSS3 & <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>.
+In his article Seven Facets of the Great Steppe, Elbasy Nursultan Nazarbayev called on a new philosophical level to comprehend the ancient history of the Kazakh people's historical ethno-national identity that predates today's modern republic by many many centuries.
     </div>
     </div>
 </li>
 <li class="list-group-item d-flex justify-content-between lh-condensed">
     <div>
-    <h5 class="my-0">Behavior & Responsiveness</h5>
+    <h5 class="my-0">Cradle of the Turkic World</h5>
     <div class="series-outline-details text-muted pt-2">
-        Build an interactive micro-site with HTML5, CSS3 & <a href="https://jquery.com/" target="_blank">jQuery</a> that works on web and mobile.
-    </div>
-    </div>
-</li>
-<li class="list-group-item d-flex justify-content-between lh-condensed">
-    <div>
-    <h5 class="my-0">
-        jQuery
-    </h5>
-    <div class="series-outline-details text-muted pt-2">
-        Build a dynamic form in a modal overlay that uses AJAX to save form submissions using Google Scripts.
+        History and geography formed a special model of continuity of the Turkic states, the great steppe empires. For centuries, they have successively replaced each other, leaving their significant mark in the economic, political and cultural landscape of medieval Kazakhstan.
     </div>
     </div>
 </li>
 <li class="list-group-item d-flex justify-content-between lh-condensed">
     <div>
     <h5 class="my-0">
-        Practical JavaScript
+        Horsemanship
     </h5>
     <div class="series-outline-details text-muted pt-2">
-        Build a carousel optimized for the best mobile experience to purchase products.
+        The domestication of horses first took place in the territory of modern Kazakhstan, which marked the beginning of the culture of horsemanship. The ancestors of Kazakh people invented the high saddle and stirrups. Innovations allowed horse riders to sit confidently on a horse and use their weapons more efficiently.
+    </div>
+    </div>
+</li>
+<li class="list-group-item d-flex justify-content-between lh-condensed">
+    <div>
+    <h5 class="my-0">
+Animal Style
+    </h5>
+    <div class="series-outline-details text-muted pt-2">
+Kazakh ancestors used the images of animals in everyday life to show a strong connection between people and nature, pointing to the spiritual guides of the Steppe people. These images were often produced with the use of the most advanced techniques of the time
     </div>
     </div>
 </li>
 
 </ul>
 
-<p>
-<b>Note:</b> Important <a class="ga-click-event" ga-label="legal info" ga-category="instruction" href="#anchor--legalinformation">legal information for participants</a>.
-</p>
-
+<div class="container bg-light">
+<h2>Continuing Education & Professional Development</h2>
+<div class="d-flex flex-column align-items-center">
+<div>
+<h4>Certificate of Completion</h4>
+<p>Those who complete this course will earn an Abai Center Certificate of Completion. This course certificate may satisfy professional and continuing education credit unit requirements from professional organizations and industry associations. CEUs for this course are awarded by the <a href="https://ccac.edu/workforce/workforce-continuing-education/index.php" target="_blank">Community College of Allegheny County Professional Continuing Education</a>. We suggest completion of this course with the certificate meets <b>three (3) Continuing Education Unit (CEUs)</b> and <b>one (1) Professional Development Hour (PDH)</b>.</p></div> 
+<img src="https://turbine-user-content.s3.us-east-2.amazonaws.com/user-content/DCqDvAYJvrhUDSrCnctYb/50ad4040-1834-4647-be2c-38a3fc7d4588.png" class="img-thumbnail" />
 </div>
-
+This course is developed to meet the C3 Framework of the <a href="https://www.socialstudies.org/standards" target="_blank">National Council for the Socail Studies National Curriculum Standards</a>.  NCSS published the National Curriculum Standards for Social Studies in 2010.
 </div>
-
 </div>
-<div class="row">
-<div class="col-md-12 col-lg-4">
  
 </div>
-<div class="col-md-7">
 
-</div>
 </div>
 
 </div>
-</div>
-
-
-
-<div class="container py-5">
-  <div class="row">
-    <!-- more info -->
-    <div class="col-12">
-      <h4 id="orbit-faqs" class="mb-3">FAQs</h4>
-      <hr />
-
-<h4 class="mb-3">How many members are in a class?</h4>
-<p>
-This varies based on in-person and remote attendees, but generally doesn't exceed 15 members.
-</p>
-
-<h4 class="mb-3">What specific technologies will I learn?</h4>
-<p>
-<ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript</li>
-    <li>jQuery</li>
-    <li>Git</li>
-    <li>GitHub</li>
-    <li>Chrome Developer Tools</li>
-    <li>Bootstrap</li>
-    <li>Hotjar</li>
-    <li>Google Analytics</li>
-</ul>
-</p>
-
-<h4 class="mb-2">Do I need to have previous experience?</h4>
-<p>
-No previous experience is required.
-</p>
-
-<h4 class="mb-2">Who is teaching this series?</h4>
-<p class="mb-4">
-Learn how to code from seasoned software engineers with decades of combined experience currently working for tech companies from Pittsburgh to Silicon Valley.
-</p>
-
-<h4 class="mb-2">Enrollment Process</h4>
-<p class="mb-4">
-See <a scroll-top="#enrollment-process" class="ga-click-event scroll-to" href="javascript:void(0);" ga-label="section above" ga-category="webdev">section above</a>.
-</p>
-
-<h4 class="mb-2">What software will I need?</h4>
-<p class="mb-4">
-Any software downloads will be free and recommended by instructors.
-</p>
-
-<h4 class="mb-3">Do I need any equipment?</h4>
-<p>
-Yes. A laptop computer with the following is required:
-</p>
-<p>
-<ul>
-    <li>Windows 7 or greater, OR Mac OS X 10.7.5 or greater</li>
-    <li>2.0 GHz processor or greater</li>
-    <li>2 GB RAM minimum</li>
-    <li>250 GB HDD</li>
-    <li>wi-fi enabled</li>
-</ul>
-</p>
-<p>
-Not sure if your laptop meets these requirements?
-<br />
-Email us at <a href="mailto:hello@upstreamcoding.com">hello@upstreamcoding.com</a>.
-</p>
-
-
-<h4 class="mb-3">What certification do I get upon completion?</h4>
-<p>
-Upstream Coding PGH offers no certification and makes no promise of future employment.
-</p>
-</div>
-</div>
-
-  <div class="row">
-    <div class="col">
-      <div class="card p-2 col-sm-12 col-lg-4">
-        <h5>Still have questions?</h5>
-        <button
-          class="btn btn-lg btn-outline-primary ga-click-event"
-          href="#"
-          ga-label="{{ page.course_slug }}"
-          ga-category="scheduleCall"
-          data-toggle="modal"
-          data-target="#modal-connectWithAdvisor"
-          data-course="{{ page.course_slug }}"
-        >
-          Schedule Call
-        </button>
-      </div>
-    </div>
-  </div>
-
 </div>
