@@ -161,14 +161,11 @@ festival in 1936 in Moscow. The plot of the dance, colourful movements, which ar
 
 ![Fragment from the movie "Blue Route". Aubakir Ismailov performing the dance "Kara Zhorga". 1968. From Anvara Sadykova's archives.](https://voicesoncentralasia.org/wp-content/uploads/2021/09/Picture16.jpg){: width="auto" height="auto" }
 
-The first national performers and choreographers led the way to the development of Kazakh stage dance by creating a number of wonderful choreographic works that later made up the golden fund of the national
-choreography. These are productions by Shara Zhienkulova, Aubakir Ismailov, Dauren Abirov, Yuri Kovalev, Zaurbek Raibayev, Bulat Ayukhanov, Mintay Tleubaev, Eldos Usin, Zhanat Baydaralin, Olga Vsevolodskaya-Golushkevich, Gainikamal Beisenova, Gulsaule Orumbaeva, Aigul Tati, etc.
+The first national performers and choreographers led the way to the development of Kazakh stage dance by creating a number of wonderful choreographic works that later made up the golden fund of the national choreography. These are productions by Shara Zhienkulova, Aubakir Ismailov, Dauren Abirov, Yuri Kovalev, Zaurbek Raibayev, Bulat Ayukhanov, Mintay Tleubaev, Eldos Usin, Zhanat Baydaralin, Olga Vsevolodskaya-Golushkevich, Gainikamal Beisenova, Gulsaule Orumbaeva, Aigul Tati, etc.
 
-Today in Kazakhstan there are four ballet theatres with a unique repertoire -- the Kazakh National Opera and Ballet Theatre named after Abai (established in 1934), the State Academic Dance Theatre of the
-Republic of Kazakhstan under the direction of Bulat Ayukhanov (established in 1967), the State Academic Opera and Ballet Theatre 'Astana Opera' (established in 2013), State Theatre 'Astana Ballet' (established in 2012). Theatre of contemporary dance 'Samruk' (established in 1998), State dance theatre 'Naz' (established in 1999), State Dance Ensembles 'Saltanat' (established in 1955), 'Altynai' (since 1985), dance ensembles at philharmonic halls in the regions of Kazakhstan, etc.
+Today in Kazakhstan there are four ballet theatres with a unique repertoire -- the Kazakh National Opera and Ballet Theatre named after Abai (established in 1934), the State Academic Dance Theatre of the Republic of Kazakhstan under the direction of Bulat Ayukhanov (established in 1967), the State Academic Opera and Ballet Theatre 'Astana Opera' (established in 2013), State Theatre 'Astana Ballet' (established in 2012). Theatre of contemporary dance 'Samruk' (established in 1998), State dance theatre 'Naz' (established in 1999), State Dance Ensembles 'Saltanat' (established in 1955), 'Altynai' (since 1985), dance ensembles at philharmonic halls in the regions of Kazakhstan, etc.
 
-And this list goes on and on ... Our mission is to preserve this unique cultural heritage and look for new ways of developing our national choreography which currently absorbs the best traditions of classical
-and contemporary dance as well as the heritage of our ancestors.
+And this list goes on and on ... Our mission is to preserve this unique cultural heritage and look for new ways of developing our national choreography which currently absorbs the best traditions of classical and contemporary dance as well as the heritage of our ancestors.
 
 And answering your question, I can say that without the presence of the deep national song, music and dance traditions that have been formed for centuries in the Kazakh steppe, the ability to be open to other cultures, absorb and accept what is close in spirit, in moral values, we could not present today what we call the Kazakh national culture as a whole.
 
@@ -179,8 +176,7 @@ I have great respect for Arystan-ata. We invited him to take part in the making 
 
 However, it should be emphasized that on the territory of modern Kazakhstan, the dance 'Kara Zhorga' was also performed in Soviet times, but under a different name 'Buyn bi' (dance of joints).
 
-The repertoire of the aforementioned ensemble 'Altynai' to this day includes the dance 'Buyn bi' staged by Olga Vsevolodskaya-Golushkevich, who created her dances under the close attention of the ethnographer
-Uzbekali Dzhanibekov. And the performance of this dance among the people is proved by the following episode, when Uzbekali Dzhanibekov met two tractor drivers living in the Narynkol district of the Almaty region, skilfully performing the 'Buyn bi' dance. It was their performance of this dance that inspired the creation of a choreographic composition for the 'Altynai' ensemble under accompaniment of a *kyui* (folk instrumental musical composition).
+The repertoire of the aforementioned ensemble 'Altynai' to this day includes the dance 'Buyn bi' staged by Olga Vsevolodskaya-Golushkevich, who created her dances under the close attention of the ethnographer Uzbekali Dzhanibekov. And the performance of this dance among the people is proved by the following episode, when Uzbekali Dzhanibekov met two tractor drivers living in the Narynkol district of the Almaty region, skilfully performing the 'Buyn bi' dance. It was their performance of this dance that inspired the creation of a choreographic composition for the 'Altynai' ensemble under accompaniment of a *kyui* (folk instrumental musical composition).
 
 Today the elements of the 'Buyn bi' dance are included in the main programme of the Kazakh male dance, as the section 'Buyn oinatu' -- 'The game of joints'.
 
