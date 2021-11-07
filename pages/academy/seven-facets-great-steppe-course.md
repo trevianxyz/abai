@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: topic
 title: Seven Facets Course
 permalink: /academy/seven-facets-great-steppe-course
 hide_card_details_btn: true
@@ -8,8 +8,8 @@ course_slug: sevenfacets
 testimonials: true
 ceu: true
 course-image: "https://turbine-user-content.s3.us-east-2.amazonaws.com/user-content/DCqDvAYJvrhUDSrCnctYb/d7a6f4b1-5332-4fb3-8924-d611ebbd2958.png"
+category: Academy
 ---
-
 
 <div class="bg-light pt-3 pt-md-3 pb-5 border-top--black-1">
   <div class="container">
