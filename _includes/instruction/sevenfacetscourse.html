@@ -1,12 +1,12 @@
 <div class="col-sm-12 col-md-6 col-lg-4 mb-4">
+  <h4>
+    Seven Facets of the Great Steppe
+</h4>
     <div class="card no-hover shadow-sm h-100">
-      <img class="card-img-top" src="https://turbine-user-content.s3.us-east-2.amazonaws.com/user-content/DCqDvAYJvrhUDSrCnctYb/d7a6f4b1-5332-4fb3-8924-d611ebbd2958.png" alt="Web Foundations : HTML & CSS" />
+      <img class="card-img-top" src="https://turbine-user-content.s3.us-east-2.amazonaws.com/user-content/DCqDvAYJvrhUDSrCnctYb/d7a6f4b1-5332-4fb3-8924-d611ebbd2958.png" alt="Seven Facets of the Great Steppe" />
       <div class="card-body">
-        <h5>
-            Seven Facets of the Great Steppe
-        </h5>
         <p class="card-text">
-            First President Nazarbayev articulated seven unique historical achievements of the civilization of the Great Steppe which influenced the development of humanity. Seven Facets is the study of the national, cultural and human history of Kazakhstan in all its depth and complexity. The aim is to use scientific and historical facts to objectively understand the Kazakh peoples' role in world history.
+Seven Facets surfaces scientific and historical facts to objectively understand the Kazakh peoples' role in history of human development and Western civilization.
         </p>
         <p>
           <b>Topics:</b>
@@ -15,31 +15,51 @@
             Horsemanship, Cradle of the Turkic World, Animal Style, Great Silk Road, Golden Man, Metallurgy
           </span>
         </p>
-  
+
         <p>
-          <b>Schedule:</b>
-          <br />
-          <span class="text-muted mt-2">
-           <code>Self-paced</code>
+          <p class="tmt-2">
+            <b>Schedule:</b> <code>Self-paced</code>
+          </p>
             <br />
- 
+            {% if page.ceu %}
+            <span class="tmt-2"> This course awards
+            <a href="#ceu-certificate">
+              <b>CEUs & Certificate</b>
+            </a>
           </span>
+            {% endif %}
         </p>
 
-  
-        <div class="d-flex align-items-center justify-content-between">
-           
-            <a
+        <div class="d-flex justify-content-between align-items-center">
+          {% if page.hide_card_details_btn %}
+            <p>
+              <a
               role="button"
               class="btn btn-lg btn-primary ga-click-event stretched-link text-white"
-              title="Enroll"
+              title="Seven Facets"
               href="https://app.turbinelms.com/login/abai-center?action=signup&classId=29yX6Y61wauo2NbMRZPp5L"
-              ga-label="Enroll"
+              ga-label="Seven Facets"
               ga-category="instruction"
-              target="_blank"
             >
-            Enroll
-            </a>
+            Enroll</a>
+            <div class="">
+              <span><b>This course is free.</b></span><br />
+            </div>
+            </p>
+          {% else %}
+            <a
+              role="button"
+              class="btn btn-lg btn-primary ga-click-event my-2 stretched-link text-white"
+              title="Seven Facets"
+              href="/academy/seven-facets-great-steppe-course"
+              ga-label="Seven Facets"
+              ga-category="instruction"
+            >
+            Details</a>
+            <div class="text-right">
+              <span><b><mark>Free</mark></b></span><br />
+            </div>
+          {% endif %}
         </div>
   
       </div>
