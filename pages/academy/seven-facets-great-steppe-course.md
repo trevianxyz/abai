@@ -91,4 +91,6 @@ Kazakh ancestors used the images of animals in everyday life to show a strong co
 </div>
 </div>
 </div>
+{% if page.ceu %}
 {% include instruction/ceu-certificate.html %}
+{% endif %}
