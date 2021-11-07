@@ -2,33 +2,34 @@
 layout: default
 title: Seven Facets Course
 permalink: /academy/seven-facets-great-steppe-course
-hide_card_details_btn: false
+hide_card_details_btn: true
 membership_duration: (4 months)
 course_slug: sevenfacets
 testimonials: true
+ceu: true
+course-image: "https://turbine-user-content.s3.us-east-2.amazonaws.com/user-content/DCqDvAYJvrhUDSrCnctYb/d7a6f4b1-5332-4fb3-8924-d611ebbd2958.png"
 ---
 
-<div class="bg-light pt-3 pt-md-5 pb-5 border-top--black-1">
-<div class="container">
-<div class="row">
+
+<div class="bg-light pt-3 pt-md-3 pb-5 border-top--black-1">
+  <div class="container">
+    <div class="row">
+    <!--<img class="float-right img-thumbnail" src="{{ page.course-image }}" alt="Seven Facets" />-->
 
 {% include instruction/sevenfacetscourse.html %}
 
 <div class="col-md-8 order-md-1">
 <h4 class="mb-2 text-muted">Overview</h4>
-<p class="mb-4">
-Become competent in the three core languages used in website development.
-</p>
-<p>
-You'll build a portfolio of responsive websites from scratch using HTML, CSS and JavaScript that look great on mobile and web.
-</p>
-<p>
-The member-instructor ratio is 5:1 to provide a personalized learning experience.
-</p>
+    <p
+    class="mb-4"
+    >
+    Cultural history is a powerful unifying force for Kazakhs and all Turkic peoples. Central to 'being Kazakh' is an deep intimacy with the land -- the Great Steppe. Kazakh ethnonational identity is rooted in Nomadic life and survival on the steppe and a mindufulness of their ancestral legacies. The Great Steppe is comprised equally of complexity and simplicity and is strong force for all citizens.
+<br>
+    <b>Elbasy Kazakhstan's First President Nursultan Nazarbayev</b> called on all Kazakhs to respect and study Great Steppe history and to draw on it for strength and guidance. But he also called for a scientific approach to be applied to the study of the Great Steppe. Elbasy provided seven core facets that comprise Great Steppe and what it means to be Kazakh and Kazakhstani.
+  </p>
 
-<br />
-
-<div class="col-md-12 px-0">
+<div 
+class="col-md-12 px-0">
 <h4 class="d-flex justify-content-between align-items-center mb-3">
 <span class="text-muted">Curriculum</span>
 <!-- <a
@@ -73,33 +74,21 @@ In his article Seven Facets of the Great Steppe, Elbasy Nursultan Nazarbayev cal
     </div>
 </li>
 <li class="list-group-item d-flex justify-content-between lh-condensed">
-    <div>
-    <h5 class="my-0">
-Animal Style
+  <div>
+    <h5 
+     class="my-0">
+    Animal Style
     </h5>
-    <div class="series-outline-details text-muted pt-2">
+    <div
+    class="series-outline-details text-muted pt-2">
 Kazakh ancestors used the images of animals in everyday life to show a strong connection between people and nature, pointing to the spiritual guides of the Steppe people. These images were often produced with the use of the most advanced techniques of the time
     </div>
-    </div>
+  </div>
 </li>
-
 </ul>
 
-<div class="container bg-light">
-<h2>Continuing Education & Professional Development</h2>
-<div class="d-flex flex-column align-items-center">
-<div>
-<h4>Certificate of Completion</h4>
-<p>Those who complete this course will earn an Abai Center Certificate of Completion. This course certificate may satisfy professional and continuing education credit unit requirements from professional organizations and industry associations. CEUs for this course are awarded by the <a href="https://ccac.edu/workforce/workforce-continuing-education/index.php" target="_blank">Community College of Allegheny County Professional Continuing Education</a>. We suggest completion of this course with the certificate meets <b>three (3) Continuing Education Unit (CEUs)</b> and <b>one (1) Professional Development Hour (PDH)</b>.</p></div> 
-<img src="https://turbine-user-content.s3.us-east-2.amazonaws.com/user-content/DCqDvAYJvrhUDSrCnctYb/50ad4040-1834-4647-be2c-38a3fc7d4588.png" class="img-thumbnail" />
-</div>
-This course is developed to meet the C3 Framework of the <a href="https://www.socialstudies.org/standards" target="_blank">National Council for the Socail Studies National Curriculum Standards</a>.  NCSS published the National Curriculum Standards for Social Studies in 2010.
 </div>
 </div>
- 
-</div>
-
-</div>
-
 </div>
 </div>
+{% include instruction/ceu-certificate.html %}
