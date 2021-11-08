@@ -10,5 +10,6 @@ Embassy of Kazakhstan <br>
 Washington, D.C. 20036<br>
 <p>
 <a href="tel:202-232-5488">(202)-232-5488</a><br>
+<a href="mailto:a.besken@mfa.kz">a.besken@mfa.kz</a><br>
 <a href="mailto:a.besken@mfa.kz">Email the Abai Center</a>
 </p>
