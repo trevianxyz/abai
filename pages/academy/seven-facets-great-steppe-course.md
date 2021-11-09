@@ -7,7 +7,7 @@ membership_duration: (4 months)
 course_slug: sevenfacets
 testimonials: true
 ceu: true
-course-image: "https://turbine-user-content.s3.us-east-2.amazonaws.com/user-content/DCqDvAYJvrhUDSrCnctYb/d7a6f4b1-5332-4fb3-8924-d611ebbd2958.png"
+image: "https://turbine-user-content.s3.us-east-2.amazonaws.com/user-content/DCqDvAYJvrhUDSrCnctYb/d7a6f4b1-5332-4fb3-8924-d611ebbd2958.png"
 category: Academy
 ---
 
