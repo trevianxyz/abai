@@ -1,6 +1,6 @@
 ---
 permalink: /academy
-layout: topic-overview
+layout: page
 title: Abai Center Academy
 filter-directory:
 category: Academy
