@@ -20,7 +20,7 @@
   {% if page.image == "" %}
   <meta property="og:image" content="https://abaicenter.nyc3.digitaloceanspaces.com/abaihopeposter.png" />
   {% else %}
-    {% if page.image contains "http:" %}
+    {% if page.image contains "http" %}
     <meta property="og:image" content= "{{ page.image }}" />
     {% else %}
     <meta property="og:image" content= "{{ site.url | append: page.image.url }}" />
