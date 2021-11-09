@@ -24,6 +24,7 @@ category: Academy
     class="mb-4"
     >
   </p>This course provides students with a general knowledge of the current spoken and written Kazakh Language. It familiarizes students with the Kazakh alphabet, common phrases used in real-life conversations and daily routines. Kazakh is spoken as a first or second language by roughly 8 million people throughout Central Asia and in Kazakhstan. Speaking some Kazakh is an asset to foreign nationals who spend time in Kazakhstan: investors, diplomats, aid workers and workers in the extractive and commercial space industries.
+<source src="https://turbine-user-content.s3.us-east-2.amazonaws.com/user-content/DCqDvAYJvrhUDSrCnctYb/cfe0eaaa-24b3-4adf-b50c-461cd668fdf0.mp3"><source>
 <div
 class="col-md-12 px-0">
 <h4 class="d-flex justify-content-between align-items-center mb-3">
