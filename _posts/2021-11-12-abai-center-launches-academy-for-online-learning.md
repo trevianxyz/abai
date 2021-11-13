@@ -16,6 +16,8 @@ no-carousel-fades: false
 western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
 categories:
 modalId:
+redirect_to:
+  - /academy
 ---
 
 <style>
