@@ -59,4 +59,8 @@ $(document).ready(function() {
     autoplaySpeed: 2000,
  });
 
+ $('#academymoreinfo').collapse({
+  toggle: false
+});
+
 });

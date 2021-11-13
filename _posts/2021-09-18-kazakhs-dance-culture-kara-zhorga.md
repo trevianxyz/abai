@@ -40,7 +40,6 @@ modalId:
   }
 
    }
-
 </style>
 
 #### An interview with Anvara Sadykova.

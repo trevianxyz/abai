@@ -354,8 +354,18 @@ a.fa-2x {
   position: relative;
 }
 
+.course-row {
+  flex-direction: row;
+  justify-content: space-between;
+}
+
 /* Responsive */
 @media (max-width: 767.98px) {
+
+  .course-row {
+    flex-direction: column;
+    align-content: space-between;
+  }
 
 .images-group {
   display: flex;
