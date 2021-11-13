@@ -32,8 +32,6 @@ modalId:
    justify-content: center;
   }
 
-  img 
-
 @media (max-width: 767.98px) {
 
   .callout-article {
