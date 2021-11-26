@@ -1,0 +1,31 @@
+{% if page.descrip == "" %}
+  <meta property="og:description" content="{{ site.description }}" />
+  <meta name="twitter:description" content="{{ site.description }}">
+{% else %}
+  <meta name="twitter:description" content="{{ page.descrip }}">
+  <meta name="og:description" content="{{ page.descrip }}">
+  <meta property="og:type" content="article">
+{% endif %}
+
+{% if page.title == "" %}
+<meta property="og:title" content="{{ site.title }}" />
+<meta name="twitter:title" content="{{ site.title }}">
+{% else %}
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="og:title" content="{{ page.title }}">
+{% endif %}
+
+{% if page.image == "" %}
+  <meta property="og:image" content="{{ site.site_image }}" />
+  <meta name="twitter:card" content="{{ site.site_image }}">
+  <meta name="twitter:image:src" content="{{ site.site_image }}">
+{% else %}
+  {% if page.image contains "http" %}
+  <meta property="og:image" content= "{{ page.image }}" />
+  <meta name="twitter:image:src" content= "{{ page.image }}">
+  {% else %}
+  <meta name="twitter:card" content="{{ site.url | append: page.image.url }}">
+  <meta name="twitter:image:src" content= "{{ site.url | append: page.image.url }}">
+  <meta property="og:image" content= "{{ site.url | append: page.image.url }}" />
+  {% endif %}
+{% endif %}
