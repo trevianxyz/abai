@@ -4,6 +4,7 @@ title: Seven Facets Course
 permalink: /academy/seven-facets-great-steppe-course
 hide_card_details_btn: true
 membership_duration: (4 months)
+descrip: "Cultural history is a powerful unifying force for Kazakhs and all Turkic peoples. Central to 'being Kazakh' is an deep intimacy with the land -- the Great Steppe."
 course_slug: sevenfacets
 testimonials: true
 ceu: true
