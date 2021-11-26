@@ -1,3 +1,16 @@
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@abaicenter" />
+
+{% if page.layout == "" %}
+<meta property="og:url" content="{{ site.url }}" />
+{% else %}
+<meta property="og:url" content="{{ page.url }}" />
+<meta property="og:type" content="article" />
+{% endif %}
+
+
 {% if page.descrip == "" %}
   <meta property="og:description" content="{{ site.description }}" />
   <meta name="twitter:description" content="{{ site.description }}">
@@ -18,7 +31,7 @@
 {% if page.image == "" %}
   <meta property="og:image" content="{{ site.site_image }}" />
   <meta name="twitter:card" content="{{ site.site_image }}">
-  <meta name="twitter:image:src" content="{{ site.site_image }}">
+  <meta name="twitter:image" content="{{ site.site_image }}">
 {% else %}
   {% if page.image contains "http" %}
   <meta property="og:image" content= "{{ page.image }}" />
