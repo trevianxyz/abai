@@ -1,15 +1,21 @@
 
-
-<meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@abaicenter" />
 
-{% if page.layout == "" %}
-<meta property="og:url" content="{{ site.url }}" />
-{% else %}
+{% if page.layout == "page" %}
+<meta property="og:url" content="{{ site.url | append: page.permalink }}" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@abaicenter" />
+<meta property="og:image" content= "{{ page.image }}" />
+<meta name="twitter:image" content= "{{ page.image }}">
+    {% elsif page.layout == "post"%}
+<meta property="og:url" content="{{ site.url | append: post.permalink }}" />
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:image" content= "{{ post.image }}" />
+<meta name="twitter:image" content= "{{ post.image }}">
+    {% else %}
 <meta property="og:url" content="{{ page.url }}" />
 <meta property="og:type" content="article" />
 {% endif %}
-
 
 {% if page.descrip == "" %}
   <meta property="og:description" content="{{ site.description }}" />
