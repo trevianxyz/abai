@@ -3,6 +3,7 @@ layout: page
 title: "Kazakhstan & Central Asia: Through the Eyes of Western Travelers"
 permalink: "/kazakhstan-through-eyes-of-western-travelers"
 image: "/assets/images/western-eyes/western-eyes-mobile.png"
+show_side_nav: false
 ---
 
 <style>

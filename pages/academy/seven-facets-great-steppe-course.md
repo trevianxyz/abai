@@ -1,6 +1,6 @@
 ---
 layout: topic
-title: Seven Facets Course
+title: "Online Course: Seven Facets of the Great Steppe"
 permalink: /academy/seven-facets-great-steppe-course
 hide_card_details_btn: true
 membership_duration: (4 months)
@@ -21,15 +21,17 @@ category: Academy
 
 <div class="col-md-8 order-md-1">
 <h4 class="mb-2 text-muted">Overview</h4>
-    <p
+    <div
     class="mb-4"
     >
-    Cultural history is a powerful unifying force for Kazakhs and all Turkic peoples. Central to 'being Kazakh' is an deep intimacy with the land -- the Great Steppe. Kazakh ethnonational identity is rooted in Nomadic life and survival on the steppe and a mindufulness of their ancestral legacies. The Great Steppe is comprised equally of complexity and simplicity and is strong force for all citizens.
-<br>
+    <p> Cultural history is a powerful unifying force for Kazakhs and all Turkic peoples. Central to 'being Kazakh' is an deep intimacy with the land -- the Great Steppe. Kazakh ethnonational identity is rooted in Nomadic life and survival on the steppe and a mindufulness of their ancestral legacies. The Great Steppe is comprised equally of complexity and simplicity and is strong force for all citizens.
+    </p>
+    <p>
     <b>Elbasy Kazakhstan's First President Nursultan Nazarbayev</b> called on all Kazakhs to respect and study Great Steppe history and to draw on it for strength and guidance. But he also called for a scientific approach to be applied to the study of the Great Steppe. Elbasy provided seven core facets that comprise Great Steppe and what it means to be Kazakh and Kazakhstani.
-  </p>
+    </p>
+  </div>
 
-<div 
+<div
 class="col-md-12 px-0">
 <h4 class="d-flex justify-content-between align-items-center mb-3">
 <span class="text-muted">Curriculum</span>
@@ -95,3 +97,7 @@ Kazakh ancestors used the images of animals in everyday life to show a strong co
 {% if page.ceu %}
 {% include instruction/ceu-certificate.html %}
 {% endif %}
+
+<div class="d-flex justify-content-around styleguide-content usa-content text-center">
+  <a class="media-link" href="{{ '/academy' | prepend: site.baseurl }}"
+    title="Western Eyes" aria-label="Return to Western Eyes" style="color: #0071bc;">Back to Academy</a></div> 
