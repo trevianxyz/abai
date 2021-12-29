@@ -3,6 +3,7 @@ layout: page
 title: Abai Center Series
 permalink: /abai-center-series
 image: /assets/images/ac_series/abai_center_series-header.gif
+show_side_nav: false
 ---
 
 <style>
