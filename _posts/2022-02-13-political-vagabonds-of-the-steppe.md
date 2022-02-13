@@ -53,6 +53,12 @@ context of *qazaqlïq*, a custom of political vagabondage that played an
 important role in state and identity formation in post-Mongol Central
 Eurasia. Let me elaborate on this.
 
+<figure class="figure">
+  <img src="/assets/images/publications/lee/drlee-lecture.jpg" class="figure img-thumbnail rounded" alt="Joo-Yup Lee at his book launch at the University of Toronto." height="auto" width="100%">
+  <figcaption class="figure-caption">Joo-Yup Lee at his book launch at the University of Toronto.
+</figcaption>
+</figure>
+
 During the post-Mongol period, *qazaqlïq*, meaning in Turkic the *qazaq*
 way of life, denoted a form of political vagabondage that involved
 fleeing from one's state or tribe and/or living the life of a freebooter
@@ -236,6 +242,13 @@ Qipchaq Steppe. As I mentioned earlier, the Tatar Cossack groups were
 later joined and supplanted by East Slavic adventurers and fugitives
 from Poland-Lithuania and Muscovy.
 
+
+<figure class="figure">
+  <img src="/assets/images/publications/lee/Unknown_painter_-_Zaporozhian_Cossack_from_Crimea_(Cossack_Mamai)_-_Google_Art_Project 1.jpg" class="figure img-thumbnail rounded" alt="A Zaporozhian Cossack from Crimea (CossackMamay)." height="auto" width="100%">
+  <figcaption class="figure-caption">A Zaporozhian Cossack from Crimea (CossackMamay). Cossack Mamay is a legendary hero in Ukrainian folklore. Painting by an unknown folk painter, late 18th–early 19th century. Kyiv, National Center of Folk Culture “Ivan Honchar Museum.”
+</figcaption>
+</figure>
+
 In short, the Kazakhs, the Shibanid Uzbeks, and the earliest generations
 of Cossacks were virtually one and the same people. They were all
 Turkic-speaking nomads from the Jochid *ulus* (Golden Horde) and the
@@ -278,6 +291,12 @@ If the Soviet Union had not created the new Uzbek nation in 1924, the
 Kazakhs and Uzbeks would have been much closer to each other ethnically
 than they are now. The Tajiks and Sarts would also have formed a much
 larger group than they currently comprise.
+
+<figure class="figure">
+  <img src="/assets/images/publications/lee/image1.JPG" class="figure img-thumbnail rounded" alt="A Persian miniature painting." height="auto" width="100%">
+  <figcaption class="figure-caption">A Persian miniature painting. Portrait probably of a Qazaq khan. The inscription identifies him as a “Tatar Khan Padishah of the Qipchaq Steppe (Tātār Khān pādshāh-i Dasht-i Qīpchāq).” Calligraphy on verso. 1550 (circa). © The Trustees of the British Museum.
+</figcaption>
+</figure>
 
 **Many Kazakhs identify with different historical groups, from the
 Scythians to the Mongols. Anthropologically, Kazakhs range from
@@ -337,6 +356,12 @@ for the past seventeen years. As a Korean, I feel that Kazakhstan and
 Korea have a lot in common in that we both experienced rapid economic
 development and democratization. I hope we will deepen our strategic
 partnership.
+
+
+<figure class="figure">
+  <img src="/assets/images/publications/lee/almaty-store.jpg" class="figure img-thumbnail rounded" alt="Author near a bookstore in Almaty." height="auto" width="100%">
+  <figcaption class="figure-caption">Author near a bookstore in Almaty.</figcaption>
+</figure>
 
 I visited Kazakhstan for about a month in 2010 after receiving a
 research travel grant from the University of Toronto. While staying in
