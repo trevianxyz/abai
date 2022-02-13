@@ -117,6 +117,15 @@ of the Ukrainian Cossack Hetmanate, but also contributed to the eventual
 consolidation of a separate Ukrainian identity distinct from the Russian
 one.
 
+<figure class="figure">
+  <img src="/assets/images/publications/lee/Alash Khan mausoleum.JPG" class="figure img-thumbnail rounded" alt="The mausoleum of Alash Khan." height="auto" width="100%">
+  <figcaption class="figure-caption">The mausoleum of Alash Khan, the legendary founder of the
+Qazaq people. This monument is located in central Kazakhstan near the
+city of Zhezkazgan. Photo by Maxim Khil.
+</figcaption>
+</figure>
+
+
 As you can see, my book deals with two different themes: the *qazaqlïq*
 phenomenon and the formation of the Kazakhs. Combining these two themes
 was not my own idea, but the suggestion of my co-supervisors, Professor
