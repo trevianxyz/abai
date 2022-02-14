@@ -20,7 +20,12 @@ contents:
     format: image
     id: mcdaniel
   - title: "Kazakh Intelligentsia and Russian Rule on the Steppe with Ian W Campbell"
-    src: "assets/images/ac_series/COVER Ian Campbell.jpg"
+    src: "assets/images/ac_series/COVER-Ian-Campbell.jpg"
     href:  "https://youtu.be/tDLyUsDfufI"
     format: image
     id: campbell
+  - title: "Kazakh Nomadism with Anatoly Khazanov"
+    src: "assets/images/ac_series/COVER Anatoly Khazanov-2.jpg"
+    href: "https://vimeo.com/677187536"
+    format: image
+    id: khazanov
