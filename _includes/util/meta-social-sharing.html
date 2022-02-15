@@ -38,11 +38,21 @@
 
     <meta property="og:url" content="{{ site.url | append: post.permalink }}" />
     <meta name="twitter:card" content="summary_large_image">
-    <meta property="og:image" content= "{{ post.image }}" />
-    <meta name="twitter:image" content= "{{ post.image }}">
-    <meta name="twitter:title" content="{{ post.title }}">
-    <meta name="og:title" content="{{ post.title }}">
-    <meta property="og:type" content="article" />
+    {% if post.image == "" %}
+    <meta property="og:image" content="{{ site.site_image }}" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ site.site_image }}">
+    {% else %}
+        {% if post.image contains "http" %}
+        <meta property="og:image" content= "{{ post.image }}" />
+        <meta name="twitter:image" content= "{{ post.image }}">
+        <meta name="twitter:card" content="summary_large_image">
+        {% else %}
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content= "{{ site.url | append: post.image }}">
+        <meta property="og:image" content= "{{ site.url | append: post.image }}" />
+        {% endif %}
+    {% endif %}
 
         {% if post.descrip == "" %}
         <meta property="og:description" content="{{ site.description }}" />
@@ -51,21 +61,14 @@
         <meta name="twitter:description" content="{{ post.descrip }}">
         <meta name="og:description" content="{{ post.descrip }}">
         {% endif %}
-        {% if post.image == "" %}
-        <meta property="og:image" content="{{ site.site_image }}" />
-        <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content="{{ site.site_image }}">
-        {% else %}
-            {% if post.image contains "http" %}
-            <meta property="og:image" content= "{{ post.image }}" />
-            <meta name="twitter:image" content= "{{ post.image }}">
-            <meta name="twitter:card" content="summary_large_image">
-            {% else %}
-            <meta name="twitter:card" content="summary_large_image">
-            <meta name="twitter:image" content= "{{ site.url | append: post.image }}">
-            <meta property="og:image" content= "{{ site.url | append: post.image }}" />
-            {% endif %}
-        {% endif %}
+
+{% else %}
+        <meta property="og:image" content= "{{ post.image }}" />
+        <meta name="twitter:image" content= "{{ post.image }}">
+        <meta name="twitter:title" content="{{ post.title }}">
+        <meta name="og:title" content="{{ post.title }}">
+        <meta property="og:type" content="article" /> 
+
 {% endif %}
 
 
