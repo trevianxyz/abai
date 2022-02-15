@@ -55,7 +55,7 @@
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:image" content="{{ site.site_image }}">
         {% else %}
-            {% if papostge.image contains "http" %}
+            {% if post.image contains "http" %}
             <meta property="og:image" content= "{{ post.image }}" />
             <meta name="twitter:image" content= "{{ post.image }}">
             <meta name="twitter:card" content="summary_large_image">
