@@ -34,7 +34,8 @@
             {% endif %}
         {% endif %}
 
-{% else %}
+{% elsif page.layout == "post" %}
+
     <meta property="og:url" content="{{ site.url | append: post.permalink }}" />
     <meta name="twitter:card" content="summary_large_image">
     <meta property="og:image" content= "{{ post.image }}" />
