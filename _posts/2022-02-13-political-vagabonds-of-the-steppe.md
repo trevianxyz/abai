@@ -9,7 +9,7 @@ date: 2022-02-13
 descrip: "A Conversation About Qazaqlïq with Dr. Joo-Yup Lee."
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
-image: "/assets/images/publications/lee/sunset-lee.jpg"
+image: "assets/images/publications/lee/sunset-lee.jpg"
 bigtitle_img: "/assets/images/publications/lee/sunset-lee.jpg" # for opengraph
 carousel_img: "/assets/images/publications/lee/sunset-lee.jpg" # for carousel
 no-carousel-fades: false
