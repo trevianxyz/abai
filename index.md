@@ -12,7 +12,7 @@ frequent_info:
     icon: far fa-flag fa-2x
     button:
       text: Go to Page
-      href: /about-the-embassy/ambassador-kazykhanov 
+      href: 
 ---
 
 <!--{% include collapsetabs.html %}-->

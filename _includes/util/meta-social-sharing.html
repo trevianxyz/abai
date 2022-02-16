@@ -45,13 +45,13 @@
     <meta name="twitter:image" content="{{ site.site_image }}">
     {% else %}
         {% if post.image contains "http" %}
-        <meta property="og:image" content= "{{ post.image }}" />
-        <meta name="twitter:image" content= "{{ post.image }}">
+        <meta property="og:image" content= "{{ post.image.url }}" />
+        <meta name="twitter:image" content= "{{ post.image.url }}">
         <meta name="twitter:card" content="summary_large_image">
         {% else %}
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content= "{{ site.url | append: post.image }}">
-        <meta property="og:image" content= "{{ site.url | append: post.image }}" />
+        <meta name="twitter:image" content= "{{ site.url | append: post.image.url }}">
+        <meta property="og:image" content= "{{ site.url | append: post.image.url }}" />
         {% endif %}
     {% endif %}
 
