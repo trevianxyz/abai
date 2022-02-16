@@ -9,7 +9,7 @@ date: 2022-02-13
 descrip: "A Conversation About Qazaqlïq with Dr. Joo-Yup Lee."
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: true
-image: "/assets/images/publications/lee/Unknown_painter_-_Zaporozhian_Cossack.jpg"
+image: "/assets/images/publications/lee/Zaporozhian_Cossack.jpg"
 bigtitle_img: "/assets/images/publications/lee/sunset-lee.jpg" # for opengraph
 carousel_img: "/assets/images/publications/lee/sunset-lee.jpg" # for carousel
 no-carousel-fades: false
@@ -253,7 +253,7 @@ from Poland-Lithuania and Muscovy.
 
 
 <figure class="figure">
-  <img src="/Unknown_painter_-_Zaporozhian_Cossack" class="figure img-thumbnail rounded" alt="A Zaporozhian Cossack from Crimea (CossackMamay)." height="auto" width="100%">
+  <img src="/assets/images/publications/lee/Zaporozhian_Cossack.jpg" class="figure img-thumbnail rounded" alt="A Zaporozhian Cossack from Crimea (CossackMamay)." height="auto" width="100%">
   <figcaption class="figure-caption">A Zaporozhian Cossack from Crimea (CossackMamay). Cossack Mamay is a legendary hero in Ukrainian folklore. Painting by an unknown folk painter, late 18th–early 19th century. Kyiv, National Center of Folk Culture “Ivan Honchar Museum.”
 </figcaption>
 </figure>
