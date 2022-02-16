@@ -1,75 +1,65 @@
-
+{% if page.layout == "page" %}
 <meta name="twitter:site" content="@abaicenter" />
 <meta name="fb:app_id" content="525131541515282" />
 <meta name="og:type" content="article" />
-
-{% if page.layout == "page" %}
 <meta property="og:url" content="{{ site.url | append: page.permalink }}" />
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@abaicenter" />
+<meta property="og:title" content="{{ page.title }}">
 <meta name="twitter:title" content="{{ page.title }}">
-<meta name="og:title" content="{{ page.title }}">
 
         {% if page.descrip == "" %}
         <meta property="og:description" content="{{ site.description }}" />
         <meta name="twitter:description" content="{{ site.description }}">
         {% else %}
         <meta name="twitter:description" content="{{ page.descrip }}">
-        <meta name="og:description" content="{{ page.descrip }}">
+        <meta property="og:description" content="{{ page.descrip }}">
         {% endif %}
 
         {% if page.image == "" %}
         <meta property="og:image" content="{{ site.site_image }}" />
-        <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:image" content="{{ site.site_image }}">
         {% else %}
             {% if page.image contains "http" %}
             <meta property="og:image" content= "{{ page.image }}" />
             <meta name="twitter:image" content= "{{ page.image }}">
-            <meta name="twitter:card" content="summary_large_image">
+            <meta name="twitter:card" content="summary_large_image"></meta>
+
             {% else %}
-            <meta name="twitter:card" content="summary_large_image">
             <meta name="twitter:image" content= "{{ site.url | append: page.image }}">
             <meta property="og:image" content= "{{ site.url | append: page.image }}" />
+            <meta name="twitter:card" content="summary_large_image"></meta>
             {% endif %}
         {% endif %}
+{% endif %}
 
-{% elsif page.layout == "post" %}
-
-    <meta property="og:url" content="{{ site.url | append: post.permalink }}" />
-    <meta name="twitter:card" content="summary_large_image">
-
-    {% if post.image == "" %}
-    <meta property="og:image" content="{{ site.site_image }}" />
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="{{ site.site_image }}">
-    {% else %}
-        {% if post.image contains "http" %}
-        <meta property="og:image" content= "{{ post.image.url }}" />
-        <meta name="twitter:image" content= "{{ post.image.url }}">
-        <meta name="twitter:card" content="summary_large_image">
-        {% else %}
-        <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content= "{{ site.url | append: post.image.url }}">
-        <meta property="og:image" content= "{{ site.url | append: post.image.url }}" />
-        {% endif %}
-    {% endif %}
+{% if page.layout == "post" %}
+        <meta name="twitter:site" content="@abaicenter" />
+        <meta name="fb:app_id" content="525131541515282" />
+        <meta name="og:type" content="article" />
+        <meta property="og:url" content="{{ site.url | append: post.permalink }}" />
+        <meta property="og:title" content="{{ post.title }}">
+        <meta name="twitter:title" content="{{ post.title }}">
 
         {% if post.descrip == "" %}
         <meta property="og:description" content="{{ site.description }}" />
         <meta name="twitter:description" content="{{ site.description }}">
         {% else %}
         <meta name="twitter:description" content="{{ post.descrip }}">
-        <meta name="og:description" content="{{ post.descrip }}">
+        <meta property="og:description" content="{{ post.descrip }}">
         {% endif %}
 
-{% else %}
-        <meta property="og:image" content= "{{ page.image }}" />
-        <meta name="twitter:image" content= "{{ page.image }}">
-        <meta name="twitter:title" content="{{ page.title }}">
-        <meta name="og:title" content="{{ page.title }}">
-        <meta property="og:type" content="article" />
-
-{% endif %}
-
+        {% if post.image == "" %}
+            <meta property="og:image" content="{{ site.site_image }}" />
+            <meta name="twitter:image" content="{{ site.site_image }}">
+            {% else %}
+                {% if post.image contains "http" %}
+                <meta property="og:image" content= "{{ post.image }}" />
+                <meta name="twitter:image" content= "{{ post.image }}">
+                <meta name="twitter:card" content="summary_large_image"></meta>
+                {% else %}
+                <meta name="twitter:image" content= "{{ site.url | append: post.image }}">
+                <meta property="og:image" content= "{{ site.url | append: post.image }}" />
+                <meta name="twitter:card" content="summary_large_image"></meta>
+                {% endif %}
+        {% endif %}
+    {% endif %}
 
