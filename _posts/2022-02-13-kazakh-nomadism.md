@@ -5,7 +5,7 @@ title: "Kazakh Nomadism with Anatoly Khazanov"
 author: "Anatoly Khazanov"
 author_img:
 author_bio:
-date: 2022-02-12
+date: 2022-02-13
 descrip: "Kazakh Nomadism with Anatoly Khazanov" # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: false
