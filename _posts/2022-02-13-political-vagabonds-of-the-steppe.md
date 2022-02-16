@@ -1,6 +1,6 @@
 ---
 permalink: /political-vagabonds-of-the-steppe
-layout: post
+layout: page
 title: "Political Vagabonds of the Steppe and their Influence on Modern Eurasia"
 author: "Dr. Joo-Yup Lee"
 author_img: "/assets/images/publications/lee/drlee-lecture.jpg"
