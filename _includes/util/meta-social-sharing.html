@@ -38,6 +38,7 @@
 
     <meta property="og:url" content="{{ site.url | append: post.permalink }}" />
     <meta name="twitter:card" content="summary_large_image">
+
     {% if post.image == "" %}
     <meta property="og:image" content="{{ site.site_image }}" />
     <meta name="twitter:card" content="summary_large_image">
@@ -63,10 +64,10 @@
         {% endif %}
 
 {% else %}
-        <meta property="og:image" content= "{{ post.image }}" />
-        <meta name="twitter:image" content= "{{ post.image }}">
-        <meta name="twitter:title" content="{{ post.title }}">
-        <meta name="og:title" content="{{ post.title }}">
+        <meta property="og:image" content= "{{ page.image }}" />
+        <meta name="twitter:image" content= "{{ page.image }}">
+        <meta name="twitter:title" content="{{ page.title }}">
+        <meta name="og:title" content="{{ page.title }}">
         <meta property="og:type" content="article" />
 
 {% endif %}
