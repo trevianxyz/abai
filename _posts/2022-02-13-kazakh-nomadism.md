@@ -9,8 +9,8 @@ date: 2022-02-13
 descrip: "Kazakh Nomadism with Anatoly Khazanov" # for opengraph and carousel
 noshow_img: true # i don't know what this is and i'm scared of it
 bigtitle: false
-image: "assets/images/ac_series/COVER Anatoly Khazanov-2.jpg"
-bigtitle_img: "assets/images/ac_series/COVER Anatoly Khazanov-2.jpg" # for opengraph
+image: "/assets/images/ac_series/COVER Anatoly Khazanov-2.jpg"
+bigtitle_img: "/assets/images/ac_series/COVER Anatoly Khazanov-2.jpg" # for opengraph
 carousel_img: "assets/images/ac_series/COVER Anatoly Khazanov-2.jpg" # for carousel
 no-carousel-fades: true
 western-eyes: false # to add to western eyes list, edit `_data/eyes.yml`
