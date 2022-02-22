@@ -1,6 +1,6 @@
 ---
 permalink: '/Kazakh-Nomadism'
-layout: post
+layout: page
 title: "Kazakh Nomadism with Anatoly Khazanov"
 author: "Anatoly Khazanov"
 author_img:
